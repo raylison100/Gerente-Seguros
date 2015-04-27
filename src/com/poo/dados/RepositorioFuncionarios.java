@@ -44,7 +44,7 @@ public class RepositorioFuncionarios implements IRepositorio, Serializable{
 	private static RepositorioFuncionarios abrirArquivo() throws IOException {
 
 		RepositorioFuncionarios instanciaLocal = null;
-		File in = new File("cadastroFuncionarios.bin");
+		File in = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS\\cadastroFuncionarios.bin");
 		FileInputStream fis = null;
 		ObjectInputStream ois = null;
 		try {
@@ -75,7 +75,10 @@ public class RepositorioFuncionarios implements IRepositorio, Serializable{
 		if (instanceF == null) {
 			return;
 		}
-		File out = new File("cadastroFuncionaios.bin");
+		
+		File dir = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS");
+		dir.mkdirs();
+		File out = new File(dir,"cadastroFuncionaios.bin");
 		
 		if (!out.exists())
 			out.createNewFile();

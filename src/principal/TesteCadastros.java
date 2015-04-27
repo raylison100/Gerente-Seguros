@@ -15,7 +15,9 @@ import com.poo.negocios.beans.Pessoa;
 
 public class TesteCadastros {
 
-	public static void main(String[] agrs) throws IOException, ProcuraPessoaInexistenteExeception, CadatroPessoaExistenteExeception {
+	public static void main(String[] agrs) throws IOException,
+			ProcuraPessoaInexistenteExeception,
+			CadatroPessoaExistenteExeception {
 
 		int escolha;
 		int cont = 0;
@@ -29,13 +31,17 @@ public class TesteCadastros {
 			System.out.println("********  Menu  *********");
 			System.out
 					.printf("1 Cadastra cliente\n2 Exibi clientes\n3 Excluir clientes\n4 Procurar clientes\n5 SAIR");
-			System.out.println();
-			System.out.println();
+			System.out.println("\n");
+
 			escolha = ler.nextInt();
 			System.out.println();
 
 			switch (escolha) {
 			case 1:
+
+				Cliente cliente1 = null;
+				Colaboradores cliente2 = null;
+				Cliente cliente3 = null;
 
 				try {
 					Endereco endereco1 = new Endereco("sao cristovao",
@@ -51,37 +57,35 @@ public class TesteCadastros {
 					Pessoa pessoa1 = new Pessoa("RAYLISON", "10103566406",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco1);
-					Pessoa pessoa2 = new Pessoa("ELAINE", "10103555607",
+					Pessoa pessoa2 = new Pessoa("ELAINE", "82024732259",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco2);
-					Pessoa pessoa3 = new Pessoa("MARCOS", "10103555607",
+					Pessoa pessoa3 = new Pessoa("MARCOS", "38138643838",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco3);
 
 					// null � o automovel;
 
-					Cliente cliente1 = new Cliente(pessoa1, "12345777",
-							"12\12\12", "13\12\15", "JOGADOR",
-							"MEDIO COMPLETO", null);
-					Colaboradores cliente2 = new Cliente(pessoa2, "12345777",
-							"12\12\12", "13\12\15", "JOGADOR",
-							"MEDIO COMPLETO", null);
-					Cliente cliente3 = new Cliente(pessoa3, "12345777",
-							"12\12\12", "13\12\15", "JOGADOR",
-							"MEDIO COMPLETO", null);
+					cliente1 = new Cliente(pessoa1, "12345777", "12\12\12",
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
+					cliente2 = new Cliente(pessoa2, "12345777", "12\12\12",
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
+					cliente3 = new Cliente(pessoa3, "12345777", "12\12\12",
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
 
 					fachada.cadatrarCliente(cliente1);
 					fachada.cadatrarCliente(cliente2);
 					fachada.cadatrarCliente(cliente3);
 
-					System.out.println("CADASTRO COM SUUCESSO");
+					System.out.println("CADASTRO COM SUCESSO");
 
 				} catch (CadatroPessoaExistenteExeception cpe) {
 
 					System.out.println(cpe.getMessage());
 				} catch (ProcuraPessoaInexistenteExeception ppi) {
 
-					System.out.println(ppi.getMessage());
+					ppi.getMessage();
+
 				} catch (CPFInvalidoExeception cpfi) {
 					System.out.println(cpfi.getMessage());
 				}

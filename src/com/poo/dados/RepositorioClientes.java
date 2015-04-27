@@ -45,7 +45,7 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 	private static RepositorioClientes abrirArquivo() throws IOException {
 
 		RepositorioClientes instanciaLocal = null;
-		File in = new File("ARQUIVOS\\CADATROS CLIENTES\\cadastroclientes.dat");
+		File in = new File("ARQUIVOS\\CADASTRO CLIENTES\\cadastroclientes.bin");
 		FileInputStream fis = null;
 		ObjectInputStream ois = null;
 		try {
@@ -77,11 +77,15 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 			return;
 		}
 
-		File out = new File("ARQUIVOS\\CADATROS CLIENTES\\cadastroclientes.dat");
+		File dir = new File("ARQUIVOS\\CADASTRO CLIENTES");
+		dir.mkdirs();
+		File out = new File(dir,"cadastroclientes.bin");
         
-		if (!out.exists())
+		if (!out.exists()){
+			
 			out.createNewFile();
-
+        }
+		
 		FileOutputStream fos = null;
 		ObjectOutputStream oos = null;
 
@@ -162,7 +166,7 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 
 	}
 
-	private int procurarIndice(String nome) throws ProcuraPessoaInexistenteExeception  {
+	private int procurarIndice(String nome){
 
 		int i = 0;
 		boolean achou = false;
@@ -180,8 +184,8 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 		}
 	
 		if(i == this.proxima)
-			throw new ProcuraPessoaInexistenteExeception(nome);
-	 return i;
+			return i;
+		return i;
 	}
 
 	private void duplicaArrayCliente() {
