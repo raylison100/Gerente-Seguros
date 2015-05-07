@@ -2,7 +2,9 @@ package com.poo.negocios.beans;
 
 import java.io.Serializable;
 
-public class Cliente extends Colaboradores implements Serializable {
+import com.poo.execoes.CPFInvalidoExeception;
+
+public class Cliente extends Pessoa implements Serializable {
 
 	// atributos
 
@@ -11,17 +13,22 @@ public class Cliente extends Colaboradores implements Serializable {
 	private String vencHab;
 	private String profissao;
 	private String escolaridade;
-	private Automoveis automovel;
-	private Contratos contrato;
+	private Automovel automovel;
+	private Contrato contrato;
 	private static int numeroDeClientes = 1;
 
 	// construtor
 
-	public Cliente(Pessoa pessoa, String cnh, String datPrimeiraHab,
+	public Cliente(String nome, String cpf, String rg, String datEmissao,
+			String orgaoEmissao, String sexo, String telefone,
+			String estadoCivil, Endereco endereco,String cnh, String datPrimeiraHab,
 			String vencHab, String profissao, String escolaridade,
-			Automoveis automovel) {
+			Automovel automovel) throws CPFInvalidoExeception {
 
-		super(pessoa);
+		
+		super(nome, cpf, rg,  datEmissao,
+				 orgaoEmissao,  sexo,  telefone,
+				estadoCivil,  endereco);
 		this.setCnh(cnh);
 		this.setDatPrimeiraHab(datPrimeiraHab);
 		this.setVencHab(vencHab);
@@ -31,13 +38,8 @@ public class Cliente extends Colaboradores implements Serializable {
 		numeroDeClientes = numeroDeClientes + 1;
 	}
 
-	public Cliente(String senhas) {
-
-		this.senha = senhas;
-
-	}
-
-	public Cliente(Contratos contrato) {
+	
+	public Cliente(Contrato contrato) {
 
 		this.setContrato(contrato);
 
@@ -96,27 +98,27 @@ public class Cliente extends Colaboradores implements Serializable {
 		return numeroDeClientes;
 	}
 
-	public Contratos getContrato() {
+	public Contrato getContrato() {
 		return contrato;
 	}
 
-	public void setContrato(Contratos contrato) {
+	public void setContrato(Contrato contrato) {
 		if (contrato != null)
 			this.contrato = contrato;
 	}
 
-	public Automoveis getAutomovel() {
+	public Automovel getAutomovel() {
 		return automovel;
 	}
 
-	public void setAutomovel(Automoveis automovel) {
+	public void setAutomovel(Automovel automovel) {
 		if (automovel != null)
 			this.automovel = automovel;
 	}
 
 	@Override
 	public String toString() {
-		return pessoa + "\nCNH: " + cnh + " \nDATA DA PRIMEIRA HABILITACAO: "
+		return  super.toString() + "\nCNH: " + cnh + " \nDATA DA PRIMEIRA HABILITACAO: "
 				+ datPrimeiraHab + "  VENCIMENTO DA HABILITCAO: " + vencHab
 				+ "\nPROFISSAO: " + profissao + "  ESCOLARIDADE: "
 				+ escolaridade + "\nVeiculo:" + automovel + contrato

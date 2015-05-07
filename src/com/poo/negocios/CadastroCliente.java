@@ -5,11 +5,11 @@ package com.poo.negocios;
 import java.io.IOException;
 
 import com.poo.dados.IRepositorio;
-import com.poo.dados.RepositorioClientes;
+import com.poo.dados.RepositorioCliente;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.beans.Cliente;
-import com.poo.negocios.beans.Colaboradores;
+import com.poo.negocios.beans.Pessoa;
 
 public class CadastroCliente {
 
@@ -18,7 +18,7 @@ public class CadastroCliente {
 	public CadastroCliente() {
 		
 		try {
-			this.repositorio= RepositorioClientes.getInstance();
+			this.repositorio= RepositorioCliente.getInstance();
 		} catch (IOException e) {
 			
 			e.printStackTrace();
@@ -27,7 +27,7 @@ public class CadastroCliente {
 	}
 	
 	
-	public void cadatrar (Colaboradores c) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
+	public void cadatrar (Pessoa c) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
 			
 	    this.repositorio.cadastra(c); 
 		

@@ -5,14 +5,14 @@ public class ConsultaTabelaFipe {
 
 	//atributos
 	
-	private Automoveis automovel;
+	private Automovel automovel;
 	private float  precoMedio;
 	private String dataConsultaTabela;
 	private String anoAtual;
 	
 	//construtor
 	
-	public ConsultaTabelaFipe(Automoveis automovel){
+	public ConsultaTabelaFipe(Automovel automovel){
 		
 		this.setAutomovel(automovel);
 		
@@ -20,11 +20,11 @@ public class ConsultaTabelaFipe {
 
 	//metodos
 	
-	public Automoveis getAutomovel() {
+	public Automovel getAutomovel() {
 		return automovel;
 	}
 
-	public void setAutomovel(Automoveis automovel) {
+	public void setAutomovel(Automovel automovel) {
 		this.automovel = automovel;
 	}
 

@@ -2,7 +2,7 @@ package com.poo.negocios.beans;
 
 import java.io.Serializable;
 
-public class Contratos implements Serializable {
+public class Contrato implements Serializable {
 
 	// atributos
 
@@ -21,7 +21,7 @@ public class Contratos implements Serializable {
 
 	// fazer o calculo da data final com base na data de inicio e na duracao
 	// *obs modificar depois
-	public Contratos(String dataInicial, String dataFinal, String duracao,
+	public Contrato(String dataInicial, String dataFinal, String duracao,
 			float valor, String anotatoes) {
 
 		this.setDataInicial(dataInicial);

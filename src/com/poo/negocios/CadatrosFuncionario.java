@@ -3,19 +3,19 @@ package com.poo.negocios;
 import java.io.IOException;
 
 import com.poo.dados.IRepositorio;
-import com.poo.dados.RepositorioFuncionarios;
+import com.poo.dados.RepositorioFuncionario;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
-import com.poo.negocios.beans.Colaboradores;
+import com.poo.negocios.beans.Pessoa;
 
-public class CadatrosFuncionarios {
+public class CadatrosFuncionario {
 
 	private IRepositorio repositorio;
 
-	public CadatrosFuncionarios() {
+	public CadatrosFuncionario() {
 
 		try {
-			this.repositorio = RepositorioFuncionarios.getInstance();
+			this.repositorio = RepositorioFuncionario.getInstance();
 		} catch (IOException e) {
 
 			e.printStackTrace();
@@ -23,7 +23,7 @@ public class CadatrosFuncionarios {
 
 	}
 
-	public void cadatrar(Colaboradores f) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception {
+	public void cadatrar(Pessoa f) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception {
 
 		this.repositorio.cadastra(f);
 
@@ -40,9 +40,9 @@ public class CadatrosFuncionarios {
 		repositorio.imprimi();
 	}
 
-	public Colaboradores acharFuncionario(String nome) throws ProcuraPessoaInexistenteExeception {
+	public Pessoa acharFuncionario(String nome) throws ProcuraPessoaInexistenteExeception {
 
-		Colaboradores c = this.repositorio.procurar(nome);
+		Pessoa c = this.repositorio.procurar(nome);
 		return c;
 	}
 

@@ -2,7 +2,7 @@ package com.poo.negocios.beans;
 
 import java.io.Serializable;
 
-public class Automoveis implements Serializable {
+public class Automovel implements Serializable {
 	
 	//atributos
 	
@@ -13,7 +13,7 @@ public class Automoveis implements Serializable {
 	
 	//construtor
 	
-	public Automoveis(String marca, String modelo, String anoModelo,
+	public Automovel(String marca, String modelo, String anoModelo,
 			String vercao) {
 		
 		this.setMarca(marca);

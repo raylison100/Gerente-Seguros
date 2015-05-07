@@ -9,11 +9,10 @@ import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.GerenciadorFachada;
 import com.poo.negocios.IGerenciador;
 import com.poo.negocios.beans.Cliente;
-import com.poo.negocios.beans.Colaboradores;
-import com.poo.negocios.beans.Endereco;
 import com.poo.negocios.beans.Pessoa;
+import com.poo.negocios.beans.Endereco;
 
-public class TesteCadastros {
+public class TesteCadastro {
 
 	public static void main(String[] agrs) throws IOException,
 			ProcuraPessoaInexistenteExeception,
@@ -40,7 +39,7 @@ public class TesteCadastros {
 			case 1:
 
 				Cliente cliente1 = null;
-				Colaboradores cliente2 = null;
+				Pessoa cliente2 = null;
 				Cliente cliente3 = null;
 
 				try {
@@ -54,23 +53,22 @@ public class TesteCadastros {
 							"torroes", "50440280", "242", "b", "recife",
 							"pernambuco");
 
-					Pessoa pessoa1 = new Pessoa("RAYLISON", "10103566406",
-							"8123321", "12\12\12", "SDS", "MASCULINO",
-							"8188458982", "SOLTEIRO", endereco1);
-					Pessoa pessoa2 = new Pessoa("ELAINE", "82024732259",
-							"8123321", "12\12\12", "SDS", "MASCULINO",
-							"8188458982", "SOLTEIRO", endereco2);
-					Pessoa pessoa3 = new Pessoa("MARCOS", "38138643838",
-							"8123321", "12\12\12", "SDS", "MASCULINO",
-							"8188458982", "SOLTEIRO", endereco3);
+		
+				
 
 					// null � o automovel;
 
-					cliente1 = new Cliente(pessoa1, "12345777", "12\12\12",
+					cliente1 = new Cliente( "RAYLISON", "10103566406",
+							"8123321", "12\12\12", "SDS", "MASCULINO",
+							"8188458982", "SOLTEIRO", endereco1,"12345777", "12\12\12",
 							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
-					cliente2 = new Cliente(pessoa2, "12345777", "12\12\12",
+					cliente2 = new Cliente( "ELAINE", "82024732259",
+							"8123321", "12\12\12", "SDS", "MASCULINO",
+							"8188458982", "SOLTEIRO", endereco2,"12345777", "12\12\12",
 							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
-					cliente3 = new Cliente(pessoa3, "12345777", "12\12\12",
+					cliente3 = new Cliente("MARCOS", "38138643838",
+							"8123321", "12\12\12", "SDS", "MASCULINO",
+							"8188458982", "SOLTEIRO", endereco3,"12345777", "12\12\12",
 							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
 
 					fachada.cadatrarCliente(cliente1);

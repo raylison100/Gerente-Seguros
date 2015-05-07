@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 
 
-public class Funcionarios extends Colaboradores implements Serializable{
+public class Funcionario extends Pessoa implements Serializable{
 
 	// atributos
 
@@ -14,19 +14,14 @@ public class Funcionarios extends Colaboradores implements Serializable{
 
 	// construtor
 
-	public Funcionarios(Pessoa pessoa, String cargo) {
-		super(pessoa);
+	public Funcionario(String cargo) {
+		
 		this.setCargo(cargo);
 		numeroFuncionarios = numeroFuncionarios + 1;
 		
 	}
 	
-	public Funcionarios(String senha){
-		
-		this.cadatraSenha(senha);
-		
-	}
-
+	
 	// metodos
 
 	
@@ -48,7 +43,7 @@ public class Funcionarios extends Colaboradores implements Serializable{
 
 	@Override
 	public String toString() {
-		return  pessoa + "Cargo" + cargo;
+		return  this.toString() + "Cargo" + cargo;
 	}
 
 	

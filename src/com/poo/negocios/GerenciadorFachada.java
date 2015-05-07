@@ -6,13 +6,13 @@ import java.io.IOException;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.beans.Cliente;
-import com.poo.negocios.beans.Colaboradores;
+import com.poo.negocios.beans.Pessoa;
 
 
 public class GerenciadorFachada implements IGerenciador{
 
 	private CadastroCliente cliente = new CadastroCliente();
-	private CadatrosFuncionarios funcionarios =  new CadatrosFuncionarios();
+	private CadatrosFuncionario funcionarios =  new CadatrosFuncionario();
 	
 	private static IGerenciador instance;
 	
@@ -28,13 +28,13 @@ public class GerenciadorFachada implements IGerenciador{
     }
 	
 	
-	public void cadatrarCliente(Colaboradores c) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
+	public void cadatrarCliente(Pessoa c) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
 		
 		this.cliente.cadatrar(c);
 		
 	}
 	
-	public void cadatrarFuncionario(Colaboradores f) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
+	public void cadatrarFuncionario(Pessoa f) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception{
 		
 		this.funcionarios.cadatrar(f);
 		
@@ -65,16 +65,16 @@ public class GerenciadorFachada implements IGerenciador{
 	}
 	
 	
-	public Colaboradores pesquisarCliente(String nome) throws ProcuraPessoaInexistenteExeception{
+	public Pessoa pesquisarCliente(String nome) throws ProcuraPessoaInexistenteExeception{
 		
-		Colaboradores c = this.cliente.acharCliente(nome);
+		Pessoa c = this.cliente.acharCliente(nome);
 		return c;
 		
 	}
 	
-	public Colaboradores pesquisarFuncionario(String nome) throws ProcuraPessoaInexistenteExeception{
+	public Pessoa pesquisarFuncionario(String nome) throws ProcuraPessoaInexistenteExeception{
 		
-		Colaboradores c = this.funcionarios.acharFuncionario(nome);
+		Pessoa c = this.funcionarios.acharFuncionario(nome);
 		return c;
 	}
 	

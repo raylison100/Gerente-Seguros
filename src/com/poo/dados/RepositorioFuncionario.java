@@ -9,26 +9,25 @@ import java.io.ObjectOutputStream;
 
 
 import java.io.Serializable;
-import java.util.concurrent.ThreadPoolExecutor;
 
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.beans.Cliente;
-import com.poo.negocios.beans.Colaboradores;
 import com.poo.negocios.beans.Pessoa;
+import com.poo.negocios.beans.Funcionario;
 
-public class RepositorioClientes implements IRepositorio, Serializable{
+public class RepositorioFuncionario implements IRepositorio, Serializable{
 
 	// atributos
-	private Cliente[] clientes;
+	private Funcionario[] funcionario;
 	private int proxima;
 
-	private static RepositorioClientes instance;
+	private static RepositorioFuncionario instanceF;
 
 	// contrutor
-	private RepositorioClientes(int tamanho) {
+	private RepositorioFuncionario(int tamanho) {
 
-		this.clientes = new Cliente[tamanho];
+		this.funcionario = new Funcionario[tamanho];
 		this.proxima = 0;
 
 	}
@@ -36,26 +35,26 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 	// metodos
 
 	public static IRepositorio getInstance() throws IOException {
-		if (instance == null) {
-			instance = abrirArquivo();
+		if (instanceF == null) {
+			instanceF = abrirArquivo();
 		}
-		return instance;
+		return instanceF;
 	}
 
-	private static RepositorioClientes abrirArquivo() throws IOException {
+	private static RepositorioFuncionario abrirArquivo() throws IOException {
 
-		RepositorioClientes instanciaLocal = null;
-		File in = new File("ARQUIVOS\\CADASTRO CLIENTES\\cadastroclientes.bin");
+		RepositorioFuncionario instanciaLocal = null;
+		File in = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS\\cadastroFuncionarios.bin");
 		FileInputStream fis = null;
 		ObjectInputStream ois = null;
 		try {
 			fis = new FileInputStream(in);
 			ois = new ObjectInputStream(fis);
 			Object o = ois.readObject();
-			instanciaLocal = (RepositorioClientes) o;
+			instanciaLocal = (RepositorioFuncionario) o;
 		} catch (Exception e) {
 			
-			instanciaLocal = new RepositorioClientes(100);
+			instanciaLocal = new RepositorioFuncionario(100);
 			
 		} finally {
 
@@ -73,18 +72,17 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 
 	public static void salvarArquivo() throws IOException {
 
-		if (instance == null) {
+		if (instanceF == null) {
 			return;
 		}
-
-		File dir = new File("ARQUIVOS\\CADASTRO CLIENTES");
+		
+		File dir = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS");
 		dir.mkdirs();
-		File out = new File(dir,"cadastroclientes.bin");
-        
-		if (!out.exists()){
-			
+		File out = new File(dir,"cadastroFuncionaios.bin");
+		
+		if (!out.exists())
 			out.createNewFile();
-        }
+		
 		
 		FileOutputStream fos = null;
 		ObjectOutputStream oos = null;
@@ -92,8 +90,7 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 		try {
 			fos = new FileOutputStream(out);
 			oos = new ObjectOutputStream(fos);
-			oos.writeObject(instance);
-
+			oos.writeObject(instanceF);
 		} catch (Exception e) {
 			
 			e.printStackTrace();
@@ -105,37 +102,41 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 				} catch (IOException e) {/* Silent */
 				}
 			}
+
 		}
 	}
 
-	public void cadastra(Colaboradores c) throws IOException,
+	public void cadastra(Pessoa f) throws IOException,
 			CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception {
 
-		if (c instanceof Cliente) {
-			if (c != null)
-				if (this.existe(c.getPessoa().getNome())) {
+		if (f instanceof Funcionario)
+			if (f != null) {
+				if (this.existe(f.getNome())) {
+					
 					throw new CadatroPessoaExistenteExeception(
-							c.getPessoa().getNome());
+							f.getNome());
 					
 				} else {
-					this.clientes[proxima] = (Cliente) c;
+
+					this.funcionario[proxima] = (Funcionario) f;
 					this.proxima = this.proxima + 1;
 				}
-			if (this.proxima == this.clientes.length) {
+				if (this.proxima == this.funcionario.length) {
 
-				this.duplicaArrayCliente();
+					this.duplicaArrayCliente();
+				}
+				salvarArquivo();
 			}
-			salvarArquivo();
-		}
 	}
 
-	public Cliente procurar(String nome)
-			throws ProcuraPessoaInexistenteExeception {
+	public Funcionario procurar(String nome) throws ProcuraPessoaInexistenteExeception {
 
 		int i = this.procurarIndice(nome);
-		Cliente resultado = null;
-		if (i != this.proxima)
-			resultado = this.clientes[i];
+		Funcionario resultado = null;
+		if (i != this.proxima) 
+
+			resultado = this.funcionario[i];
+
 
 		return resultado;
 
@@ -158,21 +159,24 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 
 		int i = this.procurarIndice(nome);
 		if (i != this.proxima) {
-			this.clientes[i] = this.clientes[this.proxima - 1];
-			this.clientes[this.proxima - 1] = null;
+
+			this.funcionario[i] = this.funcionario[this.proxima - 1];
+			this.funcionario[this.proxima - 1] = null;
 			this.proxima = this.proxima - 1;
-		}
+
+		}	
+		
 		salvarArquivo();
 
 	}
 
-	private int procurarIndice(String nome){
+	private int procurarIndice(String nome) throws ProcuraPessoaInexistenteExeception {
 
 		int i = 0;
 		boolean achou = false;
 
 		while ((!achou) && (i < this.proxima)) {
-			if (nome.equals(this.clientes[i].getPessoa().getNome())) {
+			if (nome.equals(this.funcionario[i].getNome())) {
 
 				achou = true;
 
@@ -182,35 +186,35 @@ public class RepositorioClientes implements IRepositorio, Serializable{
 			}
 
 		}
-	
+
 		if(i == this.proxima)
-			return i;
+			throw new ProcuraPessoaInexistenteExeception(nome);
+		
 		return i;
 	}
 
 	private void duplicaArrayCliente() {
 
-		if (this.clientes != null && this.clientes.length > 0) {
-			Cliente[] arrayDuplicado = new Cliente[this.clientes.length * 2];
-			for (int i = 0; i < this.clientes.length; i++) {
+		if (this.funcionario != null && this.funcionario.length > 0) {
+			Funcionario[] arrayDuplicado = new Funcionario[this.funcionario.length * 2];
+			for (int i = 0; i < this.funcionario.length; i++) {
 
-				arrayDuplicado[i] = this.clientes[i];
+				arrayDuplicado[i] = this.funcionario[i];
 
 			}
 
-			this.clientes = arrayDuplicado;
+			this.funcionario = arrayDuplicado;
 		}
 	}
 
 	public void imprimi() {
 
-		for (Cliente c : clientes) {
+		for (Funcionario f : funcionario) {
 
-			if (c != null)
-				System.out.println(c);
+			if (f != null)
+				System.out.println(f);
 		}
 
 	}
 
 }
-
