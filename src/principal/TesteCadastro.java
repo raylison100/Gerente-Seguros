@@ -8,6 +8,7 @@ import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.GerenciadorFachada;
 import com.poo.negocios.IGerenciador;
+import com.poo.negocios.beans.Automovel;
 import com.poo.negocios.beans.Cliente;
 import com.poo.negocios.beans.Pessoa;
 import com.poo.negocios.beans.Endereco;
@@ -54,22 +55,26 @@ public class TesteCadastro {
 							"pernambuco");
 
 		
-				
-
-					// null � o automovel;
-
+			
+                    Automovel automovel1 = new Automovel("HONDA","CIVIC","2014\\2015","CIVIC HATCH DX");
+                    Automovel automovel2 = new Automovel("FIAT","UNO","2014\\2015","TURBO 1.4 IE2P");
+                    Automovel automovel3 = new Automovel("VOLKWAGEN","GOL","2014\\2015","1.0 PLUS 8V-4P");
+                    
+                    
 					cliente1 = new Cliente( "RAYLISON", "10103566406",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco1,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel1);
 					cliente2 = new Cliente( "ELAINE", "82024732259",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco2,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel2);
 					cliente3 = new Cliente("MARCOS", "38138643838",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco3,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", null);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel3);
+					
+					// contrato = null;
 
 					fachada.cadatrarCliente(cliente1);
 					fachada.cadatrarCliente(cliente2);

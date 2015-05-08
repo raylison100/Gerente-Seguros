@@ -30,7 +30,7 @@ public class Automovel implements Serializable {
 	}
 
 	public void setMarca(String marca) {
-		if((marca != null)&&(marca.length()==0))
+		if(marca != null)
 		this.marca = marca;
 	}
 
@@ -39,7 +39,7 @@ public class Automovel implements Serializable {
 	}
 
 	public void setModelo(String modelo) {
-		if((modelo != null)&&(modelo.length()==0))
+		if(modelo != null)
 		this.modelo = modelo;
 	}
 
@@ -48,7 +48,7 @@ public class Automovel implements Serializable {
 	}
 
 	public void setAnoModelo(String anoModelo) {
-		if((anoModelo != null)&&(anoModelo.length()==0))
+		if(anoModelo != null)
 		this.anoModelo = anoModelo;
 	}
 
@@ -59,15 +59,15 @@ public class Automovel implements Serializable {
 
 
 	public void setVercao(String vercao) {
-		if((vercao != null)&&(vercao.length()==0))
+		if(vercao != null)
 		this.vercao = vercao;
 	}
 
 
 	@Override
 	public String toString() {
-		return "MARCA: " + marca + "  MODELO: " + modelo
-				+ "\n ANO MODELO: " + anoModelo + "\nVERSAO" + vercao + "\n";
+		return "\n\nMARCA: " + marca + "MODELO: " + modelo
+				+ "\nANO MODELO: " + anoModelo + "  VERSAO: " + vercao + "\n";
 	}
 	
 	

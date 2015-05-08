@@ -13,8 +13,8 @@ public class GerenciadorFachada implements IGerenciador{
 
 	private CadastroCliente cliente = new CadastroCliente();
 	private CadatrosFuncionario funcionarios =  new CadatrosFuncionario();
-	
 	private static IGerenciador instance;
+	
 	
 	private GerenciadorFachada() {
 		
