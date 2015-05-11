@@ -1,6 +1,10 @@
 package com.poo.negocios.beans;
 
 import java.io.Serializable;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
 
 public class Contrato implements Serializable {
 
@@ -10,7 +14,10 @@ public class Contrato implements Serializable {
 								// dizer dias restantes para termino do
 								// contrato.
 	private String dataFinal; // somatorio do plano com a data inicial do
-								// contrato.
+							  // contrato.
+	private int numeroCliente;
+	private int numeroContrato;
+	private int categoria;
 	private String duracao;
 	private String anotatoes;
 	private float valor;
@@ -22,17 +29,40 @@ public class Contrato implements Serializable {
 	// fazer o calculo da data final com base na data de inicio e na duracao
 	// *obs modificar depois
 	public Contrato(String dataInicial, String dataFinal, String duracao,
-			float valor, String anotatoes) {
+			float valor, String anotatoes, int categoria, int numeroCliente) {
 
 		this.setDataInicial(dataInicial);
 		this.setDataFinal(dataFinal);
 		this.setDuracao(duracao);
 		this.setValor(valor);
 		this.setAnotatoes(anotatoes);
+		this.setNumeroCliente(numeroCliente);
+		this.setCategoria(categoria);
+		this.setNumeroContrato();
 		numContratosFeitos = numContratosFeitos + 1;
 	}
 
 	// metodos
+
+	public int getCategoria() {
+		return categoria;
+	}
+
+	public void setCategoria(int categoria) {
+		this.categoria = categoria;
+	}
+
+	public int getNumeroCliente() {
+		return numeroCliente;
+	}
+
+	public void setNumeroCliente(int numeroCliente) {
+		this.numeroCliente = numeroCliente;
+	}
+
+	public int getNumeroContrato() {
+		return numeroContrato;
+	}
 
 	public String getDataInicial() {
 		return dataInicial;
@@ -82,7 +112,13 @@ public class Contrato implements Serializable {
 		if (valor < 0)
 			this.valor = valor;
 	}
-
+	
+	private int setNumeroContrato(){
+		SimpleDateFormat anoC = new SimpleDateFormat("yyyy"); 
+		int ano = Integer.valueOf(anoC.format(new Date()));
+		return ano+this.categoria+this.numeroCliente;
+	}
+	
 	@Override
 	public String toString() {
 		return "\nINICIO: " + dataInicial + "  TERMINO: " + dataFinal

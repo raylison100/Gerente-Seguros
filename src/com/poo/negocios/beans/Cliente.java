@@ -40,7 +40,8 @@ public class Cliente extends Pessoa implements Serializable {
 
 	
 	public Cliente(Contrato contrato) {
-
+		
+		
 		this.setContrato(contrato);
 
 	}

@@ -74,7 +74,7 @@ public class TesteCadastro {
 							"8188458982", "SOLTEIRO", endereco3,"12345777", "12\12\12",
 							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel3);
 					
-					// contrato = null;
+					//contrato = new Cliente();
 
 					fachada.cadatrarCliente(cliente1);
 					fachada.cadatrarCliente(cliente2);
