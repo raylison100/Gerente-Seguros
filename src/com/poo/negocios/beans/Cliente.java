@@ -122,8 +122,8 @@ public class Cliente extends Pessoa implements Serializable {
 		return  super.toString() + "\nCNH: " + cnh + " \nDATA DA PRIMEIRA HABILITACAO: "
 				+ datPrimeiraHab + "  VENCIMENTO DA HABILITCAO: " + vencHab
 				+ "\nPROFISSAO: " + profissao + "  ESCOLARIDADE: "
-				+ escolaridade + "\nVeiculo:" + automovel + contrato
-				+ dataCadastro;
+				+ escolaridade + "\nVeiculo:" + automovel + contrato;
+				
 	}
 
 }
