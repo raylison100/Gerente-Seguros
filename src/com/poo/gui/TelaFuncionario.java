@@ -6,16 +6,25 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JLabel;
+
+import java.awt.Container;
 import java.awt.GridBagConstraints;
 import java.awt.Font;
+
 import javax.swing.SwingConstants;
+
 import java.awt.Component;
+
 import javax.swing.JSeparator;
 import javax.swing.UIManager;
+
 import java.awt.Color;
+
+import javax.swing.JFormattedTextField;
 import javax.swing.JTextField;
 import javax.swing.JPasswordField;
 import javax.swing.JButton;
+
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
@@ -73,8 +82,8 @@ public class TelaFuncionario extends JFrame{
 		JButton btnLimpar = new JButton("Limpar");
 		btnLimpar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				passwordField.setText(null);
-				textField.setText(null);
+				passwordField.setText("");
+				textField.setText("");
 			}
 		});
 		btnLimpar.setBounds(357, 191, 89, 23);
@@ -94,6 +103,21 @@ public class TelaFuncionario extends JFrame{
 		
 	}
 */
+	public void limparTodosCampos(Container container) {  
+		Component components[] = container.getComponents();  
+		for (Component component : components) {  
+		    if (component instanceof JFormattedTextField) {  
+		        JFormattedTextField field = (JFormattedTextField) component;  
+		        field.setValue(null);  
+		    } else if (component instanceof JTextField) {  
+		        JTextField field = (JTextField) component;  
+		        field.setText("");  
+		    } else if (component instanceof Container) {  
+		        limparTodosCampos((Container) component);  
+		    }  
+		}
+	}
+	
 	private void setDefaultCloseOperation() {
 		TelaPrincipal tela = new TelaPrincipal();
 		TelaFuncionario.this.setVisible(false);

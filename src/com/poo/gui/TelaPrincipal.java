@@ -26,6 +26,7 @@ public class TelaPrincipal extends JFrame {
 	private JPanel contentPane;
 
 	public TelaPrincipal() {
+		contentPane.setTitle();
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 726, 484);
 		contentPane = new JPanel();
