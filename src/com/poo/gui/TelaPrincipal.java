@@ -25,25 +25,6 @@ public class TelaPrincipal extends JFrame {
 
 	private JPanel contentPane;
 
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					TelaPrincipal frame = new TelaPrincipal();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
-
-	/**
-	 * Create the frame.
-	 */
 	public TelaPrincipal() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 726, 484);
@@ -112,7 +93,10 @@ public class TelaPrincipal extends JFrame {
 		btnSuporte.setBounds(280, 121, 103, 23);
 		btnSuporte.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-			}
+				TelaSuporte tela = new TelaSuporte();
+				tela.setVisible(true);
+				TelaPrincipal.this.setVisible(false);
+				}
 		});
 		panel_2.add(btnSuporte);
 		
@@ -121,6 +105,9 @@ public class TelaPrincipal extends JFrame {
 		btnFuncionario.setFont(new Font("Tahoma", Font.PLAIN, 9));
 		btnFuncionario.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
+				TelaSuporte tela = new TelaSuporte();
+				tela.setVisible(true);
+				TelaPrincipal.this.setVisible(false);
 			}
 		});
 		panel_2.add(btnFuncionario);
