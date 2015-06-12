@@ -64,33 +64,22 @@ public class TelaPrincipal extends JFrame {
 		contentPane.add(panel_1, gbc_panel_1);
 		panel_1.setLayout(null);
 		
-		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		scrollPane.setBounds(10, 5, 690, 326);
-		panel_1.add(scrollPane);
-		
-		JDesktopPane desktopPane = new JDesktopPane();
-		scrollPane.setViewportView(desktopPane);
-		
-		JInternalFrame internalFrame = new JInternalFrame("");
-		internalFrame.setBounds(0, 0, 671, 324);
-		desktopPane.add(internalFrame);
-		internalFrame.getContentPane().setLayout(null);
-		
-		JPanel panel_2 = new JPanel();
-		panel_2.setBounds(0, 0, 655, 294);
-		internalFrame.getContentPane().add(panel_2);
-		panel_2.setLayout(null);
-		
+		this.setResizable(isResizable());
 	
 		
 		JLabel lblBemVindos = new JLabel("BEM VINDOS");
-		lblBemVindos.setBounds(254, 51, 153, 28);
+		lblBemVindos.setBounds(292, 44, 153, 28);
+		panel_1.add(lblBemVindos);
 		lblBemVindos.setFont(new Font("Tahoma", Font.BOLD, 23));
-		panel_2.add(lblBemVindos);
+		
+		JButton btnFuncionario = new JButton("FUNCIONARIO");
+		btnFuncionario.setBounds(314, 101, 111, 23);
+		panel_1.add(btnFuncionario);
+		btnFuncionario.setFont(new Font("Tahoma", Font.PLAIN, 9));
 		
 		JButton btnSuporte = new JButton("SUPORTE");
-		btnSuporte.setBounds(280, 121, 103, 23);
+		btnSuporte.setBounds(314, 146, 111, 23);
+		panel_1.add(btnSuporte);
 		btnSuporte.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				TelaSuporte tela = new TelaSuporte();
@@ -98,11 +87,6 @@ public class TelaPrincipal extends JFrame {
 				TelaPrincipal.this.setVisible(false);
 				}
 		});
-		panel_2.add(btnSuporte);
-		
-		JButton btnFuncionario = new JButton("FUNCIONARIO");
-		btnFuncionario.setBounds(280, 155, 103, 21);
-		btnFuncionario.setFont(new Font("Tahoma", Font.PLAIN, 9));
 		btnFuncionario.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				TelaSuporte tela = new TelaSuporte();
@@ -110,7 +94,5 @@ public class TelaPrincipal extends JFrame {
 				TelaPrincipal.this.setVisible(false);
 			}
 		});
-		panel_2.add(btnFuncionario);
-		internalFrame.setVisible(true);
 	}
 }
