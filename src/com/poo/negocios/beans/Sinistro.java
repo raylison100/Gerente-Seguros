@@ -2,7 +2,7 @@ package com.poo.negocios.beans;
 
 
 
-public class Sinitro {
+public class Sinistro {
 	
 	private String tipo; // parcial ou integral
 	private String causa; // incendio, roubo, colisao, enchente, outros.
@@ -12,19 +12,20 @@ public class Sinitro {
 	private static int  numeroSinistro = 0000;
 	private int sinistroAtual;
 	
+	
 	public static int getNumeroSinistro() {
 		return numeroSinistro;
 	}
 
 	public static void setNumeroSinistro(int numeroSinistro) {
-		Sinitro.numeroSinistro = numeroSinistro;
+		Sinistro.numeroSinistro = numeroSinistro;
 	}
 
 	public int getSinistroAtual() {
 		return sinistroAtual;
 	}
 
-	public Sinitro(String tipo, String causa, Boolean outros, String ocorencia) {
+	public Sinistro(String tipo, String causa, Boolean outros, String ocorencia) {
 		
 	    setTipo(tipo);
 		setCausa(causa);

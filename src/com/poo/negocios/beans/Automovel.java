@@ -10,6 +10,7 @@ public class Automovel implements Serializable {
 	private String modelo;
 	private String anoModelo;
 	private String vercao;
+	private Sinistro sinistro;
 	
 	//construtor
 	
@@ -62,6 +63,16 @@ public class Automovel implements Serializable {
 		if(vercao != null)
 		this.vercao = vercao;
 	}
+	
+	public Sinistro getSinistro() {
+		return sinistro;
+	}
+
+
+	public void setSinistro(Sinistro sinistro) {
+		if(sinistro != null)
+		this.sinistro = sinistro;
+	}
 
 
 	@Override
@@ -69,13 +80,7 @@ public class Automovel implements Serializable {
 		return "\n\nMARCA: " + marca + "MODELO: " + modelo
 				+ "\nANO MODELO: " + anoModelo + "  VERSAO: " + vercao + "\n";
 	}
-	
-	
-	
-	
-		
-	
-	
-	
 
+
+	
 }

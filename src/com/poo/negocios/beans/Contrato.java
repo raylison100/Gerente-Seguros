@@ -21,7 +21,7 @@ public class Contrato implements Serializable {
 	private String duracao;
 	private String anotatoes;
 	private float valor;
-	// private Automoveis veiculo;
+	private Automovel automovel;
 	private static int numContratosFeitos = 1;
 
 	// construtor
@@ -119,6 +119,16 @@ public class Contrato implements Serializable {
 		return ano+this.categoria+this.numeroCliente;
 	}
 	
+	public Automovel getAutomevel() {
+		return automovel;
+	}
+
+	public void setAutomevel(Automovel automovel) {
+		if(automovel != null)
+		this.automovel = automovel;
+	}
+
+	
 	@Override
 	public String toString() {
 		return "\nINICIO: " + dataInicial + "  TERMINO: " + dataFinal
@@ -126,4 +136,5 @@ public class Contrato implements Serializable {
 				+ "\nVALOR" + valor;
 	}
 
+	
 }

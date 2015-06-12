@@ -9,25 +9,27 @@ import java.io.ObjectOutputStream;
 
 
 import java.io.Serializable;
-
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.beans.Cliente;
-import com.poo.negocios.beans.Pessoa;
 import com.poo.negocios.beans.Funcionario;
+import com.poo.negocios.beans.Pessoa;
 
-public class RepositorioFuncionario implements IRepositorio, Serializable{
 
+
+public class RepositorioPessoa implements IRepositorio, Serializable{
+	
+	
 	// atributos
-	private Funcionario[] funcionario;
+	private Pessoa[] pessoa;
 	private int proxima;
 
-	private static RepositorioFuncionario instanceF;
+	private static RepositorioPessoa instance;
 
 	// contrutor
-	private RepositorioFuncionario(int tamanho) {
+	private RepositorioPessoa(int tamanho) {
 
-		this.funcionario = new Funcionario[tamanho];
+		this.pessoa = new Pessoa[tamanho];
 		this.proxima = 0;
 
 	}
@@ -35,26 +37,26 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 	// metodos
 
 	public static IRepositorio getInstance() throws IOException {
-		if (instanceF == null) {
-			instanceF = abrirArquivo();
+		if (instance == null) {
+			instance = abrirArquivo();
 		}
-		return instanceF;
+		return instance;
 	}
 
-	private static RepositorioFuncionario abrirArquivo() throws IOException {
+	private static RepositorioPessoa abrirArquivo() throws IOException {
 
-		RepositorioFuncionario instanciaLocal = null;
-		File in = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS\\cadastroFuncionarios.bin");
+		RepositorioPessoa instanciaLocal = null;
+		File in = new File("ARQUIVOS\\CADASTRO CLIENTES\\cadastroclientes.bin");
 		FileInputStream fis = null;
 		ObjectInputStream ois = null;
 		try {
 			fis = new FileInputStream(in);
 			ois = new ObjectInputStream(fis);
 			Object o = ois.readObject();
-			instanciaLocal = (RepositorioFuncionario) o;
+			instanciaLocal = (RepositorioPessoa) o;
 		} catch (Exception e) {
 			
-			instanciaLocal = new RepositorioFuncionario(100);
+			instanciaLocal = new RepositorioPessoa(100);
 			
 		} finally {
 
@@ -72,17 +74,18 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 
 	public static void salvarArquivo() throws IOException {
 
-		if (instanceF == null) {
+		if (instance == null) {
 			return;
 		}
-		
-		File dir = new File("ARQUIVOS\\CADASTRO FUNCIONARIOS");
+
+		File dir = new File("ARQUIVOS\\CADASTRO CLIENTES");
 		dir.mkdirs();
-		File out = new File(dir,"cadastroFuncionaios.bin");
-		
-		if (!out.exists())
+		File out = new File(dir,"cadastroclientes.bin");
+        
+		if (!out.exists()){
+			
 			out.createNewFile();
-		
+        }
 		
 		FileOutputStream fos = null;
 		ObjectOutputStream oos = null;
@@ -90,7 +93,8 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 		try {
 			fos = new FileOutputStream(out);
 			oos = new ObjectOutputStream(fos);
-			oos.writeObject(instanceF);
+			oos.writeObject(instance);
+
 		} catch (Exception e) {
 			
 			e.printStackTrace();
@@ -102,41 +106,35 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 				} catch (IOException e) {/* Silent */
 				}
 			}
-
 		}
 	}
 
-	public void cadastra(Pessoa f) throws IOException,
+	public void cadastra(Pessoa c) throws IOException,
 			CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception {
 
-		if (f instanceof Funcionario)
-			if (f != null) {
-				if (this.existe(f.getNome())) {
-					
+	    	if (c != null)
+				if (this.existe(c.getNome())) {
 					throw new CadatroPessoaExistenteExeception(
-							f.getNome());
+							c.getNome());
 					
 				} else {
-
-					this.funcionario[proxima] = (Funcionario) f;
+					this.pessoa[proxima] = (Pessoa) c;
 					this.proxima = this.proxima + 1;
 				}
-				if (this.proxima == this.funcionario.length) {
+			if (this.proxima == this.pessoa.length) {
 
-					this.duplicaArrayCliente();
-				}
-				salvarArquivo();
+				this.duplicaArrayCliente();
 			}
+			salvarArquivo();
+		
 	}
 
-	public Funcionario procurar(String nome) throws ProcuraPessoaInexistenteExeception {
+	public Pessoa procurar(String nome)	throws ProcuraPessoaInexistenteExeception {
 
 		int i = this.procurarIndice(nome);
-		Funcionario resultado = null;
-		if (i != this.proxima) 
-
-			resultado = this.funcionario[i];
-
+		Pessoa resultado = null;
+		if (i != this.proxima)
+			resultado = this.pessoa[i];
 
 		return resultado;
 
@@ -159,24 +157,21 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 
 		int i = this.procurarIndice(nome);
 		if (i != this.proxima) {
-
-			this.funcionario[i] = this.funcionario[this.proxima - 1];
-			this.funcionario[this.proxima - 1] = null;
+			this.pessoa[i] = this.pessoa[this.proxima - 1];
+			this.pessoa[this.proxima - 1] = null;
 			this.proxima = this.proxima - 1;
-
-		}	
-		
+		}
 		salvarArquivo();
 
 	}
 
-	private int procurarIndice(String nome) throws ProcuraPessoaInexistenteExeception {
+	private int procurarIndice(String nome){
 
 		int i = 0;
 		boolean achou = false;
 
 		while ((!achou) && (i < this.proxima)) {
-			if (nome.equals(this.funcionario[i].getNome())) {
+			if (nome.equals(this.pessoa[i].getNome())) {
 
 				achou = true;
 
@@ -186,35 +181,44 @@ public class RepositorioFuncionario implements IRepositorio, Serializable{
 			}
 
 		}
-
+	
 		if(i == this.proxima)
-			throw new ProcuraPessoaInexistenteExeception(nome);
-		
+			return i;
 		return i;
 	}
 
 	private void duplicaArrayCliente() {
 
-		if (this.funcionario != null && this.funcionario.length > 0) {
-			Funcionario[] arrayDuplicado = new Funcionario[this.funcionario.length * 2];
-			for (int i = 0; i < this.funcionario.length; i++) {
+		if (this.pessoa != null && this.pessoa.length > 0) {
+			Pessoa[] arrayDuplicado = new Pessoa[this.pessoa.length * 2];
+			for (int i = 0; i < this.pessoa.length; i++) {
 
-				arrayDuplicado[i] = this.funcionario[i];
+				arrayDuplicado[i] = this.pessoa[i];
 
 			}
 
-			this.funcionario = arrayDuplicado;
+			this.pessoa = arrayDuplicado;
 		}
 	}
 
-	public void imprimi() {
+	public void imprimiClientes() {
 
-		for (Funcionario f : funcionario) {
+		
+		for (Pessoa c : pessoa) {
 
-			if (f != null)
-				System.out.println(f);
+			if (c != null && (c instanceof Cliente) )
+				System.out.println(c);
 		}
 
+	}
+	
+	public void imprimiFuncionarios(){
+		 
+		for (Pessoa f : pessoa) {
+			if (f != null&& (f instanceof Funcionario))
+				System.out.println(f);
+		}
 	}
 
 }
+

@@ -15,6 +15,7 @@ public interface IRepositorio  {
 	public Pessoa procurar(String nome) throws ProcuraPessoaInexistenteExeception;
 	public boolean existe(String nome) throws ProcuraPessoaInexistenteExeception;
 	public void remover (String nome)  throws IOException, ProcuraPessoaInexistenteExeception;
-	public void imprimi() throws IOException;
+	public void imprimiClientes() throws IOException;
+	public void imprimiFuncionarios() throws IOException;
 	
 }
