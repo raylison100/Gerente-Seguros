@@ -57,21 +57,5 @@ public class CadastroPessoa {
 	}
 	
 	
-	public boolean checarSenhaF(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception,SenhaIncorretaExeception{
-		Pessoa p = this.repositorio.procurar(nome);
-		boolean senhaConfirmada = false;
-		
-		if(p instanceof Funcionario){
-			
-			if(((Funcionario) p).getSenha().equals(senha))
-				senhaConfirmada = true;
-			else throw new SenhaIncorretaExeception();
-			
-			
-		}else throw new ProcuraPessoaInexistenteExeception();
-		
-		
-		return senhaConfirmada;
-	}
 
 }

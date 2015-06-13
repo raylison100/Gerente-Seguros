@@ -90,7 +90,7 @@ public class TelaPrincipal extends JFrame {
 		});
 		btnFuncionario.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				TelaFuncionario tela = new TelaFuncionario();
+				TelaSuporte tela = new TelaSuporte();
 				tela.setVisible(true);
 				TelaPrincipal.this.setVisible(false);
 			}

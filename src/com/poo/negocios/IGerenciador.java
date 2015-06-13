@@ -16,6 +16,7 @@ public interface IGerenciador {
 	public void exibiFuncionario() throws IOException;
 	public void excluirPessoa(String nome) throws IOException, ProcuraPessoaInexistenteExeception;
 	public Pessoa pesquisarPessoa(String nome) throws ProcuraPessoaInexistenteExeception;
-	public boolean validarSenha(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
+	public boolean validarSenhaF(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
+	public boolean validarSenhaS(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
 		
 }

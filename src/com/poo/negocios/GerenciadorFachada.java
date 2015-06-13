@@ -12,6 +12,7 @@ import com.poo.negocios.beans.Pessoa;
 public class GerenciadorFachada implements IGerenciador{
 
 	private CadastroPessoa pessoa = new CadastroPessoa();
+	private ValidarSenha vS = new ValidarSenha();
 	private static IGerenciador instance;
 	
 	
@@ -55,10 +56,18 @@ public class GerenciadorFachada implements IGerenciador{
 		
 	}
 	
-	public boolean validarSenha(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception{
+	public boolean validarSenhaF(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception{
 		boolean confirmada = false;
 		
-		confirmada = this.pessoa.checarSenhaF(nome, senha);
+		confirmada = this.vS.checarSenhaF(nome, senha);
+		
+		return confirmada;
+	}
+	
+	public boolean validarSenhaS(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception{
+		boolean confirmada = false;
+		
+		confirmada = this.vS.checarSenhaS(nome, senha);
 		
 		return confirmada;
 	}
