@@ -10,6 +10,7 @@ import javax.swing.JLabel;
 import java.awt.Container;
 import java.awt.GridBagConstraints;
 import java.awt.Font;
+import java.awt.HeadlessException;
 
 import javax.swing.SwingConstants;
 
@@ -27,8 +28,10 @@ import javax.swing.JPasswordField;
 import javax.swing.JButton;
 
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
+import com.poo.execoes.SenhaIncorretaExeception;
 import com.poo.negocios.GerenciadorFachada;
 import com.poo.negocios.IGerenciador;
+
 
 
 import java.awt.event.ActionListener;
@@ -110,14 +113,18 @@ public class TelaFuncionario extends JFrame{
 	
 	public class AcaoBotaoLogin implements ActionListener{
 		public void actionPerformed(ActionEvent e){
-			String usuario = textField.getText();
+			
 			
 			try{
-				fachada.pesquisarPessoa(usuario);
+				if(fachada.validarSenha(textField.getText(), passwordField.getPassword()))
 				JOptionPane.showMessageDialog(null, "Logado com sucesso");
-			}catch(ProcuraPessoaInexistenteExeception o){
+			}catch(ProcuraPessoaInexistenteExeception ppi){
 				
-				JOptionPane.showMessageDialog(null, o.getMessage());
+				JOptionPane.showMessageDialog(null, ppi.getMessage());
+			
+			} catch (SenhaIncorretaExeception sie) {
+			
+				JOptionPane.showMessageDialog(null, sie.getMessage());
 			}
 			
 		}

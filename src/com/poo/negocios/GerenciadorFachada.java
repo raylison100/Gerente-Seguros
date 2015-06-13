@@ -5,6 +5,7 @@ import java.io.IOException;
 
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
+import com.poo.execoes.SenhaIncorretaExeception;
 import com.poo.negocios.beans.Pessoa;
 
 
@@ -49,11 +50,18 @@ public class GerenciadorFachada implements IGerenciador{
 		
 	public Pessoa pesquisarPessoa(String nome) throws ProcuraPessoaInexistenteExeception{
 		
-		Pessoa c = this.pessoa.acharCliente(nome);
+		Pessoa c = this.pessoa.acharPessoa(nome);
 		return c;
 		
 	}
 	
+	public boolean validarSenha(String nome, char[] senha) throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception{
+		boolean confirmada = false;
+		
+		confirmada = this.pessoa.checarSenhaF(nome, senha);
+		
+		return confirmada;
+	}
 		
 }
 
