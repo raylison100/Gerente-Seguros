@@ -29,12 +29,11 @@ import javax.swing.JButton;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.negocios.GerenciadorFachada;
 import com.poo.negocios.IGerenciador;
-import com.poo.negocios.beans.Pessoa;
+
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
+
 
 public class TelaFuncionario extends JFrame{
 	
@@ -43,6 +42,7 @@ public class TelaFuncionario extends JFrame{
 	private JPasswordField passwordField;
 	private JButton botaoLogin;
 	private JButton botaoLimpar;
+	private IGerenciador fachada = GerenciadorFachada.getInstance();
 
 	public TelaFuncionario() {
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -111,13 +111,15 @@ public class TelaFuncionario extends JFrame{
 	public class AcaoBotaoLogin implements ActionListener{
 		public void actionPerformed(ActionEvent e){
 			String usuario = textField.getText();
-			IGerenciador fachada = GerenciadorFachada.getInstance();
+			
 			try{
-				fachada.pesquisarCliente(usuario);
+				fachada.pesquisarPessoa(usuario);
 				JOptionPane.showMessageDialog(null, "Logado com sucesso");
-				}catch(ProcuraPessoaInexistenteExeception o){
+			}catch(ProcuraPessoaInexistenteExeception o){
+				
 				JOptionPane.showMessageDialog(null, o.getMessage());
 			}
+			
 		}
 	}
 	

@@ -5,7 +5,7 @@ public class CadatroPessoaExistenteExeception extends Exception {
 	private String nome;
 	public CadatroPessoaExistenteExeception(String nome){
 		
-		super("  " + nome + "\n" + "CLIENTE JA CADASTRADO!!!");
+		super(nome + " JA ESTA CADASTRADO!!!");
 		this.setNome(nome);
 	}
 	

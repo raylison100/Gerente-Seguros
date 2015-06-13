@@ -135,6 +135,8 @@ public class RepositorioPessoa implements IRepositorio, Serializable{
 		Pessoa resultado = null;
 		if (i != this.proxima)
 			resultado = this.pessoa[i];
+		else throw new ProcuraPessoaInexistenteExeception(); 
+		
 
 		return resultado;
 
@@ -160,7 +162,8 @@ public class RepositorioPessoa implements IRepositorio, Serializable{
 			this.pessoa[i] = this.pessoa[this.proxima - 1];
 			this.pessoa[this.proxima - 1] = null;
 			this.proxima = this.proxima - 1;
-		}
+		}else throw new ProcuraPessoaInexistenteExeception(); 
+		
 		salvarArquivo();
 
 	}
@@ -182,8 +185,6 @@ public class RepositorioPessoa implements IRepositorio, Serializable{
 
 		}
 	
-		if(i == this.proxima)
-			return i;
 		return i;
 	}
 

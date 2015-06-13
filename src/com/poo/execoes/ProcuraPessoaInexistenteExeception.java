@@ -4,18 +4,10 @@ public class ProcuraPessoaInexistenteExeception extends Exception{
 	
 	private String nome;
 	
-	public ProcuraPessoaInexistenteExeception(String nome){
+	public ProcuraPessoaInexistenteExeception(){
 		
 		super("PESSOA NAO EXISTENTE!!!");
-		this.setNome(nome);
+		
 	}
 	
-	public String getNome() {
-		return nome;
-	}
-	public void setNome(String nome) {
-		if(nome!= null)
-		this.nome = nome;
-	}
-
 }

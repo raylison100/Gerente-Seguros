@@ -42,12 +42,12 @@ public class GerenciadorFachada implements IGerenciador{
 		this.pessoa.exibiFuncionarios();
 	}
 		
-	public void excluirCliente(String nome) throws IOException, ProcuraPessoaInexistenteExeception{
+	public void excluirPessoa(String nome) throws IOException, ProcuraPessoaInexistenteExeception{
 		
 		this.pessoa.descadatrar(nome);
 	}
 		
-	public Pessoa pesquisarCliente(String nome) throws ProcuraPessoaInexistenteExeception{
+	public Pessoa pesquisarPessoa(String nome) throws ProcuraPessoaInexistenteExeception{
 		
 		Pessoa c = this.pessoa.acharCliente(nome);
 		return c;

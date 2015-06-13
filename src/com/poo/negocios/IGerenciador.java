@@ -13,7 +13,7 @@ public interface IGerenciador {
 	public void cadatrarCliente(Pessoa c) throws IOException, CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception;	
 	public void exibiCliente() throws IOException;
 	public void exibiFuncionario() throws IOException;
-	public void excluirCliente(String nome) throws IOException, ProcuraPessoaInexistenteExeception;
-	public Pessoa pesquisarCliente(String nome) throws ProcuraPessoaInexistenteExeception;
+	public void excluirPessoa(String nome) throws IOException, ProcuraPessoaInexistenteExeception;
+	public Pessoa pesquisarPessoa(String nome) throws ProcuraPessoaInexistenteExeception;
 		
 }

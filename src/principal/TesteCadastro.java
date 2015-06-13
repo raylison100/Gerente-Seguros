@@ -105,7 +105,7 @@ public class TesteCadastro {
 				try {
 					System.out.println("DIGITE UM NOME A SER EXCLUIDO:\n");
 					nome = ler.next();
-					fachada.excluirCliente(nome);
+					fachada.excluirPessoa(nome);
 				} catch (ProcuraPessoaInexistenteExeception ppi) {
 					System.out.println(ppi.getMessage());
 				}
@@ -116,8 +116,7 @@ public class TesteCadastro {
 				try {
 					System.out.println("Pesquisa rapida digite nome: ");
 					nome = ler.next();
-
-					System.out.println(fachada.pesquisarCliente(nome));
+					System.out.println(fachada.pesquisarPessoa(nome));
 				} catch (ProcuraPessoaInexistenteExeception ppi) {
 					System.out.println(ppi.getMessage());
 				}
