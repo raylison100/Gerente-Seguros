@@ -26,7 +26,7 @@ public class TelaPrincipal extends JFrame {
 	private JPanel contentPane;
 
 	public TelaPrincipal() {
-		contentPane.setTitle();
+		//contentPane.setTitle();
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 726, 484);
 		contentPane = new JPanel();
@@ -90,7 +90,7 @@ public class TelaPrincipal extends JFrame {
 		});
 		btnFuncionario.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				TelaSuporte tela = new TelaSuporte();
+				TelaFuncionario tela = new TelaFuncionario();
 				tela.setVisible(true);
 				TelaPrincipal.this.setVisible(false);
 			}

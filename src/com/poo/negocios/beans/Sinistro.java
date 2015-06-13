@@ -76,10 +76,10 @@ public class Sinistro {
 		this.outraCausas = outraCausas;
 	}
 
-	public void descriçao(String descriçao){
+	public void descricao(String descricao){
 		if(outros == true)
-			setOutraCausas(descriçao);
-		else setOutraCausas("Não");
+			setOutraCausas(descricao);
+		else setOutraCausas("Nao");
 			
 	}
 
