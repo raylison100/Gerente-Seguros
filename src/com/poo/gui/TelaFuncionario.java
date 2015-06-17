@@ -119,12 +119,12 @@ public class TelaFuncionario extends JFrame{
 				if(fachada.validarSenhaF(textField.getText(), passwordField.getPassword()))
 				JOptionPane.showMessageDialog(null, "Logado com sucesso");
 			}catch(ProcuraPessoaInexistenteExeception ppi){
-				
 				JOptionPane.showMessageDialog(null, ppi.getMessage());
-			
+				textField.setText("");
+				passwordField.setText("");
 			} catch (SenhaIncorretaExeception sie) {
-			
 				JOptionPane.showMessageDialog(null, sie.getMessage());
+				passwordField.setText("");
 			}
 			
 		}
