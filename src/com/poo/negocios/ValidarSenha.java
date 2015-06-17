@@ -37,7 +37,10 @@ public class ValidarSenha {
 			else throw new SenhaIncorretaExeception();
 			
 			
+		}else if(checarSenhaS(nome, senha)){
+			   senhaConfirmada = true;
 		}else throw new ProcuraPessoaInexistenteExeception();
+		
 		
 		
 		return senhaConfirmada;
