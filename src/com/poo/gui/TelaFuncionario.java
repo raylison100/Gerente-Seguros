@@ -118,6 +118,9 @@ public class TelaFuncionario extends JFrame{
 			try{
 				if(fachada.validarSenhaF(textField.getText(), passwordField.getPassword()))
 				JOptionPane.showMessageDialog(null, "Logado com sucesso");
+				TelaFuncionario2 tela = new TelaFuncionario2();
+				tela.setVisible(true);
+				
 			}catch(ProcuraPessoaInexistenteExeception ppi){
 				JOptionPane.showMessageDialog(null, ppi.getMessage());
 				textField.setText("");
