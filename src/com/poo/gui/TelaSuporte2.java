@@ -103,21 +103,14 @@ public class TelaSuporte2 extends JFrame {
 		tabbedPane.setBounds(0, 37, 672, 387);
 		panel.add(tabbedPane);
 		
-		JPanel cadastra = new JPanel();
+		JScrollPane cadastra = new JScrollPane();
+	
 		cadastra.setToolTipText("");
 		tabbedPane.addTab("NOVO CADASTRO", null, cadastra, null);
 		cadastra.setLayout(null);
 		
-		JPanel panel_1 = new JPanel();
-		panel_1.setBounds(0, 0, 667, 359);
-		cadastra.add(panel_1);
-		panel_1.setLayout(null);
-		
-		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(0, 0, 667, 359);
-		panel_1.add(scrollPane);
-		scrollPane.setLayout(getLayout());
-	    scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		JButton btnNewButton = new JButton("New button");
+		cadastra.setViewportView(btnNewButton);
 		
 		JPanel excluir = new JPanel();
 		tabbedPane.addTab("EXCLUIR FUNCIONARIO", null, excluir, null);
