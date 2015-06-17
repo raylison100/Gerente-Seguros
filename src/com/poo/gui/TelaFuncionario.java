@@ -48,6 +48,7 @@ public class TelaFuncionario extends JFrame{
 	private IGerenciador fachada = GerenciadorFachada.getInstance();
 
 	public TelaFuncionario() {
+		setTitle("Funcionario - iSinistro");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 726, 484);
 		contentPane = new JPanel();

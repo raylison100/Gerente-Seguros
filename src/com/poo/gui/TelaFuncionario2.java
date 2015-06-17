@@ -25,8 +25,6 @@ import javax.swing.JInternalFrame;
 
 public class TelaFuncionario2 extends JFrame {
 
-	private JPanel contentPane;
-
 	/**
 	 * Launch the application.
 	 */
@@ -47,17 +45,18 @@ public class TelaFuncionario2 extends JFrame {
 	 * Create the frame.
 	 */
 	public TelaFuncionario2() {
+		setTitle("Funcionario - iSinistro");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 688, 463);
-		contentPane = new JPanel();
-		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
-		setContentPane(contentPane);
-		GridBagLayout gbl_contentPane = new GridBagLayout();
-		gbl_contentPane.columnWidths = new int[]{672, 0};
-		gbl_contentPane.rowHeights = new int[]{424, 0};
-		gbl_contentPane.columnWeights = new double[]{0.0, Double.MIN_VALUE};
-		gbl_contentPane.rowWeights = new double[]{0.0, Double.MIN_VALUE};
-		contentPane.setLayout(gbl_contentPane);
+		JPanel Funcionario = new JPanel();
+		Funcionario.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(Funcionario);
+		GridBagLayout gbl_Funcionario = new GridBagLayout();
+		gbl_Funcionario.columnWidths = new int[]{672, 0};
+		gbl_Funcionario.rowHeights = new int[]{424, 0};
+		gbl_Funcionario.columnWeights = new double[]{0.0, Double.MIN_VALUE};
+		gbl_Funcionario.rowWeights = new double[]{0.0, Double.MIN_VALUE};
+		Funcionario.setLayout(gbl_Funcionario);
 		
 		JPanel panel = new JPanel();
 		panel.setLayout(null);
@@ -65,7 +64,7 @@ public class TelaFuncionario2 extends JFrame {
 		gbc_panel.fill = GridBagConstraints.BOTH;
 		gbc_panel.gridx = 0;
 		gbc_panel.gridy = 0;
-		contentPane.add(panel, gbc_panel);
+		Funcionario.add(panel, gbc_panel);
 		
 		JMenuBar menuBar = new JMenuBar();
 		menuBar.setBounds(0, 0, 672, 21);
