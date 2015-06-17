@@ -21,6 +21,7 @@ import javax.swing.JToolBar;
 import javax.swing.JLayeredPane;
 import javax.swing.JScrollPane;
 import javax.swing.ScrollPaneConstants;
+import javax.swing.JInternalFrame;
 
 public class TelaSuporte2 extends JFrame {
 
@@ -70,42 +71,54 @@ public class TelaSuporte2 extends JFrame {
 		menuBar.setBounds(0, 0, 672, 21);
 		panel.add(menuBar);
 		
-		JMenu mnNewMenu = new JMenu("New menu");
+		JMenu mnNewMenu = new JMenu("MENU");
 		menuBar.add(mnNewMenu);
 		
-		JMenu mnNewMenu_1 = new JMenu("New menu");
+		JMenuItem mntmSair = new JMenuItem("SAIR");
+		mnNewMenu.add(mntmSair);
+		
+		JMenu mnNewMenu_1 = new JMenu("SOBRE");
 		menuBar.add(mnNewMenu_1);
 		
-		JMenu mnNewMenu_2 = new JMenu("New menu");
+		JMenuItem mntmDesenvolvedores = new JMenuItem("DESENVOLVEDORES");
+		mnNewMenu_1.add(mntmDesenvolvedores);
+		
+		JMenuItem mntmPrograma = new JMenuItem("PROGRAMA");
+		mnNewMenu_1.add(mntmPrograma);
+		
+		JMenu mnNewMenu_2 = new JMenu("AJUDA");
 		menuBar.add(mnNewMenu_2);
+		
+		JMenuItem mntmPrincipaisFuncionalidades = new JMenuItem("PRINCIPAIS FUNCIONALIDADES");
+		mnNewMenu_2.add(mntmPrincipaisFuncionalidades);
+		
+		JMenuItem mntmPassoAPasso = new JMenuItem("PASSO A PASSO COMPLETO");
+		mnNewMenu_2.add(mntmPassoAPasso);
 		
 		JSeparator separator = new JSeparator();
 		separator.setBounds(0, 26, 672, 2);
 		panel.add(separator);
 		
 		JTabbedPane tabbedPane = new JTabbedPane(JTabbedPane.TOP);
-		tabbedPane.setBounds(0, 37, 672, 381);
+		tabbedPane.setBounds(0, 37, 672, 387);
 		panel.add(tabbedPane);
 		
-		JLayeredPane layeredPane_1 = new JLayeredPane();
-		tabbedPane.addTab("New tab", null, layeredPane_1, null);
-		
-		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		scrollPane.setBounds(0, 0, 667, 353);
-		layeredPane_1.add(scrollPane);
-		
-		JPanel cadastra = new JPanel();
+		JScrollPane cadastra = new JScrollPane();
+	
 		cadastra.setToolTipText("");
-		tabbedPane.addTab("New nbv", null, cadastra, null);
+		tabbedPane.addTab("NOVO CADASTRO", null, cadastra, null);
+		cadastra.setLayout(null);
+		
+		JButton btnNewButton = new JButton("New button");
+		cadastra.setViewportView(btnNewButton);
 		
 		JPanel excluir = new JPanel();
-		tabbedPane.addTab("New tab", null, excluir, null);
+		tabbedPane.addTab("EXCLUIR FUNCIONARIO", null, excluir, null);
 		
 		JPanel listarTodos = new JPanel();
-		tabbedPane.addTab("New tab", null, listarTodos, null);
+		tabbedPane.addTab("LISTA FUNCIONARIOS", null, listarTodos, null);
 		
 		JPanel pesquisar = new JPanel();
-		tabbedPane.addTab("New tab", null, pesquisar, null);
+		tabbedPane.addTab("PESQUISAR FUNCIONARIO", null, pesquisar, null);
 	}
 }
