@@ -1,0 +1,638 @@
+{"contador" = "318"}
+[{"fipe_marca": "Mercedes-Benz", "name": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel", "marca": "MERCEDES-BENZ", "key": "180-d-1527", "id": "1527", "fipe_name": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "180-D Van 2.4 Diesel", "marca": "MERCEDES-BENZ", "key": "180-d-1528", "id": "1528", "fipe_name": "180-D Van 2.4 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "190-E 2.3", "marca": "MERCEDES-BENZ", "key": "190-e-1529", "id": "1529", "fipe_name": "190-E 2.3"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "230-E 2.3", "marca": "MERCEDES-BENZ", "key": "230-e-1530", "id": "1530", "fipe_name": "230-E 2.3"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "260-E 2.6", "marca": "MERCEDES-BENZ", "key": "260-e-1531", "id": "1531", "fipe_name": "260-E 2.6"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "300-D 3.0 Diesel", "marca": "MERCEDES-BENZ", "key": "300-d-1532", "id": "1532", "fipe_name": "300-D 3.0 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "300-E 3.0", "marca": "MERCEDES-BENZ", "key": "300-e-1533", "id": "1533", "fipe_name": "300-E 3.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "300-SE 3.0/3.2", "marca": "MERCEDES-BENZ", "key": "300-se-1534", "id": "1534", "fipe_name": "300-SE 3.0/3.2"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "300-SL 3.0", "marca": "MERCEDES-BENZ", "key": "300-sl-1535", "id": "1535", "fipe_name": "300-SL 3.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "300-TE Wagon 3.0", "marca": "MERCEDES-BENZ", "key": "300-te-1536", "id": "1536", "fipe_name": "300-TE Wagon 3.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "500-E 5.0", "marca": "MERCEDES-BENZ", "key": "500-e-1537", "id": "1537", "fipe_name": "500-E 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "500-SEC/ SL", "marca": "MERCEDES-BENZ", "key": "500-sec-1538", "id": "1538", "fipe_name": "500-SEC/ SL"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "500-SEL 5.0/ 5.6", "marca": "MERCEDES-BENZ", "key": "500-sel-1539", "id": "1539", "fipe_name": "500-SEL 5.0/ 5.6"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "560-SEL 5.6", "marca": "MERCEDES-BENZ", "key": "560-sel-1540", "id": "1540", "fipe_name": "560-SEL 5.6"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Avantgarde 1.6 TB 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-6928", "id": "6928", "fipe_name": "C-180 CGI Avantgarde 1.6 TB 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Classic 1.8 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-5399", "id": "5399", "fipe_name": "C-180 CGI Classic 1.8 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Coupe 1.8 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-5625", "id": "5625", "fipe_name": "C-180 CGI Coupe 1.8 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Coupe Sport 1.6 TB 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-6329", "id": "6329", "fipe_name": "C-180 CGI Coupe Sport 1.6 TB 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Estate Avant. 1.6 TB 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-7140", "id": "7140", "fipe_name": "C-180 CGI Estate Avant. 1.6 TB 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Exclusive 1.6 TB 16V  Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-6929", "id": "6929", "fipe_name": "C-180 CGI Exclusive 1.6 TB 16V  Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Sport 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-6300", "id": "6300", "fipe_name": "C-180 CGI Sport 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Touring 1.8 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-5979", "id": "5979", "fipe_name": "C-180 CGI Touring 1.8 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 CGI Touring Sport 1.6 TB Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-6357", "id": "6357", "fipe_name": "C-180 CGI Touring Sport 1.6 TB Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 Classic/Classic Plus/Elegance", "marca": "MERCEDES-BENZ", "key": "c-180-1541", "id": "1541", "fipe_name": "C-180 Classic/Classic Plus/Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 Kompressor Classic 1.6 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-180-5213", "id": "5213", "fipe_name": "C-180 Kompressor Classic 1.6 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-180 Kompressor Classic 1.8 16V 143cv", "marca": "MERCEDES-BENZ", "key": "c-180-1542", "id": "1542", "fipe_name": "C-180 Kompressor Classic 1.8 16V 143cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Avantgarde 2.0 TB 16V 184cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-6963", "id": "6963", "fipe_name": "C-200 Avantgarde 2.0 TB 16V 184cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 CGI Avantgarde 1.8 16V 184cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-5307", "id": "5307", "fipe_name": "C-200 CGI Avantgarde 1.8 16V 184cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 CGI Sport 1.8 TB 16V 184cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-5308", "id": "5308", "fipe_name": "C-200 CGI Sport 1.8 TB 16V 184cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 CGI Touring Avantgarde 1.8 16V Aut", "marca": "MERCEDES-BENZ", "key": "c-200-5348", "id": "5348", "fipe_name": "C-200 CGI Touring Avantgarde 1.8 16V Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Classic/Sport", "marca": "MERCEDES-BENZ", "key": "c-200-1543", "id": "1543", "fipe_name": "C-200 Classic/Sport"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Kompressor 2.0 V6 16v 4p Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-1544", "id": "1544", "fipe_name": "C-200 Kompressor 2.0 V6 16v 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Kompressor Avant.1.8 16V Aut", "marca": "MERCEDES-BENZ", "key": "c-200-3938", "id": "3938", "fipe_name": "C-200 Kompressor Avant.1.8 16V Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Kompressor Classic 1.8 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-4358", "id": "4358", "fipe_name": "C-200 Kompressor Classic 1.8 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Sportcoup\u00e9 Komp. 2.0 16V 163cv Aut", "marca": "MERCEDES-BENZ", "key": "c-200-1545", "id": "1545", "fipe_name": "C-200 Sportcoup\u00e9 Komp. 2.0 16V 163cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Touring Komp. 2.0 16V 163cv 5p Aut", "marca": "MERCEDES-BENZ", "key": "c-200-1546", "id": "1546", "fipe_name": "C-200 Touring Komp. 2.0 16V 163cv 5p Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-200 Touring Komp. Avant. 1.8 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-200-4662", "id": "4662", "fipe_name": "C-200 Touring Komp. Avant. 1.8 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-220 Classic/Elegance/Sport", "marca": "MERCEDES-BENZ", "key": "c-220-1547", "id": "1547", "fipe_name": "C-220 Classic/Elegance/Sport"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Avantgarde 2.5 V6 24V 204cv Aut", "marca": "MERCEDES-BENZ", "key": "c-230-3826", "id": "3826", "fipe_name": "C-230 Avantgarde 2.5 V6 24V 204cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Komp. Sportcoup\u00e9 2.3 16V 197cv Aut", "marca": "MERCEDES-BENZ", "key": "c-230-1548", "id": "1548", "fipe_name": "C-230 Komp. Sportcoup\u00e9 2.3 16V 197cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Kompressor Avantgarde", "marca": "MERCEDES-BENZ", "key": "c-230-1549", "id": "1549", "fipe_name": "C-230 Kompressor Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Sport/ Eleg./Touring Eleg.Plus 2.3", "marca": "MERCEDES-BENZ", "key": "c-230-1550", "id": "1550", "fipe_name": "C-230 Sport/ Eleg./Touring Eleg.Plus 2.3"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Touring Avant. 2.5 24V 204cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-230-3939", "id": "3939", "fipe_name": "C-230 Touring Avant. 2.5 24V 204cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-230 Touring Kompressor", "marca": "MERCEDES-BENZ", "key": "c-230-1551", "id": "1551", "fipe_name": "C-230 Touring Kompressor"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-240 AvantGarde 2.4/ 2.6 4p", "marca": "MERCEDES-BENZ", "key": "c-240-1552", "id": "1552", "fipe_name": "C-240 AvantGarde 2.4/ 2.6 4p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-240 Classic", "marca": "MERCEDES-BENZ", "key": "c-240-1553", "id": "1553", "fipe_name": "C-240 Classic"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-240 Elegance 2.4", "marca": "MERCEDES-BENZ", "key": "c-240-1554", "id": "1554", "fipe_name": "C-240 Elegance 2.4"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-240 Elegance 2.4 V6 24v 4p Aut.", "marca": "MERCEDES-BENZ", "key": "c-240-1555", "id": "1555", "fipe_name": "C-240 Elegance 2.4 V6 24v 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-250 CGI Sport 1.8 16V Aut.", "marca": "MERCEDES-BENZ", "key": "c-250-5500", "id": "5500", "fipe_name": "C-250 CGI Sport 1.8 16V Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-250 CGI Sport Coupe 1.8 16V TB Aut.", "marca": "MERCEDES-BENZ", "key": "c-250-6358", "id": "6358", "fipe_name": "C-250 CGI Sport Coupe 1.8 16V TB Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-250 Sport 2.0 16V 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-250-6964", "id": "6964", "fipe_name": "C-250 Sport 2.0 16V 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-280 Avantgarde 3.0 V6 231cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-280-4386", "id": "4386", "fipe_name": "C-280 Avantgarde 3.0 V6 231cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-280 Classic/Sport", "marca": "MERCEDES-BENZ", "key": "c-280-1556", "id": "1556", "fipe_name": "C-280 Classic/Sport"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-280 Elegance", "marca": "MERCEDES-BENZ", "key": "c-280-1557", "id": "1557", "fipe_name": "C-280 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-280 Touring", "marca": "MERCEDES-BENZ", "key": "c-280-1558", "id": "1558", "fipe_name": "C-280 Touring"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-300 Avantgarde 3.0 V6 24V 231cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-300-5002", "id": "5002", "fipe_name": "C-300 Avantgarde 3.0 V6 24V 231cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-300 Sport 3.0 V6 231cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-300-5349", "id": "5349", "fipe_name": "C-300 Sport 3.0 V6 231cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-320 AvantGarde 3.2 V6 24v 4p Aut.", "marca": "MERCEDES-BENZ", "key": "c-320-1559", "id": "1559", "fipe_name": "C-320 AvantGarde 3.2 V6 24v 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-320 Elegance 3.2 V6 24v 4p Aut.", "marca": "MERCEDES-BENZ", "key": "c-320-1560", "id": "1560", "fipe_name": "C-320 Elegance 3.2 V6 24v 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-320 Touring 3.2 V6 18v 4p Aut.", "marca": "MERCEDES-BENZ", "key": "c-320-1561", "id": "1561", "fipe_name": "C-320 Touring 3.2 V6 18v 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-350 Avantgarde/ Elegance 3.5 V6 272cv", "marca": "MERCEDES-BENZ", "key": "c-350-3802", "id": "3802", "fipe_name": "C-350 Avantgarde/ Elegance 3.5 V6 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-350 CGI Sport 3.5 306cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-350-5730", "id": "5730", "fipe_name": "C-350 CGI Sport 3.5 306cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-350 Sport 3.5 V6 272cv", "marca": "MERCEDES-BENZ", "key": "c-350-4717", "id": "4717", "fipe_name": "C-350 Sport 3.5 V6 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-350 Sportcoup\u00e9 3.5 24V  272cv", "marca": "MERCEDES-BENZ", "key": "c-350-3893", "id": "3893", "fipe_name": "C-350 Sportcoup\u00e9 3.5 24V  272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-350 Touring AvantGarde 3.5 24V 272cv", "marca": "MERCEDES-BENZ", "key": "c-350-3894", "id": "3894", "fipe_name": "C-350 Touring AvantGarde 3.5 24V 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-36 AMG", "marca": "MERCEDES-BENZ", "key": "c-36-1562", "id": "1562", "fipe_name": "C-36 AMG"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-43 AMG", "marca": "MERCEDES-BENZ", "key": "c-43-1563", "id": "1563", "fipe_name": "C-43 AMG"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-55 AMG 24V 367cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-55-3827", "id": "3827", "fipe_name": "C-55 AMG 24V 367cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-55 Touring AMG 24V 367cv Aut.", "marca": "MERCEDES-BENZ", "key": "c-55-3828", "id": "3828", "fipe_name": "C-55 Touring AMG 24V 367cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-63 AMG 6.2 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "c-63-4663", "id": "4663", "fipe_name": "C-63 AMG 6.2 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-63 Coupe AMG 6.2 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "c-63-5745", "id": "5745", "fipe_name": "C-63 Coupe AMG 6.2 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-63 Coupe AMG Black Series 6.3 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "c-63-6273", "id": "6273", "fipe_name": "C-63 Coupe AMG Black Series 6.3 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "C-63 Touring AMG 6.2 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "c-63-5031", "id": "5031", "fipe_name": "C-63 Touring AMG 6.2 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CL-500 5.0/ 5.5", "marca": "MERCEDES-BENZ", "key": "cl-500-1564", "id": "1564", "fipe_name": "CL-500 5.0/ 5.5"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CL-600 6.0/ 5.5", "marca": "MERCEDES-BENZ", "key": "cl-600-1565", "id": "1565", "fipe_name": "CL-600 6.0/ 5.5"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CL-63 AMG 6.2 V8 32V 525cv", "marca": "MERCEDES-BENZ", "key": "cl-63-4516", "id": "4516", "fipe_name": "CL-63 AMG 6.2 V8 32V 525cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CL-65 AMG 6.0 V12 612cv Aut.", "marca": "MERCEDES-BENZ", "key": "cl-65-5032", "id": "5032", "fipe_name": "CL-65 AMG 6.0 V12 612cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLA-200 CGI 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "cla-200-6699", "id": "6699", "fipe_name": "CLA-200 CGI 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLA-200 Urban 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "cla-200-6965", "id": "6965", "fipe_name": "CLA-200 Urban 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLA-200 Vision 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "cla-200-7039", "id": "7039", "fipe_name": "CLA-200 Vision 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLA-250 Sport 2.0 16V 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "cla-250-6966", "id": "6966", "fipe_name": "CLA-250 Sport 2.0 16V 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLA-45 AMG CGI 2.0 TB 360 cv Aut.", "marca": "MERCEDES-BENZ", "key": "cla-45-6867", "id": "6867", "fipe_name": "CLA-45 AMG CGI 2.0 TB 360 cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 160 Classic Semi-Aut.", "marca": "MERCEDES-BENZ", "key": "classe-1566", "id": "1566", "fipe_name": "Classe A 160 Classic Semi-Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 160 Classic/ Spirit Mec.", "marca": "MERCEDES-BENZ", "key": "classe-1567", "id": "1567", "fipe_name": "Classe A 160 Classic/ Spirit Mec."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 160 Elegance Mec.", "marca": "MERCEDES-BENZ", "key": "classe-1568", "id": "1568", "fipe_name": "Classe A 160 Elegance Mec."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 160 Elegance Semi-Aut.", "marca": "MERCEDES-BENZ", "key": "classe-1569", "id": "1569", "fipe_name": "Classe A 160 Elegance Semi-Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 AvantGarde 1.9 8V 125cv Aut", "marca": "MERCEDES-BENZ", "key": "classe-1570", "id": "1570", "fipe_name": "Classe A 190 AvantGarde 1.9 8V 125cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 AvantGarde 1.9 8V 125cv Mec", "marca": "MERCEDES-BENZ", "key": "classe-1571", "id": "1571", "fipe_name": "Classe A 190 AvantGarde 1.9 8V 125cv Mec"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 Classic 1.9 Semi-Aut.", "marca": "MERCEDES-BENZ", "key": "classe-1572", "id": "1572", "fipe_name": "Classe A 190 Classic 1.9 Semi-Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 Classic/ Spirit 1.9 Mec.", "marca": "MERCEDES-BENZ", "key": "classe-1573", "id": "1573", "fipe_name": "Classe A 190 Classic/ Spirit 1.9 Mec."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 Elegance 1.9 Aut.", "marca": "MERCEDES-BENZ", "key": "classe-1574", "id": "1574", "fipe_name": "Classe A 190 Elegance 1.9 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 Elegance 1.9 Mec.", "marca": "MERCEDES-BENZ", "key": "classe-1575", "id": "1575", "fipe_name": "Classe A 190 Elegance 1.9 Mec."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 190 Elegance 1.9 Semi-Aut.", "marca": "MERCEDES-BENZ", "key": "classe-1576", "id": "1576", "fipe_name": "Classe A 190 Elegance 1.9 Semi-Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 200 1.6 TB 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-7228", "id": "7228", "fipe_name": "Classe A 200 1.6 TB 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 200 CGI 1.6 TB Style 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-6443", "id": "6443", "fipe_name": "Classe A 200 CGI 1.6 TB Style 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 200 CGI 1.6 TB Urban 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-6444", "id": "6444", "fipe_name": "Classe A 200 CGI 1.6 TB Urban 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 200 Elegance 2.0 136cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-3829", "id": "3829", "fipe_name": "Classe A 200 Elegance 2.0 136cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 250 CGI 2.0 TB Sport Aut.", "marca": "MERCEDES-BENZ", "key": "classe-6754", "id": "6754", "fipe_name": "Classe A 250 CGI 2.0 TB Sport Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe A 45 AMG 2.0 Turbo 360cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-6698", "id": "6698", "fipe_name": "Classe A 45 AMG 2.0 Turbo 360cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 170 1.7 116cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-4831", "id": "4831", "fipe_name": "Classe B 170 1.7 116cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 180 1.7 116cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-5003", "id": "5003", "fipe_name": "Classe B 180 1.7 116cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 200 2.0 136cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-4012", "id": "4012", "fipe_name": "Classe B 200 2.0 136cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 200 2.0 Turbo 193cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-4202", "id": "4202", "fipe_name": "Classe B 200 2.0 Turbo 193cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 200 CGI 1.6 TB 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-6237", "id": "6237", "fipe_name": "Classe B 200 CGI 1.6 TB 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe B 200 CGI 1.6 TB Sport 156cv Aut", "marca": "MERCEDES-BENZ", "key": "classe-6238", "id": "6238", "fipe_name": "Classe B 200 CGI 1.6 TB Sport 156cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe R 500 5.0 V8 306cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-4064", "id": "4064", "fipe_name": "Classe R 500 5.0 V8 306cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classe R 500 L 5.5 V8 388cv Aut.", "marca": "MERCEDES-BENZ", "key": "classe-5033", "id": "5033", "fipe_name": "Classe R 500 L 5.5 V8 388cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Classic 6.0", "marca": "MERCEDES-BENZ", "key": "classic-1577", "id": "1577", "fipe_name": "Classic 6.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLC 200 Kompressor 1.8 184cv Aut.", "marca": "MERCEDES-BENZ", "key": "clc-4856", "id": "4856", "fipe_name": "CLC 200 Kompressor 1.8 184cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-230 Cabriolet Kompressor", "marca": "MERCEDES-BENZ", "key": "clk-230-1578", "id": "1578", "fipe_name": "CLK-230 Cabriolet Kompressor"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-230 Kompressor", "marca": "MERCEDES-BENZ", "key": "clk-230-1579", "id": "1579", "fipe_name": "CLK-230 Kompressor"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 AvantGarde", "marca": "MERCEDES-BENZ", "key": "clk-320-1580", "id": "1580", "fipe_name": "CLK-320 AvantGarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 AvantGarde Cabriolet", "marca": "MERCEDES-BENZ", "key": "clk-320-1581", "id": "1581", "fipe_name": "CLK-320 AvantGarde Cabriolet"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 Elegance", "marca": "MERCEDES-BENZ", "key": "clk-320-1582", "id": "1582", "fipe_name": "CLK-320 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 Elegance Cabriolet", "marca": "MERCEDES-BENZ", "key": "clk-320-1583", "id": "1583", "fipe_name": "CLK-320 Elegance Cabriolet"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 Sport", "marca": "MERCEDES-BENZ", "key": "clk-320-1584", "id": "1584", "fipe_name": "CLK-320 Sport"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-320 Sport Cabriolet", "marca": "MERCEDES-BENZ", "key": "clk-320-1585", "id": "1585", "fipe_name": "CLK-320 Sport Cabriolet"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-350 Avant./ Elegance 3.5 24V 272cv", "marca": "MERCEDES-BENZ", "key": "clk-350-3895", "id": "3895", "fipe_name": "CLK-350 Avant./ Elegance 3.5 24V 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv", "marca": "MERCEDES-BENZ", "key": "clk-350-3896", "id": "3896", "fipe_name": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-430 Avantgard Cabriolet 4.3 V8 24v", "marca": "MERCEDES-BENZ", "key": "clk-430-1586", "id": "1586", "fipe_name": "CLK-430 Avantgard Cabriolet 4.3 V8 24v"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-430 AvantGarde 4.3", "marca": "MERCEDES-BENZ", "key": "clk-430-1587", "id": "1587", "fipe_name": "CLK-430 AvantGarde 4.3"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-430 Elegance", "marca": "MERCEDES-BENZ", "key": "clk-430-1588", "id": "1588", "fipe_name": "CLK-430 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-430 Elegance Cabriolet 4.3 V8 24v", "marca": "MERCEDES-BENZ", "key": "clk-430-1589", "id": "1589", "fipe_name": "CLK-430 Elegance Cabriolet 4.3 V8 24v"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-430 Sport 4.3", "marca": "MERCEDES-BENZ", "key": "clk-430-1590", "id": "1590", "fipe_name": "CLK-430 Sport 4.3"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-500 Cabriolet V8 24V 306cv", "marca": "MERCEDES-BENZ", "key": "clk-500-1591", "id": "1591", "fipe_name": "CLK-500 Cabriolet V8 24V 306cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-500 Elegance/ Avant. 5.0 V8 24V Aut", "marca": "MERCEDES-BENZ", "key": "clk-500-1592", "id": "1592", "fipe_name": "CLK-500 Elegance/ Avant. 5.0 V8 24V Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-55 AMG Cabriolet V8 24v 367cv", "marca": "MERCEDES-BENZ", "key": "clk-55-1593", "id": "1593", "fipe_name": "CLK-55 AMG Cabriolet V8 24v 367cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLK-55 AMG V8 24V 367cv", "marca": "MERCEDES-BENZ", "key": "clk-55-1594", "id": "1594", "fipe_name": "CLK-55 AMG V8 24V 367cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-350 CGI 3.5 306cv Aut.", "marca": "MERCEDES-BENZ", "key": "cls-350-5746", "id": "5746", "fipe_name": "CLS-350 CGI 3.5 306cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-350 V6 24V 272cv", "marca": "MERCEDES-BENZ", "key": "cls-350-3897", "id": "3897", "fipe_name": "CLS-350 V6 24V 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-400 3.5 V6 Bi-Turbo 333cv Aut.", "marca": "MERCEDES-BENZ", "key": "cls-400-7141", "id": "7141", "fipe_name": "CLS-400 3.5 V6 Bi-Turbo 333cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-500 V8 24V", "marca": "MERCEDES-BENZ", "key": "cls-500-1595", "id": "1595", "fipe_name": "CLS-500 V8 24V"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-55 Kompressor AMG 5.5 V8 24V 476cv", "marca": "MERCEDES-BENZ", "key": "cls-55-3803", "id": "3803", "fipe_name": "CLS-55 Kompressor AMG 5.5 V8 24V 476cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-63 AMG 5.5 V8 557cv Aut.", "marca": "MERCEDES-BENZ", "key": "cls-63-5593", "id": "5593", "fipe_name": "CLS-63 AMG 5.5 V8 557cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "CLS-63 AMG 6.2 V8 32V 514cv", "marca": "MERCEDES-BENZ", "key": "cls-63-4191", "id": "4191", "fipe_name": "CLS-63 AMG 6.2 V8 32V 514cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-190", "marca": "MERCEDES-BENZ", "key": "e-190-1596", "id": "1596", "fipe_name": "E-190"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-190 Classic", "marca": "MERCEDES-BENZ", "key": "e-190-1597", "id": "1597", "fipe_name": "E-190 Classic"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-200 Classic 2.0", "marca": "MERCEDES-BENZ", "key": "e-200-1598", "id": "1598", "fipe_name": "E-200 Classic 2.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-220 Classic/Touring 2.2", "marca": "MERCEDES-BENZ", "key": "e-220-1599", "id": "1599", "fipe_name": "E-220 Classic/Touring 2.2"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-230 Elegance", "marca": "MERCEDES-BENZ", "key": "e-230-1600", "id": "1600", "fipe_name": "E-230 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-240 Elegance", "marca": "MERCEDES-BENZ", "key": "e-240-1601", "id": "1601", "fipe_name": "E-240 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 Cabriolet 2.0 TB 211CV Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-6840", "id": "6840", "fipe_name": "E-250 Cabriolet 2.0 TB 211CV Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 CGI Avantgarde 1.8 16V 204cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-5538", "id": "5538", "fipe_name": "E-250 CGI Avantgarde 1.8 16V 204cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 CGI Avantgarde 2.0 TB 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-6540", "id": "6540", "fipe_name": "E-250 CGI Avantgarde 2.0 TB 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 CGI Coupe 1.8 16V 204cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-5594", "id": "5594", "fipe_name": "E-250 CGI Coupe 1.8 16V 204cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 CGI VR4 2.0 TB Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-7160", "id": "7160", "fipe_name": "E-250 CGI VR4 2.0 TB Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-250 Coupe 2.0 TB 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-250-6615", "id": "6615", "fipe_name": "E-250 Coupe 2.0 TB 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-280 Classic 2.8", "marca": "MERCEDES-BENZ", "key": "e-280-1602", "id": "1602", "fipe_name": "E-280 Classic 2.8"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-280 Touring 2.8", "marca": "MERCEDES-BENZ", "key": "e-280-1603", "id": "1603", "fipe_name": "E-280 Touring 2.8"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320", "marca": "MERCEDES-BENZ", "key": "e-320-1604", "id": "1604", "fipe_name": "E-320"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 3.2 Elegance", "marca": "MERCEDES-BENZ", "key": "e-320-1605", "id": "1605", "fipe_name": "E-320 3.2 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 Avantgarde", "marca": "MERCEDES-BENZ", "key": "e-320-1606", "id": "1606", "fipe_name": "E-320 Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 C 3.2/ CA Classic 3.2", "marca": "MERCEDES-BENZ", "key": "e-320-1607", "id": "1607", "fipe_name": "E-320 C 3.2/ CA Classic 3.2"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 Cabriolet", "marca": "MERCEDES-BENZ", "key": "e-320-1608", "id": "1608", "fipe_name": "E-320 Cabriolet"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 Touring Avantgarde 24V V6 5p Aut.", "marca": "MERCEDES-BENZ", "key": "e-320-1609", "id": "1609", "fipe_name": "E-320 Touring Avantgarde 24V V6 5p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-320 Touring Eleg./Classic", "marca": "MERCEDES-BENZ", "key": "e-320-1610", "id": "1610", "fipe_name": "E-320 Touring Eleg./Classic"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350  Touring Avant/Eleg. 3.5 24V 272cv", "marca": "MERCEDES-BENZ", "key": "e-350-3898", "id": "3898", "fipe_name": "E-350  Touring Avant/Eleg. 3.5 24V 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 Avant./Avant. Execut. 3.5 V6 272cv", "marca": "MERCEDES-BENZ", "key": "e-350-5004", "id": "5004", "fipe_name": "E-350 Avant./Avant. Execut. 3.5 V6 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 Avantgarde/ Elegance 3.5 V6 272cv", "marca": "MERCEDES-BENZ", "key": "e-350-1611", "id": "1611", "fipe_name": "E-350 Avantgarde/ Elegance 3.5 V6 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 Cabrio 3.5 V6 272cv 2p", "marca": "MERCEDES-BENZ", "key": "e-350-5309", "id": "5309", "fipe_name": "E-350 Cabrio 3.5 V6 272cv 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 CGI Avantgarde Sport 3.5 306cv Aut", "marca": "MERCEDES-BENZ", "key": "e-350-6210", "id": "6210", "fipe_name": "E-350 CGI Avantgarde Sport 3.5 306cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 CGI Cabriolet 3.5 306cv Aut", "marca": "MERCEDES-BENZ", "key": "e-350-6541", "id": "6541", "fipe_name": "E-350 CGI Cabriolet 3.5 306cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 CGI Executive 3.5 306cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-350-6033", "id": "6033", "fipe_name": "E-350 CGI Executive 3.5 306cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 CGI Guard VR4 3.5 306cv Aut.", "marca": "MERCEDES-BENZ", "key": "e-350-6542", "id": "6542", "fipe_name": "E-350 CGI Guard VR4 3.5 306cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 Coupe 3.5 V6 272cv 2p", "marca": "MERCEDES-BENZ", "key": "e-350-5034", "id": "5034", "fipe_name": "E-350 Coupe 3.5 V6 272cv 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-350 Sport 3.5 V6 272cv", "marca": "MERCEDES-BENZ", "key": "e-350-4627", "id": "4627", "fipe_name": "E-350 Sport 3.5 V6 272cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-400 Avantgarde 3.0 V6 Bi-Turbo Aut.", "marca": "MERCEDES-BENZ", "key": "e-400-7103", "id": "7103", "fipe_name": "E-400 Avantgarde 3.0 V6 Bi-Turbo Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-420 Classic/Elegance/Avantgarde", "marca": "MERCEDES-BENZ", "key": "e-420-1612", "id": "1612", "fipe_name": "E-420 Classic/Elegance/Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-420 Touring Avantgarde", "marca": "MERCEDES-BENZ", "key": "e-420-1613", "id": "1613", "fipe_name": "E-420 Touring Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-430 Avantgarde", "marca": "MERCEDES-BENZ", "key": "e-430-1614", "id": "1614", "fipe_name": "E-430 Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-430 Elegance", "marca": "MERCEDES-BENZ", "key": "e-430-1615", "id": "1615", "fipe_name": "E-430 Elegance"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-430 Touring Avantgarde", "marca": "MERCEDES-BENZ", "key": "e-430-1616", "id": "1616", "fipe_name": "E-430 Touring Avantgarde"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Avangarde Executive 5.5 V8 388cv", "marca": "MERCEDES-BENZ", "key": "e-500-5423", "id": "5423", "fipe_name": "E-500 Avangarde Executive 5.5 V8 388cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Avant. (Blindada) 5.0 V8 4p Aut.", "marca": "MERCEDES-BENZ", "key": "e-500-4774", "id": "4774", "fipe_name": "E-500 Avant. (Blindada) 5.0 V8 4p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 CGI Guard VR4 4.7 V8 408cv 4p", "marca": "MERCEDES-BENZ", "key": "e-500-6211", "id": "6211", "fipe_name": "E-500 CGI Guard VR4 4.7 V8 408cv 4p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 CGI Guard VR4 5.5 V8 4p", "marca": "MERCEDES-BENZ", "key": "e-500-6116", "id": "6116", "fipe_name": "E-500 CGI Guard VR4 5.5 V8 4p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Coupe Sport 4.7 V8 408cv Aut 2p", "marca": "MERCEDES-BENZ", "key": "e-500-6118", "id": "6118", "fipe_name": "E-500 Coupe Sport 4.7 V8 408cv Aut 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Coupe Sport 5.5 V8 388cv 2p", "marca": "MERCEDES-BENZ", "key": "e-500-5380", "id": "5380", "fipe_name": "E-500 Coupe Sport 5.5 V8 388cv 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Elegance/ Avant. 5.0 V8 24V 4p Aut", "marca": "MERCEDES-BENZ", "key": "e-500-1617", "id": "1617", "fipe_name": "E-500 Elegance/ Avant. 5.0 V8 24V 4p Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Sport Avantgarde 5.0 V8 24V 4p Aut", "marca": "MERCEDES-BENZ", "key": "e-500-4685", "id": "4685", "fipe_name": "E-500 Sport Avantgarde 5.0 V8 24V 4p Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-500 Tour. Avant./ Eleg. 24V V8 5p Aut.", "marca": "MERCEDES-BENZ", "key": "e-500-1618", "id": "1618", "fipe_name": "E-500 Tour. Avant./ Eleg. 24V V8 5p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-55 AMG", "marca": "MERCEDES-BENZ", "key": "e-55-1619", "id": "1619", "fipe_name": "E-55 AMG"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-55 Touring AMG 24V V8 5p Aut.", "marca": "MERCEDES-BENZ", "key": "e-55-1620", "id": "1620", "fipe_name": "E-55 Touring AMG 24V V8 5p Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-63 AMG 5.5 V8 Bi-Turbo Aut.", "marca": "MERCEDES-BENZ", "key": "e-63-6120", "id": "6120", "fipe_name": "E-63 AMG 5.5 V8 Bi-Turbo Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-63 AMG 6.2 V8 32V", "marca": "MERCEDES-BENZ", "key": "e-63-4245", "id": "4245", "fipe_name": "E-63 AMG 6.2 V8 32V"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-63 Touring AMG 5.5 V8 Bi-Turbo Aut.", "marca": "MERCEDES-BENZ", "key": "e-63-6122", "id": "6122", "fipe_name": "E-63 Touring AMG 5.5 V8 Bi-Turbo Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "E-63 Touring AMG 6.2 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "e-63-5489", "id": "5489", "fipe_name": "E-63 Touring AMG 6.2 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "G-55 Kompressor AMG 5.5 V8 507cv Aut.", "marca": "MERCEDES-BENZ", "key": "g-55-5151", "id": "5151", "fipe_name": "G-55 Kompressor AMG 5.5 V8 507cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "marca": "MERCEDES-BENZ", "key": "g-63-6491", "id": "6491", "fipe_name": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GL-350 Sport 3.0 V6 258cv 4x4 Diesel", "marca": "MERCEDES-BENZ", "key": "gl-350-6642", "id": "6642", "fipe_name": "GL-350 Sport 3.0 V6 258cv 4x4 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GL-500 4.7 Bi-Turbo V8 4x4 Aut.", "marca": "MERCEDES-BENZ", "key": "gl-500-6445", "id": "6445", "fipe_name": "GL-500 4.7 Bi-Turbo V8 4x4 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GL-500 5.5 V8 32V 4x4 388cv Aut.", "marca": "MERCEDES-BENZ", "key": "gl-500-4250", "id": "4250", "fipe_name": "GL-500 5.5 V8 32V 4x4 388cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "marca": "MERCEDES-BENZ", "key": "gl-63-6468", "id": "6468", "fipe_name": "GL-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 200 Advance 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7040", "id": "7040", "fipe_name": "GLA 200 Advance 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 200 Style 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7161", "id": "7161", "fipe_name": "GLA 200 Style 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 200 Vis. Black Ed. 1.6 TB 16V  Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7041", "id": "7041", "fipe_name": "GLA 200 Vis. Black Ed. 1.6 TB 16V  Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 200 Vision 1.6 TB 16V 156cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7042", "id": "7042", "fipe_name": "GLA 200 Vision 1.6 TB 16V 156cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 250 Sport 2.0 TB 16V 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7195", "id": "7195", "fipe_name": "GLA 250 Sport 2.0 TB 16V 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 250 Vision 2.0 TB 16V 211cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7196", "id": "7196", "fipe_name": "GLA 250 Vision 2.0 TB 16V 211cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLA 45 AMG 2.0 Turbo 4x4 360cv Aut.", "marca": "MERCEDES-BENZ", "key": "gla-7122", "id": "7122", "fipe_name": "GLA 45 AMG 2.0 Turbo 4x4 360cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLK 220 CDI 2.2 TB 4X4 170cv Aut. Diesel", "marca": "MERCEDES-BENZ", "key": "glk-6446", "id": "6446", "fipe_name": "GLK 220 CDI 2.2 TB 4X4 170cv Aut. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLK 220 Sport CDI 2.2 TB 4X4 Aut. Diesel", "marca": "MERCEDES-BENZ", "key": "glk-6447", "id": "6447", "fipe_name": "GLK 220 Sport CDI 2.2 TB 4X4 Aut. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLK 280 3.0 V6 24V 4x4 231cv Aut.", "marca": "MERCEDES-BENZ", "key": "glk-4832", "id": "4832", "fipe_name": "GLK 280 3.0 V6 24V 4x4 231cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLK 300 3.0 V6 24V 4x4 231cv Aut.", "marca": "MERCEDES-BENZ", "key": "glk-5134", "id": "5134", "fipe_name": "GLK 300 3.0 V6 24V 4x4 231cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "GLK 300 3.5 CGI V6 4x4 252cv Aut.", "marca": "MERCEDES-BENZ", "key": "glk-6360", "id": "6360", "fipe_name": "GLK 300 3.5 CGI V6 4x4 252cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-230 4x4", "marca": "MERCEDES-BENZ", "key": "ml-230-1621", "id": "1621", "fipe_name": "ML-230 4x4"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-320 3.0 V6 224cv 4x4 diesel", "marca": "MERCEDES-BENZ", "key": "ml-320-4686", "id": "4686", "fipe_name": "ML-320 3.0 V6 224cv 4x4 diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-320 4x4", "marca": "MERCEDES-BENZ", "key": "ml-320-1622", "id": "1622", "fipe_name": "ML-320 4x4"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-350 3.0 V6  4x4 Diesel", "marca": "MERCEDES-BENZ", "key": "ml-350-5035", "id": "5035", "fipe_name": "ML-350 3.0 V6  4x4 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-350 3.5 234cv 4x4", "marca": "MERCEDES-BENZ", "key": "ml-350-1623", "id": "1623", "fipe_name": "ML-350 3.5 234cv 4x4"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-350 Sport 3.0 V6 258cv 4X4 Diesel", "marca": "MERCEDES-BENZ", "key": "ml-350-6591", "id": "6591", "fipe_name": "ML-350 Sport 3.0 V6 258cv 4X4 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-350 Sport CGI 3.5 V6 306cv 4x4 Aut.", "marca": "MERCEDES-BENZ", "key": "ml-350-6124", "id": "6124", "fipe_name": "ML-350 Sport CGI 3.5 V6 306cv 4x4 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-430", "marca": "MERCEDES-BENZ", "key": "ml-430-1624", "id": "1624", "fipe_name": "ML-430"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-500 V8 24V", "marca": "MERCEDES-BENZ", "key": "ml-500-1625", "id": "1625", "fipe_name": "ML-500 V8 24V"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-55 AMG 5.5 24v", "marca": "MERCEDES-BENZ", "key": "ml-55-1626", "id": "1626", "fipe_name": "ML-55 AMG 5.5 24v"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-63 AMG 5.5 V8 Bi-Turbo Aut.", "marca": "MERCEDES-BENZ", "key": "ml-63-6239", "id": "6239", "fipe_name": "ML-63 AMG 5.5 V8 Bi-Turbo Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "ML-63 AMG 6.2 V8 32V 510cv", "marca": "MERCEDES-BENZ", "key": "ml-63-4318", "id": "4318", "fipe_name": "ML-63 AMG 6.2 V8 32V 510cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-320 L Classic/Wagon Classic 3.2", "marca": "MERCEDES-BENZ", "key": "s-320-1627", "id": "1627", "fipe_name": "S-320 L Classic/Wagon Classic 3.2"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-400 Hybrid 3.5 V6 279cv Aut.", "marca": "MERCEDES-BENZ", "key": "s-400-5214", "id": "5214", "fipe_name": "S-400 Hybrid 3.5 V6 279cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-420 Classic 4.0", "marca": "MERCEDES-BENZ", "key": "s-420-1628", "id": "1628", "fipe_name": "S-420 Classic 4.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-500 5.0", "marca": "MERCEDES-BENZ", "key": "s-500-1629", "id": "1629", "fipe_name": "S-500 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-500 C Classic 5.0", "marca": "MERCEDES-BENZ", "key": "s-500-1630", "id": "1630", "fipe_name": "S-500 C Classic 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-500 L/ L Classic/ Wagon Classic 5.0", "marca": "MERCEDES-BENZ", "key": "s-500-1631", "id": "1631", "fipe_name": "S-500 L/ L Classic/ Wagon Classic 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-500L 4.7 Bi-Turbo V8 455cv Aut.", "marca": "MERCEDES-BENZ", "key": "s-500l-6700", "id": "6700", "fipe_name": "S-500L 4.7 Bi-Turbo V8 455cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-500L 5.0", "marca": "MERCEDES-BENZ", "key": "s-500l-1632", "id": "1632", "fipe_name": "S-500L 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-55 AMG V8 24V 364cv/ 500cv", "marca": "MERCEDES-BENZ", "key": "s-55-1633", "id": "1633", "fipe_name": "S-55 AMG V8 24V 364cv/ 500cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-600 L/ L Classic/ Wagon Classic 6.0", "marca": "MERCEDES-BENZ", "key": "s-600-1634", "id": "1634", "fipe_name": "S-600 L/ L Classic/ Wagon Classic 6.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-600/ S-600 C Classic 6.0", "marca": "MERCEDES-BENZ", "key": "s-600-1635", "id": "1635", "fipe_name": "S-600/ S-600 C Classic 6.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-63 AMG 5.5 V8 BI-TURBO Aut.", "marca": "MERCEDES-BENZ", "key": "s-63-5747", "id": "5747", "fipe_name": "S-63 AMG 5.5 V8 BI-TURBO Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-63 AMG 6.2 V8 525cv Aut", "marca": "MERCEDES-BENZ", "key": "s-63-4517", "id": "4517", "fipe_name": "S-63 AMG 6.2 V8 525cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-63 AMG L 6.2 V8/5.5 V8 Bi-TB Aut", "marca": "MERCEDES-BENZ", "key": "s-63-4518", "id": "4518", "fipe_name": "S-63 AMG L 6.2 V8/5.5 V8 Bi-TB Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-63 Coupe AMG 5.5 V8 Bi-Turbo Aut.", "marca": "MERCEDES-BENZ", "key": "s-63-7229", "id": "7229", "fipe_name": "S-63 Coupe AMG 5.5 V8 Bi-Turbo Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "S-65 AMG 6.0 V12 612cv Aut", "marca": "MERCEDES-BENZ", "key": "s-65-4261", "id": "4261", "fipe_name": "S-65 AMG 6.0 V12 612cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SE-500", "marca": "MERCEDES-BENZ", "key": "se-500-1636", "id": "1636", "fipe_name": "SE-500"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-280 Classic 2.8", "marca": "MERCEDES-BENZ", "key": "sl-280-1637", "id": "1637", "fipe_name": "SL-280 Classic 2.8"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-320 3.2/Classic 3.2", "marca": "MERCEDES-BENZ", "key": "sl-320-1638", "id": "1638", "fipe_name": "SL-320 3.2/Classic 3.2"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-350 3.5 V6 2p", "marca": "MERCEDES-BENZ", "key": "sl-350-3899", "id": "3899", "fipe_name": "SL-350 3.5 V6 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-350 Sport 3.5 V6 316cv", "marca": "MERCEDES-BENZ", "key": "sl-350-5281", "id": "5281", "fipe_name": "SL-350 Sport 3.5 V6 316cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-400 3.0 Bi-Turbo V6 2p", "marca": "MERCEDES-BENZ", "key": "sl-400-7197", "id": "7197", "fipe_name": "SL-400 3.0 Bi-Turbo V6 2p"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-500 5.0 e 5.5/ Classic 5.0", "marca": "MERCEDES-BENZ", "key": "sl-500-1639", "id": "1639", "fipe_name": "SL-500 5.0 e 5.5/ Classic 5.0"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-55 AMG V8 24V 500cv", "marca": "MERCEDES-BENZ", "key": "sl-55-1640", "id": "1640", "fipe_name": "SL-55 AMG V8 24V 500cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-600", "marca": "MERCEDES-BENZ", "key": "sl-600-1641", "id": "1641", "fipe_name": "SL-600"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-63 AMG 5.5 Bi-Turbo V8 537cv Aut.", "marca": "MERCEDES-BENZ", "key": "sl-63-6359", "id": "6359", "fipe_name": "SL-63 AMG 5.5 Bi-Turbo V8 537cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-63 AMG 6.2 V8 525cv Aut", "marca": "MERCEDES-BENZ", "key": "sl-63-4701", "id": "4701", "fipe_name": "SL-63 AMG 6.2 V8 525cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SL-65 AMG 6.0 V12 612cv Aut", "marca": "MERCEDES-BENZ", "key": "sl-65-4702", "id": "4702", "fipe_name": "SL-65 AMG 6.0 V12 612cv Aut"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-200 Kompressor 16V/ 200 CGI 16V", "marca": "MERCEDES-BENZ", "key": "slk-200-1642", "id": "1642", "fipe_name": "SLK-200 Kompressor 16V/ 200 CGI 16V"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-230 Kompressor", "marca": "MERCEDES-BENZ", "key": "slk-230-1643", "id": "1643", "fipe_name": "SLK-230 Kompressor"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-230 Plus", "marca": "MERCEDES-BENZ", "key": "slk-230-1644", "id": "1644", "fipe_name": "SLK-230 Plus"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-250 CGI 1.8 16V 204cv Aut.", "marca": "MERCEDES-BENZ", "key": "slk-250-5935", "id": "5935", "fipe_name": "SLK-250 CGI 1.8 16V 204cv Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-320 3.2 218cv", "marca": "MERCEDES-BENZ", "key": "slk-320-1645", "id": "1645", "fipe_name": "SLK-320 3.2 218cv"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-350 3.5 V6/SLK-350 CGI", "marca": "MERCEDES-BENZ", "key": "slk-350-1646", "id": "1646", "fipe_name": "SLK-350 3.5 V6/SLK-350 CGI"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLK-55 AMG V8 24V", "marca": "MERCEDES-BENZ", "key": "slk-55-1647", "id": "1647", "fipe_name": "SLK-55 AMG V8 24V"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLS-63 AMG 6.2 8V Black Series Aut.", "marca": "MERCEDES-BENZ", "key": "sls-63-6755", "id": "6755", "fipe_name": "SLS-63 AMG 6.2 8V Black Series Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLS-63 AMG 6.2 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "sls-63-5641", "id": "5641", "fipe_name": "SLS-63 AMG 6.2 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "SLS-63 AMG Roadster 6.3 V8 Aut.", "marca": "MERCEDES-BENZ", "key": "sls-63-5900", "id": "5900", "fipe_name": "SLS-63 AMG Roadster 6.3 V8 Aut."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Chassi Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1648", "id": "1648", "fipe_name": "Sprinter 310 Chassi Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Furg\u00e3o 2.5 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1649", "id": "1649", "fipe_name": "Sprinter 310 Furg\u00e3o 2.5 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Pick-Up Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1650", "id": "1650", "fipe_name": "Sprinter 310 Pick-Up Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Van Exec. 9Lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1651", "id": "1651", "fipe_name": "Sprinter 310 Van Exec. 9Lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Van Luxo/Exec. 12/14L Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-1652", "id": "1652", "fipe_name": "Sprinter 310 Van Luxo/Exec. 12/14L Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Van Std 12e14L/Luxo 9L.Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1653", "id": "1653", "fipe_name": "Sprinter 310 Van Std 12e14L/Luxo 9L.Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 310 Van Std. 9Lug. 2.5 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1654", "id": "1654", "fipe_name": "Sprinter 310 Van Std. 9Lug. 2.5 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Chassi 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1655", "id": "1655", "fipe_name": "Sprinter 311 Chassi 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Chassi E. Longa 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-7125", "id": "7125", "fipe_name": "Sprinter 311 Chassi E. Longa 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Furg\u00e3o Curto 2.2 Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1656", "id": "1656", "fipe_name": "Sprinter 311 Furg\u00e3o Curto 2.2 Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Furg\u00e3o E.Longo T.Alto Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-5642", "id": "5642", "fipe_name": "Sprinter 311 Furg\u00e3o E.Longo T.Alto Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Furg\u00e3o Longo 2.2  Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1657", "id": "1657", "fipe_name": "Sprinter 311 Furg\u00e3o Longo 2.2  Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Furg\u00e3o Longo Teto alto Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1658", "id": "1658", "fipe_name": "Sprinter 311 Furg\u00e3o Longo Teto alto Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Street Luxo 2.2 16Lug. Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1659", "id": "1659", "fipe_name": "Sprinter 311 Street Luxo 2.2 16Lug. Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 Street Std. 2.2 16Lug. Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1660", "id": "1660", "fipe_name": "Sprinter 311 Street Std. 2.2 16Lug. Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 VAN Luxo 2.2 109cv 13L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1661", "id": "1661", "fipe_name": "Sprinter 311 VAN Luxo 2.2 109cv 13L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 VAN Luxo 2.2 109cv 16L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1662", "id": "1662", "fipe_name": "Sprinter 311 VAN Luxo 2.2 109cv 16L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 VAN Std. 2.2 109cv 13L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1663", "id": "1663", "fipe_name": "Sprinter 311 VAN Std. 2.2 109cv 13L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 311 VAN Std. 2.2 109cv 16L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1664", "id": "1664", "fipe_name": "Sprinter 311 VAN Std. 2.2 109cv 16L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Furg\u00e3o Curto Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1665", "id": "1665", "fipe_name": "Sprinter 312 Furg\u00e3o Curto Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Furg\u00e3o Longo Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1666", "id": "1666", "fipe_name": "Sprinter 312 Furg\u00e3o Longo Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Furg\u00e3o Longo T.Alto Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1667", "id": "1667", "fipe_name": "Sprinter 312 Furg\u00e3o Longo T.Alto Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Exec. 10Lug. 2.5 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1668", "id": "1668", "fipe_name": "Sprinter 312 Van Exec. 10Lug. 2.5 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Exec. 12Lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1669", "id": "1669", "fipe_name": "Sprinter 312 Van Exec. 12Lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Luxo 10lug.  Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1670", "id": "1670", "fipe_name": "Sprinter 312 Van Luxo 10lug.  Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Luxo 12lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1671", "id": "1671", "fipe_name": "Sprinter 312 Van Luxo 12lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Luxo 15lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1672", "id": "1672", "fipe_name": "Sprinter 312 Van Luxo 15lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Luxo 16lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1673", "id": "1673", "fipe_name": "Sprinter 312 Van Luxo 16lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Luxo Lota\u00e7\u00e3o 16lug.Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1674", "id": "1674", "fipe_name": "Sprinter 312 Van Luxo Lota\u00e7\u00e3o 16lug.Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Std 12lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1675", "id": "1675", "fipe_name": "Sprinter 312 Van Std 12lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Std 16lug. Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1676", "id": "1676", "fipe_name": "Sprinter 312 Van Std 16lug. Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Std Lota\u00e7\u00e3o 16lug. Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1677", "id": "1677", "fipe_name": "Sprinter 312 Van Std Lota\u00e7\u00e3o 16lug. Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Street Luxo 15Lug.Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-1678", "id": "1678", "fipe_name": "Sprinter 312 Van Street Luxo 15Lug.Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312 Van Street Std. 15Lug.Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-1679", "id": "1679", "fipe_name": "Sprinter 312 Van Street Std. 15Lug.Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 312-D Chassi Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1680", "id": "1680", "fipe_name": "Sprinter 312-D Chassi Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 Chassi 2.2 129cv Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1681", "id": "1681", "fipe_name": "Sprinter 313 Chassi 2.2 129cv Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 Furg\u00e3o Curto 2.2 129cv Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1682", "id": "1682", "fipe_name": "Sprinter 313 Furg\u00e3o Curto 2.2 129cv Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 Furg\u00e3o Longo 2.2 129cv Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1683", "id": "1683", "fipe_name": "Sprinter 313 Furg\u00e3o Longo 2.2 129cv Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 Furg\u00e3o Longo T. Alto Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1684", "id": "1684", "fipe_name": "Sprinter 313 Furg\u00e3o Longo T. Alto Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Exec 2.2 Mec/S-Aut Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1685", "id": "1685", "fipe_name": "Sprinter 313 VAN Exec 2.2 Mec/S-Aut Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Luxo 2.2 129cv 13L.Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1686", "id": "1686", "fipe_name": "Sprinter 313 VAN Luxo 2.2 129cv 13L.Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Luxo 2.2 129cv 16L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1687", "id": "1687", "fipe_name": "Sprinter 313 VAN Luxo 2.2 129cv 16L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Std. 2.2 129cv 13L.Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1688", "id": "1688", "fipe_name": "Sprinter 313 VAN Std. 2.2 129cv 13L.Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Std. 2.2 129cv 16L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-1689", "id": "1689", "fipe_name": "Sprinter 313 VAN Std. 2.2 129cv 16L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Street Luxo 16L. Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-1690", "id": "1690", "fipe_name": "Sprinter 313 VAN Street Luxo 16L. Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 313 VAN Street Std. 16L. Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-1691", "id": "1691", "fipe_name": "Sprinter 313 VAN Street Std. 16L. Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 412-D Chassi Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1692", "id": "1692", "fipe_name": "Sprinter 412-D Chassi Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 413 Furg\u00e3o Longo T.Alto Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1693", "id": "1693", "fipe_name": "Sprinter 413 Furg\u00e3o Longo T.Alto Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 413 VAN Luxo 2.2 16 e 20L Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-4534", "id": "4534", "fipe_name": "Sprinter 413 VAN Luxo 2.2 16 e 20L Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 413-D Chassi Curto/Longo Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-1694", "id": "1694", "fipe_name": "Sprinter 413-D Chassi Curto/Longo Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 Chassi L. 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6179", "id": "6179", "fipe_name": "Sprinter 415 Chassi L. 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 Furg\u00e3o Curto T.B. 2.2 Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-6180", "id": "6180", "fipe_name": "Sprinter 415 Furg\u00e3o Curto T.B. 2.2 Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 Furg\u00e3o E.L.T.Alt. 2.2 Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-6181", "id": "6181", "fipe_name": "Sprinter 415 Furg\u00e3o E.L.T.Alt. 2.2 Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 Furg\u00e3o Lon.T.Alto 2.2 Dies", "marca": "MERCEDES-BENZ", "key": "sprinter-6126", "id": "6126", "fipe_name": "Sprinter 415 Furg\u00e3o Lon.T.Alto 2.2 Dies"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 Furg\u00e3o Lon.T.Bai. 2.2 Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-6128", "id": "6128", "fipe_name": "Sprinter 415 Furg\u00e3o Lon.T.Bai. 2.2 Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 VAN Luxo T.A. 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6182", "id": "6182", "fipe_name": "Sprinter 415 VAN Luxo T.A. 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 VAN Luxo T.B. 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6183", "id": "6183", "fipe_name": "Sprinter 415 VAN Luxo T.B. 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 VAN Standard T.A. 2.2 Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-6184", "id": "6184", "fipe_name": "Sprinter 415 VAN Standard T.A. 2.2 Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 415 VAN Standard T.B. 2.2 Dies.", "marca": "MERCEDES-BENZ", "key": "sprinter-6185", "id": "6185", "fipe_name": "Sprinter 415 VAN Standard T.B. 2.2 Dies."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 515 Chassi E. L. 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6186", "id": "6186", "fipe_name": "Sprinter 515 Chassi E. L. 2.2 Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 515 Chassi L. 2.2  Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6187", "id": "6187", "fipe_name": "Sprinter 515 Chassi L. 2.2  Diesel"
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 515 Furg\u00e3o E.L.T. Alto 2.2 Die.", "marca": "MERCEDES-BENZ", "key": "sprinter-6129", "id": "6129", "fipe_name": "Sprinter 515 Furg\u00e3o E.L.T. Alto 2.2 Die."
+}
+, {"fipe_marca": "Mercedes-Benz", "name": "Sprinter 515 VAN 2.2 Diesel", "marca": "MERCEDES-BENZ", "key": "sprinter-6361", "id": "6361", "fipe_name": "Sprinter 515 VAN 2.2 Diesel"
+}
+]

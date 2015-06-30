@@ -1,0 +1,68 @@
+{"contador" = "33"}
+[{"fipe_marca": "Chrysler", "name": "300 C 3.5 V6 249cv", "marca": "CHRYSLER", "key": "300-4528", "id": "4528", "fipe_name": "300 C 3.5 V6 249cv"
+}
+, {"fipe_marca": "Chrysler", "name": "300 C 3.6 V6 286cv Aut.", "marca": "CHRYSLER", "key": "300-5878", "id": "5878", "fipe_name": "300 C 3.6 V6 286cv Aut."
+}
+, {"fipe_marca": "Chrysler", "name": "300 C 5.7 V8 16V 340cv Aut.", "marca": "CHRYSLER", "key": "300-3881", "id": "3881", "fipe_name": "300 C 5.7 V8 16V 340cv Aut."
+}
+, {"fipe_marca": "Chrysler", "name": "300 C SRT8 6.1 V8 16V 431cv Aut", "marca": "CHRYSLER", "key": "300-4186", "id": "4186", "fipe_name": "300 C SRT8 6.1 V8 16V 431cv Aut"
+}
+, {"fipe_marca": "Chrysler", "name": "300 C Touring 5.7 V8 16V 340cv Aut.", "marca": "CHRYSLER", "key": "300-4158", "id": "4158", "fipe_name": "300 C Touring 5.7 V8 16V 340cv Aut."
+}
+, {"fipe_marca": "Chrysler", "name": "300 M 3.5", "marca": "CHRYSLER", "key": "300-261", "id": "261", "fipe_name": "300 M 3.5"
+}
+, {"fipe_marca": "Chrysler", "name": "Caravan LE  3.3", "marca": "CHRYSLER", "key": "caravan-262", "id": "262", "fipe_name": "Caravan LE  3.3"
+}
+, {"fipe_marca": "Chrysler", "name": "Caravan LX 3.3 V6 182cv", "marca": "CHRYSLER", "key": "caravan-3811", "id": "3811", "fipe_name": "Caravan LX 3.3 V6 182cv"
+}
+, {"fipe_marca": "Chrysler", "name": "Caravan LX 3.8", "marca": "CHRYSLER", "key": "caravan-263", "id": "263", "fipe_name": "Caravan LX 3.8"
+}
+, {"fipe_marca": "Chrysler", "name": "Caravan SE 2.4/3.3", "marca": "CHRYSLER", "key": "caravan-264", "id": "264", "fipe_name": "Caravan SE 2.4/3.3"
+}
+, {"fipe_marca": "Chrysler", "name": "Cirrus LXi 2.5 V6 24V", "marca": "CHRYSLER", "key": "cirrus-265", "id": "265", "fipe_name": "Cirrus LXi 2.5 V6 24V"
+}
+, {"fipe_marca": "Chrysler", "name": "Gran Caravan SE 3.3 V6", "marca": "CHRYSLER", "key": "gran-266", "id": "266", "fipe_name": "Gran Caravan SE 3.3 V6"
+}
+, {"fipe_marca": "Chrysler", "name": "Grand Caravan LE 3.3 Aut", "marca": "CHRYSLER", "key": "grand-267", "id": "267", "fipe_name": "Grand Caravan LE 3.3 Aut"
+}
+, {"fipe_marca": "Chrysler", "name": "Grand Caravan Limited 3.3 V6 12V 182cv", "marca": "CHRYSLER", "key": "grand-268", "id": "268", "fipe_name": "Grand Caravan Limited 3.3 V6 12V 182cv"
+}
+, {"fipe_marca": "Chrysler", "name": "Grand Caravan LX 3.8", "marca": "CHRYSLER", "key": "grand-269", "id": "269", "fipe_name": "Grand Caravan LX 3.8"
+}
+, {"fipe_marca": "Chrysler", "name": "LE Baron 3.0 V6", "marca": "CHRYSLER", "key": "le-270", "id": "270", "fipe_name": "LE Baron 3.0 V6"
+}
+, {"fipe_marca": "Chrysler", "name": "LE Baron 3.0 V6 Conv.", "marca": "CHRYSLER", "key": "le-271", "id": "271", "fipe_name": "LE Baron 3.0 V6 Conv."
+}
+, {"fipe_marca": "Chrysler", "name": "Neon LE 1.8", "marca": "CHRYSLER", "key": "neon-272", "id": "272", "fipe_name": "Neon LE 1.8"
+}
+, {"fipe_marca": "Chrysler", "name": "Neon LE/Highline 2.0", "marca": "CHRYSLER", "key": "neon-273", "id": "273", "fipe_name": "Neon LE/Highline 2.0"
+}
+, {"fipe_marca": "Chrysler", "name": "Neon Sport 1.8/2.0", "marca": "CHRYSLER", "key": "neon-274", "id": "274", "fipe_name": "Neon Sport 1.8/2.0"
+}
+, {"fipe_marca": "Chrysler", "name": "PT Cruiser Cabrio 2.4 16V 143cv 2p", "marca": "CHRYSLER", "key": "pt-4255", "id": "4255", "fipe_name": "PT Cruiser Cabrio 2.4 16V 143cv 2p"
+}
+, {"fipe_marca": "Chrysler", "name": "PT Cruiser Classic 2.4 16V 143cv 4p", "marca": "CHRYSLER", "key": "pt-3882", "id": "3882", "fipe_name": "PT Cruiser Classic 2.4 16V 143cv 4p"
+}
+, {"fipe_marca": "Chrysler", "name": "PT Cruiser Limited 2.0 16V 4p", "marca": "CHRYSLER", "key": "pt-275", "id": "275", "fipe_name": "PT Cruiser Limited 2.0 16V 4p"
+}
+, {"fipe_marca": "Chrysler", "name": "PT Cruiser Limited 2.4 16V 143cv 4p", "marca": "CHRYSLER", "key": "pt-276", "id": "276", "fipe_name": "PT Cruiser Limited 2.4 16V 143cv 4p"
+}
+, {"fipe_marca": "Chrysler", "name": "PT Cruiser Touring DEC. EDITION 2.4 16V", "marca": "CHRYSLER", "key": "pt-5237", "id": "5237", "fipe_name": "PT Cruiser Touring DEC. EDITION 2.4 16V"
+}
+, {"fipe_marca": "Chrysler", "name": "Sebring LX 2.7 V6 24V 204cv", "marca": "CHRYSLER", "key": "sebring-277", "id": "277", "fipe_name": "Sebring LX 2.7 V6 24V 204cv"
+}
+, {"fipe_marca": "Chrysler", "name": "Stratus LE 2.0", "marca": "CHRYSLER", "key": "stratus-278", "id": "278", "fipe_name": "Stratus LE 2.0"
+}
+, {"fipe_marca": "Chrysler", "name": "Stratus LX 2.0 Mec", "marca": "CHRYSLER", "key": "stratus-279", "id": "279", "fipe_name": "Stratus LX 2.0 Mec"
+}
+, {"fipe_marca": "Chrysler", "name": "Stratus LX 2.5 Aut", "marca": "CHRYSLER", "key": "stratus-280", "id": "280", "fipe_name": "Stratus LX 2.5 Aut"
+}
+, {"fipe_marca": "Chrysler", "name": "Stratus LX 2.5 Convers\u00edvel Aut", "marca": "CHRYSLER", "key": "stratus-281", "id": "281", "fipe_name": "Stratus LX 2.5 Convers\u00edvel Aut"
+}
+, {"fipe_marca": "Chrysler", "name": "TOWN & COUNTRY Limited 3.8 /3.6 V6 Aut.", "marca": "CHRYSLER", "key": "town-4623", "id": "4623", "fipe_name": "TOWN & COUNTRY Limited 3.8 /3.6 V6 Aut."
+}
+, {"fipe_marca": "Chrysler", "name": "TOWN & COUNTRY Touring 3.6 V6 Aut.", "marca": "CHRYSLER", "key": "town-5720", "id": "5720", "fipe_name": "TOWN & COUNTRY Touring 3.6 V6 Aut."
+}
+, {"fipe_marca": "Chrysler", "name": "Vision 3.5 24V", "marca": "CHRYSLER", "key": "vision-282", "id": "282", "fipe_name": "Vision 3.5 24V"
+}
+]

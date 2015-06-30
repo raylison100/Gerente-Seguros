@@ -1,0 +1,30 @@
+{"contador" = "14"}
+[{"fipe_marca": "JAC", "name": "J2 1.4 16V 5p Mec.", "marca": "JAC", "key": "j2-6272", "id": "6272", "fipe_name": "J2 1.4 16V 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J2 1.4 JET Flex 16V 5p Mec", "marca": "JAC", "key": "j2-7100", "id": "7100", "fipe_name": "J2 1.4 JET Flex 16V 5p Mec"
+}
+, {"fipe_marca": "JAC", "name": "J3 1.4 16V 5p Mec.", "marca": "JAC", "key": "j3-5498", "id": "5498", "fipe_name": "J3 1.4 16V 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J3 Brasil1.4 16V 5p Mec.", "marca": "JAC", "key": "j3-5698", "id": "5698", "fipe_name": "J3 Brasil1.4 16V 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J3 S 1.5 JET Flex 16v VVT 5p", "marca": "JAC", "key": "j3-6384", "id": "6384", "fipe_name": "J3 S 1.5 JET Flex 16v VVT 5p"
+}
+, {"fipe_marca": "JAC", "name": "J3 S turin 1.5 JET Flex 16V 4p Mec.", "marca": "JAC", "key": "j3-6749", "id": "6749", "fipe_name": "J3 S turin 1.5 JET Flex 16V 4p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J3 turin Sedan 1.4 16V 4p Mec.", "marca": "JAC", "key": "j3-5499", "id": "5499", "fipe_name": "J3 turin Sedan 1.4 16V 4p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J3 turin Sedan Brasil 1.4 16V 4p Mec.", "marca": "JAC", "key": "j3-5699", "id": "5699", "fipe_name": "J3 turin Sedan Brasil 1.4 16V 4p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J5 Sedan 1.5 16V 4p Mec.", "marca": "JAC", "key": "j5-5933", "id": "5933", "fipe_name": "J5 Sedan 1.5 16V 4p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J6 2.0 16V 5p Mec.", "marca": "JAC", "key": "j6-5579", "id": "5579", "fipe_name": "J6 2.0 16V 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "J6 2.0 JET Flex 5p Mec.", "marca": "JAC", "key": "j6-7101", "id": "7101", "fipe_name": "J6 2.0 JET Flex 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "T 140 2.8 2p (diesel)", "marca": "JAC", "key": "t-6440", "id": "6440", "fipe_name": "T 140 2.8 2p (diesel)"
+}
+, {"fipe_marca": "JAC", "name": "T6 2.0 JET Flex 5p Mec.", "marca": "JAC", "key": "t6-7102", "id": "7102", "fipe_name": "T6 2.0 JET Flex 5p Mec."
+}
+, {"fipe_marca": "JAC", "name": "T8 2.0 16V 5p Mec.", "marca": "JAC", "key": "t8-6713", "id": "6713", "fipe_name": "T8 2.0 16V 5p Mec."
+}
+]

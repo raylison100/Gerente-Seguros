@@ -1,0 +1,24 @@
+{"contador" = "11"}
+[{"fipe_marca": "EFFA", "name": "M-100 1.0 8v 5p", "marca": "EFFA", "key": "m-100-4637", "id": "4637", "fipe_name": "M-100 1.0 8v 5p"
+}
+, {"fipe_marca": "EFFA", "name": "Plutus 3.2 8V 4x2 CD Turbo Diesel", "marca": "EFFA", "key": "plutus-5660", "id": "5660", "fipe_name": "Plutus 3.2 8V 4x2 CD Turbo Diesel"
+}
+, {"fipe_marca": "EFFA", "name": "Start Picape CD 1.0 8V 5p", "marca": "EFFA", "key": "start-5661", "id": "5661", "fipe_name": "Start Picape CD 1.0 8V 5p"
+}
+, {"fipe_marca": "EFFA", "name": "Start Picape L 1.0 8V 2p", "marca": "EFFA", "key": "start-5662", "id": "5662", "fipe_name": "Start Picape L 1.0 8V 2p"
+}
+, {"fipe_marca": "EFFA", "name": "Start Van 1.0 8V 4p", "marca": "EFFA", "key": "start-5663", "id": "5663", "fipe_name": "Start Van 1.0 8V 4p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC FURG\u00c3O 1.0 8V 5p", "marca": "EFFA", "key": "ulc-4638", "id": "4638", "fipe_name": "ULC FURG\u00c3O 1.0 8V 5p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC PICAPE 1.0 8V 2p", "marca": "EFFA", "key": "ulc-4639", "id": "4639", "fipe_name": "ULC PICAPE 1.0 8V 2p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC PICAPE CD 1.0 8V 4p", "marca": "EFFA", "key": "ulc-5358", "id": "5358", "fipe_name": "ULC PICAPE CD 1.0 8V 4p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC PICAPE Longa 1.0 8V 2p", "marca": "EFFA", "key": "ulc-5359", "id": "5359", "fipe_name": "ULC PICAPE Longa 1.0 8V 2p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC PICAPE Longa Bau 1.0 8V 2p", "marca": "EFFA", "key": "ulc-5360", "id": "5360", "fipe_name": "ULC PICAPE Longa Bau 1.0 8V 2p"
+}
+, {"fipe_marca": "EFFA", "name": "ULC VAN 1.0 8V 5p", "marca": "EFFA", "key": "ulc-4640", "id": "4640", "fipe_name": "ULC VAN 1.0 8V 5p"
+}
+]

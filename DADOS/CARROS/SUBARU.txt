@@ -1,0 +1,122 @@
+{"contador" = "60"}
+[{"fipe_marca": "Subaru", "name": "Forester 2.0 16v 4x4 Turbo Aut.", "marca": "SUBARU", "key": "forester-2125", "id": "2125", "fipe_name": "Forester 2.0 16v 4x4 Turbo Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Forester 2.0 4x4 Mec.", "marca": "SUBARU", "key": "forester-2127", "id": "2127", "fipe_name": "Forester 2.0 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Forester 2.0 4x4 Turbo", "marca": "SUBARU", "key": "forester-2128", "id": "2128", "fipe_name": "Forester 2.0 4x4 Turbo"
+}
+, {"fipe_marca": "Subaru", "name": "Forester 2.0/2.0 S 4x4 Aut.", "marca": "SUBARU", "key": "forester-2126", "id": "2126", "fipe_name": "Forester 2.0/2.0 S 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Forester XT 2.0 16V 4x4 Turbo Aut.", "marca": "SUBARU", "key": "forester-6650", "id": "6650", "fipe_name": "Forester XT 2.0 16V 4x4 Turbo Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Forester XT 2.5 16V 4x4 Turbo Aut.", "marca": "SUBARU", "key": "forester-3911", "id": "3911", "fipe_name": "Forester XT 2.5 16V 4x4 Turbo Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Forester XT S-EDITION 2.5 16V 4x4 TB Aut", "marca": "SUBARU", "key": "forester-5651", "id": "5651", "fipe_name": "Forester XT S-EDITION 2.5 16V 4x4 TB Aut"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza 1.5 16V 115cv Aut.", "marca": "SUBARU", "key": "impreza-4645", "id": "4645", "fipe_name": "Impreza 1.5 16V 115cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza 1.5 16V 115cv Mec.", "marca": "SUBARU", "key": "impreza-4646", "id": "4646", "fipe_name": "Impreza 1.5 16V 115cv Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza 2.0 16V 160cv Aut.", "marca": "SUBARU", "key": "impreza-4647", "id": "4647", "fipe_name": "Impreza 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza 2.0 16V 160cv Mec.", "marca": "SUBARU", "key": "impreza-4648", "id": "4648", "fipe_name": "Impreza 2.0 16V 160cv Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 1.6/1.8 16V", "marca": "SUBARU", "key": "impreza-2129", "id": "2129", "fipe_name": "Impreza GL 1.6/1.8 16V"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 2.0 4x2 Aut.", "marca": "SUBARU", "key": "impreza-2130", "id": "2130", "fipe_name": "Impreza GL 2.0 4x2 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 2.0 4x2 Mec.", "marca": "SUBARU", "key": "impreza-2131", "id": "2131", "fipe_name": "Impreza GL 2.0 4x2 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 2.0 4x4 Aut.", "marca": "SUBARU", "key": "impreza-2133", "id": "2133", "fipe_name": "Impreza GL 2.0 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 2.0 4x4 Mec.", "marca": "SUBARU", "key": "impreza-2132", "id": "2132", "fipe_name": "Impreza GL 2.0 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 4x4 1.8 16V", "marca": "SUBARU", "key": "impreza-2134", "id": "2134", "fipe_name": "Impreza GL 4x4 1.8 16V"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GL 4x4 2.0 16V", "marca": "SUBARU", "key": "impreza-2135", "id": "2135", "fipe_name": "Impreza GL 4x4 2.0 16V"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza GT 2.0 Turbo", "marca": "SUBARU", "key": "impreza-2136", "id": "2136", "fipe_name": "Impreza GT 2.0 Turbo"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD 2.0 16V 160cv Aut.", "marca": "SUBARU", "key": "impreza-4815", "id": "4815", "fipe_name": "Impreza SD 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD 2.0/2.0i-S AWD Aut.", "marca": "SUBARU", "key": "impreza-6407", "id": "6407", "fipe_name": "Impreza SD 2.0/2.0i-S AWD Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD GX 2.0 16v 4x4 4p Aut.", "marca": "SUBARU", "key": "impreza-2137", "id": "2137", "fipe_name": "Impreza SD GX 2.0 16v 4x4 4p Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD RX 2.0 4x4", "marca": "SUBARU", "key": "impreza-2138", "id": "2138", "fipe_name": "Impreza SD RX 2.0 4x4"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD WRX 2.0 16v 4x4", "marca": "SUBARU", "key": "impreza-2139", "id": "2139", "fipe_name": "Impreza SD WRX 2.0 16v 4x4"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD WRX 2.5 16V TB 4x4 4p", "marca": "SUBARU", "key": "impreza-3912", "id": "3912", "fipe_name": "Impreza SD WRX 2.5 16V TB 4x4 4p"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SD WRX STI 2.5 16V TB 4x4", "marca": "SUBARU", "key": "impreza-5456", "id": "5456", "fipe_name": "Impreza SD WRX STI 2.5 16V TB 4x4"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SW GL 1.6/1.8/2.0 4x4 16V", "marca": "SUBARU", "key": "impreza-2140", "id": "2140", "fipe_name": "Impreza SW GL 1.6/1.8/2.0 4x4 16V"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SW GT 2.0 16v 4x4 Turbo Mec.", "marca": "SUBARU", "key": "impreza-2141", "id": "2141", "fipe_name": "Impreza SW GT 2.0 16v 4x4 Turbo Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SW GX 2.0 16v 4x4 Aut.", "marca": "SUBARU", "key": "impreza-2142", "id": "2142", "fipe_name": "Impreza SW GX 2.0 16v 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SW WRX 2.0 16v 4x4 TB", "marca": "SUBARU", "key": "impreza-2143", "id": "2143", "fipe_name": "Impreza SW WRX 2.0 16v 4x4 TB"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza SW WRX 2.5 16V TB 4x4 5p", "marca": "SUBARU", "key": "impreza-3913", "id": "3913", "fipe_name": "Impreza SW WRX 2.5 16V TB 4x4 5p"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza WRX 2.5 16V TB 4x4 5p", "marca": "SUBARU", "key": "impreza-4587", "id": "4587", "fipe_name": "Impreza WRX 2.5 16V TB 4x4 5p"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza WRX STI 2.5 16V TB 4x4", "marca": "SUBARU", "key": "impreza-4697", "id": "4697", "fipe_name": "Impreza WRX STI 2.5 16V TB 4x4"
+}
+, {"fipe_marca": "Subaru", "name": "Impreza XV 2.0 16V 160cv Aut.", "marca": "SUBARU", "key": "impreza-5457", "id": "5457", "fipe_name": "Impreza XV 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Impreza XV 2.0 16V 160cv Mec.", "marca": "SUBARU", "key": "impreza-5458", "id": "5458", "fipe_name": "Impreza XV 2.0 16V 160cv Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy 2.0 16V 160cv Aut.", "marca": "SUBARU", "key": "legacy-5215", "id": "5215", "fipe_name": "Legacy 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy 3.0 R H6 245cv Aut.", "marca": "SUBARU", "key": "legacy-2144", "id": "2144", "fipe_name": "Legacy 3.0 R H6 245cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL 1.8", "marca": "SUBARU", "key": "legacy-2145", "id": "2145", "fipe_name": "Legacy GL 1.8"
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL 2.0/ GLS Mec", "marca": "SUBARU", "key": "legacy-2146", "id": "2146", "fipe_name": "Legacy GL 2.0/ GLS Mec"
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL TW 2.0 4x2 Mec./Aut.", "marca": "SUBARU", "key": "legacy-2147", "id": "2147", "fipe_name": "Legacy GL TW 2.0 4x2 Mec./Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL TW 2.0 4x4 Aut.", "marca": "SUBARU", "key": "legacy-2148", "id": "2148", "fipe_name": "Legacy GL TW 2.0 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL TW 2.0 4x4 Mec.", "marca": "SUBARU", "key": "legacy-2149", "id": "2149", "fipe_name": "Legacy GL TW 2.0 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GL/ GLS 2.0 Aut.", "marca": "SUBARU", "key": "legacy-2150", "id": "2150", "fipe_name": "Legacy GL/ GLS 2.0 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GT 2.5  16V 280cv Aut.", "marca": "SUBARU", "key": "legacy-5216", "id": "5216", "fipe_name": "Legacy GT 2.5  16V 280cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX 2.2 4x4", "marca": "SUBARU", "key": "legacy-2151", "id": "2151", "fipe_name": "Legacy GX 2.2 4x4"
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX 2.5 4x4 Aut.", "marca": "SUBARU", "key": "legacy-2152", "id": "2152", "fipe_name": "Legacy GX 2.5 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX 2.5 4x4 Mec.", "marca": "SUBARU", "key": "legacy-2153", "id": "2153", "fipe_name": "Legacy GX 2.5 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX TW 2.2 4x4 Aut.", "marca": "SUBARU", "key": "legacy-2154", "id": "2154", "fipe_name": "Legacy GX TW 2.2 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX TW 2.2 4x4 Mec.", "marca": "SUBARU", "key": "legacy-2155", "id": "2155", "fipe_name": "Legacy GX TW 2.2 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX TW 2.5 4x4 Aut.", "marca": "SUBARU", "key": "legacy-2156", "id": "2156", "fipe_name": "Legacy GX TW 2.5 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Legacy GX TW 2.5 4x4 Mec", "marca": "SUBARU", "key": "legacy-2157", "id": "2157", "fipe_name": "Legacy GX TW 2.5 4x4 Mec"
+}
+, {"fipe_marca": "Subaru", "name": "Legacy SW 2.2", "marca": "SUBARU", "key": "legacy-2158", "id": "2158", "fipe_name": "Legacy SW 2.2"
+}
+, {"fipe_marca": "Subaru", "name": "Outback 2.5 4x4 Aut.", "marca": "SUBARU", "key": "outback-2159", "id": "2159", "fipe_name": "Outback 2.5 4x4 Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Outback 2.5 4x4 Mec.", "marca": "SUBARU", "key": "outback-2160", "id": "2160", "fipe_name": "Outback 2.5 4x4 Mec."
+}
+, {"fipe_marca": "Subaru", "name": "Outback 3.0 H6 SW 245cv Aut.", "marca": "SUBARU", "key": "outback-2161", "id": "2161", "fipe_name": "Outback 3.0 H6 SW 245cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Outback 3.6 H6 SW 280cv Aut.", "marca": "SUBARU", "key": "outback-5217", "id": "5217", "fipe_name": "Outback 3.6 H6 SW 280cv Aut."
+}
+, {"fipe_marca": "Subaru", "name": "SVX Cup\u00ea 3.3 4x4 Aut", "marca": "SUBARU", "key": "svx-2162", "id": "2162", "fipe_name": "SVX Cup\u00ea 3.3 4x4 Aut"
+}
+, {"fipe_marca": "Subaru", "name": "TRIBECA 3.6 24V 270cv 5p Aut.", "marca": "SUBARU", "key": "tribeca-4688", "id": "4688", "fipe_name": "TRIBECA 3.6 24V 270cv 5p Aut."
+}
+, {"fipe_marca": "Subaru", "name": "Vivio SD GLI 3p Mec", "marca": "SUBARU", "key": "vivio-2163", "id": "2163", "fipe_name": "Vivio SD GLI 3p Mec"
+}
+, {"fipe_marca": "Subaru", "name": "XV 2.0 16V 4x4 155cv Aut.", "marca": "SUBARU", "key": "xv-6331", "id": "6331", "fipe_name": "XV 2.0 16V 4x4 155cv Aut."
+}
+]

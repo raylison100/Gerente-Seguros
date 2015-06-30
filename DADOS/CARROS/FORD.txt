@@ -1,0 +1,782 @@
+{"contador" = "390"}
+[{"fipe_marca": "Ford", "name": "Aerostar Mini-Van 3.8", "marca": "FORD", "key": "aerostar-655", "id": "655", "fipe_name": "Aerostar Mini-Van 3.8"
+}
+, {"fipe_marca": "Ford", "name": "Aspire 1.3", "marca": "FORD", "key": "aspire-656", "id": "656", "fipe_name": "Aspire 1.3"
+}
+, {"fipe_marca": "Ford", "name": "Belina GL 1.8 / 1.6", "marca": "FORD", "key": "belina-657", "id": "657", "fipe_name": "Belina GL 1.8 / 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Belina L 1.8/ 1.6", "marca": "FORD", "key": "belina-658", "id": "658", "fipe_name": "Belina L 1.8/ 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Club Wagon V8", "marca": "FORD", "key": "club-659", "id": "659", "fipe_name": "Club Wagon V8"
+}
+, {"fipe_marca": "Ford", "name": "Club Wagon XLT 4.9 V6", "marca": "FORD", "key": "club-660", "id": "660", "fipe_name": "Club Wagon XLT 4.9 V6"
+}
+, {"fipe_marca": "Ford", "name": "Contour SE/ GL/ LX  2.0 16V", "marca": "FORD", "key": "contour-661", "id": "661", "fipe_name": "Contour SE/ GL/ LX  2.0 16V"
+}
+, {"fipe_marca": "Ford", "name": "Contour SE/GL/ LX 2.5 24V", "marca": "FORD", "key": "contour-662", "id": "662", "fipe_name": "Contour SE/GL/ LX 2.5 24V"
+}
+, {"fipe_marca": "Ford", "name": "Corcel II GL/GT", "marca": "FORD", "key": "corcel-663", "id": "663", "fipe_name": "Corcel II GL/GT"
+}
+, {"fipe_marca": "Ford", "name": "Corcel II L", "marca": "FORD", "key": "corcel-664", "id": "664", "fipe_name": "Corcel II L"
+}
+, {"fipe_marca": "Ford", "name": "Courier 1.3i/Furg\u00e3o", "marca": "FORD", "key": "courier-665", "id": "665", "fipe_name": "Courier 1.3i/Furg\u00e3o"
+}
+, {"fipe_marca": "Ford", "name": "Courier 1.6 L/ 1.6 Flex", "marca": "FORD", "key": "courier-666", "id": "666", "fipe_name": "Courier 1.6 L/ 1.6 Flex"
+}
+, {"fipe_marca": "Ford", "name": "Courier CLX 1.4i 16V", "marca": "FORD", "key": "courier-667", "id": "667", "fipe_name": "Courier CLX 1.4i 16V"
+}
+, {"fipe_marca": "Ford", "name": "Courier Si 1.4i 16V", "marca": "FORD", "key": "courier-668", "id": "668", "fipe_name": "Courier Si 1.4i 16V"
+}
+, {"fipe_marca": "Ford", "name": "Courier Sport 1.6 8v", "marca": "FORD", "key": "courier-669", "id": "669", "fipe_name": "Courier Sport 1.6 8v"
+}
+, {"fipe_marca": "Ford", "name": "Courier Van 1.6/ 1.6 Flex 8V  ( Carga )", "marca": "FORD", "key": "courier-4134", "id": "4134", "fipe_name": "Courier Van 1.6/ 1.6 Flex 8V  ( Carga )"
+}
+, {"fipe_marca": "Ford", "name": "Courier XL/XL-RS 1.6/ XL 1.6 Flex", "marca": "FORD", "key": "courier-670", "id": "670", "fipe_name": "Courier XL/XL-RS 1.6/ XL 1.6 Flex"
+}
+, {"fipe_marca": "Ford", "name": "Crown Victoria LX 4.6", "marca": "FORD", "key": "crown-671", "id": "671", "fipe_name": "Crown Victoria LX 4.6"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey Belina Ghia", "marca": "FORD", "key": "del-672", "id": "672", "fipe_name": "Del Rey Belina Ghia"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey Belina GL", "marca": "FORD", "key": "del-673", "id": "673", "fipe_name": "Del Rey Belina GL"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey Belina GLX", "marca": "FORD", "key": "del-674", "id": "674", "fipe_name": "Del Rey Belina GLX"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey Belina L", "marca": "FORD", "key": "del-675", "id": "675", "fipe_name": "Del Rey Belina L"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey Ghia 1.8 / 1.6 2p e 4p", "marca": "FORD", "key": "del-676", "id": "676", "fipe_name": "Del Rey Ghia 1.8 / 1.6 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p", "marca": "FORD", "key": "del-677", "id": "677", "fipe_name": "Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "Del Rey L 1.8 / 1.6 2p e 4p", "marca": "FORD", "key": "del-678", "id": "678", "fipe_name": "Del Rey L 1.8 / 1.6 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport 4WD 2.0/ 2.0 Flex 16V 5p", "marca": "FORD", "key": "ecosport-679", "id": "679", "fipe_name": "EcoSport 4WD 2.0/ 2.0 Flex 16V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport FREESTYLE 1.6 16V Flex 5p", "marca": "FORD", "key": "ecosport-6157", "id": "6157", "fipe_name": "EcoSport FREESTYLE 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport FREESTYLE 2.0 16V 4WD Flex 5p", "marca": "FORD", "key": "ecosport-6464", "id": "6464", "fipe_name": "EcoSport FREESTYLE 2.0 16V 4WD Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport FREESTYLE 2.0 16V Flex 5p", "marca": "FORD", "key": "ecosport-6158", "id": "6158", "fipe_name": "EcoSport FREESTYLE 2.0 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport FREESTYLE 2.0 16V Flex 5p Aut.", "marca": "FORD", "key": "ecosport-6913", "id": "6913", "fipe_name": "EcoSport FREESTYLE 2.0 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport S 1.6 16V Flex 5p", "marca": "FORD", "key": "ecosport-6159", "id": "6159", "fipe_name": "EcoSport S 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport SE 1.6 16V Flex 5p", "marca": "FORD", "key": "ecosport-6160", "id": "6160", "fipe_name": "EcoSport SE 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport SE 2.0 16V Flex 5p Aut.", "marca": "FORD", "key": "ecosport-6263", "id": "6263", "fipe_name": "EcoSport SE 2.0 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport TITANIUM 1.6 16V Flex 5p", "marca": "FORD", "key": "ecosport-6161", "id": "6161", "fipe_name": "EcoSport TITANIUM 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport TITANIUM 2.0 16V Flex 5p", "marca": "FORD", "key": "ecosport-6162", "id": "6162", "fipe_name": "EcoSport TITANIUM 2.0 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport TITANIUM 2.0 16V Flex 5p Aut.", "marca": "FORD", "key": "ecosport-6264", "id": "6264", "fipe_name": "EcoSport TITANIUM 2.0 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XL 1.6/ 1.6 Flex 8V 5p", "marca": "FORD", "key": "ecosport-680", "id": "680", "fipe_name": "EcoSport XL 1.6/ 1.6 Flex 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XL Supercharger 1.0 8V 95cv 5p", "marca": "FORD", "key": "ecosport-681", "id": "681", "fipe_name": "EcoSport XL Supercharger 1.0 8V 95cv 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLS 1.6/ 1.6 Flex 8V 5p", "marca": "FORD", "key": "ecosport-682", "id": "682", "fipe_name": "EcoSport XLS 1.6/ 1.6 Flex 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.", "marca": "FORD", "key": "ecosport-4256", "id": "4256", "fipe_name": "EcoSport XLS 2.0/2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLS FREESTYLE 1.6 Flex 8V 5p", "marca": "FORD", "key": "ecosport-3886", "id": "3886", "fipe_name": "EcoSport XLS FREESTYLE 1.6 Flex 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLT 1.6/ 1.6 Flex 8V 5p", "marca": "FORD", "key": "ecosport-683", "id": "683", "fipe_name": "EcoSport XLT 1.6/ 1.6 Flex 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.", "marca": "FORD", "key": "ecosport-4257", "id": "4257", "fipe_name": "EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.", "marca": "FORD", "key": "ecosport-684", "id": "684", "fipe_name": "EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLT FREESTYLE 1.6 Flex 8V 5p", "marca": "FORD", "key": "ecosport-4258", "id": "4258", "fipe_name": "EcoSport XLT FREESTYLE 1.6 Flex 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EcoSport XLT FREESTYLE 2.0 Flex 16V 5p", "marca": "FORD", "key": "ecosport-4829", "id": "4829", "fipe_name": "EcoSport XLT FREESTYLE 2.0 Flex 16V 5p"
+}
+, {"fipe_marca": "Ford", "name": "EDGE LIMITED 3.5 V6 24V AWD Aut.", "marca": "FORD", "key": "edge-5413", "id": "5413", "fipe_name": "EDGE LIMITED 3.5 V6 24V AWD Aut."
+}
+, {"fipe_marca": "Ford", "name": "EDGE LIMITED 3.5 V6 24V FWD Aut.", "marca": "FORD", "key": "edge-5741", "id": "5741", "fipe_name": "EDGE LIMITED 3.5 V6 24V FWD Aut."
+}
+, {"fipe_marca": "Ford", "name": "EDGE SEL 3.5 V6  24V FWD Aut.", "marca": "FORD", "key": "edge-5742", "id": "5742", "fipe_name": "EDGE SEL 3.5 V6  24V FWD Aut."
+}
+, {"fipe_marca": "Ford", "name": "EDGE SEL 3.5 V6 24V AWD Aut.", "marca": "FORD", "key": "edge-4810", "id": "4810", "fipe_name": "EDGE SEL 3.5 V6 24V AWD Aut."
+}
+, {"fipe_marca": "Ford", "name": "Escort  Racer 2.0i", "marca": "FORD", "key": "escort-685", "id": "685", "fipe_name": "Escort  Racer 2.0i"
+}
+, {"fipe_marca": "Ford", "name": "Escort Ghia 1.8i / 1.8 / 1.6", "marca": "FORD", "key": "escort-686", "id": "686", "fipe_name": "Escort Ghia 1.8i / 1.8 / 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Escort Ghia 2.0i / 2.0", "marca": "FORD", "key": "escort-687", "id": "687", "fipe_name": "Escort Ghia 2.0i / 2.0"
+}
+, {"fipe_marca": "Ford", "name": "Escort GL 1.6 MPI", "marca": "FORD", "key": "escort-688", "id": "688", "fipe_name": "Escort GL 1.6 MPI"
+}
+, {"fipe_marca": "Ford", "name": "Escort GL 1.6i / 1.6", "marca": "FORD", "key": "escort-689", "id": "689", "fipe_name": "Escort GL 1.6i / 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Escort GL 1.8i / 1.8", "marca": "FORD", "key": "escort-690", "id": "690", "fipe_name": "Escort GL 1.8i / 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Escort GL 1.8i 16V 3p", "marca": "FORD", "key": "escort-691", "id": "691", "fipe_name": "Escort GL 1.8i 16V 3p"
+}
+, {"fipe_marca": "Ford", "name": "Escort GL 1.8i 16V 4p", "marca": "FORD", "key": "escort-692", "id": "692", "fipe_name": "Escort GL 1.8i 16V 4p"
+}
+, {"fipe_marca": "Ford", "name": "Escort GLX 1.6i", "marca": "FORD", "key": "escort-693", "id": "693", "fipe_name": "Escort GLX 1.6i"
+}
+, {"fipe_marca": "Ford", "name": "Escort GLX 1.8i 16V 4p", "marca": "FORD", "key": "escort-694", "id": "694", "fipe_name": "Escort GLX 1.8i 16V 4p"
+}
+, {"fipe_marca": "Ford", "name": "Escort GLX 1.8i 8v", "marca": "FORD", "key": "escort-695", "id": "695", "fipe_name": "Escort GLX 1.8i 8v"
+}
+, {"fipe_marca": "Ford", "name": "Escort Guaruj\u00e1 1.8 4p", "marca": "FORD", "key": "escort-696", "id": "696", "fipe_name": "Escort Guaruj\u00e1 1.8 4p"
+}
+, {"fipe_marca": "Ford", "name": "Escort Hobby 1.0", "marca": "FORD", "key": "escort-697", "id": "697", "fipe_name": "Escort Hobby 1.0"
+}
+, {"fipe_marca": "Ford", "name": "Escort Hobby 1.6", "marca": "FORD", "key": "escort-698", "id": "698", "fipe_name": "Escort Hobby 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Escort L 1.8i / 1.8", "marca": "FORD", "key": "escort-699", "id": "699", "fipe_name": "Escort L 1.8i / 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Escort L/LX 1.6", "marca": "FORD", "key": "escort-700", "id": "700", "fipe_name": "Escort L/LX 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Escort RS 1.8i 16V", "marca": "FORD", "key": "escort-701", "id": "701", "fipe_name": "Escort RS 1.8i 16V"
+}
+, {"fipe_marca": "Ford", "name": "Escort S.W GL 1.8i 16V", "marca": "FORD", "key": "escort-702", "id": "702", "fipe_name": "Escort S.W GL 1.8i 16V"
+}
+, {"fipe_marca": "Ford", "name": "Escort S.W. GLX 1.8i 16V", "marca": "FORD", "key": "escort-703", "id": "703", "fipe_name": "Escort S.W. GLX 1.8i 16V"
+}
+, {"fipe_marca": "Ford", "name": "Escort SW 1.9 16v", "marca": "FORD", "key": "escort-704", "id": "704", "fipe_name": "Escort SW 1.9 16v"
+}
+, {"fipe_marca": "Ford", "name": "Escort SW GL 1.6 MPI", "marca": "FORD", "key": "escort-705", "id": "705", "fipe_name": "Escort SW GL 1.6 MPI"
+}
+, {"fipe_marca": "Ford", "name": "Escort XR3 1.8 / 1.6 Beneton/Form./Laser", "marca": "FORD", "key": "escort-706", "id": "706", "fipe_name": "Escort XR3 1.8 / 1.6 Beneton/Form./Laser"
+}
+, {"fipe_marca": "Ford", "name": "Escort XR3 1.8 / 1.6 Convers\u00edvel", "marca": "FORD", "key": "escort-707", "id": "707", "fipe_name": "Escort XR3 1.8 / 1.6 Convers\u00edvel"
+}
+, {"fipe_marca": "Ford", "name": "Escort XR3 2.0i", "marca": "FORD", "key": "escort-708", "id": "708", "fipe_name": "Escort XR3 2.0i"
+}
+, {"fipe_marca": "Ford", "name": "Escort XR3 2.0i Convers\u00edvel", "marca": "FORD", "key": "escort-709", "id": "709", "fipe_name": "Escort XR3 2.0i Convers\u00edvel"
+}
+, {"fipe_marca": "Ford", "name": "Expedition 5.4 V8", "marca": "FORD", "key": "expedition-710", "id": "710", "fipe_name": "Expedition 5.4 V8"
+}
+, {"fipe_marca": "Ford", "name": "Explorer Limited 4.0 4x4 V6 213cv", "marca": "FORD", "key": "explorer-711", "id": "711", "fipe_name": "Explorer Limited 4.0 4x4 V6 213cv"
+}
+, {"fipe_marca": "Ford", "name": "Explorer Limited 5.0 4x4 V8", "marca": "FORD", "key": "explorer-712", "id": "712", "fipe_name": "Explorer Limited 5.0 4x4 V8"
+}
+, {"fipe_marca": "Ford", "name": "Explorer Sport 4.0 V6", "marca": "FORD", "key": "explorer-713", "id": "713", "fipe_name": "Explorer Sport 4.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Explorer XL 4x2 4.0 V6", "marca": "FORD", "key": "explorer-714", "id": "714", "fipe_name": "Explorer XL 4x2 4.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Explorer XL 4x4 4.0 V6", "marca": "FORD", "key": "explorer-715", "id": "715", "fipe_name": "Explorer XL 4x4 4.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Explorer XLT 4x2 4.0 V6", "marca": "FORD", "key": "explorer-716", "id": "716", "fipe_name": "Explorer XLT 4x2 4.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Explorer XLT 4x4 4.0 V6", "marca": "FORD", "key": "explorer-717", "id": "717", "fipe_name": "Explorer XLT 4x4 4.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "F-100 2.3", "marca": "FORD", "key": "f-100-718", "id": "718", "fipe_name": "F-100 2.3"
+}
+, {"fipe_marca": "Ford", "name": "F-100 Blazer 2.3", "marca": "FORD", "key": "f-100-719", "id": "719", "fipe_name": "F-100 Blazer 2.3"
+}
+, {"fipe_marca": "Ford", "name": "F-100 CD 2.3", "marca": "FORD", "key": "f-100-720", "id": "720", "fipe_name": "F-100 CD 2.3"
+}
+, {"fipe_marca": "Ford", "name": "F-100 Super 2.3", "marca": "FORD", "key": "f-100-721", "id": "721", "fipe_name": "F-100 Super 2.3"
+}
+, {"fipe_marca": "Ford", "name": "F-100 Super S\u00e9rie 2.3", "marca": "FORD", "key": "f-100-722", "id": "722", "fipe_name": "F-100 Super S\u00e9rie 2.3"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 CD/Blazer 3.6", "marca": "FORD", "key": "f-1000-723", "id": "723", "fipe_name": "F-1000 CD/Blazer 3.6"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 CD/Blazer 3.9 Dies.", "marca": "FORD", "key": "f-1000-724", "id": "724", "fipe_name": "F-1000 CD/Blazer 3.9 Dies."
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Lightning/ Super 4.9i", "marca": "FORD", "key": "f-1000-725", "id": "725", "fipe_name": "F-1000 Lightning/ Super 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Regular Cab. 4.9i", "marca": "FORD", "key": "f-1000-726", "id": "726", "fipe_name": "F-1000 Regular Cab. 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 S. S. Diesel / S.S. Diesel Turbo", "marca": "FORD", "key": "f-1000-727", "id": "727", "fipe_name": "F-1000 S. S. Diesel / S.S. Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 SR XK  Deserter Diesel", "marca": "FORD", "key": "f-1000-728", "id": "728", "fipe_name": "F-1000 SR XK  Deserter Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 SR XK Deserter", "marca": "FORD", "key": "f-1000-729", "id": "729", "fipe_name": "F-1000 SR XK Deserter"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super 3.6 / Super S\u00e9rie 3.6", "marca": "FORD", "key": "f-1000-730", "id": "730", "fipe_name": "F-1000 Super 3.6 / Super S\u00e9rie 3.6"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super CE 4.9i / 3.6", "marca": "FORD", "key": "f-1000-731", "id": "731", "fipe_name": "F-1000 Super CE 4.9i / 3.6"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super Diesel / Super Diesel Turbo", "marca": "FORD", "key": "f-1000-732", "id": "732", "fipe_name": "F-1000 Super Diesel / Super Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super Diesel CE 3.9", "marca": "FORD", "key": "f-1000-733", "id": "733", "fipe_name": "F-1000 Super Diesel CE 3.9"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super S\u00e9rie CE 4.9i / 3.6", "marca": "FORD", "key": "f-1000-734", "id": "734", "fipe_name": "F-1000 Super S\u00e9rie CE 4.9i / 3.6"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super S\u00e9rie CE Diesel 3.9", "marca": "FORD", "key": "f-1000-735", "id": "735", "fipe_name": "F-1000 Super S\u00e9rie CE Diesel 3.9"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Super/ S.S\u00e9rie 4x4 3.9 Diesel", "marca": "FORD", "key": "f-1000-736", "id": "736", "fipe_name": "F-1000 Super/ S.S\u00e9rie 4x4 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Tropical CD 2.5 HSD/4.3 Diesel TB", "marca": "FORD", "key": "f-1000-737", "id": "737", "fipe_name": "F-1000 Tropical CD 2.5 HSD/4.3 Diesel TB"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Tropical CD 4.9i", "marca": "FORD", "key": "f-1000-738", "id": "738", "fipe_name": "F-1000 Tropical CD 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Tropical SL/ Van 4.9i", "marca": "FORD", "key": "f-1000-739", "id": "739", "fipe_name": "F-1000 Tropical SL/ Van 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 Tropical SL/ Van T.Diesel (todas)", "marca": "FORD", "key": "f-1000-740", "id": "740", "fipe_name": "F-1000 Tropical SL/ Van T.Diesel (todas)"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XL 2.5 HSD Diesel TB", "marca": "FORD", "key": "f-1000-741", "id": "741", "fipe_name": "F-1000 XL 2.5 HSD Diesel TB"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XL 4.9i", "marca": "FORD", "key": "f-1000-742", "id": "742", "fipe_name": "F-1000 XL 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XL 4.9i CE", "marca": "FORD", "key": "f-1000-743", "id": "743", "fipe_name": "F-1000 XL 4.9i CE"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XL 4x4 Diesel Turbo", "marca": "FORD", "key": "f-1000-744", "id": "744", "fipe_name": "F-1000 XL 4x4 Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XL Diesel Turbo", "marca": "FORD", "key": "f-1000-745", "id": "745", "fipe_name": "F-1000 XL Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XLT 2.5 HSD Diesel TB", "marca": "FORD", "key": "f-1000-746", "id": "746", "fipe_name": "F-1000 XLT 2.5 HSD Diesel TB"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XLT 4x4 Diesel Turbo", "marca": "FORD", "key": "f-1000-747", "id": "747", "fipe_name": "F-1000 XLT 4x4 Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XLT CE 4.9i", "marca": "FORD", "key": "f-1000-748", "id": "748", "fipe_name": "F-1000 XLT CE 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XLT Diesel Turbo", "marca": "FORD", "key": "f-1000-749", "id": "749", "fipe_name": "F-1000 XLT Diesel Turbo"
+}
+, {"fipe_marca": "Ford", "name": "F-1000 XLT/XL Lighting 4.9i", "marca": "FORD", "key": "f-1000-750", "id": "750", "fipe_name": "F-1000 XLT/XL Lighting 4.9i"
+}
+, {"fipe_marca": "Ford", "name": "F-150 XL Triton 4.3 V6", "marca": "FORD", "key": "f-150-751", "id": "751", "fipe_name": "F-150 XL Triton 4.3 V6"
+}
+, {"fipe_marca": "Ford", "name": "F-150 XLT Triton 4.3", "marca": "FORD", "key": "f-150-752", "id": "752", "fipe_name": "F-150 XLT Triton 4.3"
+}
+, {"fipe_marca": "Ford", "name": "F-150 XLT Triton 4.6 V8", "marca": "FORD", "key": "f-150-753", "id": "753", "fipe_name": "F-150 XLT Triton 4.6 V8"
+}
+, {"fipe_marca": "Ford", "name": "F-150 XLT Triton 5.8", "marca": "FORD", "key": "f-150-754", "id": "754", "fipe_name": "F-150 XLT Triton 5.8"
+}
+, {"fipe_marca": "Ford", "name": "F-250 F-MILHA CD 3.9 TB Diesel", "marca": "FORD", "key": "f-250-5191", "id": "5191", "fipe_name": "F-250 F-MILHA CD 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 TropiCab CE 3.9 TB Diesel", "marca": "FORD", "key": "f-250-4161", "id": "4161", "fipe_name": "F-250 TropiCab CE 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropical 3.9 Diesel", "marca": "FORD", "key": "f-250-755", "id": "755", "fipe_name": "F-250 Tropical 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropical 4.2 CE / CD Diesel TB", "marca": "FORD", "key": "f-250-756", "id": "756", "fipe_name": "F-250 Tropical 4.2 CE / CD Diesel TB"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropical 4.2 V6", "marca": "FORD", "key": "f-250-757", "id": "757", "fipe_name": "F-250 Tropical 4.2 V6"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropical SL/ Van T.Diesel (todas)", "marca": "FORD", "key": "f-250-758", "id": "758", "fipe_name": "F-250 Tropical SL/ Van T.Diesel (todas)"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropicampo CD 3.9 TB Diesel", "marca": "FORD", "key": "f-250-4162", "id": "4162", "fipe_name": "F-250 Tropicampo CD 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropicampo Executive 3.9 TB Diesel", "marca": "FORD", "key": "f-250-6032", "id": "6032", "fipe_name": "F-250 Tropicampo Executive 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropiclassic 3.9 TB Diesel", "marca": "FORD", "key": "f-250-4163", "id": "4163", "fipe_name": "F-250 Tropiclassic 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropivan Executive 3.9 TB Diesel", "marca": "FORD", "key": "f-250-4164", "id": "4164", "fipe_name": "F-250 Tropivan Executive 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 Tropivan/Tropi. Plus 3.9 TB Diesel", "marca": "FORD", "key": "f-250-4165", "id": "4165", "fipe_name": "F-250 Tropivan/Tropi. Plus 3.9 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 3.9 4x2 Diesel", "marca": "FORD", "key": "f-250-762", "id": "762", "fipe_name": "F-250 XL 3.9 4x2 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 3.9 4x4 TB Diesel", "marca": "FORD", "key": "f-250-4056", "id": "4056", "fipe_name": "F-250 XL 3.9 4x4 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 3.9 CD TB Diesel", "marca": "FORD", "key": "f-250-4057", "id": "4057", "fipe_name": "F-250 XL 3.9 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 4.2 180cv CD TB Diesel", "marca": "FORD", "key": "f-250-759", "id": "759", "fipe_name": "F-250 XL 4.2 180cv CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 4.2 Turbo Diesel", "marca": "FORD", "key": "f-250-760", "id": "760", "fipe_name": "F-250 XL 4.2 Turbo Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL 4.2 V6", "marca": "FORD", "key": "f-250-761", "id": "761", "fipe_name": "F-250 XL 4.2 V6"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL Super Duty 3.9 Diesel", "marca": "FORD", "key": "f-250-763", "id": "763", "fipe_name": "F-250 XL Super Duty 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL Super Duty 4.2 TB Diesel", "marca": "FORD", "key": "f-250-764", "id": "764", "fipe_name": "F-250 XL Super Duty 4.2 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XL Super Duty 4.2 V6", "marca": "FORD", "key": "f-250-765", "id": "765", "fipe_name": "F-250 XL Super Duty 4.2 V6"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 3.9 4x2 CD TB Diesel", "marca": "FORD", "key": "f-250-4058", "id": "4058", "fipe_name": "F-250 XLT 3.9 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 3.9 4x2 Diesel TB", "marca": "FORD", "key": "f-250-766", "id": "766", "fipe_name": "F-250 XLT 3.9 4x2 Diesel TB"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 3.9 4x4 CD TB Diesel", "marca": "FORD", "key": "f-250-4059", "id": "4059", "fipe_name": "F-250 XLT 3.9 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 3.9 4x4 TB Diesel", "marca": "FORD", "key": "f-250-4060", "id": "4060", "fipe_name": "F-250 XLT 3.9 4x4 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 4.2 180cv CD TB Diesel", "marca": "FORD", "key": "f-250-767", "id": "767", "fipe_name": "F-250 XLT 4.2 180cv CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 4.2 TB Diesel", "marca": "FORD", "key": "f-250-768", "id": "768", "fipe_name": "F-250 XLT 4.2 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "F-250 XLT 4.2 V6", "marca": "FORD", "key": "f-250-769", "id": "769", "fipe_name": "F-250 XLT 4.2 V6"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p", "marca": "FORD", "key": "fiesta-4135", "id": "4135", "fipe_name": "Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.0i 3p e 5p", "marca": "FORD", "key": "fiesta-770", "id": "770", "fipe_name": "Fiesta 1.0i 3p e 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.3  3p e 5p", "marca": "FORD", "key": "fiesta-771", "id": "771", "fipe_name": "Fiesta 1.3  3p e 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.5 16V Flex Mec. 5p", "marca": "FORD", "key": "fiesta-6422", "id": "6422", "fipe_name": "Fiesta 1.5 16V Flex Mec. 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.6 16V Flex Aut. 5p", "marca": "FORD", "key": "fiesta-6423", "id": "6423", "fipe_name": "Fiesta 1.6 16V Flex Aut. 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.6 16V Flex Mec. 5p", "marca": "FORD", "key": "fiesta-6424", "id": "6424", "fipe_name": "Fiesta 1.6 16V Flex Mec. 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p", "marca": "FORD", "key": "fiesta-772", "id": "772", "fipe_name": "Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Class 1.0 2p", "marca": "FORD", "key": "fiesta-773", "id": "773", "fipe_name": "Fiesta Class 1.0 2p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Class 1.0 4p", "marca": "FORD", "key": "fiesta-774", "id": "774", "fipe_name": "Fiesta Class 1.0 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Class 1.6 8V 98cv 5p", "marca": "FORD", "key": "fiesta-775", "id": "775", "fipe_name": "Fiesta Class 1.6 8V 98cv 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta CLX 1.3i 3p", "marca": "FORD", "key": "fiesta-776", "id": "776", "fipe_name": "Fiesta CLX 1.3i 3p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta CLX 1.3i 5p", "marca": "FORD", "key": "fiesta-777", "id": "777", "fipe_name": "Fiesta CLX 1.3i 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta CLX 1.4i 16V 3p e 5p", "marca": "FORD", "key": "fiesta-778", "id": "778", "fipe_name": "Fiesta CLX 1.4i 16V 3p e 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta GL 1.0 3p", "marca": "FORD", "key": "fiesta-779", "id": "779", "fipe_name": "Fiesta GL 1.0 3p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta GL 1.0 5p", "marca": "FORD", "key": "fiesta-780", "id": "780", "fipe_name": "Fiesta GL 1.0 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta GL Class 1.0i 5p", "marca": "FORD", "key": "fiesta-781", "id": "781", "fipe_name": "Fiesta GL Class 1.0i 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta GLX 1.6 8V 3p", "marca": "FORD", "key": "fiesta-782", "id": "782", "fipe_name": "Fiesta GLX 1.6 8V 3p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta GLX 1.6 8V 5p", "marca": "FORD", "key": "fiesta-783", "id": "783", "fipe_name": "Fiesta GLX 1.6 8V 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Personnalit\u00e9 1.0 8V 66cv 5p", "marca": "FORD", "key": "fiesta-784", "id": "784", "fipe_name": "Fiesta Personnalit\u00e9 1.0 8V 66cv 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta S 1.0 8V Flex 5p", "marca": "FORD", "key": "fiesta-6425", "id": "6425", "fipe_name": "Fiesta S 1.0 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta SE 1.0 8V Flex 5p", "marca": "FORD", "key": "fiesta-6426", "id": "6426", "fipe_name": "Fiesta SE 1.0 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta SE 1.6 16V Flex 5p", "marca": "FORD", "key": "fiesta-5668", "id": "5668", "fipe_name": "Fiesta SE 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta SE 1.6 8V Flex 5p", "marca": "FORD", "key": "fiesta-6427", "id": "6427", "fipe_name": "Fiesta SE 1.6 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sed. 1.6 8V Flex 4p", "marca": "FORD", "key": "fiesta-785", "id": "785", "fipe_name": "Fiesta Sed. 1.6 8V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sed. Personnalit\u00e9 1.0 8V 4p", "marca": "FORD", "key": "fiesta-786", "id": "786", "fipe_name": "Fiesta Sed. Personnalit\u00e9 1.0 8V 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sed. Supercharger 1.0 8V 4p", "marca": "FORD", "key": "fiesta-787", "id": "787", "fipe_name": "Fiesta Sed. Supercharger 1.0 8V 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan 1.0 8V Flex 4p", "marca": "FORD", "key": "fiesta-4136", "id": "4136", "fipe_name": "Fiesta Sedan 1.0 8V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan 1.6 16V Flex Aut.", "marca": "FORD", "key": "fiesta-6521", "id": "6521", "fipe_name": "Fiesta Sedan 1.6 16V Flex Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan 1.6 16V Flex Mec.", "marca": "FORD", "key": "fiesta-6522", "id": "6522", "fipe_name": "Fiesta Sedan 1.6 16V Flex Mec."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan S 1.0 8V Flex 4p", "marca": "FORD", "key": "fiesta-6428", "id": "6428", "fipe_name": "Fiesta Sedan S 1.0 8V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan SE 1.0 8V Flex 4p", "marca": "FORD", "key": "fiesta-6429", "id": "6429", "fipe_name": "Fiesta Sedan SE 1.0 8V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan SE 1.6 16V Flex 4p", "marca": "FORD", "key": "fiesta-5345", "id": "5345", "fipe_name": "Fiesta Sedan SE 1.6 16V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan SE 1.6 8V Flex 4p", "marca": "FORD", "key": "fiesta-6430", "id": "6430", "fipe_name": "Fiesta Sedan SE 1.6 8V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan Street 1.0 8v 4p", "marca": "FORD", "key": "fiesta-788", "id": "788", "fipe_name": "Fiesta Sedan Street 1.0 8v 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan Street 1.6 8v 4p", "marca": "FORD", "key": "fiesta-789", "id": "789", "fipe_name": "Fiesta Sedan Street 1.6 8v 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan TITANIUM 1.6 16V Flex Aut.", "marca": "FORD", "key": "fiesta-6523", "id": "6523", "fipe_name": "Fiesta Sedan TITANIUM 1.6 16V Flex Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sedan TITANIUM 1.6 16V Flex Mec", "marca": "FORD", "key": "fiesta-6524", "id": "6524", "fipe_name": "Fiesta Sedan TITANIUM 1.6 16V Flex Mec"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sport 1.0MPi 4p", "marca": "FORD", "key": "fiesta-790", "id": "790", "fipe_name": "Fiesta Sport 1.0MPi 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sport 1.6 16V Flex Mec.", "marca": "FORD", "key": "fiesta-7184", "id": "7184", "fipe_name": "Fiesta Sport 1.6 16V Flex Mec."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Sport 1.6MPi 4p", "marca": "FORD", "key": "fiesta-791", "id": "791", "fipe_name": "Fiesta Sport 1.6MPi 4p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Street 1.0 8v 3p", "marca": "FORD", "key": "fiesta-792", "id": "792", "fipe_name": "Fiesta Street 1.0 8v 3p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Street 1.6 8v 95cv 5p", "marca": "FORD", "key": "fiesta-793", "id": "793", "fipe_name": "Fiesta Street 1.6 8v 95cv 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Street/ Action 1.0 8v 5p", "marca": "FORD", "key": "fiesta-794", "id": "794", "fipe_name": "Fiesta Street/ Action 1.0 8v 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta Supercharger 1.0 8V 95cv 5p", "marca": "FORD", "key": "fiesta-795", "id": "795", "fipe_name": "Fiesta Supercharger 1.0 8V 95cv 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta TITANIUM 1.6 16V Flex Aut.", "marca": "FORD", "key": "fiesta-6431", "id": "6431", "fipe_name": "Fiesta TITANIUM 1.6 16V Flex Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta TITANIUM 1.6 16V Flex Mec.", "marca": "FORD", "key": "fiesta-6432", "id": "6432", "fipe_name": "Fiesta TITANIUM 1.6 16V Flex Mec."
+}
+, {"fipe_marca": "Ford", "name": "Fiesta TRAIL 1.0 8V Flex 5p", "marca": "FORD", "key": "fiesta-4409", "id": "4409", "fipe_name": "Fiesta TRAIL 1.0 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Fiesta TRAIL 1.6 8V Flex 5p", "marca": "FORD", "key": "fiesta-4410", "id": "4410", "fipe_name": "Fiesta TRAIL 1.6 8V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Focus 1.6 Flex 16v 5p Aut", "marca": "FORD", "key": "focus-6610", "id": "6610", "fipe_name": "Focus 1.6 Flex 16v 5p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Focus 1.6/ 1.6 Flex 8V/16V  5p", "marca": "FORD", "key": "focus-796", "id": "796", "fipe_name": "Focus 1.6/ 1.6 Flex 8V/16V  5p"
+}
+, {"fipe_marca": "Ford", "name": "Focus 1.8 16V 5p", "marca": "FORD", "key": "focus-797", "id": "797", "fipe_name": "Focus 1.8 16V 5p"
+}
+, {"fipe_marca": "Ford", "name": "Focus 2.0 16V/ 2.0 16V Flex 5p", "marca": "FORD", "key": "focus-798", "id": "798", "fipe_name": "Focus 2.0 16V/ 2.0 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Focus 2.0 16V/ 2.0 16V Flex 5p Aut.", "marca": "FORD", "key": "focus-799", "id": "799", "fipe_name": "Focus 2.0 16V/ 2.0 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut", "marca": "FORD", "key": "focus-800", "id": "800", "fipe_name": "Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p", "marca": "FORD", "key": "focus-801", "id": "801", "fipe_name": "Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut", "marca": "FORD", "key": "focus-802", "id": "802", "fipe_name": "Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut"
+}
+, {"fipe_marca": "Ford", "name": "Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p", "marca": "FORD", "key": "focus-803", "id": "803", "fipe_name": "Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "Focus Sedan 1.6/ 1.6 Flex 8V/16v  4p", "marca": "FORD", "key": "focus-804", "id": "804", "fipe_name": "Focus Sedan 1.6/ 1.6 Flex 8V/16v  4p"
+}
+, {"fipe_marca": "Ford", "name": "Focus Sedan 1.8 16V 115cv 4p", "marca": "FORD", "key": "focus-805", "id": "805", "fipe_name": "Focus Sedan 1.8 16V 115cv 4p"
+}
+, {"fipe_marca": "Ford", "name": "Focus Sedan 2.0 16V/ 2.0 16V Flex 4p", "marca": "FORD", "key": "focus-806", "id": "806", "fipe_name": "Focus Sedan 2.0 16V/ 2.0 16V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Focus Sedan 2.0 16V/ 2.0 16V Flex 4p Aut", "marca": "FORD", "key": "focus-807", "id": "807", "fipe_name": "Focus Sedan 2.0 16V/ 2.0 16V Flex 4p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Focus Sedan TITANIUM 2.0 16V Flex  Aut", "marca": "FORD", "key": "focus-5450", "id": "5450", "fipe_name": "Focus Sedan TITANIUM 2.0 16V Flex  Aut"
+}
+, {"fipe_marca": "Ford", "name": "Focus TITANIUM 2.0 16V Flex 5p Aut.", "marca": "FORD", "key": "focus-5451", "id": "5451", "fipe_name": "Focus TITANIUM 2.0 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Ford", "name": "Focus TITANIUM 2.0 16V Flex 5p Mec.", "marca": "FORD", "key": "focus-5452", "id": "5452", "fipe_name": "Focus TITANIUM 2.0 16V Flex 5p Mec."
+}
+, {"fipe_marca": "Ford", "name": "Furglaine 3.6", "marca": "FORD", "key": "furglaine-808", "id": "808", "fipe_name": "Furglaine 3.6"
+}
+, {"fipe_marca": "Ford", "name": "Furglaine 3.9 Diesel", "marca": "FORD", "key": "furglaine-809", "id": "809", "fipe_name": "Furglaine 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Furglaine Chateaux/Exec. 3.9 Diesel", "marca": "FORD", "key": "furglaine-810", "id": "810", "fipe_name": "Furglaine Chateaux/Exec. 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Fusion 2.5L I-VCT Flex Aut.", "marca": "FORD", "key": "fusion-6381", "id": "6381", "fipe_name": "Fusion 2.5L I-VCT Flex Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion Hybrid 2.5 16V 193cv Aut.", "marca": "FORD", "key": "fusion-5414", "id": "5414", "fipe_name": "Fusion Hybrid 2.5 16V 193cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion SEL 2.3 16V  162cv Aut.", "marca": "FORD", "key": "fusion-4061", "id": "4061", "fipe_name": "Fusion SEL 2.3 16V  162cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion SEL 2.5 16V 173cv Aut.", "marca": "FORD", "key": "fusion-4922", "id": "4922", "fipe_name": "Fusion SEL 2.5 16V 173cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion SEL 3.0 V6  24V 243cv Aut.", "marca": "FORD", "key": "fusion-5622", "id": "5622", "fipe_name": "Fusion SEL 3.0 V6  24V 243cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion SEL 3.0 V6 AWD 24V 243cv Aut.", "marca": "FORD", "key": "fusion-4923", "id": "4923", "fipe_name": "Fusion SEL 3.0 V6 AWD 24V 243cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion Titanium 2.0 GTDI EcoBo. Awd Aut", "marca": "FORD", "key": "fusion-6324", "id": "6324", "fipe_name": "Fusion Titanium 2.0 GTDI EcoBo. Awd Aut"
+}
+, {"fipe_marca": "Ford", "name": "Fusion Titanium 2.0 GTDI EcoBo. Fwd Aut.", "marca": "FORD", "key": "fusion-6382", "id": "6382", "fipe_name": "Fusion Titanium 2.0 GTDI EcoBo. Fwd Aut."
+}
+, {"fipe_marca": "Ford", "name": "Fusion Titanium HYBRID 2.0 145cv Aut.", "marca": "FORD", "key": "fusion-6583", "id": "6583", "fipe_name": "Fusion Titanium HYBRID 2.0 145cv Aut."
+}
+, {"fipe_marca": "Ford", "name": "Ibiza 3.9 Furg\u00e3o Diesel", "marca": "FORD", "key": "ibiza-811", "id": "811", "fipe_name": "Ibiza 3.9 Furg\u00e3o Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ibiza Chat./Exec. 3.9 Diesel", "marca": "FORD", "key": "ibiza-812", "id": "812", "fipe_name": "Ibiza Chat./Exec. 3.9 Diesel"
+}
+, {"fipe_marca": "Ford", "name": "KA 1.0 8V/1.0 8V ST Flex 3p", "marca": "FORD", "key": "ka-4514", "id": "4514", "fipe_name": "KA 1.0 8V/1.0 8V ST Flex 3p"
+}
+, {"fipe_marca": "Ford", "name": "Ka 1.0 SEL TiCVT Flex 5p", "marca": "FORD", "key": "ka-6914", "id": "6914", "fipe_name": "Ka 1.0 SEL TiCVT Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "KA 1.0 TECNO 8V Flex 3p", "marca": "FORD", "key": "ka-4789", "id": "4789", "fipe_name": "KA 1.0 TECNO 8V Flex 3p"
+}
+, {"fipe_marca": "Ford", "name": "Ka 1.0 TiCVT Flex 5p", "marca": "FORD", "key": "ka-6915", "id": "6915", "fipe_name": "Ka 1.0 TiCVT Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "KA 1.0i 3p", "marca": "FORD", "key": "ka-813", "id": "813", "fipe_name": "KA 1.0i 3p"
+}
+, {"fipe_marca": "Ford", "name": "Ka 1.5 16V Flex 5p", "marca": "FORD", "key": "ka-6916", "id": "6916", "fipe_name": "Ka 1.5 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "KA 1.6 8V Flex 3p", "marca": "FORD", "key": "ka-4515", "id": "4515", "fipe_name": "KA 1.6 8V Flex 3p"
+}
+, {"fipe_marca": "Ford", "name": "KA 1.6 TECNO 8V Flex 3p", "marca": "FORD", "key": "ka-4790", "id": "4790", "fipe_name": "KA 1.6 TECNO 8V Flex 3p"
+}
+, {"fipe_marca": "Ford", "name": "KA Action 1.6 MPI 8V 95cv", "marca": "FORD", "key": "ka-814", "id": "814", "fipe_name": "KA Action 1.6 MPI 8V 95cv"
+}
+, {"fipe_marca": "Ford", "name": "KA Black 1.0 MPI 8v 65cv", "marca": "FORD", "key": "ka-815", "id": "815", "fipe_name": "KA Black 1.0 MPI 8v 65cv"
+}
+, {"fipe_marca": "Ford", "name": "KA Black 1.6 MPI 8v 95cv", "marca": "FORD", "key": "ka-816", "id": "816", "fipe_name": "KA Black 1.6 MPI 8v 95cv"
+}
+, {"fipe_marca": "Ford", "name": "KA CLX 1.3i 3p", "marca": "FORD", "key": "ka-817", "id": "817", "fipe_name": "KA CLX 1.3i 3p"
+}
+, {"fipe_marca": "Ford", "name": "KA GL 1.0i Zetec Rocam", "marca": "FORD", "key": "ka-818", "id": "818", "fipe_name": "KA GL 1.0i Zetec Rocam"
+}
+, {"fipe_marca": "Ford", "name": "KA GL Image 1.0i/ 1.0i Zetec Rocam", "marca": "FORD", "key": "ka-819", "id": "819", "fipe_name": "KA GL Image 1.0i/ 1.0i Zetec Rocam"
+}
+, {"fipe_marca": "Ford", "name": "KA Image 1.0i", "marca": "FORD", "key": "ka-820", "id": "820", "fipe_name": "KA Image 1.0i"
+}
+, {"fipe_marca": "Ford", "name": "KA MP3 1.0 MPI 8V 65cv", "marca": "FORD", "key": "ka-3887", "id": "3887", "fipe_name": "KA MP3 1.0 MPI 8V 65cv"
+}
+, {"fipe_marca": "Ford", "name": "KA MP3 1.6 MPI 8V 95cv", "marca": "FORD", "key": "ka-3888", "id": "3888", "fipe_name": "KA MP3 1.6 MPI 8V 95cv"
+}
+, {"fipe_marca": "Ford", "name": "Ka SEL 1.5 16V Flex 5p", "marca": "FORD", "key": "ka-6917", "id": "6917", "fipe_name": "Ka SEL 1.5 16V Flex 5p"
+}
+, {"fipe_marca": "Ford", "name": "KA Sport 1.6 8V Flex 3p", "marca": "FORD", "key": "ka-5623", "id": "5623", "fipe_name": "KA Sport 1.6 8V Flex 3p"
+}
+, {"fipe_marca": "Ford", "name": "KA Street 1.0i", "marca": "FORD", "key": "ka-821", "id": "821", "fipe_name": "KA Street 1.0i"
+}
+, {"fipe_marca": "Ford", "name": "KA Tecno 1.0i 8v Zetec Rocam", "marca": "FORD", "key": "ka-822", "id": "822", "fipe_name": "KA Tecno 1.0i 8v Zetec Rocam"
+}
+, {"fipe_marca": "Ford", "name": "KA XR 1.6 MPI 8V", "marca": "FORD", "key": "ka-823", "id": "823", "fipe_name": "KA XR 1.6 MPI 8V"
+}
+, {"fipe_marca": "Ford", "name": "Ka+ Sedan 1.0 SEL TiCVT Flex 4p", "marca": "FORD", "key": "ka+-6918", "id": "6918", "fipe_name": "Ka+ Sedan 1.0 SEL TiCVT Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Ka+ Sedan 1.0 TiCVT Flex 4p", "marca": "FORD", "key": "ka+-6919", "id": "6919", "fipe_name": "Ka+ Sedan 1.0 TiCVT Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Ka+ Sedan 1.5 16V Flex 4p", "marca": "FORD", "key": "ka+-6920", "id": "6920", "fipe_name": "Ka+ Sedan 1.5 16V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Ka+ Sedan 1.5 SEL 16V Flex 4p", "marca": "FORD", "key": "ka+-6921", "id": "6921", "fipe_name": "Ka+ Sedan 1.5 SEL 16V Flex 4p"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 1.8 4p e 5p", "marca": "FORD", "key": "mondeo-824", "id": "824", "fipe_name": "Mondeo CLX 1.8 4p e 5p"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 1.8i SW", "marca": "FORD", "key": "mondeo-825", "id": "825", "fipe_name": "Mondeo CLX 1.8i SW"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 2.0i 4p Aut", "marca": "FORD", "key": "mondeo-826", "id": "826", "fipe_name": "Mondeo CLX 2.0i 4p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 2.0i 4p Mec", "marca": "FORD", "key": "mondeo-827", "id": "827", "fipe_name": "Mondeo CLX 2.0i 4p Mec"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 2.0i SW Aut", "marca": "FORD", "key": "mondeo-828", "id": "828", "fipe_name": "Mondeo CLX 2.0i SW Aut"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo CLX 2.0i SW Mec", "marca": "FORD", "key": "mondeo-829", "id": "829", "fipe_name": "Mondeo CLX 2.0i SW Mec"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo Ghia 2.0 16V 143cv 4p Aut", "marca": "FORD", "key": "mondeo-830", "id": "830", "fipe_name": "Mondeo Ghia 2.0 16V 143cv 4p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo Ghia 2.0 16V 143cv 4p Mec", "marca": "FORD", "key": "mondeo-831", "id": "831", "fipe_name": "Mondeo Ghia 2.0 16V 143cv 4p Mec"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo Ghia 2.5 V6 Aut", "marca": "FORD", "key": "mondeo-832", "id": "832", "fipe_name": "Mondeo Ghia 2.5 V6 Aut"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo Ghia 2.5 V6 Mec", "marca": "FORD", "key": "mondeo-833", "id": "833", "fipe_name": "Mondeo Ghia 2.5 V6 Mec"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo GLX 2.0 16V 4p Aut", "marca": "FORD", "key": "mondeo-834", "id": "834", "fipe_name": "Mondeo GLX 2.0 16V 4p Aut"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo GLX 2.0 4p e 5p", "marca": "FORD", "key": "mondeo-835", "id": "835", "fipe_name": "Mondeo GLX 2.0 4p e 5p"
+}
+, {"fipe_marca": "Ford", "name": "Mondeo GLX 2.0i SW Mec./ Aut.", "marca": "FORD", "key": "mondeo-836", "id": "836", "fipe_name": "Mondeo GLX 2.0i SW Mec./ Aut."
+}
+, {"fipe_marca": "Ford", "name": "Mustang 3.8 V6", "marca": "FORD", "key": "mustang-837", "id": "837", "fipe_name": "Mustang 3.8 V6"
+}
+, {"fipe_marca": "Ford", "name": "Mustang 3.8 V6 Conv.", "marca": "FORD", "key": "mustang-838", "id": "838", "fipe_name": "Mustang 3.8 V6 Conv."
+}
+, {"fipe_marca": "Ford", "name": "Mustang Cobra 5.7 V8", "marca": "FORD", "key": "mustang-839", "id": "839", "fipe_name": "Mustang Cobra 5.7 V8"
+}
+, {"fipe_marca": "Ford", "name": "Mustang GT V8", "marca": "FORD", "key": "mustang-840", "id": "840", "fipe_name": "Mustang GT V8"
+}
+, {"fipe_marca": "Ford", "name": "Mustang GT V8 Convers\u00edvel", "marca": "FORD", "key": "mustang-841", "id": "841", "fipe_name": "Mustang GT V8 Convers\u00edvel"
+}
+, {"fipe_marca": "Ford", "name": "Pampa 4x4 Jeep GL / L 1.6", "marca": "FORD", "key": "pampa-842", "id": "842", "fipe_name": "Pampa 4x4 Jeep GL / L 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Pampa Ghia 1.6/1.8/DUO", "marca": "FORD", "key": "pampa-843", "id": "843", "fipe_name": "Pampa Ghia 1.6/1.8/DUO"
+}
+, {"fipe_marca": "Ford", "name": "Pampa GL 1.6/ 1.8", "marca": "FORD", "key": "pampa-844", "id": "844", "fipe_name": "Pampa GL 1.6/ 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Pampa L 1.6", "marca": "FORD", "key": "pampa-845", "id": "845", "fipe_name": "Pampa L 1.6"
+}
+, {"fipe_marca": "Ford", "name": "Pampa L 1.8i / 1.8", "marca": "FORD", "key": "pampa-846", "id": "846", "fipe_name": "Pampa L 1.8i / 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Pampa S 1.8", "marca": "FORD", "key": "pampa-847", "id": "847", "fipe_name": "Pampa S 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Probe 2.0/2.2", "marca": "FORD", "key": "probe-848", "id": "848", "fipe_name": "Probe 2.0/2.2"
+}
+, {"fipe_marca": "Ford", "name": "Probe GT 2.5 V6", "marca": "FORD", "key": "probe-849", "id": "849", "fipe_name": "Probe GT 2.5 V6"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x2 CD TB Diesel", "marca": "FORD", "key": "ranger-850", "id": "850", "fipe_name": "Ranger 2.5 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x2 CE Diesel", "marca": "FORD", "key": "ranger-851", "id": "851", "fipe_name": "Ranger 2.5 4x2 CE Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x2 TB Diesel", "marca": "FORD", "key": "ranger-852", "id": "852", "fipe_name": "Ranger 2.5 4x2 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x4 CD TB Diesel", "marca": "FORD", "key": "ranger-853", "id": "853", "fipe_name": "Ranger 2.5 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x4 CE TB Diesel", "marca": "FORD", "key": "ranger-854", "id": "854", "fipe_name": "Ranger 2.5 4x4 CE TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5 4x4 TB Diesel", "marca": "FORD", "key": "ranger-855", "id": "855", "fipe_name": "Ranger 2.5 4x4 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5i CD", "marca": "FORD", "key": "ranger-856", "id": "856", "fipe_name": "Ranger 2.5i CD"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5i CE", "marca": "FORD", "key": "ranger-857", "id": "857", "fipe_name": "Ranger 2.5i CE"
+}
+, {"fipe_marca": "Ford", "name": "Ranger 2.5i CS", "marca": "FORD", "key": "ranger-858", "id": "858", "fipe_name": "Ranger 2.5i CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger Limited 2.3 150cv CD", "marca": "FORD", "key": "ranger-4998", "id": "4998", "fipe_name": "Ranger Limited 2.3 150cv CD"
+}
+, {"fipe_marca": "Ford", "name": "Ranger Limited 2.5 16V 4x2 CD Flex", "marca": "FORD", "key": "ranger-6163", "id": "6163", "fipe_name": "Ranger Limited 2.5 16V 4x2 CD Flex"
+}
+, {"fipe_marca": "Ford", "name": "Ranger Limited 3.0 PSE 4x4 CD TB Diesel", "marca": "FORD", "key": "ranger-859", "id": "859", "fipe_name": "Ranger Limited 3.0 PSE 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger Limited 3.2 20V 4x4 CD Aut. Dies.", "marca": "FORD", "key": "ranger-6164", "id": "6164", "fipe_name": "Ranger Limited 3.2 20V 4x4 CD Aut. Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger Splash CE", "marca": "FORD", "key": "ranger-860", "id": "860", "fipe_name": "Ranger Splash CE"
+}
+, {"fipe_marca": "Ford", "name": "Ranger Splash CS", "marca": "FORD", "key": "ranger-861", "id": "861", "fipe_name": "Ranger Splash CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger SPORT 2.5 Flex 16V 4x2 CS", "marca": "FORD", "key": "ranger-6746", "id": "6746", "fipe_name": "Ranger SPORT 2.5 Flex 16V 4x2 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger STX 4.0 CS/ CE", "marca": "FORD", "key": "ranger-862", "id": "862", "fipe_name": "Ranger STX 4.0 CS/ CE"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPICAB 2.5 16V 4X2 Flex", "marca": "FORD", "key": "ranger-6525", "id": "6525", "fipe_name": "Ranger TROPICAB 2.5 16V 4X2 Flex"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPICAB 3.2 20V 4X4 TB Diesel", "marca": "FORD", "key": "ranger-6526", "id": "6526", "fipe_name": "Ranger TROPICAB 3.2 20V 4X4 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN 2.5 16V 4X2 Flex", "marca": "FORD", "key": "ranger-6527", "id": "6527", "fipe_name": "Ranger TROPIVAN 2.5 16V 4X2 Flex"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.", "marca": "FORD", "key": "ranger-6528", "id": "6528", "fipe_name": "Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut."
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN 3.2 20V 4X4 TB Diesel", "marca": "FORD", "key": "ranger-6529", "id": "6529", "fipe_name": "Ranger TROPIVAN 3.2 20V 4X4 TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN XLT 2.3 16V 150cv", "marca": "FORD", "key": "ranger-5365", "id": "5365", "fipe_name": "Ranger TROPIVAN XLT 2.3 16V 150cv"
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN XLT 3.0 PSE 4x2 TB Dies.", "marca": "FORD", "key": "ranger-5366", "id": "5366", "fipe_name": "Ranger TROPIVAN XLT 3.0 PSE 4x2 TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.", "marca": "FORD", "key": "ranger-5367", "id": "5367", "fipe_name": "Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.3 16v 137cv 4x2 CD Repower.", "marca": "FORD", "key": "ranger-863", "id": "863", "fipe_name": "Ranger XL 2.3 16v 137cv 4x2 CD Repower."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.3 16v 137cv 4x2 CE Repower.", "marca": "FORD", "key": "ranger-864", "id": "864", "fipe_name": "Ranger XL 2.3 16v 137cv 4x2 CE Repower."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.3 16v 137cv 4x2 CS Repower.", "marca": "FORD", "key": "ranger-865", "id": "865", "fipe_name": "Ranger XL 2.3 16v 137cv 4x2 CS Repower."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.3 CS", "marca": "FORD", "key": "ranger-866", "id": "866", "fipe_name": "Ranger XL 2.3 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel", "marca": "FORD", "key": "ranger-867", "id": "867", "fipe_name": "Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel", "marca": "FORD", "key": "ranger-868", "id": "868", "fipe_name": "Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel", "marca": "FORD", "key": "ranger-869", "id": "869", "fipe_name": "Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel", "marca": "FORD", "key": "ranger-870", "id": "870", "fipe_name": "Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel", "marca": "FORD", "key": "ranger-871", "id": "871", "fipe_name": "Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel", "marca": "FORD", "key": "ranger-872", "id": "872", "fipe_name": "Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel", "marca": "FORD", "key": "ranger-3814", "id": "3814", "fipe_name": "Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel", "marca": "FORD", "key": "ranger-3815", "id": "3815", "fipe_name": "Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel", "marca": "FORD", "key": "ranger-3816", "id": "3816", "fipe_name": "Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel", "marca": "FORD", "key": "ranger-3817", "id": "3817", "fipe_name": "Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 4.0 12v V6 210cv 4x2 CS Repow.", "marca": "FORD", "key": "ranger-873", "id": "873", "fipe_name": "Ranger XL 4.0 12v V6 210cv 4x2 CS Repow."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XL 4.0 CS", "marca": "FORD", "key": "ranger-874", "id": "874", "fipe_name": "Ranger XL 4.0 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.2 4x4 CD Diesel Mec.", "marca": "FORD", "key": "ranger-6693", "id": "6693", "fipe_name": "Ranger XLS 2.2 4x4 CD Diesel Mec."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.3 16V 145cv/150cv 4x2 CD", "marca": "FORD", "key": "ranger-875", "id": "875", "fipe_name": "Ranger XLS 2.3 16V 145cv/150cv 4x2 CD"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.3 16V 145cv/150cv 4x2 CS", "marca": "FORD", "key": "ranger-876", "id": "876", "fipe_name": "Ranger XLS 2.3 16V 145cv/150cv 4x2 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.5 16V 4x2 CD Flex", "marca": "FORD", "key": "ranger-6165", "id": "6165", "fipe_name": "Ranger XLS 2.5 16V 4x2 CD Flex"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.5 16V 4x2 CS", "marca": "FORD", "key": "ranger-6166", "id": "6166", "fipe_name": "Ranger XLS 2.5 16V 4x2 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.8 8V 135cv 4x2 CD TB Diesel", "marca": "FORD", "key": "ranger-877", "id": "877", "fipe_name": "Ranger XLS 2.8 8V 135cv 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.8 8V 135cv 4x2 CS TB Diesel", "marca": "FORD", "key": "ranger-878", "id": "878", "fipe_name": "Ranger XLS 2.8 8V 135cv 4x2 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.8 8V 135cv 4x4 CS TB Diesel", "marca": "FORD", "key": "ranger-879", "id": "879", "fipe_name": "Ranger XLS 2.8 8V 135cv 4x4 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 2.8/2.8 Storm  4x4 CD TB Dies", "marca": "FORD", "key": "ranger-880", "id": "880", "fipe_name": "Ranger XLS 2.8/2.8 Storm  4x4 CD TB Dies"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies.", "marca": "FORD", "key": "ranger-881", "id": "881", "fipe_name": "Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies.", "marca": "FORD", "key": "ranger-882", "id": "882", "fipe_name": "Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.", "marca": "FORD", "key": "ranger-883", "id": "883", "fipe_name": "Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.", "marca": "FORD", "key": "ranger-4848", "id": "4848", "fipe_name": "Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.2 20V 4x4 CD Diesel Aut.", "marca": "FORD", "key": "ranger-6562", "id": "6562", "fipe_name": "Ranger XLS 3.2 20V 4x4 CD Diesel Aut."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.2 20V 4x4 CD Diesel Mec.", "marca": "FORD", "key": "ranger-6167", "id": "6167", "fipe_name": "Ranger XLS 3.2 20V 4x4 CD Diesel Mec."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS 3.2 20V 4x4 CS Diesel", "marca": "FORD", "key": "ranger-6168", "id": "6168", "fipe_name": "Ranger XLS 3.2 20V 4x4 CS Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLS SPORT 2.3 16V 150cv CS", "marca": "FORD", "key": "ranger-4474", "id": "4474", "fipe_name": "Ranger XLS SPORT 2.3 16V 150cv CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.3 16V 150cv CD Repower.", "marca": "FORD", "key": "ranger-4291", "id": "4291", "fipe_name": "Ranger XLT 2.3 16V 150cv CD Repower."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.3 CS", "marca": "FORD", "key": "ranger-884", "id": "884", "fipe_name": "Ranger XLT 2.3 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 16V 4x2 CD Flex", "marca": "FORD", "key": "ranger-6169", "id": "6169", "fipe_name": "Ranger XLT 2.5 16V 4x2 CD Flex"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x2 CD Diesel", "marca": "FORD", "key": "ranger-885", "id": "885", "fipe_name": "Ranger XLT 2.5 4x2 CD Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x2 CE Diesel", "marca": "FORD", "key": "ranger-886", "id": "886", "fipe_name": "Ranger XLT 2.5 4x2 CE Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x2 CS Diesel", "marca": "FORD", "key": "ranger-887", "id": "887", "fipe_name": "Ranger XLT 2.5 4x2 CS Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x4 CD Diesel", "marca": "FORD", "key": "ranger-888", "id": "888", "fipe_name": "Ranger XLT 2.5 4x4 CD Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x4 CE TB Diesel", "marca": "FORD", "key": "ranger-889", "id": "889", "fipe_name": "Ranger XLT 2.5 4x4 CE TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.5 4x4 CS TB Diesel", "marca": "FORD", "key": "ranger-890", "id": "890", "fipe_name": "Ranger XLT 2.5 4x4 CS TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel", "marca": "FORD", "key": "ranger-891", "id": "891", "fipe_name": "Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel", "marca": "FORD", "key": "ranger-892", "id": "892", "fipe_name": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 2.8 8v 135cv 4x4 CE TB Diesel", "marca": "FORD", "key": "ranger-893", "id": "893", "fipe_name": "Ranger XLT 2.8 8v 135cv 4x4 CE TB Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.", "marca": "FORD", "key": "ranger-894", "id": "894", "fipe_name": "Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.", "marca": "FORD", "key": "ranger-895", "id": "895", "fipe_name": "Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 3.2 20V 4x4 CD Diesel", "marca": "FORD", "key": "ranger-6170", "id": "6170", "fipe_name": "Ranger XLT 3.2 20V 4x4 CD Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 3.2 20V 4x4 CD Diesel Aut.", "marca": "FORD", "key": "ranger-6171", "id": "6171", "fipe_name": "Ranger XLT 3.2 20V 4x4 CD Diesel Aut."
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow", "marca": "FORD", "key": "ranger-896", "id": "896", "fipe_name": "Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 12v V6 210cv 4x4 CE Repow", "marca": "FORD", "key": "ranger-897", "id": "897", "fipe_name": "Ranger XLT 4.0 12v V6 210cv 4x4 CE Repow"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 4x2 CE", "marca": "FORD", "key": "ranger-898", "id": "898", "fipe_name": "Ranger XLT 4.0 4x2 CE"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 4x2 CS", "marca": "FORD", "key": "ranger-899", "id": "899", "fipe_name": "Ranger XLT 4.0 4x2 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 4x4 CD", "marca": "FORD", "key": "ranger-900", "id": "900", "fipe_name": "Ranger XLT 4.0 4x4 CD"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 4x4 CE", "marca": "FORD", "key": "ranger-901", "id": "901", "fipe_name": "Ranger XLT 4.0 4x4 CE"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT 4.0 4x4 CS", "marca": "FORD", "key": "ranger-902", "id": "902", "fipe_name": "Ranger XLT 4.0 4x4 CS"
+}
+, {"fipe_marca": "Ford", "name": "Ranger XLT Limit./L.Cent. 2.8 CD TB Dies", "marca": "FORD", "key": "ranger-903", "id": "903", "fipe_name": "Ranger XLT Limit./L.Cent. 2.8 CD TB Dies"
+}
+, {"fipe_marca": "Ford", "name": "Royale Ghia 2.0i 4p / 2.0i / 2.0", "marca": "FORD", "key": "royale-904", "id": "904", "fipe_name": "Royale Ghia 2.0i 4p / 2.0i / 2.0"
+}
+, {"fipe_marca": "Ford", "name": "Royale GL 1.8i 4p / 1.8i / 1.8", "marca": "FORD", "key": "royale-905", "id": "905", "fipe_name": "Royale GL 1.8i 4p / 1.8i / 1.8"
+}
+, {"fipe_marca": "Ford", "name": "Royale GL 2.0i 2e4p / 2.0i / 2.0", "marca": "FORD", "key": "royale-906", "id": "906", "fipe_name": "Royale GL 2.0i 2e4p / 2.0i / 2.0"
+}
+, {"fipe_marca": "Ford", "name": "Taurus GL 3.0 V6", "marca": "FORD", "key": "taurus-907", "id": "907", "fipe_name": "Taurus GL 3.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Taurus GL SW 3.0 V6 24V", "marca": "FORD", "key": "taurus-908", "id": "908", "fipe_name": "Taurus GL SW 3.0 V6 24V"
+}
+, {"fipe_marca": "Ford", "name": "Taurus L/LX 3.0 V6", "marca": "FORD", "key": "taurus-909", "id": "909", "fipe_name": "Taurus L/LX 3.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Taurus LX SW 3.0 V6 24V", "marca": "FORD", "key": "taurus-910", "id": "910", "fipe_name": "Taurus LX SW 3.0 V6 24V"
+}
+, {"fipe_marca": "Ford", "name": "Taurus SHO 3.0 V6", "marca": "FORD", "key": "taurus-911", "id": "911", "fipe_name": "Taurus SHO 3.0 V6"
+}
+, {"fipe_marca": "Ford", "name": "Thunderbird SC 3.8 V6", "marca": "FORD", "key": "thunderbird-912", "id": "912", "fipe_name": "Thunderbird SC 3.8 V6"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Chassi 2.2 TDCI Diesel", "marca": "FORD", "key": "transit-6202", "id": "6202", "fipe_name": "TRANSIT Chassi 2.2 TDCI Diesel"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Chassi 2.4 TDCI Diesel", "marca": "FORD", "key": "transit-5247", "id": "5247", "fipe_name": "TRANSIT Chassi 2.4 TDCI Diesel"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Furg\u00e3o 2.2 TDCI Curto Diesel", "marca": "FORD", "key": "transit-6383", "id": "6383", "fipe_name": "TRANSIT Furg\u00e3o 2.2 TDCI Curto Diesel"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Furg\u00e3o 2.2 TDCI Longa Diesel", "marca": "FORD", "key": "transit-6296", "id": "6296", "fipe_name": "TRANSIT Furg\u00e3o 2.2 TDCI Longa Diesel"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Furg\u00e3o 2.2 TDCI Longo Jumbo Dies", "marca": "FORD", "key": "transit-5884", "id": "5884", "fipe_name": "TRANSIT Furg\u00e3o 2.2 TDCI Longo Jumbo Dies"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Furg\u00e3o 3330 2.4 TDCI Curto Dies.", "marca": "FORD", "key": "transit-4838", "id": "4838", "fipe_name": "TRANSIT Furg\u00e3o 3330 2.4 TDCI Curto Dies."
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Furg\u00e3o 3550 2.4 TDCI Longo Dies.", "marca": "FORD", "key": "transit-4839", "id": "4839", "fipe_name": "TRANSIT Furg\u00e3o 3550 2.4 TDCI Longo Dies."
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Van 3550 2.2 TDCI 14/16lug. Dies", "marca": "FORD", "key": "transit-6203", "id": "6203", "fipe_name": "TRANSIT Van 3550 2.2 TDCI 14/16lug. Dies"
+}
+, {"fipe_marca": "Ford", "name": "TRANSIT Van 3550 2.4 TDCI 14lug. Diesel", "marca": "FORD", "key": "transit-4840", "id": "4840", "fipe_name": "TRANSIT Van 3550 2.4 TDCI 14lug. Diesel"
+}
+, {"fipe_marca": "Ford", "name": "Verona Ghia 2.0i 4p", "marca": "FORD", "key": "verona-913", "id": "913", "fipe_name": "Verona Ghia 2.0i 4p"
+}
+, {"fipe_marca": "Ford", "name": "Verona GL 1.8i / LX 1.8i 4p", "marca": "FORD", "key": "verona-914", "id": "914", "fipe_name": "Verona GL 1.8i / LX 1.8i 4p"
+}
+, {"fipe_marca": "Ford", "name": "Verona GLX 1.8 (Modelo antigo)", "marca": "FORD", "key": "verona-915", "id": "915", "fipe_name": "Verona GLX 1.8 (Modelo antigo)"
+}
+, {"fipe_marca": "Ford", "name": "Verona GLX 1.8i / 1.8 4p", "marca": "FORD", "key": "verona-916", "id": "916", "fipe_name": "Verona GLX 1.8i / 1.8 4p"
+}
+, {"fipe_marca": "Ford", "name": "Verona GLX 2.0i / 2.0 4p", "marca": "FORD", "key": "verona-917", "id": "917", "fipe_name": "Verona GLX 2.0i / 2.0 4p"
+}
+, {"fipe_marca": "Ford", "name": "Verona LX 1.6 (Modelo antigo)", "marca": "FORD", "key": "verona-918", "id": "918", "fipe_name": "Verona LX 1.6 (Modelo antigo)"
+}
+, {"fipe_marca": "Ford", "name": "Verona LX 1.8 (Modelo antigo)", "marca": "FORD", "key": "verona-919", "id": "919", "fipe_name": "Verona LX 1.8 (Modelo antigo)"
+}
+, {"fipe_marca": "Ford", "name": "Verona S 2.0i 4p", "marca": "FORD", "key": "verona-920", "id": "920", "fipe_name": "Verona S 2.0i 4p"
+}
+, {"fipe_marca": "Ford", "name": "Versailles Ghia 2.0i / 2.0 2p e 4p", "marca": "FORD", "key": "versailles-921", "id": "921", "fipe_name": "Versailles Ghia 2.0i / 2.0 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "Versailles GL 1.8i / 1.8 2p e 4p", "marca": "FORD", "key": "versailles-922", "id": "922", "fipe_name": "Versailles GL 1.8i / 1.8 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "Versailles GL 2.0i / 2.0 2p e 4p", "marca": "FORD", "key": "versailles-923", "id": "923", "fipe_name": "Versailles GL 2.0i / 2.0 2p e 4p"
+}
+, {"fipe_marca": "Ford", "name": "Windstar GL", "marca": "FORD", "key": "windstar-924", "id": "924", "fipe_name": "Windstar GL"
+}
+, {"fipe_marca": "Ford", "name": "Windstar LX", "marca": "FORD", "key": "windstar-925", "id": "925", "fipe_name": "Windstar LX"
+}
+]

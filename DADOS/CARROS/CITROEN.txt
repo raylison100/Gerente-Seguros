@@ -1,0 +1,306 @@
+{"contador" = "152"}
+[{"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Aut", "marca": "CITROEN", "key": "aircross-6418", "id": "6418", "fipe_name": "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Mec", "marca": "CITROEN", "key": "aircross-6419", "id": "6419", "fipe_name": "AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS Exclusive 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "aircross-5609", "id": "5609", "fipe_name": "AIRCROSS Exclusive 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS Exclusive 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "aircross-5337", "id": "5337", "fipe_name": "AIRCROSS Exclusive 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS GL 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "aircross-5338", "id": "5338", "fipe_name": "AIRCROSS GL 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS GLX 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "aircross-5610", "id": "5610", "fipe_name": "AIRCROSS GLX 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS GLX 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "aircross-5339", "id": "5339", "fipe_name": "AIRCROSS GLX 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Aut", "marca": "CITROEN", "key": "aircross-6420", "id": "6420", "fipe_name": "AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Mec", "marca": "CITROEN", "key": "aircross-6421", "id": "6421", "fipe_name": "AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS SALOMON EXCLUSIVE 1.6 Flex Aut.", "marca": "CITROEN", "key": "aircross-7090", "id": "7090", "fipe_name": "AIRCROSS SALOMON EXCLUSIVE 1.6 Flex Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS SALOMON EXCLUSIVE 1.6 Flex Mec.", "marca": "CITROEN", "key": "aircross-7091", "id": "7091", "fipe_name": "AIRCROSS SALOMON EXCLUSIVE 1.6 Flex Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS SALOMON TENDANCE 1.6 Flex Aut.", "marca": "CITROEN", "key": "aircross-7092", "id": "7092", "fipe_name": "AIRCROSS SALOMON TENDANCE 1.6 Flex Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS SALOMON TENDANCE 1.6 Flex Mec.", "marca": "CITROEN", "key": "aircross-7093", "id": "7093", "fipe_name": "AIRCROSS SALOMON TENDANCE 1.6 Flex Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "aircross-6770", "id": "6770", "fipe_name": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "aircross-6771", "id": "6771", "fipe_name": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "AX GTi", "marca": "CITROEN", "key": "ax-283", "id": "283", "fipe_name": "AX GTi"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Berlingo MultSpace GLX 1.6 16V 110cv 4p", "marca": "CITROEN", "key": "berlingo-285", "id": "285", "fipe_name": "Berlingo MultSpace GLX 1.6 16V 110cv 4p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Berlingo MultSpace GLX 1.8i 3p", "marca": "CITROEN", "key": "berlingo-284", "id": "284", "fipe_name": "Berlingo MultSpace GLX 1.8i 3p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Berlingo MultSpace GLX 1.8i 4p", "marca": "CITROEN", "key": "berlingo-286", "id": "286", "fipe_name": "Berlingo MultSpace GLX 1.8i 4p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "BX 1.6S 16V", "marca": "CITROEN", "key": "bx-287", "id": "287", "fipe_name": "BX 1.6S 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "BX GTi 1.9", "marca": "CITROEN", "key": "bx-288", "id": "288", "fipe_name": "BX GTi 1.9"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Attra/Origine Pack 1.5 Flex 8V 5p Mec", "marca": "CITROEN", "key": "c3-6835", "id": "6835", "fipe_name": "C3 Attra/Origine Pack 1.5 Flex 8V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.", "marca": "CITROEN", "key": "c3-6152", "id": "6152", "fipe_name": "C3 Excl. 1.6 VTi Flex Start 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Excl. 1.6 VTi Flex Start 16V 5p Mec.", "marca": "CITROEN", "key": "c3-6153", "id": "6153", "fipe_name": "C3 Excl. 1.6 VTi Flex Start 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Excl./Excl.Solar./Sonora 1.6 Flex Aut", "marca": "CITROEN", "key": "c3-4761", "id": "4761", "fipe_name": "C3 Excl./Excl.Solar./Sonora 1.6 Flex Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec", "marca": "CITROEN", "key": "c3-289", "id": "289", "fipe_name": "C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Exclusive 1.4 Flex 8V 5p", "marca": "CITROEN", "key": "c3-4315", "id": "4315", "fipe_name": "C3 Exclusive 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Exclusive 1.5 Flex 8V 5p Mec.", "marca": "CITROEN", "key": "c3-6772", "id": "6772", "fipe_name": "C3 Exclusive 1.5 Flex 8V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 GLX 1.4/ GLX Sonora 1.4 Flex 8V 5p", "marca": "CITROEN", "key": "c3-290", "id": "290", "fipe_name": "C3 GLX 1.4/ GLX Sonora 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 GLX 1.6 Flex 16V 5p  Aut.", "marca": "CITROEN", "key": "c3-4762", "id": "4762", "fipe_name": "C3 GLX 1.6 Flex 16V 5p  Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 GLX 1.6/ 1.6 Flex 16V 5p", "marca": "CITROEN", "key": "c3-291", "id": "291", "fipe_name": "C3 GLX 1.6/ 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Ocimar Versolato 1.6 16V 110cv 5p", "marca": "CITROEN", "key": "c3-292", "id": "292", "fipe_name": "C3 Ocimar Versolato 1.6 16V 110cv 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Origine 1.5 Flex 8V 5p Mec.", "marca": "CITROEN", "key": "c3-6154", "id": "6154", "fipe_name": "C3 Origine 1.5 Flex 8V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso Excl. 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c3-5611", "id": "5611", "fipe_name": "C3 Picasso Excl. 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso Exclusive 1.6 Flex 16V 5p Mec", "marca": "CITROEN", "key": "c3-5551", "id": "5551", "fipe_name": "C3 Picasso Exclusive 1.6 Flex 16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso GL 1.5 Flex 8V Mec.", "marca": "CITROEN", "key": "c3-6092", "id": "6092", "fipe_name": "C3 Picasso GL 1.5 Flex 8V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso GL 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c3-5552", "id": "5552", "fipe_name": "C3 Picasso GL 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso GLX 1.5 Flex 8V 5p Mec.", "marca": "CITROEN", "key": "c3-6093", "id": "6093", "fipe_name": "C3 Picasso GLX 1.5 Flex 8V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso GLX 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c3-5612", "id": "5612", "fipe_name": "C3 Picasso GLX 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso GLX 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c3-5553", "id": "5553", "fipe_name": "C3 Picasso GLX 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso Origine 1.5 Flex 8V Mec.", "marca": "CITROEN", "key": "c3-6773", "id": "6773", "fipe_name": "C3 Picasso Origine 1.5 Flex 8V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso Tendance 1.5 Flex 8V 5p Mec.", "marca": "CITROEN", "key": "c3-6774", "id": "6774", "fipe_name": "C3 Picasso Tendance 1.5 Flex 8V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Picasso Tendance 1.6 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c3-6775", "id": "6775", "fipe_name": "C3 Picasso Tendance 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Tendance 1.5 Flex 8V 5p Mec.", "marca": "CITROEN", "key": "c3-6155", "id": "6155", "fipe_name": "C3 Tendance 1.5 Flex 8V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 Tendance 1.6 VTi Flex Start 16V Aut.", "marca": "CITROEN", "key": "c3-6776", "id": "6776", "fipe_name": "C3 Tendance 1.6 VTi Flex Start 16V Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 X-BOX ONE 1.6 VTi Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c3-6777", "id": "6777", "fipe_name": "C3 X-BOX ONE 1.6 VTi Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 XTR 1.4 Flex 8V 5p", "marca": "CITROEN", "key": "c3-4302", "id": "4302", "fipe_name": "C3 XTR 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C3 XTR 1.6 Flex 16V 5p", "marca": "CITROEN", "key": "c3-4054", "id": "4054", "fipe_name": "C3 XTR 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Competition 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c4-6574", "id": "6574", "fipe_name": "C4 Competition 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Competition 2.0 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c4-6559", "id": "6559", "fipe_name": "C4 Competition 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Excl./Excl. Solar. 2.0 Flex 16V Mec.", "marca": "CITROEN", "key": "c4-4888", "id": "4888", "fipe_name": "C4 Excl./Excl. Solar. 2.0 Flex 16V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Excl.2.0/2.0 Solaris Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c4-4845", "id": "4845", "fipe_name": "C4 Excl.2.0/2.0 Solaris Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 GLX 1.6 Flex 16V 5p mec.", "marca": "CITROEN", "key": "c4-4846", "id": "4846", "fipe_name": "C4 GLX 1.6 Flex 16V 5p mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 GLX 2.0 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c4-4847", "id": "4847", "fipe_name": "C4 GLX 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 GLX 2.0 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c4-4889", "id": "4889", "fipe_name": "C4 GLX 2.0 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Exclusive 1.6 Turbo 4p Aut.", "marca": "CITROEN", "key": "c4-6575", "id": "6575", "fipe_name": "C4 LOUNGE Exclusive 1.6 Turbo 4p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Exclusive 1.6 Turbo Flex Aut.", "marca": "CITROEN", "key": "c4-7094", "id": "7094", "fipe_name": "C4 LOUNGE Exclusive 1.6 Turbo Flex Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Exclusive 2.0 Flex 4p Aut.", "marca": "CITROEN", "key": "c4-6576", "id": "6576", "fipe_name": "C4 LOUNGE Exclusive 2.0 Flex 4p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Origine 2.0 Flex 4p Mec.", "marca": "CITROEN", "key": "c4-6577", "id": "6577", "fipe_name": "C4 LOUNGE Origine 2.0 Flex 4p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Tendance 1.6 Turbo 4p Aut", "marca": "CITROEN", "key": "c4-6884", "id": "6884", "fipe_name": "C4 LOUNGE Tendance 1.6 Turbo 4p Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Tendance 1.6 Turbo Flex Aut.", "marca": "CITROEN", "key": "c4-7118", "id": "7118", "fipe_name": "C4 LOUNGE Tendance 1.6 Turbo Flex Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Tendance 2.0 Flex 4p Aut.", "marca": "CITROEN", "key": "c4-6578", "id": "6578", "fipe_name": "C4 LOUNGE Tendance 2.0 Flex 4p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 LOUNGE Tendance 2.0 Flex 4p Mec.", "marca": "CITROEN", "key": "c4-6579", "id": "6579", "fipe_name": "C4 LOUNGE Tendance 2.0 Flex 4p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 PAL.Excl/Excl(Tech.) 2.0/2.0 Flex Aut", "marca": "CITROEN", "key": "c4-4397", "id": "4397", "fipe_name": "C4 PAL.Excl/Excl(Tech.) 2.0/2.0 Flex Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 PALLAS Exclusive 2.0/2.0 Flex 16V Mec", "marca": "CITROEN", "key": "c4-4398", "id": "4398", "fipe_name": "C4 PALLAS Exclusive 2.0/2.0 Flex 16V Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 PALLAS GLX 2.0/ 2.0 Flex Aut.", "marca": "CITROEN", "key": "c4-4399", "id": "4399", "fipe_name": "C4 PALLAS GLX 2.0/ 2.0 Flex Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 PALLAS GLX 2.0/2.0 Flex 16V Mec.", "marca": "CITROEN", "key": "c4-4400", "id": "4400", "fipe_name": "C4 PALLAS GLX 2.0/2.0 Flex 16V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Picasso Grand 2.0 16V 143cv Aut", "marca": "CITROEN", "key": "c4-4667", "id": "4667", "fipe_name": "C4 Picasso Grand 2.0 16V 143cv Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Picasso/Pic. La Luna 2.0 16V  Aut.", "marca": "CITROEN", "key": "c4-4824", "id": "4824", "fipe_name": "C4 Picasso/Pic. La Luna 2.0 16V  Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 rockyou 1.6 Flex 16V 5p Mec", "marca": "CITROEN", "key": "c4-6580", "id": "6580", "fipe_name": "C4 rockyou 1.6 Flex 16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Tendance 1.6 Flex 16V 5p Mec.", "marca": "CITROEN", "key": "c4-6737", "id": "6737", "fipe_name": "C4 Tendance 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 Tendance 2.0 Flex 16V 5p Aut.", "marca": "CITROEN", "key": "c4-6738", "id": "6738", "fipe_name": "C4 Tendance 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C4 VTR 2.0 16V 143cv", "marca": "CITROEN", "key": "c4-4159", "id": "4159", "fipe_name": "C4 VTR 2.0 16V 143cv"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 3.0 24V 210cv 4p Aut.", "marca": "CITROEN", "key": "c5-293", "id": "293", "fipe_name": "C5 3.0 24V 210cv 4p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 Exclusive 2.0 16V 138cv 4p Mec.", "marca": "CITROEN", "key": "c5-294", "id": "294", "fipe_name": "C5 Exclusive 2.0 16V 138cv 4p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 Exclusive 2.0 16V 4p Aut.", "marca": "CITROEN", "key": "c5-295", "id": "295", "fipe_name": "C5 Exclusive 2.0 16V 4p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 Exclusive Break 2.0 16V 138cv 5p Mec.", "marca": "CITROEN", "key": "c5-296", "id": "296", "fipe_name": "C5 Exclusive Break 2.0 16V 138cv 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 Exclusive Break 2.0 16V Aut.", "marca": "CITROEN", "key": "c5-297", "id": "297", "fipe_name": "C5 Exclusive Break 2.0 16V Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C5 Tourer Exclusive 2.0 16V 5p Aut.", "marca": "CITROEN", "key": "c5-4937", "id": "4937", "fipe_name": "C5 Tourer Exclusive 2.0 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C6 Exclusive 3.0 V6 24V 215cv Aut.", "marca": "CITROEN", "key": "c6-4328", "id": "4328", "fipe_name": "C6 Exclusive 3.0 V6 24V 215cv Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "C8 Exclusive 2.0 16V 138cv 5p Aut.", "marca": "CITROEN", "key": "c8-298", "id": "298", "fipe_name": "C8 Exclusive 2.0 16V 138cv 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS3 1.6 Turbo 16V 3p Mec.", "marca": "CITROEN", "key": "ds3-6050", "id": "6050", "fipe_name": "DS3 1.6 Turbo 16V 3p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS3 Sport Chic 1.6 TB 16V 3p Mec.", "marca": "CITROEN", "key": "ds3-7067", "id": "7067", "fipe_name": "DS3 Sport Chic 1.6 TB 16V 3p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS4 1.6 Chic Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds4-7068", "id": "7068", "fipe_name": "DS4 1.6 Chic Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS4 1.6 So Chic Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds4-7069", "id": "7069", "fipe_name": "DS4 1.6 So Chic Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS4 1.6 Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds4-6347", "id": "6347", "fipe_name": "DS4 1.6 Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS5 1.6 Be Chic Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds5-7095", "id": "7095", "fipe_name": "DS5 1.6 Be Chic Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS5 1.6 So Chic Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds5-7096", "id": "7096", "fipe_name": "DS5 1.6 So Chic Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "DS5 1.6 Turbo 16V 5p Aut.", "marca": "CITROEN", "key": "ds5-6295", "id": "6295", "fipe_name": "DS5 1.6 Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Evasion  GLX 2.0 16V", "marca": "CITROEN", "key": "evasion-299", "id": "299", "fipe_name": "Evasion  GLX 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Evasion VSX Turbo", "marca": "CITROEN", "key": "evasion-300", "id": "300", "fipe_name": "Evasion VSX Turbo"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.3 15/16Lug. TB Diesel", "marca": "CITROEN", "key": "jumper-5103", "id": "5103", "fipe_name": "Jumper 2.3 15/16Lug. TB Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.3 Furg\u00e3o TB Diesel", "marca": "CITROEN", "key": "jumper-5140", "id": "5140", "fipe_name": "Jumper 2.3 Furg\u00e3o TB Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.3 Vetrato Exec. 16Lug. TB Dies.", "marca": "CITROEN", "key": "jumper-5659", "id": "5659", "fipe_name": "Jumper 2.3 Vetrato Exec. 16Lug. TB Dies."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.3 Vetrato TB Diesel", "marca": "CITROEN", "key": "jumper-5411", "id": "5411", "fipe_name": "Jumper 2.3 Vetrato TB Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.5 Diesel", "marca": "CITROEN", "key": "jumper-301", "id": "301", "fipe_name": "Jumper 2.5 Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.8 16Lug.  Diesel", "marca": "CITROEN", "key": "jumper-302", "id": "302", "fipe_name": "Jumper 2.8 16Lug.  Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.8 Furg\u00e3o 35C Diesel", "marca": "CITROEN", "key": "jumper-303", "id": "303", "fipe_name": "Jumper 2.8 Furg\u00e3o 35C Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Jumper 2.8 Furg\u00e3o 35MH Diesel", "marca": "CITROEN", "key": "jumper-304", "id": "304", "fipe_name": "Jumper 2.8 Furg\u00e3o 35MH Diesel"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia 2.0  16V", "marca": "CITROEN", "key": "xantia-305", "id": "305", "fipe_name": "Xantia 2.0  16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Activa 2.0", "marca": "CITROEN", "key": "xantia-306", "id": "306", "fipe_name": "Xantia Activa 2.0"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Activa 2.0 TB", "marca": "CITROEN", "key": "xantia-307", "id": "307", "fipe_name": "Xantia Activa 2.0 TB"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Activa 3.0 V6 Mec", "marca": "CITROEN", "key": "xantia-308", "id": "308", "fipe_name": "Xantia Activa 3.0 V6 Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Break 2.0 8V/GLX 2.0 16V Aut", "marca": "CITROEN", "key": "xantia-309", "id": "309", "fipe_name": "Xantia Break 2.0 8V/GLX 2.0 16V Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Break GLX 2.0 16V Mec.", "marca": "CITROEN", "key": "xantia-310", "id": "310", "fipe_name": "Xantia Break GLX 2.0 16V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Exclusive 2.0 16V", "marca": "CITROEN", "key": "xantia-311", "id": "311", "fipe_name": "Xantia Exclusive 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia Exclusive 3.0 V6", "marca": "CITROEN", "key": "xantia-312", "id": "312", "fipe_name": "Xantia Exclusive 3.0 V6"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia GLX 2.0 16V Aut.", "marca": "CITROEN", "key": "xantia-313", "id": "313", "fipe_name": "Xantia GLX 2.0 16V Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia GLX 2.0 16V Mec.", "marca": "CITROEN", "key": "xantia-314", "id": "314", "fipe_name": "Xantia GLX 2.0 16V Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia SX 1.8", "marca": "CITROEN", "key": "xantia-315", "id": "315", "fipe_name": "Xantia SX 1.8"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia SX 2.0 8V/16V Mec/ Aut", "marca": "CITROEN", "key": "xantia-316", "id": "316", "fipe_name": "Xantia SX 2.0 8V/16V Mec/ Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia VSX 2.0", "marca": "CITROEN", "key": "xantia-317", "id": "317", "fipe_name": "Xantia VSX 2.0"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xantia VSX 2.0 16V", "marca": "CITROEN", "key": "xantia-318", "id": "318", "fipe_name": "Xantia VSX 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "XM Exclusive 12v", "marca": "CITROEN", "key": "xm-319", "id": "319", "fipe_name": "XM Exclusive 12v"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "XM Exclusive 24V", "marca": "CITROEN", "key": "xm-320", "id": "320", "fipe_name": "XM Exclusive 24V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "XM Exclusive Break", "marca": "CITROEN", "key": "xm-321", "id": "321", "fipe_name": "XM Exclusive Break"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "XM Sensation 2.0 TB", "marca": "CITROEN", "key": "xm-322", "id": "322", "fipe_name": "XM Sensation 2.0 TB"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break Exclusive 1.6 16V 5p Aut.", "marca": "CITROEN", "key": "xsara-323", "id": "323", "fipe_name": "Xsara Break Exclusive 1.6 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break Exclusive 1.6 16V 5p Mec.", "marca": "CITROEN", "key": "xsara-324", "id": "324", "fipe_name": "Xsara Break Exclusive 1.6 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break Exclusive 1.8 16V", "marca": "CITROEN", "key": "xsara-325", "id": "325", "fipe_name": "Xsara Break Exclusive 1.8 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break Exclusive 2.0 16V", "marca": "CITROEN", "key": "xsara-326", "id": "326", "fipe_name": "Xsara Break Exclusive 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break GLX 1.6 16V 5p Aut.", "marca": "CITROEN", "key": "xsara-327", "id": "327", "fipe_name": "Xsara Break GLX 1.6 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break GLX 1.6 16V 5p Mec.", "marca": "CITROEN", "key": "xsara-328", "id": "328", "fipe_name": "Xsara Break GLX 1.6 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break GLX 1.8 16V", "marca": "CITROEN", "key": "xsara-329", "id": "329", "fipe_name": "Xsara Break GLX 1.8 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Break GLX/ Paris 2.0 16V", "marca": "CITROEN", "key": "xsara-330", "id": "330", "fipe_name": "Xsara Break GLX/ Paris 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Exclusive 1.6 16V 5p Aut.", "marca": "CITROEN", "key": "xsara-331", "id": "331", "fipe_name": "Xsara Exclusive 1.6 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Exclusive 1.6 16V 5p Mec.", "marca": "CITROEN", "key": "xsara-332", "id": "332", "fipe_name": "Xsara Exclusive 1.6 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Exclusive 1.8 8V/16V 5p Aut", "marca": "CITROEN", "key": "xsara-333", "id": "333", "fipe_name": "Xsara Exclusive 1.8 8V/16V 5p Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Exclusive 1.8 8V/16V 5p Mec", "marca": "CITROEN", "key": "xsara-334", "id": "334", "fipe_name": "Xsara Exclusive 1.8 8V/16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Exclusive 2.0 16V", "marca": "CITROEN", "key": "xsara-335", "id": "335", "fipe_name": "Xsara Exclusive 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.6 16V 3p", "marca": "CITROEN", "key": "xsara-336", "id": "336", "fipe_name": "Xsara GLX 1.6 16V 3p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.6 16V 5p Aut.", "marca": "CITROEN", "key": "xsara-337", "id": "337", "fipe_name": "Xsara GLX 1.6 16V 5p Aut."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.6 16V 5p Mec.", "marca": "CITROEN", "key": "xsara-338", "id": "338", "fipe_name": "Xsara GLX 1.6 16V 5p Mec."
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.8 16V 5p Mec", "marca": "CITROEN", "key": "xsara-339", "id": "339", "fipe_name": "Xsara GLX 1.8 16V 5p Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.8 16V Cup\u00ea Mec", "marca": "CITROEN", "key": "xsara-340", "id": "340", "fipe_name": "Xsara GLX 1.8 16V Cup\u00ea Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.8 8V 5p Aut", "marca": "CITROEN", "key": "xsara-341", "id": "341", "fipe_name": "Xsara GLX 1.8 8V 5p Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX 1.8 8V Cup\u00ea Aut", "marca": "CITROEN", "key": "xsara-342", "id": "342", "fipe_name": "Xsara GLX 1.8 8V Cup\u00ea Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara GLX/ Paris 2.0 16V", "marca": "CITROEN", "key": "xsara-343", "id": "343", "fipe_name": "Xsara GLX/ Paris 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso Exc./Etoile 2.0 16v  Mec", "marca": "CITROEN", "key": "xsara-344", "id": "344", "fipe_name": "Xsara Picasso Exc./Etoile 2.0 16v  Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso Exclus. 1.6/ 1.6 Flex 16V", "marca": "CITROEN", "key": "xsara-3930", "id": "3930", "fipe_name": "Xsara Picasso Exclus. 1.6/ 1.6 Flex 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso Exclusive 2.0 16V  Aut", "marca": "CITROEN", "key": "xsara-345", "id": "345", "fipe_name": "Xsara Picasso Exclusive 2.0 16V  Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso GLX /Brasil/Etoile 2.0 Mec", "marca": "CITROEN", "key": "xsara-346", "id": "346", "fipe_name": "Xsara Picasso GLX /Brasil/Etoile 2.0 Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso GLX 1.6/ 1.6 Flex 16V", "marca": "CITROEN", "key": "xsara-347", "id": "347", "fipe_name": "Xsara Picasso GLX 1.6/ 1.6 Flex 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara Picasso GLX 2.0 16V  Aut", "marca": "CITROEN", "key": "xsara-348", "id": "348", "fipe_name": "Xsara Picasso GLX 2.0 16V  Aut"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara VTS 1.6 16V 3p", "marca": "CITROEN", "key": "xsara-349", "id": "349", "fipe_name": "Xsara VTS 1.6 16V 3p"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara VTS 1.8 16V", "marca": "CITROEN", "key": "xsara-350", "id": "350", "fipe_name": "Xsara VTS 1.8 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "Xsara VTS 2.0  16V Cup\u00ea Mec", "marca": "CITROEN", "key": "xsara-351", "id": "351", "fipe_name": "Xsara VTS 2.0  16V Cup\u00ea Mec"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "ZX Cup\u00ea 16V", "marca": "CITROEN", "key": "zx-352", "id": "352", "fipe_name": "ZX Cup\u00ea 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "ZX Dakar 2.0 16V", "marca": "CITROEN", "key": "zx-353", "id": "353", "fipe_name": "ZX Dakar 2.0 16V"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "ZX Furio", "marca": "CITROEN", "key": "zx-354", "id": "354", "fipe_name": "ZX Furio"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "ZX Paris 1.8", "marca": "CITROEN", "key": "zx-355", "id": "355", "fipe_name": "ZX Paris 1.8"
+}
+, {"fipe_marca": "Citro\u00ebn", "name": "ZX Volcane 3p e 5p", "marca": "CITROEN", "key": "zx-356", "id": "356", "fipe_name": "ZX Volcane 3p e 5p"
+}
+]

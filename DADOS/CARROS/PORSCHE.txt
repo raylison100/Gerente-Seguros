@@ -1,0 +1,128 @@
+{"contador" = "63"}
+[{"fipe_marca": "Porsche", "name": "911 Carrera 4S Cabriolet-4 3.6/3.8", "marca": "PORSCHE", "key": "911-1954", "id": "1954", "fipe_name": "911 Carrera 4S Cabriolet-4 3.6/3.8"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera 4S Coup\u00e9-4 3.6/3.8", "marca": "PORSCHE", "key": "911-1955", "id": "1955", "fipe_name": "911 Carrera 4S Coup\u00e9-4 3.6/3.8"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Cabriolet 3.4/ 3.6 Mec", "marca": "PORSCHE", "key": "911-1956", "id": "1956", "fipe_name": "911 Carrera Cabriolet 3.4/ 3.6 Mec"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Cabriolet 3.4/ 3.6 Tiptronic", "marca": "PORSCHE", "key": "911-1957", "id": "1957", "fipe_name": "911 Carrera Cabriolet 3.4/ 3.6 Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Cabriolet-4 3.4 Mec", "marca": "PORSCHE", "key": "911-1958", "id": "1958", "fipe_name": "911 Carrera Cabriolet-4 3.4 Mec"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Cabriolet-4 3.4 Tiptronic", "marca": "PORSCHE", "key": "911-1959", "id": "1959", "fipe_name": "911 Carrera Cabriolet-4 3.4 Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9", "marca": "PORSCHE", "key": "911-1960", "id": "1960", "fipe_name": "911 Carrera Coup\u00e9"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9 Black Edition 3.6 24V", "marca": "PORSCHE", "key": "911-5584", "id": "5584", "fipe_name": "911 Carrera Coup\u00e9 Black Edition 3.6 24V"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9 GTS 3.8 24V 408cv", "marca": "PORSCHE", "key": "911-5508", "id": "5508", "fipe_name": "911 Carrera Coup\u00e9 GTS 3.8 24V 408cv"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9 Tiptronic", "marca": "PORSCHE", "key": "911-1961", "id": "1961", "fipe_name": "911 Carrera Coup\u00e9 Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9-4 3.4/ 3.6", "marca": "PORSCHE", "key": "911-1962", "id": "1962", "fipe_name": "911 Carrera Coup\u00e9-4 3.4/ 3.6"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Coup\u00e9-4 3.4/ 3.6 Tiptronic", "marca": "PORSCHE", "key": "911-1963", "id": "1963", "fipe_name": "911 Carrera Coup\u00e9-4 3.4/ 3.6 Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Evo Cabriolet", "marca": "PORSCHE", "key": "911-1964", "id": "1964", "fipe_name": "911 Carrera Evo Cabriolet"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Evo Cabriolet-4", "marca": "PORSCHE", "key": "911-1965", "id": "1965", "fipe_name": "911 Carrera Evo Cabriolet-4"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Evo Coup\u00e9", "marca": "PORSCHE", "key": "911-1966", "id": "1966", "fipe_name": "911 Carrera Evo Coup\u00e9"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera Evo Coup\u00e9-4", "marca": "PORSCHE", "key": "911-1967", "id": "1967", "fipe_name": "911 Carrera Evo Coup\u00e9-4"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera GT3/ GT2 Street", "marca": "PORSCHE", "key": "911-1968", "id": "1968", "fipe_name": "911 Carrera GT3/ GT2 Street"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera S 50th Coup\u00e9 3.8 24V(991)", "marca": "PORSCHE", "key": "911-7043", "id": "7043", "fipe_name": "911 Carrera S 50th Coup\u00e9 3.8 24V(991)"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera S Cabriolet 3.8 24V", "marca": "PORSCHE", "key": "911-1969", "id": "1969", "fipe_name": "911 Carrera S Cabriolet 3.8 24V"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera S Cabriolet 3.8 24V (991)", "marca": "PORSCHE", "key": "911-6034", "id": "6034", "fipe_name": "911 Carrera S Cabriolet 3.8 24V (991)"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera S Coup\u00e9 3.8 24V", "marca": "PORSCHE", "key": "911-1970", "id": "1970", "fipe_name": "911 Carrera S Coup\u00e9 3.8 24V"
+}
+, {"fipe_marca": "Porsche", "name": "911 Carrera S Coup\u00e9 3.8 24V (991)", "marca": "PORSCHE", "key": "911-6035", "id": "6035", "fipe_name": "911 Carrera S Coup\u00e9 3.8 24V (991)"
+}
+, {"fipe_marca": "Porsche", "name": "911 Targa 3.6", "marca": "PORSCHE", "key": "911-1971", "id": "1971", "fipe_name": "911 Targa 3.6"
+}
+, {"fipe_marca": "Porsche", "name": "911 Targa 4S", "marca": "PORSCHE", "key": "911-4299", "id": "4299", "fipe_name": "911 Targa 4S"
+}
+, {"fipe_marca": "Porsche", "name": "911 Turbo Cabriolet 3.6/3.8", "marca": "PORSCHE", "key": "911-1972", "id": "1972", "fipe_name": "911 Turbo Cabriolet 3.6/3.8"
+}
+, {"fipe_marca": "Porsche", "name": "911 Turbo Coup\u00e9 3.6 / 3.8", "marca": "PORSCHE", "key": "911-1973", "id": "1973", "fipe_name": "911 Turbo Coup\u00e9 3.6 / 3.8"
+}
+, {"fipe_marca": "Porsche", "name": "911 Turbo S Cabriolet 3.6/3.8 24V", "marca": "PORSCHE", "key": "911-1974", "id": "1974", "fipe_name": "911 Turbo S Cabriolet 3.6/3.8 24V"
+}
+, {"fipe_marca": "Porsche", "name": "911 Turbo S Coup\u00e9 3.6/3.8 24V", "marca": "PORSCHE", "key": "911-1975", "id": "1975", "fipe_name": "911 Turbo S Coup\u00e9 3.6/3.8 24V"
+}
+, {"fipe_marca": "Porsche", "name": "928 GTS 5.4 32V", "marca": "PORSCHE", "key": "928-1976", "id": "1976", "fipe_name": "928 GTS 5.4 32V"
+}
+, {"fipe_marca": "Porsche", "name": "968 Cabriolet 3.0", "marca": "PORSCHE", "key": "968-1977", "id": "1977", "fipe_name": "968 Cabriolet 3.0"
+}
+, {"fipe_marca": "Porsche", "name": "968 Coup\u00e9 3.0 16V", "marca": "PORSCHE", "key": "968-1978", "id": "1978", "fipe_name": "968 Coup\u00e9 3.0 16V"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster  2.9 255cv", "marca": "PORSCHE", "key": "boxster-5039", "id": "5039", "fipe_name": "Boxster  2.9 255cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster 2.7 265cv", "marca": "PORSCHE", "key": "boxster-6190", "id": "6190", "fipe_name": "Boxster 2.7 265cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster GTS 3.4 330cv", "marca": "PORSCHE", "key": "boxster-6968", "id": "6968", "fipe_name": "Boxster GTS 3.4 330cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster Mec.", "marca": "PORSCHE", "key": "boxster-1979", "id": "1979", "fipe_name": "Boxster Mec."
+}
+, {"fipe_marca": "Porsche", "name": "Boxster S", "marca": "PORSCHE", "key": "boxster-1980", "id": "1980", "fipe_name": "Boxster S"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster S 3.4 310cv", "marca": "PORSCHE", "key": "boxster-5040", "id": "5040", "fipe_name": "Boxster S 3.4 310cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster S 3.4 315cv", "marca": "PORSCHE", "key": "boxster-6191", "id": "6191", "fipe_name": "Boxster S 3.4 315cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster S Tiptronic", "marca": "PORSCHE", "key": "boxster-1981", "id": "1981", "fipe_name": "Boxster S Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster Spyder 3.4 320cv", "marca": "PORSCHE", "key": "boxster-5429", "id": "5429", "fipe_name": "Boxster Spyder 3.4 320cv"
+}
+, {"fipe_marca": "Porsche", "name": "Boxster Tiptronic", "marca": "PORSCHE", "key": "boxster-1982", "id": "1982", "fipe_name": "Boxster Tiptronic"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne GTS 3.6 Bi-Turbo 440cv", "marca": "PORSCHE", "key": "cayenne-7206", "id": "7206", "fipe_name": "Cayenne GTS 3.6 Bi-Turbo 440cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne GTS 4.8 405/420cv", "marca": "PORSCHE", "key": "cayenne-4631", "id": "4631", "fipe_name": "Cayenne GTS 4.8 405/420cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne S 3.6 Bi-Turbo 420cv", "marca": "PORSCHE", "key": "cayenne-7232", "id": "7232", "fipe_name": "Cayenne S 3.6 Bi-Turbo 420cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne S 4.5/4.8", "marca": "PORSCHE", "key": "cayenne-1983", "id": "1983", "fipe_name": "Cayenne S 4.5/4.8"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne Turbo 4.5/4.8", "marca": "PORSCHE", "key": "cayenne-1984", "id": "1984", "fipe_name": "Cayenne Turbo 4.5/4.8"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne Turbo S 4.5/ 4.8 32V", "marca": "PORSCHE", "key": "cayenne-4246", "id": "4246", "fipe_name": "Cayenne Turbo S 4.5/ 4.8 32V"
+}
+, {"fipe_marca": "Porsche", "name": "Cayenne V6 3.2/3.6 24V", "marca": "PORSCHE", "key": "cayenne-1985", "id": "1985", "fipe_name": "Cayenne V6 3.2/3.6 24V"
+}
+, {"fipe_marca": "Porsche", "name": "Cayman 2.7/ 2.9", "marca": "PORSCHE", "key": "cayman-4247", "id": "4247", "fipe_name": "Cayman 2.7/ 2.9"
+}
+, {"fipe_marca": "Porsche", "name": "Cayman GT4 3.8 385cv", "marca": "PORSCHE", "key": "cayman-7207", "id": "7207", "fipe_name": "Cayman GT4 3.8 385cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayman GTS 3.4 340cv", "marca": "PORSCHE", "key": "cayman-6969", "id": "6969", "fipe_name": "Cayman GTS 3.4 340cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayman R 3.4 330cv", "marca": "PORSCHE", "key": "cayman-5490", "id": "5490", "fipe_name": "Cayman R 3.4 330cv"
+}
+, {"fipe_marca": "Porsche", "name": "Cayman S 3.4", "marca": "PORSCHE", "key": "cayman-3902", "id": "3902", "fipe_name": "Cayman S 3.4"
+}
+, {"fipe_marca": "Porsche", "name": "Macan 2.0 Turbo 237cv", "marca": "PORSCHE", "key": "macan-7143", "id": "7143", "fipe_name": "Macan 2.0 Turbo 237cv"
+}
+, {"fipe_marca": "Porsche", "name": "Macan S 3.0 Bi-Turbo 340cv", "marca": "PORSCHE", "key": "macan-6844", "id": "6844", "fipe_name": "Macan S 3.0 Bi-Turbo 340cv"
+}
+, {"fipe_marca": "Porsche", "name": "Macan Turbo 3.6 Bi-Turbo 400cv", "marca": "PORSCHE", "key": "macan-6845", "id": "6845", "fipe_name": "Macan Turbo 3.6 Bi-Turbo 400cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera 3.6 V6 300cv/310cv", "marca": "PORSCHE", "key": "panamera-5430", "id": "5430", "fipe_name": "Panamera 3.6 V6 300cv/310cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera 4S 4.8 400cv", "marca": "PORSCHE", "key": "panamera-5078", "id": "5078", "fipe_name": "Panamera 4S 4.8 400cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera GT-S 4.8", "marca": "PORSCHE", "key": "panamera-6275", "id": "6275", "fipe_name": "Panamera GT-S 4.8"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera S 3.0 Bi-Turbo 420cv", "marca": "PORSCHE", "key": "panamera-6595", "id": "6595", "fipe_name": "Panamera S 3.0 Bi-Turbo 420cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera S 4.8 400cv", "marca": "PORSCHE", "key": "panamera-5079", "id": "5079", "fipe_name": "Panamera S 4.8 400cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera Turbo 4.8 500cv/520cv", "marca": "PORSCHE", "key": "panamera-5080", "id": "5080", "fipe_name": "Panamera Turbo 4.8 500cv/520cv"
+}
+, {"fipe_marca": "Porsche", "name": "Panamera Turbo S 4.8", "marca": "PORSCHE", "key": "panamera-5670", "id": "5670", "fipe_name": "Panamera Turbo S 4.8"
+}
+]

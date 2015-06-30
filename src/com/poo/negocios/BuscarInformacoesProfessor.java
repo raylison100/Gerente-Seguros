@@ -1,4 +1,5 @@
 package com.poo.negocios;
+
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -31,64 +32,7 @@ public class BuscarInformacoesProfessor{
 		static Cliente prof;
 		
 	public static void main(String[] args) throws IOException {
-		
+		DadosFipe a = new DadosFipe("caminhoes","bmw");
 	}
-	/*
-	*public static void dadosProfessores(){
-	*	String temp = null;
-	*	int k = 0;
-	*	for(int j = 0; j<links.length; j++){
-	*		try{
-	*			DefaultHttpClient httpClient = new DefaultHttpClient();
-	*			HttpGet httpPost = new HttpGet(links[j]);
-	*			HttpResponse response = httpClient.execute(httpPost);
-	*			HttpEntity entity = response.getEntity();
-	*			String body = EntityUtils.toString(entity);
-	*			StringTokenizer st = new StringTokenizer(body, "<>/");
-	*			while(st.hasMoreTokens()){
-	*				temp = st.nextToken();
-	*				if(temp.contains("infpessoa")){
-	*					st.nextToken();
-	*					st.nextToken();
-	*	//						System.out.println(st.nextToken());
-	*	//						String decoded = URLDecoder.decode(st.nextToken(), "UTF-8");
-	*					StringEscapeUtils nomeDecoded = new StringEscapeUtils();
-	*					nome[j] = nomeDecoded.unescapeHtml(st.nextToken());
-	*				}
-	*			}
-	*		}
-	*		catch(Exception e){
-	*			e.printStackTrace();
-	*		}
-	*	}
-	*	}
-	*
-*/
-
-/*
-	* public static void linkLates(){
-	*	String temp = null;
-	*	try{
-	*		
-	*		DefaultHttpClient httpClient = new DefaultHttpClient();
-	*		HttpPost httpPost = new HttpPost("http://www.deinfo.ufrpe.br/docentes");
-	*		HttpResponse response = httpClient.execute(httpPost);
-	*		HttpEntity entity = response.getEntity();
-	*		String body = EntityUtils.toString(entity);
-	*		//		System.out.println(body);
-	*		StringTokenizer st = new StringTokenizer(body, "<>=\"");
-	*		while(st.hasMoreTokens()){
-	*			temp = st.nextToken();
-	*			if(temp.contains(linkLinha)){
-	*				
-	*				links[i]=st.nextToken();
-	*				i++;
-	*			}
-	*		}
-	*	}
-	*	catch(Exception e){
-	*		e.printStackTrace();
-	*	}
-	*	}
-*/
+	
 }

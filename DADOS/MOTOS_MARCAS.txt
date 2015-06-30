@@ -1,0 +1,162 @@
+{"contador" = "80"}
+[{"name": "BMW", "fipe_name": "BMW", "order": 2, "key": "bmw-67", "id": 67
+}
+, {"name": "DAFRA", "fipe_name": "DAFRA", "order": 2, "key": "dafra-145", "id": 145
+}
+, {"name": "HARLEY-DAVIDSON", "fipe_name": "HARLEY-DAVIDSON", "order": 2, "key": "harley-davidson-77", "id": 77
+}
+, {"name": "HONDA", "fipe_name": "HONDA", "order": 2, "key": "honda-80", "id": 80
+}
+, {"name": "KASINSKI", "fipe_name": "KASINSKI", "order": 2, "key": "kasinski-118", "id": 118
+}
+, {"name": "KAWASAKI", "fipe_name": "KAWASAKI", "order": 2, "key": "kawasaki-85", "id": 85
+}
+, {"name": "SUNDOWN", "fipe_name": "SUNDOWN", "order": 2, "key": "sundown-98", "id": 98
+}
+, {"name": "SUZUKI", "fipe_name": "SUZUKI", "order": 2, "key": "suzuki-99", "id": 99
+}
+, {"name": "YAMAHA", "fipe_name": "YAMAHA", "order": 2, "key": "yamaha-101", "id": 101
+}
+, {"name": "ADLY", "fipe_name": "ADLY", "order": 1, "key": "adly-60", "id": 60
+}
+, {"name": "AGRALE", "fipe_name": "AGRALE", "order": 1, "key": "agrale-61", "id": 61
+}
+, {"name": "AMAZONAS", "fipe_name": "AMAZONAS", "order": 1, "key": "amazonas-131", "id": 131
+}
+, {"name": "APRILIA", "fipe_name": "APRILIA", "order": 1, "key": "aprilia-62", "id": 62
+}
+, {"name": "ATALA", "fipe_name": "ATALA", "order": 1, "key": "atala-63", "id": 63
+}
+, {"name": "BAJAJ", "fipe_name": "BAJAJ", "order": 1, "key": "bajaj-64", "id": 64
+}
+, {"name": "BENELLI", "fipe_name": "Benelli", "order": 1, "key": "benelli-162", "id": 162
+}
+, {"name": "BETA", "fipe_name": "BETA", "order": 1, "key": "beta-65", "id": 65
+}
+, {"name": "BIMOTA", "fipe_name": "BIMOTA", "order": 1, "key": "bimota-66", "id": 66
+}
+, {"name": "BRANDY", "fipe_name": "BRANDY", "order": 1, "key": "brandy-68", "id": 68
+}
+, {"name": "BRAVA", "fipe_name": "BRAVA", "order": 1, "key": "brava-130", "id": 130
+}
+, {"name": "BRP", "fipe_name": "BRP", "order": 1, "key": "brp-150", "id": 150
+}
+, {"name": "BUELL", "fipe_name": "BUELL", "order": 1, "key": "buell-117", "id": 117
+}
+, {"name": "BUENO", "fipe_name": "BUENO", "order": 1, "key": "bueno-155", "id": 155
+}
+, {"name": "BYCRISTO", "fipe_name": "byCristo", "order": 1, "key": "bycristo-69", "id": 69
+}
+, {"name": "CAGIVA", "fipe_name": "CAGIVA", "order": 1, "key": "cagiva-70", "id": 70
+}
+, {"name": "CALOI", "fipe_name": "CALOI", "order": 1, "key": "caloi-71", "id": 71
+}
+, {"name": "DAELIM", "fipe_name": "DAELIM", "order": 1, "key": "daelim-72", "id": 72
+}
+, {"name": "DAYANG", "fipe_name": "DAYANG", "order": 1, "key": "dayang-137", "id": 137
+}
+, {"name": "DAYUN", "fipe_name": "DAYUN", "order": 1, "key": "dayun-142", "id": 142
+}
+, {"name": "DERBI", "fipe_name": "DERBI", "order": 1, "key": "derbi-73", "id": 73
+}
+, {"name": "DUCATI", "fipe_name": "DUCATI", "order": 1, "key": "ducati-74", "id": 74
+}
+, {"name": "EMME", "fipe_name": "EMME", "order": 1, "key": "emme-75", "id": 75
+}
+, {"name": "FOX", "fipe_name": "FOX", "order": 1, "key": "fox-132", "id": 132
+}
+, {"name": "FYM", "fipe_name": "FYM", "order": 1, "key": "fym-128", "id": 128
+}
+, {"name": "GARINNI", "fipe_name": "GARINNI", "order": 1, "key": "garinni-143", "id": 143
+}
+, {"name": "GAS GAS", "fipe_name": "GAS GAS", "order": 1, "key": "gas-gas-76", "id": 76
+}
+, {"name": "GREEN", "fipe_name": "GREEN", "order": 1, "key": "green-133", "id": 133
+}
+, {"name": "HAOBAO", "fipe_name": "HAOBAO", "order": 1, "key": "haobao-138", "id": 138
+}
+, {"name": "HARTFORD", "fipe_name": "HARTFORD", "order": 1, "key": "hartford-78", "id": 78
+}
+, {"name": "HERO", "fipe_name": "HERO", "order": 1, "key": "hero-79", "id": 79
+}
+, {"name": "HUSABERG", "fipe_name": "HUSABERG", "order": 1, "key": "husaberg-81", "id": 81
+}
+, {"name": "HUSQVARNA", "fipe_name": "HUSQVARNA", "order": 1, "key": "husqvarna-82", "id": 82
+}
+, {"name": "IROS", "fipe_name": "IROS", "order": 1, "key": "iros-158", "id": 158
+}
+, {"name": "JIAPENG VOLCANO", "fipe_name": "JIAPENG VOLCANO", "order": 1, "key": "jiapeng-volcano-141", "id": 141
+}
+, {"name": "JOHNNYPAG", "fipe_name": "JOHNNYPAG", "order": 1, "key": "johnnypag-174", "id": 174
+}
+, {"name": "JONNY", "fipe_name": "JONNY", "order": 1, "key": "jonny-151", "id": 151
+}
+, {"name": "KAHENA", "fipe_name": "KAHENA", "order": 1, "key": "kahena-129", "id": 129
+}
+, {"name": "KIMCO", "fipe_name": "KIMCO", "order": 1, "key": "kimco-86", "id": 86
+}
+, {"name": "KTM", "fipe_name": "KTM", "order": 1, "key": "ktm-87", "id": 87
+}
+, {"name": "LANDUM", "fipe_name": "LANDUM", "order": 1, "key": "landum-159", "id": 159
+}
+, {"name": "L'AQUILA", "fipe_name": "L'AQUILA", "order": 1, "key": "l-aquila-88", "id": 88
+}
+, {"name": "LAVRALE", "fipe_name": "LAVRALE", "order": 1, "key": "lavrale-89", "id": 89
+}
+, {"name": "LERIVO", "fipe_name": "LERIVO", "order": 1, "key": "lerivo-139", "id": 139
+}
+, {"name": "LIFAN", "fipe_name": "LIFAN", "order": 1, "key": "lifan-178", "id": 178
+}
+, {"name": "LON-V", "fipe_name": "Lon-V", "order": 1, "key": "lon-v-148", "id": 148
+}
+, {"name": "MAGR\u00c3O TRICICLOS", "fipe_name": "MAGR\u00c3O TRICICLOS", "order": 1, "key": "magrao-triciclos-175", "id": 175
+}
+, {"name": "MALAGUTI", "fipe_name": "Malaguti", "order": 1, "key": "malaguti-146", "id": 146
+}
+, {"name": "MIZA", "fipe_name": "MIZA", "order": 1, "key": "miza-126", "id": 126
+}
+, {"name": "MOTO GUZZI", "fipe_name": "MOTO GUZZI", "order": 1, "key": "moto-guzzi-90", "id": 90
+}
+, {"name": "MOTOCAR", "fipe_name": "MOTOCAR", "order": 1, "key": "motocar-201", "id": 201
+}
+, {"name": "MOTORINO", "fipe_name": "MOTORINO", "order": 1, "key": "motorino-200", "id": 200
+}
+, {"name": "MRX", "fipe_name": "MRX", "order": 1, "key": "mrx-160", "id": 160
+}
+, {"name": "MV AGUSTA", "fipe_name": "MV AGUSTA", "order": 1, "key": "mv-agusta-91", "id": 91
+}
+, {"name": "MVK", "fipe_name": "MVK", "order": 1, "key": "mvk-92", "id": 92
+}
+, {"name": "ORCA", "fipe_name": "ORCA", "order": 1, "key": "orca-93", "id": 93
+}
+, {"name": "PEGASSI", "fipe_name": "PEGASSI", "order": 1, "key": "pegassi-164", "id": 164
+}
+, {"name": "PEUGEOT", "fipe_name": "PEUGEOT", "order": 1, "key": "peugeot-94", "id": 94
+}
+, {"name": "PIAGGIO", "fipe_name": "PIAGGIO", "order": 1, "key": "piaggio-95", "id": 95
+}
+, {"name": "REGAL RAPTOR", "fipe_name": "REGAL RAPTOR", "order": 1, "key": "regal-raptor-173", "id": 173
+}
+, {"name": "RIGUETE", "fipe_name": "RIGUETE", "order": 1, "key": "riguete-198", "id": 198
+}
+, {"name": "ROYAL ENFIELD", "fipe_name": "Royal Enfield", "order": 1, "key": "royal-enfield-192", "id": 192
+}
+, {"name": "SANYANG", "fipe_name": "SANYANG", "order": 1, "key": "sanyang-96", "id": 96
+}
+, {"name": "SHINERAY", "fipe_name": "SHINERAY", "order": 1, "key": "shineray-134", "id": 134
+}
+, {"name": "SIAMOTO", "fipe_name": "SIAMOTO", "order": 1, "key": "siamoto-97", "id": 97
+}
+, {"name": "TARGOS", "fipe_name": "TARGOS", "order": 1, "key": "targos-176", "id": 176
+}
+, {"name": "TIGER", "fipe_name": "TIGER", "order": 1, "key": "tiger-187", "id": 187
+}
+, {"name": "TRAXX", "fipe_name": "TRAXX", "order": 1, "key": "traxx-119", "id": 119
+}
+, {"name": "TRIUMPH", "fipe_name": "TRIUMPH", "order": 1, "key": "triumph-100", "id": 100
+}
+, {"name": "VENTO", "fipe_name": "VENTO", "order": 1, "key": "vento-180", "id": 180
+}
+, {"name": "WUYANG", "fipe_name": "WUYANG", "order": 1, "key": "wuyang-135", "id": 135
+}
+]

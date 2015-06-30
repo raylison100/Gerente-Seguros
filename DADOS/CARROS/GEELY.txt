@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "GEELY", "name": "EC7 1.8 16V 130cv 4p Mec.", "marca": "GEELY", "key": "ec7-6778", "id": "6778", "fipe_name": "EC7 1.8 16V 130cv 4p Mec."
+}
+, {"fipe_marca": "GEELY", "name": "GC2 1.0 12V 68cv 5p", "marca": "GEELY", "key": "gc2-7031", "id": "7031", "fipe_name": "GC2 1.0 12V 68cv 5p"
+}
+]

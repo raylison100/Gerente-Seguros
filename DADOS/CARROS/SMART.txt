@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "smart", "name": "fortwo BRABUS cabrio 1.0 72kw", "marca": "SMART", "key": "fortwo-5403", "id": "5403", "fipe_name": "fortwo BRABUS cabrio 1.0 72kw"
+}
+, {"fipe_marca": "smart", "name": "fortwo BRABUS coup\u00e9 1.0 72kw", "marca": "SMART", "key": "fortwo-5147", "id": "5147", "fipe_name": "fortwo BRABUS coup\u00e9 1.0 72kw"
+}
+, {"fipe_marca": "smart", "name": "fortwo coup\u00e9/Brasil.Edition 1.0 mhd 71cv", "marca": "SMART", "key": "fortwo-5284", "id": "5284", "fipe_name": "fortwo coup\u00e9/Brasil.Edition 1.0 mhd 71cv"
+}
+, {"fipe_marca": "smart", "name": "fortwo passion cabrio 1.0 62kw/Tritop", "marca": "SMART", "key": "fortwo-4902", "id": "4902", "fipe_name": "fortwo passion cabrio 1.0 62kw/Tritop"
+}
+, {"fipe_marca": "smart", "name": "fortwo passion coup\u00e9 1.0 62kw", "marca": "SMART", "key": "fortwo-4903", "id": "4903", "fipe_name": "fortwo passion coup\u00e9 1.0 62kw"
+}
+]

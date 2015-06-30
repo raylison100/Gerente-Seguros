@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "CHANA", "name": "Cargo 1.0 8V 53cv (Pick-Up)", "marca": "CHANA", "key": "cargo-4392", "id": "4392", "fipe_name": "Cargo 1.0 8V 53cv (Pick-Up)"
+}
+, {"fipe_marca": "CHANA", "name": "Cargo CD 1.0 8V 53cv (Pick-Up)", "marca": "CHANA", "key": "cargo-4393", "id": "4393", "fipe_name": "Cargo CD 1.0 8V 53cv (Pick-Up)"
+}
+, {"fipe_marca": "CHANA", "name": "Cargo CE 1.0 8V 53cv (Pick-Up)", "marca": "CHANA", "key": "cargo-4394", "id": "4394", "fipe_name": "Cargo CE 1.0 8V 53cv (Pick-Up)"
+}
+, {"fipe_marca": "CHANA", "name": "Family 1.0 8V 53cv (Perua)", "marca": "CHANA", "key": "family-4395", "id": "4395", "fipe_name": "Family 1.0 8V 53cv (Perua)"
+}
+, {"fipe_marca": "CHANA", "name": "Utility 1.0 8V 53cv  (Furg\u00e3o)", "marca": "CHANA", "key": "utility-4396", "id": "4396", "fipe_name": "Utility 1.0 8V 53cv  (Furg\u00e3o)"
+}
+]

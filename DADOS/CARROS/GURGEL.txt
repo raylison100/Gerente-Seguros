@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"name": "BR-800 (todos)/ Supermini", "id": "1238", "key": "br-800-1238", "fipe_name": "BR-800 (todos)/ Supermini"
+}
+, {"name": "Carajas Diesel", "id": "1239", "key": "carajas-1239", "fipe_name": "Carajas Diesel"
+}
+, {"name": "Carajas/ Tocantis/ Xavante/ Vip", "id": "1240", "key": "carajas-1240", "fipe_name": "Carajas/ Tocantis/ Xavante/ Vip"
+}
+]
