@@ -34,7 +34,7 @@ public class BuscarInformacoesProfessor{
 		static Cliente prof;
 		
 	public static void main(String[] args) throws IOException {
-
+		
 		DadosFipe a = new DadosFipe();
 		
 		}

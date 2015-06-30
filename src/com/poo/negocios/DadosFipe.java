@@ -556,13 +556,13 @@ public class DadosFipe implements Serializable{
 			}catch(Exception o){
 				o.printStackTrace();
 			}
-			
+
 			File modelo = new File("DADOS\\"+tipo+"\\"+marca+"\\");
 			modelo.mkdir();
 			File modelos = new File("DADOS\\"+tipo+"\\"+marca+"\\"+this.converterPalavra(listaModelos[i])+".txt");
-			
+
 			if(!(modelos.exists())){
-				
+
 				FileWriter modelosWriter = new FileWriter(modelos);
 				BufferedWriter gravarModelos = new BufferedWriter(modelosWriter);
 				try{
@@ -583,14 +583,9 @@ public class DadosFipe implements Serializable{
 				}
 				gravarModelos.close();	
 				modelosWriter.close();
-
-
 			}
-			//		/marcaSelecionada = Integer.parseInt(aux);
 		}
 		return retorno;      
-
-
 	}
 	
 	//BAIXA TODOS OS DADOS DE UM MODELO DE UM DETERMINADA MARCA E TIPO
@@ -643,7 +638,7 @@ public class DadosFipe implements Serializable{
 		return retorno;
 
 	}
-
+	
 	//RETORNA TOTAL DE MODELOS DE UM TIPO
 	public Integer totalDeModelos(String tipo) throws IOException{
 		Integer total = 0;
@@ -659,6 +654,42 @@ public class DadosFipe implements Serializable{
 		return total;
 	}
 	
+	//BAIXA TODAS OS IDS DAS VERSOES DE UM DETERMINADO MODELO
+	public String pegaIDVersao(String tipo, String marca, String modelo){
+		String id = null;
+		tipo = tipo.toUpperCase();
+		marca = marca.toUpperCase();
+		String aux = null;
+		File arq = new File("DADOS\\"+marca+"\\"+modelo+".txt");
+		try{
+			FileReader marcas = new FileReader(arq);
+			BufferedReader marcasLer = new BufferedReader(marcas);
+			String linha;
+			while(marcasLer.ready()){
+				linha = marcasLer.readLine();
+				if(linha.contains(marca)){
+					String temp = null;
+					StringTokenizer st = new StringTokenizer(linha, "\": ");
+					while(st.hasMoreTokens()){
+						temp = st.nextToken();
+						if(temp.contains("id")){
+							aux = st.nextToken();
+						}
+					}
+				}
+			}
+			marcasLer.close();
+			marcas.close();
+		}catch(Exception o){
+			o.printStackTrace();
+		}
+		
+		
+		
+		
+		return id;
+	}
+	
 	//BAIXA TODOS OS DADOS NECESSARIOS PARA MANIPULAÇÃO DA TABELA FIPE
 	public void atualizarTabelaFipe() throws IOException{
 		this.baixarDadosCarros();
@@ -672,6 +703,7 @@ public class DadosFipe implements Serializable{
 		String tipo3 = "caminhoes";
 		String[] marcas = this.listarMarcas(tipo1);
 		for(int i = 0; i < marcas.length; i++){
+			System.out.println(marcas[i]);
 			String[] modelos = this.listarModelosPorMarcaETipo(tipo1, marcas[i]);
 			for(int j = 0; j< modelos.length; j++){
 				this.buscarModelos(tipo1, marcas[i]);
@@ -679,6 +711,7 @@ public class DadosFipe implements Serializable{
 		}
 		String[] marcas2 = this.listarMarcas(tipo2);
 		for(int i = 0; i < marcas2.length; i++){
+			System.out.println(marcas2[i]);
 			String[] modelos = this.listarModelosPorMarcaETipo(tipo2, marcas2[i]);
 			for(int j = 0; j< modelos.length; j++){
 				this.buscarModelos(tipo2, marcas2[i]);
@@ -686,6 +719,7 @@ public class DadosFipe implements Serializable{
 		}
 		String[] marcas3 = this.listarMarcas(tipo3);
 		for(int i = 0; i < marcas3.length; i++){
+			System.out.println(marcas3[i]);
 			String[] modelos = this.listarModelosPorMarcaETipo(tipo3, marcas3[i]);
 			for(int j = 0; j< modelos.length; j++){
 				this.buscarModelos(tipo3, marcas3[i]);
