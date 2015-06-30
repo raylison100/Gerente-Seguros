@@ -1,0 +1,5 @@
+[{"fipe_marca": "YAMAHA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "YAMAHA", "key": "32000-32000-1", "veiculo": "XTZ 150 ED CROSSER", "id": "32000-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "2015-1", "name": "2015", "marca": "YAMAHA", "key": "2015-2015-1", "veiculo": "XTZ 150 ED CROSSER", "id": "2015-1"
+}
+]

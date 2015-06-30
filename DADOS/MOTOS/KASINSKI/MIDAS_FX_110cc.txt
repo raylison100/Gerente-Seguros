@@ -1,0 +1,15 @@
+[{"fipe_marca": "KASINSKI", "fipe_codigo": "2004-1", "name": "2004", "marca": "KASINSKI", "key": "2004-2004-1", "veiculo": "MIDAS FX 110cc", "id": "2004-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "2003-1", "name": "2003", "marca": "KASINSKI", "key": "2003-2003-1", "veiculo": "MIDAS FX 110cc", "id": "2003-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "2002-1", "name": "2002", "marca": "KASINSKI", "key": "2002-2002-1", "veiculo": "MIDAS FX 110cc", "id": "2002-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "2001-1", "name": "2001", "marca": "KASINSKI", "key": "2001-2001-1", "veiculo": "MIDAS FX 110cc", "id": "2001-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "2000-1", "name": "2000", "marca": "KASINSKI", "key": "2000-2000-1", "veiculo": "MIDAS FX 110cc", "id": "2000-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "1999-1", "name": "1999", "marca": "KASINSKI", "key": "1999-1999-1", "veiculo": "MIDAS FX 110cc", "id": "1999-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "1998-1", "name": "1998", "marca": "KASINSKI", "key": "1998-1998-1", "veiculo": "MIDAS FX 110cc", "id": "1998-1"
+}
+]

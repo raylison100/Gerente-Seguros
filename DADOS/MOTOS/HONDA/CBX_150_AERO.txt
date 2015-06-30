@@ -1,0 +1,9 @@
+[{"fipe_marca": "HONDA", "fipe_codigo": "1993-1", "name": "1993", "marca": "HONDA", "key": "1993-1993-1", "veiculo": "CBX 150 AERO", "id": "1993-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "1992-1", "name": "1992", "marca": "HONDA", "key": "1992-1992-1", "veiculo": "CBX 150 AERO", "id": "1992-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "1991-1", "name": "1991", "marca": "HONDA", "key": "1991-1991-1", "veiculo": "CBX 150 AERO", "id": "1991-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "1990-1", "name": "1990", "marca": "HONDA", "key": "1990-1990-1", "veiculo": "CBX 150 AERO", "id": "1990-1"
+}
+]

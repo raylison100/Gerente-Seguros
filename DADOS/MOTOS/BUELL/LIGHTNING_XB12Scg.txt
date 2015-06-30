@@ -1,0 +1,5 @@
+[{"fipe_marca": "BUELL", "fipe_codigo": "2008-1", "name": "2008", "marca": "BUELL", "key": "2008-2008-1", "veiculo": "LIGHTNING XB12Scg", "id": "2008-1"
+}
+, {"fipe_marca": "BUELL", "fipe_codigo": "2007-1", "name": "2007", "marca": "BUELL", "key": "2007-2007-1", "veiculo": "LIGHTNING XB12Scg", "id": "2007-1"
+}
+]

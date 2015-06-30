@@ -1,0 +1,7 @@
+[{"fipe_marca": "KAWASAKI", "fipe_codigo": "1999-1", "name": "1999", "marca": "KAWASAKI", "key": "1999-1999-1", "veiculo": "VOYAGER 1200cc", "id": "1999-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1997-1", "name": "1997", "marca": "KAWASAKI", "key": "1997-1997-1", "veiculo": "VOYAGER 1200cc", "id": "1997-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1996-1", "name": "1996", "marca": "KAWASAKI", "key": "1996-1996-1", "veiculo": "VOYAGER 1200cc", "id": "1996-1"
+}
+]

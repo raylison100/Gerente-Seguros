@@ -1,0 +1,17 @@
+[{"fipe_marca": "AGRALE", "fipe_codigo": "2004-1", "name": "2004", "marca": "AGRALE", "key": "2004-2004-1", "veiculo": "TCHAU 50", "id": "2004-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "2003-1", "name": "2003", "marca": "AGRALE", "key": "2003-2003-1", "veiculo": "TCHAU 50", "id": "2003-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "2002-1", "name": "2002", "marca": "AGRALE", "key": "2002-2002-1", "veiculo": "TCHAU 50", "id": "2002-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "2001-1", "name": "2001", "marca": "AGRALE", "key": "2001-2001-1", "veiculo": "TCHAU 50", "id": "2001-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "2000-1", "name": "2000", "marca": "AGRALE", "key": "2000-2000-1", "veiculo": "TCHAU 50", "id": "2000-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1999-1", "name": "1999", "marca": "AGRALE", "key": "1999-1999-1", "veiculo": "TCHAU 50", "id": "1999-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1996-1", "name": "1996", "marca": "AGRALE", "key": "1996-1996-1", "veiculo": "TCHAU 50", "id": "1996-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1995-1", "name": "1995", "marca": "AGRALE", "key": "1995-1995-1", "veiculo": "TCHAU 50", "id": "1995-1"
+}
+]

@@ -1,0 +1,9 @@
+[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HARLEY-DAVIDSON", "key": "32000-32000-1", "veiculo": "SWITCHBACK FLD", "id": "32000-1"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2014-1", "name": "2014", "marca": "HARLEY-DAVIDSON", "key": "2014-2014-1", "veiculo": "SWITCHBACK FLD", "id": "2014-1"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2013-1", "name": "2013", "marca": "HARLEY-DAVIDSON", "key": "2013-2013-1", "veiculo": "SWITCHBACK FLD", "id": "2013-1"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2012-1", "name": "2012", "marca": "HARLEY-DAVIDSON", "key": "2012-2012-1", "veiculo": "SWITCHBACK FLD", "id": "2012-1"
+}
+]

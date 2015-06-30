@@ -1,0 +1,9 @@
+[{"fipe_marca": "YAMAHA", "fipe_codigo": "2011-1", "name": "2011", "marca": "YAMAHA", "key": "2011-2011-1", "veiculo": "TT-R 125 LE", "id": "2011-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "2010-1", "name": "2010", "marca": "YAMAHA", "key": "2010-2010-1", "veiculo": "TT-R 125 LE", "id": "2010-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "2009-1", "name": "2009", "marca": "YAMAHA", "key": "2009-2009-1", "veiculo": "TT-R 125 LE", "id": "2009-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "2008-1", "name": "2008", "marca": "YAMAHA", "key": "2008-2008-1", "veiculo": "TT-R 125 LE", "id": "2008-1"
+}
+]

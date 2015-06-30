@@ -1,0 +1,5 @@
+[{"fipe_marca": "YAMAHA", "fipe_codigo": "2001-1", "name": "2001", "marca": "YAMAHA", "key": "2001-2001-1", "veiculo": "XVS 1100 DRAG STAR", "id": "2001-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "2000-1", "name": "2000", "marca": "YAMAHA", "key": "2000-2000-1", "veiculo": "XVS 1100 DRAG STAR", "id": "2000-1"
+}
+]

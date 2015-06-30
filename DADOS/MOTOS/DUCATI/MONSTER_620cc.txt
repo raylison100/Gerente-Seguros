@@ -1,0 +1,9 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2005-1", "name": "2005", "marca": "DUCATI", "key": "2005-2005-1", "veiculo": "MONSTER 620cc", "id": "2005-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2004-1", "name": "2004", "marca": "DUCATI", "key": "2004-2004-1", "veiculo": "MONSTER 620cc", "id": "2004-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2003-1", "name": "2003", "marca": "DUCATI", "key": "2003-2003-1", "veiculo": "MONSTER 620cc", "id": "2003-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2002-1", "name": "2002", "marca": "DUCATI", "key": "2002-2002-1", "veiculo": "MONSTER 620cc", "id": "2002-1"
+}
+]

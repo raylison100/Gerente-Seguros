@@ -1,0 +1,5 @@
+[{"fipe_marca": "SUZUKI", "fipe_codigo": "1995-1", "name": "1995", "marca": "SUZUKI", "key": "1995-1995-1", "veiculo": "VX 800cc", "id": "1995-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "1994-1", "name": "1994", "marca": "SUZUKI", "key": "1994-1994-1", "veiculo": "VX 800cc", "id": "1994-1"
+}
+]

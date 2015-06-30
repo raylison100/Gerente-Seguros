@@ -1,0 +1,11 @@
+[{"fipe_marca": "CAGIVA", "fipe_codigo": "2002-1", "name": "2002", "marca": "CAGIVA", "key": "2002-2002-1", "veiculo": "CANYON 500", "id": "2002-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "2001-1", "name": "2001", "marca": "CAGIVA", "key": "2001-2001-1", "veiculo": "CANYON 500", "id": "2001-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "2000-1", "name": "2000", "marca": "CAGIVA", "key": "2000-2000-1", "veiculo": "CANYON 500", "id": "2000-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1999-1", "name": "1999", "marca": "CAGIVA", "key": "1999-1999-1", "veiculo": "CANYON 500", "id": "1999-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1998-1", "name": "1998", "marca": "CAGIVA", "key": "1998-1998-1", "veiculo": "CANYON 500", "id": "1998-1"
+}
+]

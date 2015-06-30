@@ -1,0 +1,3 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2006-1", "name": "2006", "marca": "DUCATI", "key": "2006-2006-1", "veiculo": "SportClassic Sport 1000  992cc", "id": "2006-1"
+}
+]

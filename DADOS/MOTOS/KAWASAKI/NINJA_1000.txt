@@ -1,0 +1,5 @@
+[{"fipe_marca": "KAWASAKI", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "KAWASAKI", "key": "32000-32000-1", "veiculo": "NINJA 1000 Tourer", "id": "32000-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2015-1", "name": "2015", "marca": "KAWASAKI", "key": "2015-2015-1", "veiculo": "NINJA 1000 Tourer", "id": "2015-1"
+}
+]

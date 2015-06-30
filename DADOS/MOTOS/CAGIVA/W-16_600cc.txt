@@ -1,0 +1,11 @@
+[{"fipe_marca": "CAGIVA", "fipe_codigo": "2000-1", "name": "2000", "marca": "CAGIVA", "key": "2000-2000-1", "veiculo": "W-16 600cc", "id": "2000-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1999-1", "name": "1999", "marca": "CAGIVA", "key": "1999-1999-1", "veiculo": "W-16 600cc", "id": "1999-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1998-1", "name": "1998", "marca": "CAGIVA", "key": "1998-1998-1", "veiculo": "W-16 600cc", "id": "1998-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1997-1", "name": "1997", "marca": "CAGIVA", "key": "1997-1997-1", "veiculo": "W-16 600cc", "id": "1997-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1996-1", "name": "1996", "marca": "CAGIVA", "key": "1996-1996-1", "veiculo": "W-16 600cc", "id": "1996-1"
+}
+]

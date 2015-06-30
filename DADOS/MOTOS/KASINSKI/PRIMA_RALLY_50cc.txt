@@ -1,0 +1,5 @@
+[{"fipe_marca": "KASINSKI", "fipe_codigo": "2006-1", "name": "2006", "marca": "KASINSKI", "key": "2006-2006-1", "veiculo": "PRIMA RALLY 50cc", "id": "2006-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "2005-1", "name": "2005", "marca": "KASINSKI", "key": "2005-2005-1", "veiculo": "PRIMA RALLY 50cc", "id": "2005-1"
+}
+]

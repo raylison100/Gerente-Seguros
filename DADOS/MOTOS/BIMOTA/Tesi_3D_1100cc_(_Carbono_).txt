@@ -1,0 +1,7 @@
+[{"fipe_marca": "BIMOTA", "fipe_codigo": "2010-1", "name": "2010", "marca": "BIMOTA", "key": "2010-2010-1", "veiculo": "Tesi 3D 1100cc ( Carbono )", "id": "2010-1"
+}
+, {"fipe_marca": "BIMOTA", "fipe_codigo": "2009-1", "name": "2009", "marca": "BIMOTA", "key": "2009-2009-1", "veiculo": "Tesi 3D 1100cc ( Carbono )", "id": "2009-1"
+}
+, {"fipe_marca": "BIMOTA", "fipe_codigo": "2008-1", "name": "2008", "marca": "BIMOTA", "key": "2008-2008-1", "veiculo": "Tesi 3D 1100cc ( Carbono )", "id": "2008-1"
+}
+]

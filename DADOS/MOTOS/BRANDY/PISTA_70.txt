@@ -1,0 +1,5 @@
+[{"fipe_marca": "BRANDY", "fipe_codigo": "1996-1", "name": "1996", "marca": "BRANDY", "key": "1996-1996-1", "veiculo": "PISTA 70", "id": "1996-1"
+}
+, {"fipe_marca": "BRANDY", "fipe_codigo": "1995-1", "name": "1995", "marca": "BRANDY", "key": "1995-1995-1", "veiculo": "PISTA 70", "id": "1995-1"
+}
+]

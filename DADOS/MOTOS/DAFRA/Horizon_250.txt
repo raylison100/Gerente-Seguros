@@ -1,0 +1,9 @@
+[{"fipe_marca": "DAFRA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "DAFRA", "key": "32000-32000-1", "veiculo": "Horizon 250", "id": "32000-1"
+}
+, {"fipe_marca": "DAFRA", "fipe_codigo": "2015-1", "name": "2015", "marca": "DAFRA", "key": "2015-2015-1", "veiculo": "Horizon 250", "id": "2015-1"
+}
+, {"fipe_marca": "DAFRA", "fipe_codigo": "2014-1", "name": "2014", "marca": "DAFRA", "key": "2014-2014-1", "veiculo": "Horizon 250", "id": "2014-1"
+}
+, {"fipe_marca": "DAFRA", "fipe_codigo": "2013-1", "name": "2013", "marca": "DAFRA", "key": "2013-2013-1", "veiculo": "Horizon 250", "id": "2013-1"
+}
+]

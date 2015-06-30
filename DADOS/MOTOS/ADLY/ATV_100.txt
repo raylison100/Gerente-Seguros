@@ -1,0 +1,7 @@
+[{"fipe_marca": "ADLY", "fipe_codigo": "2002-1", "name": "2002", "marca": "ADLY", "key": "2002-2002-1", "veiculo": "ATV 100", "id": "2002-1"
+}
+, {"fipe_marca": "ADLY", "fipe_codigo": "2001-1", "name": "2001", "marca": "ADLY", "key": "2001-2001-1", "veiculo": "ATV 100", "id": "2001-1"
+}
+, {"fipe_marca": "ADLY", "fipe_codigo": "2000-1", "name": "2000", "marca": "ADLY", "key": "2000-2000-1", "veiculo": "ATV 100", "id": "2000-1"
+}
+]

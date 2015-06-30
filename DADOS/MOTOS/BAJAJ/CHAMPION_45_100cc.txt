@@ -1,0 +1,5 @@
+[{"fipe_marca": "BAJAJ", "fipe_codigo": "1998-1", "name": "1998", "marca": "BAJAJ", "key": "1998-1998-1", "veiculo": "CHAMPION 45 100cc", "id": "1998-1"
+}
+, {"fipe_marca": "BAJAJ", "fipe_codigo": "1997-1", "name": "1997", "marca": "BAJAJ", "key": "1997-1997-1", "veiculo": "CHAMPION 45 100cc", "id": "1997-1"
+}
+]

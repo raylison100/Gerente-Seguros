@@ -1,0 +1,5 @@
+[{"fipe_marca": "APRILIA", "fipe_codigo": "2000-1", "name": "2000", "marca": "APRILIA", "key": "2000-2000-1", "veiculo": "RSV MILLE 1000cc", "id": "2000-1"
+}
+, {"fipe_marca": "APRILIA", "fipe_codigo": "1999-1", "name": "1999", "marca": "APRILIA", "key": "1999-1999-1", "veiculo": "RSV MILLE 1000cc", "id": "1999-1"
+}
+]

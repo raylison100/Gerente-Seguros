@@ -1,0 +1,21 @@
+[{"fipe_marca": "HONDA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HONDA", "key": "32000-32000-1", "veiculo": "VT 750 SHADOW", "id": "32000-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2014-1", "name": "2014", "marca": "HONDA", "key": "2014-2014-1", "veiculo": "VT 750 SHADOW", "id": "2014-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2013-1", "name": "2013", "marca": "HONDA", "key": "2013-2013-1", "veiculo": "VT 750 SHADOW", "id": "2013-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2012-1", "name": "2012", "marca": "HONDA", "key": "2012-2012-1", "veiculo": "VT 750 SHADOW", "id": "2012-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2011-1", "name": "2011", "marca": "HONDA", "key": "2011-2011-1", "veiculo": "VT 750 SHADOW", "id": "2011-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2010-1", "name": "2010", "marca": "HONDA", "key": "2010-2010-1", "veiculo": "VT 750 SHADOW", "id": "2010-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2009-1", "name": "2009", "marca": "HONDA", "key": "2009-2009-1", "veiculo": "VT 750 SHADOW", "id": "2009-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2008-1", "name": "2008", "marca": "HONDA", "key": "2008-2008-1", "veiculo": "VT 750 SHADOW", "id": "2008-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2007-1", "name": "2007", "marca": "HONDA", "key": "2007-2007-1", "veiculo": "VT 750 SHADOW", "id": "2007-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2006-1", "name": "2006", "marca": "HONDA", "key": "2006-2006-1", "veiculo": "VT 750 SHADOW", "id": "2006-1"
+}
+]

@@ -1,0 +1,5 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2008-1", "name": "2008", "marca": "DUCATI", "key": "2008-2008-1", "veiculo": "MultiStrada 1100 1078cc", "id": "2008-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2007-1", "name": "2007", "marca": "DUCATI", "key": "2007-2007-1", "veiculo": "MultiStrada 1100 1078cc", "id": "2007-1"
+}
+]

@@ -1,0 +1,11 @@
+[{"fipe_marca": "HAOBAO", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HAOBAO", "key": "32000-32000-1", "veiculo": "HB125-9 FEARFULSPEED", "id": "32000-1"
+}
+, {"fipe_marca": "HAOBAO", "fipe_codigo": "2014-1", "name": "2014", "marca": "HAOBAO", "key": "2014-2014-1", "veiculo": "HB125-9 FEARFULSPEED", "id": "2014-1"
+}
+, {"fipe_marca": "HAOBAO", "fipe_codigo": "2011-1", "name": "2011", "marca": "HAOBAO", "key": "2011-2011-1", "veiculo": "HB125-9 FEARFULSPEED", "id": "2011-1"
+}
+, {"fipe_marca": "HAOBAO", "fipe_codigo": "2009-1", "name": "2009", "marca": "HAOBAO", "key": "2009-2009-1", "veiculo": "HB125-9 FEARFULSPEED", "id": "2009-1"
+}
+, {"fipe_marca": "HAOBAO", "fipe_codigo": "2008-1", "name": "2008", "marca": "HAOBAO", "key": "2008-2008-1", "veiculo": "HB125-9 FEARFULSPEED", "id": "2008-1"
+}
+]

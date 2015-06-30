@@ -1,0 +1,15 @@
+[{"fipe_marca": "SUZUKI", "fipe_codigo": "2005-1", "name": "2005", "marca": "SUZUKI", "key": "2005-2005-1", "veiculo": "INTRUDER LC 1500", "id": "2005-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2004-1", "name": "2004", "marca": "SUZUKI", "key": "2004-2004-1", "veiculo": "INTRUDER LC 1500", "id": "2004-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2003-1", "name": "2003", "marca": "SUZUKI", "key": "2003-2003-1", "veiculo": "INTRUDER LC 1500", "id": "2003-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2002-1", "name": "2002", "marca": "SUZUKI", "key": "2002-2002-1", "veiculo": "INTRUDER LC 1500", "id": "2002-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2001-1", "name": "2001", "marca": "SUZUKI", "key": "2001-2001-1", "veiculo": "INTRUDER LC 1500", "id": "2001-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2000-1", "name": "2000", "marca": "SUZUKI", "key": "2000-2000-1", "veiculo": "INTRUDER LC 1500", "id": "2000-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "1999-1", "name": "1999", "marca": "SUZUKI", "key": "1999-1999-1", "veiculo": "INTRUDER LC 1500", "id": "1999-1"
+}
+]

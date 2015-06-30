@@ -1,0 +1,7 @@
+[{"fipe_marca": "SUNDOWN", "fipe_codigo": "2008-1", "name": "2008", "marca": "SUNDOWN", "key": "2008-2008-1", "veiculo": "Vblade 250cc", "id": "2008-1"
+}
+, {"fipe_marca": "SUNDOWN", "fipe_codigo": "2007-1", "name": "2007", "marca": "SUNDOWN", "key": "2007-2007-1", "veiculo": "Vblade 250cc", "id": "2007-1"
+}
+, {"fipe_marca": "SUNDOWN", "fipe_codigo": "2006-1", "name": "2006", "marca": "SUNDOWN", "key": "2006-2006-1", "veiculo": "Vblade 250cc", "id": "2006-1"
+}
+]

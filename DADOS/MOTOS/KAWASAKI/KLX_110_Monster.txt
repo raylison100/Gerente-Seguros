@@ -1,0 +1,7 @@
+[{"fipe_marca": "KAWASAKI", "fipe_codigo": "2011-1", "name": "2011", "marca": "KAWASAKI", "key": "2011-2011-1", "veiculo": "KLX 110 Monster", "id": "2011-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2010-1", "name": "2010", "marca": "KAWASAKI", "key": "2010-2010-1", "veiculo": "KLX 110 Monster", "id": "2010-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2009-1", "name": "2009", "marca": "KAWASAKI", "key": "2009-2009-1", "veiculo": "KLX 110 Monster", "id": "2009-1"
+}
+]

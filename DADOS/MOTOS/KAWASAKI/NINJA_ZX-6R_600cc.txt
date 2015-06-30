@@ -1,0 +1,35 @@
+[{"fipe_marca": "KAWASAKI", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "KAWASAKI", "key": "32000-32000-1", "veiculo": "NINJA ZX-6R 600cc", "id": "32000-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2013-1", "name": "2013", "marca": "KAWASAKI", "key": "2013-2013-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2013-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2012-1", "name": "2012", "marca": "KAWASAKI", "key": "2012-2012-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2012-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2011-1", "name": "2011", "marca": "KAWASAKI", "key": "2011-2011-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2011-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2010-1", "name": "2010", "marca": "KAWASAKI", "key": "2010-2010-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2010-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2009-1", "name": "2009", "marca": "KAWASAKI", "key": "2009-2009-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2009-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2008-1", "name": "2008", "marca": "KAWASAKI", "key": "2008-2008-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2008-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2007-1", "name": "2007", "marca": "KAWASAKI", "key": "2007-2007-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2007-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2003-1", "name": "2003", "marca": "KAWASAKI", "key": "2003-2003-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2003-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2002-1", "name": "2002", "marca": "KAWASAKI", "key": "2002-2002-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2002-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2001-1", "name": "2001", "marca": "KAWASAKI", "key": "2001-2001-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2001-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2000-1", "name": "2000", "marca": "KAWASAKI", "key": "2000-2000-1", "veiculo": "NINJA ZX-6R 600cc", "id": "2000-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1999-1", "name": "1999", "marca": "KAWASAKI", "key": "1999-1999-1", "veiculo": "NINJA ZX-6R 600cc", "id": "1999-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1998-1", "name": "1998", "marca": "KAWASAKI", "key": "1998-1998-1", "veiculo": "NINJA ZX-6R 600cc", "id": "1998-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1997-1", "name": "1997", "marca": "KAWASAKI", "key": "1997-1997-1", "veiculo": "NINJA ZX-6R 600cc", "id": "1997-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1996-1", "name": "1996", "marca": "KAWASAKI", "key": "1996-1996-1", "veiculo": "NINJA ZX-6R 600cc", "id": "1996-1"
+}
+, {"fipe_marca": "KAWASAKI", "fipe_codigo": "1995-1", "name": "1995", "marca": "KAWASAKI", "key": "1995-1995-1", "veiculo": "NINJA ZX-6R 600cc", "id": "1995-1"
+}
+]

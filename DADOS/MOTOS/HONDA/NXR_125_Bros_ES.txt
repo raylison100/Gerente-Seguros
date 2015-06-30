@@ -1,0 +1,15 @@
+[{"fipe_marca": "HONDA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HONDA", "key": "32000-32000-1", "veiculo": "NXR 125 Bros ES", "id": "32000-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2015-1", "name": "2015", "marca": "HONDA", "key": "2015-2015-1", "veiculo": "NXR 125 Bros ES", "id": "2015-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2014-1", "name": "2014", "marca": "HONDA", "key": "2014-2014-1", "veiculo": "NXR 125 Bros ES", "id": "2014-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2013-1", "name": "2013", "marca": "HONDA", "key": "2013-2013-1", "veiculo": "NXR 125 Bros ES", "id": "2013-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2005-1", "name": "2005", "marca": "HONDA", "key": "2005-2005-1", "veiculo": "NXR 125 Bros ES", "id": "2005-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2004-1", "name": "2004", "marca": "HONDA", "key": "2004-2004-1", "veiculo": "NXR 125 Bros ES", "id": "2004-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2003-1", "name": "2003", "marca": "HONDA", "key": "2003-2003-1", "veiculo": "NXR 125 Bros ES", "id": "2003-1"
+}
+]

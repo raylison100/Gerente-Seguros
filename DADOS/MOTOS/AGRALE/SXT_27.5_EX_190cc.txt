@@ -1,0 +1,15 @@
+[{"fipe_marca": "AGRALE", "fipe_codigo": "1997-1", "name": "1997", "marca": "AGRALE", "key": "1997-1997-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1997-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1996-1", "name": "1996", "marca": "AGRALE", "key": "1996-1996-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1996-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1995-1", "name": "1995", "marca": "AGRALE", "key": "1995-1995-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1995-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1994-1", "name": "1994", "marca": "AGRALE", "key": "1994-1994-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1994-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1993-1", "name": "1993", "marca": "AGRALE", "key": "1993-1993-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1993-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1992-1", "name": "1992", "marca": "AGRALE", "key": "1992-1992-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1992-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1991-1", "name": "1991", "marca": "AGRALE", "key": "1991-1991-1", "veiculo": "SXT 27.5 EX 190cc", "id": "1991-1"
+}
+]

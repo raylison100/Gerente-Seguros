@@ -1,0 +1,7 @@
+[{"fipe_marca": "BETA", "fipe_codigo": "2002-1", "name": "2002", "marca": "BETA", "key": "2002-2002-1", "veiculo": "MX-50 ENDURO 50cc", "id": "2002-1"
+}
+, {"fipe_marca": "BETA", "fipe_codigo": "2001-1", "name": "2001", "marca": "BETA", "key": "2001-2001-1", "veiculo": "MX-50 ENDURO 50cc", "id": "2001-1"
+}
+, {"fipe_marca": "BETA", "fipe_codigo": "2000-1", "name": "2000", "marca": "BETA", "key": "2000-2000-1", "veiculo": "MX-50 ENDURO 50cc", "id": "2000-1"
+}
+]

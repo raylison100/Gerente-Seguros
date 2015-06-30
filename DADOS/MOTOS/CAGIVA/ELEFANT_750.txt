@@ -1,0 +1,5 @@
+[{"fipe_marca": "CAGIVA", "fipe_codigo": "1995-1", "name": "1995", "marca": "CAGIVA", "key": "1995-1995-1", "veiculo": "ELEFANT 750", "id": "1995-1"
+}
+, {"fipe_marca": "CAGIVA", "fipe_codigo": "1994-1", "name": "1994", "marca": "CAGIVA", "key": "1994-1994-1", "veiculo": "ELEFANT 750", "id": "1994-1"
+}
+]

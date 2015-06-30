@@ -1,0 +1,5 @@
+[{"fipe_marca": "KASINSKI", "fipe_codigo": "1996-1", "name": "1996", "marca": "KASINSKI", "key": "1996-1996-1", "veiculo": "TN 125", "id": "1996-1"
+}
+, {"fipe_marca": "KASINSKI", "fipe_codigo": "1995-1", "name": "1995", "marca": "KASINSKI", "key": "1995-1995-1", "veiculo": "TN 125", "id": "1995-1"
+}
+]

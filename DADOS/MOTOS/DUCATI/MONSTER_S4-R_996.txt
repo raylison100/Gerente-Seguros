@@ -1,0 +1,5 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2005-1", "name": "2005", "marca": "DUCATI", "key": "2005-2005-1", "veiculo": "MONSTER S4-R 996", "id": "2005-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2004-1", "name": "2004", "marca": "DUCATI", "key": "2004-2004-1", "veiculo": "MONSTER S4-R 996", "id": "2004-1"
+}
+]

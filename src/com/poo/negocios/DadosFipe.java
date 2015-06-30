@@ -234,7 +234,7 @@ public class DadosFipe implements Serializable{
 						st.nextToken();
 						temp = st.nextToken();
 						if(posicao <= tamanho){
-							listaMarcas[posicao] = temp;
+							listaMarcas[posicao] = StringEscapeUtils.unescapeJava(temp);
 							posicao++;
 							break;
 						}
@@ -498,7 +498,7 @@ public class DadosFipe implements Serializable{
 										for(int j = 1; j <= i; j++){
 											temp = modeloSt.nextToken();
 											if(j == i){
-												listaModelos[posicao] = temp;
+												listaModelos[posicao] = StringEscapeUtils.unescapeJava(temp);;
 												posicao++;
 												break;
 											}

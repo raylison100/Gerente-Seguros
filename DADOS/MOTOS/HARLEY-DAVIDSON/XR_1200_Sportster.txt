@@ -1,0 +1,5 @@
+[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2010-1", "name": "2010", "marca": "HARLEY-DAVIDSON", "key": "2010-2010-1", "veiculo": "XR 1200 Sportster", "id": "2010-1"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2009-1", "name": "2009", "marca": "HARLEY-DAVIDSON", "key": "2009-2009-1", "veiculo": "XR 1200 Sportster", "id": "2009-1"
+}
+]

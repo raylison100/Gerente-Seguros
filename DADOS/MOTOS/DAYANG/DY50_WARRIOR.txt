@@ -1,0 +1,7 @@
+[{"fipe_marca": "DAYANG", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "DAYANG", "key": "32000-32000-1", "veiculo": "DY50 WARRIOR", "id": "32000-1"
+}
+, {"fipe_marca": "DAYANG", "fipe_codigo": "2015-1", "name": "2015", "marca": "DAYANG", "key": "2015-2015-1", "veiculo": "DY50 WARRIOR", "id": "2015-1"
+}
+, {"fipe_marca": "DAYANG", "fipe_codigo": "2013-1", "name": "2013", "marca": "DAYANG", "key": "2013-2013-1", "veiculo": "DY50 WARRIOR", "id": "2013-1"
+}
+]

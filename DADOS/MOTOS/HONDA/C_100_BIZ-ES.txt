@@ -1,0 +1,27 @@
+[{"fipe_marca": "HONDA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HONDA", "key": "32000-32000-1", "veiculo": "C 100 BIZ-ES", "id": "32000-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2015-1", "name": "2015", "marca": "HONDA", "key": "2015-2015-1", "veiculo": "C 100 BIZ-ES", "id": "2015-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2014-1", "name": "2014", "marca": "HONDA", "key": "2014-2014-1", "veiculo": "C 100 BIZ-ES", "id": "2014-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2013-1", "name": "2013", "marca": "HONDA", "key": "2013-2013-1", "veiculo": "C 100 BIZ-ES", "id": "2013-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2012-1", "name": "2012", "marca": "HONDA", "key": "2012-2012-1", "veiculo": "C 100 BIZ-ES", "id": "2012-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2006-1", "name": "2006", "marca": "HONDA", "key": "2006-2006-1", "veiculo": "C 100 BIZ-ES", "id": "2006-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2005-1", "name": "2005", "marca": "HONDA", "key": "2005-2005-1", "veiculo": "C 100 BIZ-ES", "id": "2005-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2004-1", "name": "2004", "marca": "HONDA", "key": "2004-2004-1", "veiculo": "C 100 BIZ-ES", "id": "2004-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2003-1", "name": "2003", "marca": "HONDA", "key": "2003-2003-1", "veiculo": "C 100 BIZ-ES", "id": "2003-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2002-1", "name": "2002", "marca": "HONDA", "key": "2002-2002-1", "veiculo": "C 100 BIZ-ES", "id": "2002-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2001-1", "name": "2001", "marca": "HONDA", "key": "2001-2001-1", "veiculo": "C 100 BIZ-ES", "id": "2001-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "2000-1", "name": "2000", "marca": "HONDA", "key": "2000-2000-1", "veiculo": "C 100 BIZ-ES", "id": "2000-1"
+}
+, {"fipe_marca": "HONDA", "fipe_codigo": "1999-1", "name": "1999", "marca": "HONDA", "key": "1999-1999-1", "veiculo": "C 100 BIZ-ES", "id": "1999-1"
+}
+]

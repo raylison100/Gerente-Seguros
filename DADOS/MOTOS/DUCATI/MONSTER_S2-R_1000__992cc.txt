@@ -1,0 +1,7 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2008-1", "name": "2008", "marca": "DUCATI", "key": "2008-2008-1", "veiculo": "MONSTER S2-R 1000  992cc", "id": "2008-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2007-1", "name": "2007", "marca": "DUCATI", "key": "2007-2007-1", "veiculo": "MONSTER S2-R 1000  992cc", "id": "2007-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2006-1", "name": "2006", "marca": "DUCATI", "key": "2006-2006-1", "veiculo": "MONSTER S2-R 1000  992cc", "id": "2006-1"
+}
+]

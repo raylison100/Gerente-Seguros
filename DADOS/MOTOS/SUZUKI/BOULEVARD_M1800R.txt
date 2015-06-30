@@ -1,0 +1,7 @@
+[{"fipe_marca": "SUZUKI", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "SUZUKI", "key": "32000-32000-1", "veiculo": "BOULEVARD M1800R B.O.S.S.", "id": "32000-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2016-1", "name": "2016", "marca": "SUZUKI", "key": "2016-2016-1", "veiculo": "BOULEVARD M1800R B.O.S.S.", "id": "2016-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2015-1", "name": "2015", "marca": "SUZUKI", "key": "2015-2015-1", "veiculo": "BOULEVARD M1800R B.O.S.S.", "id": "2015-1"
+}
+]

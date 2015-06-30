@@ -1,0 +1,5 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2012-1", "name": "2012", "marca": "DUCATI", "key": "2012-2012-1", "veiculo": "HYPERMOTARD 1100 EVO SP 1078cc", "id": "2012-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2011-1", "name": "2011", "marca": "DUCATI", "key": "2011-2011-1", "veiculo": "HYPERMOTARD 1100 EVO SP 1078cc", "id": "2011-1"
+}
+]

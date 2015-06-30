@@ -1,0 +1,3 @@
+[{"fipe_marca": "KASINSKI", "fipe_codigo": "2003-1", "name": "2003", "marca": "KASINSKI", "key": "2003-2003-1", "veiculo": "F\u00daRIA 250cc", "id": "2003-1"
+}
+]

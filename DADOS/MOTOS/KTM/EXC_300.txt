@@ -1,0 +1,13 @@
+[{"fipe_marca": "KTM", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "KTM", "key": "32000-32000-1", "veiculo": "EXC 300", "id": "32000-1"
+}
+, {"fipe_marca": "KTM", "fipe_codigo": "2015-1", "name": "2015", "marca": "KTM", "key": "2015-2015-1", "veiculo": "EXC 300", "id": "2015-1"
+}
+, {"fipe_marca": "KTM", "fipe_codigo": "2010-1", "name": "2010", "marca": "KTM", "key": "2010-2010-1", "veiculo": "EXC 300", "id": "2010-1"
+}
+, {"fipe_marca": "KTM", "fipe_codigo": "2009-1", "name": "2009", "marca": "KTM", "key": "2009-2009-1", "veiculo": "EXC 300", "id": "2009-1"
+}
+, {"fipe_marca": "KTM", "fipe_codigo": "2002-1", "name": "2002", "marca": "KTM", "key": "2002-2002-1", "veiculo": "EXC 300", "id": "2002-1"
+}
+, {"fipe_marca": "KTM", "fipe_codigo": "2001-1", "name": "2001", "marca": "KTM", "key": "2001-2001-1", "veiculo": "EXC 300", "id": "2001-1"
+}
+]

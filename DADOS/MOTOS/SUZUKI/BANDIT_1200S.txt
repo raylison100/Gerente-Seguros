@@ -1,0 +1,9 @@
+[{"fipe_marca": "SUZUKI", "fipe_codigo": "2008-1", "name": "2008", "marca": "SUZUKI", "key": "2008-2008-1", "veiculo": "BANDIT 1200S", "id": "2008-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2007-1", "name": "2007", "marca": "SUZUKI", "key": "2007-2007-1", "veiculo": "BANDIT 1200S", "id": "2007-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2006-1", "name": "2006", "marca": "SUZUKI", "key": "2006-2006-1", "veiculo": "BANDIT 1200S", "id": "2006-1"
+}
+, {"fipe_marca": "SUZUKI", "fipe_codigo": "2005-1", "name": "2005", "marca": "SUZUKI", "key": "2005-2005-1", "veiculo": "BANDIT 1200S", "id": "2005-1"
+}
+]

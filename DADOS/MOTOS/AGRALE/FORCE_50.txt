@@ -1,0 +1,9 @@
+[{"fipe_marca": "AGRALE", "fipe_codigo": "2000-1", "name": "2000", "marca": "AGRALE", "key": "2000-2000-1", "veiculo": "FORCE 50", "id": "2000-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1999-1", "name": "1999", "marca": "AGRALE", "key": "1999-1999-1", "veiculo": "FORCE 50", "id": "1999-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1998-1", "name": "1998", "marca": "AGRALE", "key": "1998-1998-1", "veiculo": "FORCE 50", "id": "1998-1"
+}
+, {"fipe_marca": "AGRALE", "fipe_codigo": "1997-1", "name": "1997", "marca": "AGRALE", "key": "1997-1997-1", "veiculo": "FORCE 50", "id": "1997-1"
+}
+]

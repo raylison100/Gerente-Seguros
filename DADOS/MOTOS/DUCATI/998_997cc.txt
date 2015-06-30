@@ -1,0 +1,5 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "2003-1", "name": "2003", "marca": "DUCATI", "key": "2003-2003-1", "veiculo": "998 997cc", "id": "2003-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2002-1", "name": "2002", "marca": "DUCATI", "key": "2002-2002-1", "veiculo": "998 997cc", "id": "2002-1"
+}
+]

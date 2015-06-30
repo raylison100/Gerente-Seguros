@@ -1,0 +1,11 @@
+[{"fipe_marca": "YAMAHA", "fipe_codigo": "1997-1", "name": "1997", "marca": "YAMAHA", "key": "1997-1997-1", "veiculo": "750 VIRAGO", "id": "1997-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "1996-1", "name": "1996", "marca": "YAMAHA", "key": "1996-1996-1", "veiculo": "750 VIRAGO", "id": "1996-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "1995-1", "name": "1995", "marca": "YAMAHA", "key": "1995-1995-1", "veiculo": "750 VIRAGO", "id": "1995-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "1994-1", "name": "1994", "marca": "YAMAHA", "key": "1994-1994-1", "veiculo": "750 VIRAGO", "id": "1994-1"
+}
+, {"fipe_marca": "YAMAHA", "fipe_codigo": "1993-1", "name": "1993", "marca": "YAMAHA", "key": "1993-1993-1", "veiculo": "750 VIRAGO", "id": "1993-1"
+}
+]

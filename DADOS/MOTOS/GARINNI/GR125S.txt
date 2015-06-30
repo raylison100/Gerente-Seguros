@@ -1,0 +1,7 @@
+[{"fipe_marca": "GARINNI", "fipe_codigo": "2010-1", "name": "2010", "marca": "GARINNI", "key": "2010-2010-1", "veiculo": "GR125ST", "id": "2010-1"
+}
+, {"fipe_marca": "GARINNI", "fipe_codigo": "2009-1", "name": "2009", "marca": "GARINNI", "key": "2009-2009-1", "veiculo": "GR125ST", "id": "2009-1"
+}
+, {"fipe_marca": "GARINNI", "fipe_codigo": "2008-1", "name": "2008", "marca": "GARINNI", "key": "2008-2008-1", "veiculo": "GR125ST", "id": "2008-1"
+}
+]

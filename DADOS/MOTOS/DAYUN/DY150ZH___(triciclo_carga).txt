@@ -1,0 +1,5 @@
+[{"fipe_marca": "DAYUN", "fipe_codigo": "2010-1", "name": "2010", "marca": "DAYUN", "key": "2010-2010-1", "veiculo": "DY150ZH   (triciclo carga)", "id": "2010-1"
+}
+, {"fipe_marca": "DAYUN", "fipe_codigo": "2008-1", "name": "2008", "marca": "DAYUN", "key": "2008-2008-1", "veiculo": "DY150ZH   (triciclo carga)", "id": "2008-1"
+}
+]

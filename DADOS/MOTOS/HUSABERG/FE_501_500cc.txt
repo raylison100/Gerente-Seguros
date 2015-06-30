@@ -1,0 +1,11 @@
+[{"fipe_marca": "HUSABERG", "fipe_codigo": "2003-1", "name": "2003", "marca": "HUSABERG", "key": "2003-2003-1", "veiculo": "FE 501 500cc", "id": "2003-1"
+}
+, {"fipe_marca": "HUSABERG", "fipe_codigo": "2002-1", "name": "2002", "marca": "HUSABERG", "key": "2002-2002-1", "veiculo": "FE 501 500cc", "id": "2002-1"
+}
+, {"fipe_marca": "HUSABERG", "fipe_codigo": "2001-1", "name": "2001", "marca": "HUSABERG", "key": "2001-2001-1", "veiculo": "FE 501 500cc", "id": "2001-1"
+}
+, {"fipe_marca": "HUSABERG", "fipe_codigo": "2000-1", "name": "2000", "marca": "HUSABERG", "key": "2000-2000-1", "veiculo": "FE 501 500cc", "id": "2000-1"
+}
+, {"fipe_marca": "HUSABERG", "fipe_codigo": "1999-1", "name": "1999", "marca": "HUSABERG", "key": "1999-1999-1", "veiculo": "FE 501 500cc", "id": "1999-1"
+}
+]

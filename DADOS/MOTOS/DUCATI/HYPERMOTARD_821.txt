@@ -1,0 +1,5 @@
+[{"fipe_marca": "DUCATI", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "DUCATI", "key": "32000-32000-1", "veiculo": "HYPERMOTARD 821 SP", "id": "32000-1"
+}
+, {"fipe_marca": "DUCATI", "fipe_codigo": "2014-1", "name": "2014", "marca": "DUCATI", "key": "2014-2014-1", "veiculo": "HYPERMOTARD 821 SP", "id": "2014-1"
+}
+]

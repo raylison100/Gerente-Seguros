@@ -1,0 +1,5 @@
+[{"fipe_marca": "HUSQVARNA", "fipe_codigo": "2000-1", "name": "2000", "marca": "HUSQVARNA", "key": "2000-2000-1", "veiculo": "TE 610 E", "id": "2000-1"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_codigo": "1999-1", "name": "1999", "marca": "HUSQVARNA", "key": "1999-1999-1", "veiculo": "TE 610 E", "id": "1999-1"
+}
+]

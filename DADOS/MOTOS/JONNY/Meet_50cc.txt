@@ -1,0 +1,7 @@
+[{"fipe_marca": "JONNY", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "JONNY", "key": "32000-32000-1", "veiculo": "Meet 50cc", "id": "32000-1"
+}
+, {"fipe_marca": "JONNY", "fipe_codigo": "2014-1", "name": "2014", "marca": "JONNY", "key": "2014-2014-1", "veiculo": "Meet 50cc", "id": "2014-1"
+}
+, {"fipe_marca": "JONNY", "fipe_codigo": "2013-1", "name": "2013", "marca": "JONNY", "key": "2013-2013-1", "veiculo": "Meet 50cc", "id": "2013-1"
+}
+]
