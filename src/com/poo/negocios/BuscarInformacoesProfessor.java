@@ -34,11 +34,7 @@ public class BuscarInformacoesProfessor{
 		static Cliente prof;
 		
 	public static void main(String[] args) throws IOException {
-//		String temp = "MAGR\\u00c3O TRICICLOS";
-//		String temp1 = null;
-//		
-//		System.out.println(StringEscapeUtils.unescapeJava(temp));
-//		
+
 		DadosFipe a = new DadosFipe();
 		
 		}
