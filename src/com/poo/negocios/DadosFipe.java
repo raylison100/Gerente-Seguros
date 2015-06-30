@@ -15,6 +15,7 @@ import java.io.Serializable;
 import java.nio.CharBuffer;
 import java.util.Scanner;
 import java.util.StringTokenizer;
+import java.util.regex.*;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -25,39 +26,46 @@ import org.apache.http.message.TokenParser;
 import org.apache.http.util.EntityUtils;
 import org.apache.commons.lang.StringEscapeUtils;
 
-
 public class DadosFipe implements Serializable{
-	/*STRING AUXILIAR USADA NO METODO linkLates PARA FACILITAR A DESCOBERTA
-    DOS LINKS DE CADA PROFESSOR LISTADO NA PAGINA DO DEINFO  */
 	private static String link = "http://fipeapi.appspot.com/api/1/";
-	private int marcasVeiculos;
+	private int marcasCarros;
 	private int marcasMotos;
 	private int marcasCaminhoes;
 
 	//CONSTRUTOR DA CLASSE
 	public DadosFipe(String tipo, String marca) throws IOException {
 		super();
-		baixarDadosVeiculos();
+		baixarDadosCarros();
 		baixarDadosMotos();
 		baixarDadosCaminhoes();
-		//        System.out.println(buscaPorMarca(tipo, marca));
-//		System.out.println(quantidadeDeMarcas(tipo));
-		listarMarcas(tipo);
 		baixarDadosCarrosPorMarca();
 		baixarDadosMotosPorMarca();
 		baixarDadosCaminhoesPorMarca();
+//		listarModelosPorMarcaETipo(tipo, marca);
+//		dadosModelos(tipo, marca);
+		buscarModelos(tipo, marca);
 	}
-
-	public String baixarDadosVeiculos() throws IOException{
+	
+	//METODO PRIVADO CRIADO PARA SER UTILIZADO APENAS NESSA CLASSE E TIRAR OS ESPAÇOS DAS FRASES
+	private String converterPalavra(String palavra){
+		String padrao = "\\s", res = null;
+		Pattern regPat = Pattern.compile(padrao);
+		Matcher matcher = regPat.matcher(palavra);
+		res = matcher.replaceAll("_");
+		return res;
+	}
+	
+	//BAIXA A LISTAGEM DE TODAS AS MARCAS EXISTENTES PARA O TIPO DE VEICULO CARRO
+	public String baixarDadosCarros() throws IOException{
 		String retorno = null, temp = null, aux = null;
 		int contador = 0;
-		File veiculos = new File("DADOS\\VEICULOS_MARCAS.txt");
-		if(!(veiculos.exists())){
-			FileWriter veiculosWriter = new FileWriter(veiculos);
-			PrintWriter gravarVeiculos = new PrintWriter(veiculosWriter);
+		File carros = new File("DADOS\\CARROS_MARCAS.txt");
+		if(!(carros.exists())){
+			FileWriter carrosWriter = new FileWriter(carros);
+			PrintWriter gravarCarros = new PrintWriter(carrosWriter);
 			try{
 				DefaultHttpClient httpClient = new DefaultHttpClient();
-				HttpGet httpPost = new HttpGet(link+"veiculos/marcas.json");
+				HttpGet httpPost = new HttpGet(link+"carros/marcas.json");
 				HttpResponse response = httpClient.execute(httpPost);
 				HttpEntity entity = response.getEntity();
 				String body = EntityUtils.toString(entity);
@@ -69,28 +77,29 @@ public class DadosFipe implements Serializable{
 					}
 				}
 				Integer numero = contador;
-				this.marcasVeiculos = contador;
+				this.marcasCarros = contador;
 				aux = Integer.toString(numero);
-				veiculosWriter.write("{\"contador\" = \""+aux+"\"}\n");
+				carrosWriter.write("{\"contador\" = \""+aux+"\"}\n");
 				StringTokenizer st1 = new StringTokenizer(body, "}", true);
 				while(st1.hasMoreTokens()){
 					temp = st1.nextToken();   				
-					veiculosWriter.write(temp+"\n");
+					carrosWriter.write(temp+"\n");
 				}
-				retorno =  "Arquivo de veiculos baixados!!";
+				retorno =  "Arquivo de carros baixados!!";
 			}
 			catch(Exception e){
 				e.printStackTrace();
 			}
-			gravarVeiculos.close();
-			veiculosWriter.close();
+			gravarCarros.close();
+			carrosWriter.close();
 		}else{
-			return "Arquivo de veiculos já existe!!";
+			return "Arquivo de carros já existe!!";
 		}
 
 		return retorno;
 	}
-
+	
+	//BAIXA A LISTAGEM DE TODAS AS MARCAS EXISTENTES PARA O VEICULO DE TIPO MOTO
 	public String baixarDadosMotos() throws IOException{
 		String retorno = null, temp = null, aux = null;
 		int contador = 0;
@@ -134,6 +143,7 @@ public class DadosFipe implements Serializable{
 		return retorno;
 	}
 
+	//BAIXA A LISTAGEM DE TODAS AS MARCAS EXISTENTES PARA O VEICULO DO TIPO CAMINHAO
 	public String baixarDadosCaminhoes() throws IOException{
 		String retorno = null, temp = null, aux = null;
 		int contador = 0;
@@ -177,7 +187,7 @@ public class DadosFipe implements Serializable{
 		return retorno;
 	}
 
-	//Quantidade de marcas na lista definida no construtor
+	//QUANTIDADES DE MARCAS EXISTENTES EM UM DETERMINADO TIPO DE VEICULO
 	public Integer quantidadeDeMarcas(String tipo){
 		Integer resultado = null;
 		String tipo1 = tipo.toUpperCase();
@@ -209,7 +219,7 @@ public class DadosFipe implements Serializable{
 		return resultado;
 	}
 
-	//Listar marcas
+	//LISTA TODAS AS MARCAS DE UM DETERMINADO TIPO DE VEICULO
 	public String[] listarMarcas(String tipo) throws FileNotFoundException{
 		int tamanho = this.quantidadeDeMarcas(tipo);
 		String[] listaMarcas = new String[tamanho];
@@ -233,7 +243,6 @@ public class DadosFipe implements Serializable{
 						temp = st.nextToken();
 						if(posicao <= tamanho){
 							listaMarcas[posicao] = temp;
-							System.out.println(listaMarcas[posicao]);
 							posicao++;
 							break;
 						}
@@ -248,14 +257,13 @@ public class DadosFipe implements Serializable{
 		return listaMarcas;        
 	}
 
-	//RETORNA O ID DA MARCA
+	//RETORNA O ID DA MARCA, PESQUISADO A PARTIR DO TIPO(CARRO, MOTO OU CAMINHAO)
 	public Integer buscaPorMarca(String tipo, String marca) throws FileNotFoundException{
 		String tipo1 = tipo.toUpperCase();
 		String marca1 = marca.toUpperCase();
 		Integer marcaSelecionada = 0;
 		String aux = null;
 		File arq = new File("DADOS\\"+tipo1+"_MARCAS.txt");
-
 		try{
 			FileReader marcas = new FileReader(arq);
 			BufferedReader marcasLer = new BufferedReader(marcas);
@@ -272,7 +280,6 @@ public class DadosFipe implements Serializable{
 						}
 					}
 				}
-
 			}
 			marcasLer.close();
 			marcas.close();
@@ -282,22 +289,23 @@ public class DadosFipe implements Serializable{
 		marcaSelecionada = Integer.parseInt(aux);
 		return marcaSelecionada;        
 	}
-
+	
+	//BAIXA TODOS OS VEICULOS DO TIPO CARRO SEPARADOS POR MARCA EM ARQUIVOS DIFERENTES
 	public String baixarDadosCarrosPorMarca() throws IOException{
 		String retorno = null, temp = null, aux = null, marca = null;
-		String[] listaDeCarros = new String[this.quantidadeDeMarcas("veiculos")];
-		listaDeCarros = this.listarMarcas("VEICULOS");
+		String[] listaDeCarros = new String[this.quantidadeDeMarcas("carros")];
+		listaDeCarros = this.listarMarcas("CARROS");
 		for(int i = 0; i < listaDeCarros.length; i++){
 		marca = listaDeCarros[i];
 		int contador = 0;
-		int marcaId = this.buscaPorMarca("VEICULOS", marca);
+		int marcaId = this.buscaPorMarca("CARROS", marca);
 		File carros = new File("DADOS\\CARROS\\"+marca+".txt");
 		if(!(carros.exists())){
 			FileWriter carrosWriter = new FileWriter(carros);
 			BufferedWriter gravarCarros = new BufferedWriter(carrosWriter);
 			try{
 				DefaultHttpClient httpClient = new DefaultHttpClient();
-				HttpGet httpPost = new HttpGet(link+"carros/veiculos/"+marcaId+".json");
+				HttpGet httpPost = new HttpGet(link+"carros/carros/"+marcaId+".json");
 				HttpResponse response = httpClient.execute(httpPost);
 				HttpEntity entity = response.getEntity();
 				String body = EntityUtils.toString(entity);
@@ -309,7 +317,7 @@ public class DadosFipe implements Serializable{
 					}
 				}
 				Integer numero = contador;
-				this.marcasVeiculos = contador;
+				this.marcasCarros = contador;
 				aux = Integer.toString(numero);
 				gravarCarros.write("{\"contador\" = \""+aux+"\"}\n");
 				StringTokenizer st1 = new StringTokenizer(body, "}", true);
@@ -331,7 +339,8 @@ public class DadosFipe implements Serializable{
 		return retorno;
 
 	}
-
+	
+	//BAIXA TODOS OS VEICULOS DO TIPO MOTO SEPARADOS POR MARCA EM ARQUIVOS DIFERENTES
 	public String baixarDadosMotosPorMarca() throws IOException{
 		String retorno = null, temp = null, aux = null, marca = null;
 		String[] listaDeMotos = new String[this.quantidadeDeMarcas("MOTOS")];
@@ -381,6 +390,7 @@ public class DadosFipe implements Serializable{
 
 	}
 	
+	//BAIXA TODOS OS VEICULOS DO TIPO CAMINHOES SEPARADOS POR MARCA EM ARQUIVOS DIFERENTES
 	public String baixarDadosCaminhoesPorMarca() throws IOException{
 		String retorno = null, temp = null, aux = null, marca = null;
 		String[] listaDeCaminhoes = new String[this.quantidadeDeMarcas("CAMINHOES")];
@@ -430,4 +440,197 @@ public class DadosFipe implements Serializable{
 
 	}
 
+	//CONTA QUANTOS MODELOS EXISTEM DE DETERMINADA MARCA
+	public Integer quantidadeDeModelos(String tipo, String marca){
+		Integer resultado = null;
+		marca = marca.toUpperCase();
+		tipo = tipo.toUpperCase();
+		String aux = null;
+		File arq = new File("DADOS\\"+tipo+"\\"+marca+".txt");
+		try{
+			FileReader modelos = new FileReader(arq);
+			BufferedReader modelosLer = new BufferedReader(modelos);
+			String linha;
+			while(modelosLer.ready()){
+				linha = modelosLer.readLine();
+				if(linha.contains("contador")){
+					String temp = null;
+					StringTokenizer st = new StringTokenizer(linha, "\"");
+					st.nextToken();
+					st.nextToken();
+					st.nextToken();
+					aux = st.nextToken();
+					System.out.println(aux);
+				}
+				break;
+			}
+			modelosLer.close();
+			modelos.close();
+		}catch(Exception o){
+			o.printStackTrace();
+		}
+		resultado = Integer.parseInt(aux);
+		return resultado;
+	}
+	
+	//RETORNA UM ARRAY DE STRING COM TODOS OS MODELOS DE UMA DETERMINADA MARCA
+	public String[] listarModelosPorMarcaETipo(String tipo, String marca){
+		tipo = tipo.toUpperCase();
+		marca = marca.toUpperCase();
+		int tamanho = this.quantidadeDeModelos(tipo, marca);
+		String[] listaModelos = new String[tamanho];
+		String aux = null;
+		int posicao = 0;
+		File arq = new File("DADOS\\"+tipo+"\\"+marca+".txt");
+		try{
+			FileReader modelos = new FileReader(arq);
+			BufferedReader modelosLer = new BufferedReader(modelos);
+			String linha;
+			while(modelosLer.ready()){
+				linha = modelosLer.readLine();
+				if(linha.contains("name")){
+					String temp = null;
+					StringTokenizer st = new StringTokenizer(linha, "\",:");
+					while(st.hasMoreTokens()){
+						temp =st.nextToken();
+						if(temp.equals("name")){
+							st.nextToken();
+							temp = st.nextToken();
+							if(posicao <= tamanho){
+								listaModelos[posicao] = temp;
+								System.out.println(listaModelos[posicao]);
+								posicao++;
+								break;
+							}
+						}
+					}
+				}
+			}
+			modelosLer.close();
+			modelos.close();
+		}catch(Exception o){
+			o.printStackTrace();
+		}
+		return listaModelos;        
+	}
+	
+	//RETORNA O ID DO MODELO PROCURADO
+	public String buscarModelos(String tipo, String marca) throws IOException{
+		tipo = tipo.toUpperCase();
+		marca = marca.toUpperCase();
+		String retorno = null;
+		Integer marcaSelecionada = 0;
+		String temp = null;
+		String[] listaModelos = listarModelosPorMarcaETipo(tipo, marca);
+		for(int i = 0; i < listaModelos.length; i++){
+			String aux = null;
+			File arq = new File("DADOS\\"+tipo+"\\"+marca+".txt");
+			arq.mkdir();
+			try{
+				FileReader marcas = new FileReader(arq);
+				BufferedReader marcasLer = new BufferedReader(marcas);
+				String linha;
+				while(marcasLer.ready()){
+					linha = marcasLer.readLine();
+					if(linha.contains(listaModelos[i])){
+						StringTokenizer st = new StringTokenizer(linha, "\": ");
+						while(st.hasMoreTokens()){
+							temp = st.nextToken();
+							if(temp.contains("id")){
+								aux = st.nextToken();
+								System.out.println(aux);
+							}
+						}
+					}
+				}
+				marcasLer.close();
+				marcas.close();
+			}catch(Exception o){
+				o.printStackTrace();
+			}
+			
+			File modelo = new File("DADOS\\"+tipo+"\\"+marca+"\\");
+			modelo.mkdir();
+			File modelos = new File("DADOS\\"+tipo+"\\"+marca+"\\"+this.converterPalavra(listaModelos[i])+".txt");
+			if(!(modelos.exists())){
+				
+				FileWriter modelosWriter = new FileWriter(modelos);
+				BufferedWriter gravarModelos = new BufferedWriter(modelosWriter);
+				try{
+					DefaultHttpClient httpClient = new DefaultHttpClient();
+					HttpGet httpPost = new HttpGet(link+"/"+tipo+"/veiculos"+this.buscaPorMarca(tipo, marca)+"/"+aux+".json");
+					HttpResponse response = httpClient.execute(httpPost);
+					HttpEntity entity = response.getEntity();
+					String body = EntityUtils.toString(entity);
+					StringTokenizer st1 = new StringTokenizer(body, "}", true);
+					while(st1.hasMoreTokens()){
+						temp = st1.nextToken();   				
+						gravarModelos.write(temp+"\n");
+					}
+					retorno = "Arquivo de caminhoes baixados com sucesso!!";
+				}
+				catch(Exception e){
+					e.printStackTrace();
+				}
+				gravarModelos.close();	
+				modelosWriter.close();
+
+
+			}
+			//		/marcaSelecionada = Integer.parseInt(aux);
+		}
+		return retorno;      
+
+
+	}
+	//BAIXA TODOS OS DADOS DE UM MODELO DE UM DETERMINADA MARCA E TIPO
+	public String dadosModelos(String tipo, String marca) throws IOException{
+		String retorno = null, temp = null, aux = null;
+		tipo = tipo.toUpperCase();
+		String[] listaDeCarros = new String[this.quantidadeDeMarcas("carros")];
+		listaDeCarros = this.listarMarcas(tipo);
+		for(int i = 0; i < listaDeCarros.length; i++){
+		marca = listaDeCarros[i];
+		int contador = 0;
+		int marcaId = this.buscaPorMarca("CARROS", marca);
+		File carros = new File("DADOS\\CARROS\\"+marca+".txt");
+		if(!(carros.exists())){
+			FileWriter carrosWriter = new FileWriter(carros);
+			BufferedWriter gravarCarros = new BufferedWriter(carrosWriter);
+			try{
+				DefaultHttpClient httpClient = new DefaultHttpClient();
+				HttpGet httpPost = new HttpGet(link+"carros/carros/"+marcaId+".json");
+				HttpResponse response = httpClient.execute(httpPost);
+				HttpEntity entity = response.getEntity();
+				String body = EntityUtils.toString(entity);
+				StringTokenizer st = new StringTokenizer(body, "}", true);
+				while(st.hasMoreTokens()){
+					temp = st.nextToken();
+					if(temp.contains("id")){
+						contador++;
+					}
+				}
+				Integer numero = contador;
+				this.marcasCarros = contador;
+				aux = Integer.toString(numero);
+				gravarCarros.write("{\"contador\" = \""+aux+"\"}\n");
+				StringTokenizer st1 = new StringTokenizer(body, "}", true);
+				while(st1.hasMoreTokens()){
+					temp = st1.nextToken();   				
+					gravarCarros.write(temp+"\n");
+				}
+				retorno = "Arquivo de carros baixados com sucesso!!";
+			}
+			catch(Exception e){
+				e.printStackTrace();
+			}
+			gravarCarros.close();	
+			carrosWriter.close();
+		}else{
+			return "Arquivo de carros já existe!!";
+		}
+		}
+		return retorno;
+
+	}
 }

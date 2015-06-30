@@ -15,8 +15,10 @@ import org.apache.http.params.HttpParams;
 import org.apache.http.util.EntityUtils;
 import org.apache.commons.lang.StringEscapeUtils;
 
+
 import com.poo.negocios.beans.Cliente;
 
+import java.util.regex.*;
 import java.rmi.UnexpectedException;
 import java.util.Locale;
 import java.util.StringTokenizer;
@@ -32,7 +34,7 @@ public class BuscarInformacoesProfessor{
 		static Cliente prof;
 		
 	public static void main(String[] args) throws IOException {
-		DadosFipe a = new DadosFipe("caminhoes","bmw");
+		DadosFipe a = new DadosFipe("CARROS","bmw");
 	}
 	
 }
