@@ -1,0 +1,5 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "2003-2", "name": "2003 \u00c1lcool", "marca": "FIAT", "key": "2003-2003-2", "veiculo": "Palio 1.5 mpi 8V 4p", "id": "2003-2"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2002-2", "name": "2002 \u00c1lcool", "marca": "FIAT", "key": "2002-2002-2", "veiculo": "Palio 1.5 mpi 8V 4p", "id": "2002-2"
+}
+]

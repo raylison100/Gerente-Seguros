@@ -1,0 +1,7 @@
+[{"fipe_codigo": "2003-3", "veiculo": "Porter GLS CD 4x2 2.6 8V Diesel", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
+}
+, {"fipe_codigo": "2001-3", "veiculo": "Porter GLS CD 4x2 2.6 8V Diesel", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
+}
+, {"fipe_codigo": "2000-3", "veiculo": "Porter GLS CD 4x2 2.6 8V Diesel", "id": "2000-3", "key": "2000-2000-3", "name": "2000 Diesel"
+}
+]

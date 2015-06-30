@@ -1,0 +1,7 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "FIAT", "key": "1987-1987-1", "veiculo": "147 C/ CL", "id": "1987-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1986-1", "name": "1986 Gasolina", "marca": "FIAT", "key": "1986-1986-1", "veiculo": "147 C/ CL", "id": "1986-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1985-1", "name": "1985 Gasolina", "marca": "FIAT", "key": "1985-1985-1", "veiculo": "147 C/ CL", "id": "1985-1"
+}
+]

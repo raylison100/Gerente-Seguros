@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "MERCEDES-BENZ", "key": "1999-1999-1", "veiculo": "ML-230 4x4", "id": "1999-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "MERCEDES-BENZ", "key": "1998-1998-1", "veiculo": "ML-230 4x4", "id": "1998-1"
+}
+]

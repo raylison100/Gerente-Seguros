@@ -1,0 +1,7 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "CHEVROLET", "key": "1996-1996-1", "veiculo": "Vectra CD 2.0 (modelo antigo)", "id": "1996-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Vectra CD 2.0 (modelo antigo)", "id": "1995-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "CHEVROLET", "key": "1994-1994-1", "veiculo": "Vectra CD 2.0 (modelo antigo)", "id": "1994-1"
+}
+]

@@ -1,0 +1,11 @@
+[{"fipe_codigo": "1999-3", "veiculo": "Sportage DLX 2.2 Diesel Mec", "id": "1999-3", "key": "1999-1999-3", "name": "1999 Diesel"
+}
+, {"fipe_codigo": "1998-3", "veiculo": "Sportage DLX 2.2 Diesel Mec", "id": "1998-3", "key": "1998-1998-3", "name": "1998 Diesel"
+}
+, {"fipe_codigo": "1997-3", "veiculo": "Sportage DLX 2.2 Diesel Mec", "id": "1997-3", "key": "1997-1997-3", "name": "1997 Diesel"
+}
+, {"fipe_codigo": "1996-3", "veiculo": "Sportage DLX 2.2 Diesel Mec", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
+}
+, {"fipe_codigo": "1995-3", "veiculo": "Sportage DLX 2.2 Diesel Mec", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
+}
+]

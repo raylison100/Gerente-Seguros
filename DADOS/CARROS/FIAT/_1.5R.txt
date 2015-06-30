@@ -1,0 +1,17 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "FIAT", "key": "1994-1994-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1994-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "FIAT", "key": "1993-1993-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1993-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "FIAT", "key": "1992-1992-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1992-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "FIAT", "key": "1991-1991-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1991-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1990-1", "name": "1990 Gasolina", "marca": "FIAT", "key": "1990-1990-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1990-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1989-1", "name": "1989 Gasolina", "marca": "FIAT", "key": "1989-1989-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1989-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1988-1", "name": "1988 Gasolina", "marca": "FIAT", "key": "1988-1988-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1988-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "FIAT", "key": "1987-1987-1", "veiculo": "Uno 1.6R mpi / 1.6R / 1.5R", "id": "1987-1"
+}
+]

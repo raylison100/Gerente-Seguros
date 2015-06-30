@@ -1,0 +1,7 @@
+[{"fipe_codigo": "1995-1", "veiculo": "Logus GLSi / GLS 2000", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1995-2", "veiculo": "Logus GLSi / GLS 2000", "id": "1995-2", "key": "1995-1995-2", "name": "1995 \u00c1lcool"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "Logus GLSi / GLS 2000", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+]

@@ -1,0 +1,9 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1989-3", "name": "1989 Diesel", "marca": "VOLKSWAGEN", "key": "1989-1989-3", "veiculo": "Saveiro Diesel (todas)", "id": "1989-3"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1988-3", "name": "1988 Diesel", "marca": "VOLKSWAGEN", "key": "1988-1988-3", "veiculo": "Saveiro Diesel (todas)", "id": "1988-3"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1987-3", "name": "1987 Diesel", "marca": "VOLKSWAGEN", "key": "1987-1987-3", "veiculo": "Saveiro Diesel (todas)", "id": "1987-3"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1986-3", "name": "1986 Diesel", "marca": "VOLKSWAGEN", "key": "1986-1986-3", "veiculo": "Saveiro Diesel (todas)", "id": "1986-3"
+}
+]

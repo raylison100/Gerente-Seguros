@@ -1,0 +1,11 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "FORD", "key": "1991-1991-1", "veiculo": "Del Rey Belina L", "id": "1991-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1990-1", "name": "1990 Gasolina", "marca": "FORD", "key": "1990-1990-1", "veiculo": "Del Rey Belina L", "id": "1990-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1989-1", "name": "1989 Gasolina", "marca": "FORD", "key": "1989-1989-1", "veiculo": "Del Rey Belina L", "id": "1989-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1988-1", "name": "1988 Gasolina", "marca": "FORD", "key": "1988-1988-1", "veiculo": "Del Rey Belina L", "id": "1988-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "FORD", "key": "1987-1987-1", "veiculo": "Del Rey Belina L", "id": "1987-1"
+}
+]

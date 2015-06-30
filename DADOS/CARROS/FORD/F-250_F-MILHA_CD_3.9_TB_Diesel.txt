@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "2011-3", "name": "2011 Diesel", "marca": "FORD", "key": "2011-2011-3", "veiculo": "F-250 F-MILHA CD 3.9 TB Diesel", "id": "2011-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2010-3", "name": "2010 Diesel", "marca": "FORD", "key": "2010-2010-3", "veiculo": "F-250 F-MILHA CD 3.9 TB Diesel", "id": "2010-3"
+}
+]

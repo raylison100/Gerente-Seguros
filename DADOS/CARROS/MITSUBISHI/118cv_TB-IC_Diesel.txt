@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2003-3", "veiculo": "L200 HPE 2.5 8v 95/118cv TB-IC Diesel", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
+}
+, {"fipe_codigo": "2002-3", "veiculo": "L200 HPE 2.5 8v 95/118cv TB-IC Diesel", "id": "2002-3", "key": "2002-2002-3", "name": "2002 Diesel"
+}
+]

@@ -1,0 +1,5 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "VOLKSWAGEN", "key": "2004-2004-1", "veiculo": "Gol 1.6 Mi Plus Total Flex 8V 4p", "id": "2004-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "VOLKSWAGEN", "key": "2003-2003-1", "veiculo": "Gol 1.6 Mi Plus Total Flex 8V 4p", "id": "2003-1"
+}
+]

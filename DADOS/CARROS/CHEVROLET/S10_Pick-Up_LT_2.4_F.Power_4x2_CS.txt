@@ -1,0 +1,5 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "CHEVROLET", "key": "2013-2013-1", "veiculo": "S10 Pick-Up LT 2.4 F.Power 4x2 CS", "id": "2013-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "CHEVROLET", "key": "2012-2012-1", "veiculo": "S10 Pick-Up LT 2.4 F.Power 4x2 CS", "id": "2012-1"
+}
+]

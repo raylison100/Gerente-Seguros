@@ -1,0 +1,5 @@
+[{"fipe_marca": "Renault", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "RENAULT", "key": "32000-32000-1", "veiculo": "SANDERO Expression Hi-Power 1.0 16V 5p", "id": "32000-1"
+}
+, {"fipe_marca": "Renault", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "RENAULT", "key": "2015-2015-1", "veiculo": "SANDERO Expression Hi-Power 1.0 16V 5p", "id": "2015-1"
+}
+]

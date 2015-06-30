@@ -1,0 +1,15 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1994-3", "name": "1994 Diesel", "marca": "CHEVROLET", "key": "1994-1994-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1994-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1993-3", "name": "1993 Diesel", "marca": "CHEVROLET", "key": "1993-1993-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1993-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1992-3", "name": "1992 Diesel", "marca": "CHEVROLET", "key": "1992-1992-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1992-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1991-3", "name": "1991 Diesel", "marca": "CHEVROLET", "key": "1991-1991-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1991-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1990-3", "name": "1990 Diesel", "marca": "CHEVROLET", "key": "1990-1990-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1990-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1989-3", "name": "1989 Diesel", "marca": "CHEVROLET", "key": "1989-1989-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1989-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1988-3", "name": "1988 Diesel", "marca": "CHEVROLET", "key": "1988-1988-3", "veiculo": "Bonanza S / Luxe 4.0 Diesel Turbo", "id": "1988-3"
+}
+]

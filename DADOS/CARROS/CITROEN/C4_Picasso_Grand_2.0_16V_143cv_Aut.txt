@@ -1,0 +1,19 @@
+[{"fipe_codigo": "32000-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
+}
+, {"fipe_codigo": "2014-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
+}
+, {"fipe_codigo": "2013-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
+}
+, {"fipe_codigo": "2012-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
+}
+, {"fipe_codigo": "2011-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+, {"fipe_codigo": "2010-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+, {"fipe_codigo": "2008-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
+}
+, {"fipe_codigo": "2007-1", "veiculo": "C4 Picasso Grand 2.0 16V 143cv Aut", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
+}
+]

@@ -1,0 +1,7 @@
+[{"fipe_codigo": "1998-1", "veiculo": "306 Cabriolet 1.8/ Mi 16V", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "306 Cabriolet 1.8/ Mi 16V", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "306 Cabriolet 1.8/ Mi 16V", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+]

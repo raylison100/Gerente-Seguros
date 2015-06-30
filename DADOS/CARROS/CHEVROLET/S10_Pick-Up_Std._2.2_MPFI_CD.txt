@@ -1,0 +1,9 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "S10 Pick-Up Std. 2.2 MPFI CD", "id": "2000-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "CHEVROLET", "key": "1999-1999-1", "veiculo": "S10 Pick-Up Std. 2.2 MPFI CD", "id": "1999-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "CHEVROLET", "key": "1998-1998-1", "veiculo": "S10 Pick-Up Std. 2.2 MPFI CD", "id": "1998-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "CHEVROLET", "key": "1997-1997-1", "veiculo": "S10 Pick-Up Std. 2.2 MPFI CD", "id": "1997-1"
+}
+]

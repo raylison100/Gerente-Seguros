@@ -1,0 +1,9 @@
+[{"fipe_codigo": "2007-3", "veiculo": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.", "id": "2007-3", "key": "2007-2007-3", "name": "2007 Diesel"
+}
+, {"fipe_codigo": "2006-3", "veiculo": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.", "id": "2006-3", "key": "2006-2006-3", "name": "2006 Diesel"
+}
+, {"fipe_codigo": "2005-3", "veiculo": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
+}
+, {"fipe_codigo": "2004-3", "veiculo": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
+}
+]

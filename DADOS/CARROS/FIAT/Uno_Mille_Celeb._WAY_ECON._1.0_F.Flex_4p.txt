@@ -1,0 +1,11 @@
+[{"fipe_codigo": "2013-1", "veiculo": "Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
+}
+, {"fipe_codigo": "2012-1", "veiculo": "Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
+}
+, {"fipe_codigo": "2011-1", "veiculo": "Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+, {"fipe_codigo": "2010-1", "veiculo": "Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+]

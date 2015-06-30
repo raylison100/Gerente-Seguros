@@ -1,0 +1,7 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "MERCEDES-BENZ", "key": "1997-1997-1", "veiculo": "C-36 AMG", "id": "1997-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "MERCEDES-BENZ", "key": "1996-1996-1", "veiculo": "C-36 AMG", "id": "1996-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "MERCEDES-BENZ", "key": "1995-1995-1", "veiculo": "C-36 AMG", "id": "1995-1"
+}
+]

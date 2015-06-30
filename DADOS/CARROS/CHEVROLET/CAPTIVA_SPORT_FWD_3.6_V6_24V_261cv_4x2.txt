@@ -1,0 +1,7 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "CHEVROLET", "key": "2010-2010-1", "veiculo": "CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2", "id": "2010-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "CHEVROLET", "key": "2009-2009-1", "veiculo": "CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2", "id": "2009-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "CHEVROLET", "key": "2008-2008-1", "veiculo": "CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2", "id": "2008-1"
+}
+]

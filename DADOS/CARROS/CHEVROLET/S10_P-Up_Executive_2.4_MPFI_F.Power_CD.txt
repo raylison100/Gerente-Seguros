@@ -1,0 +1,9 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "CHEVROLET", "key": "2012-2012-1", "veiculo": "S10 P-Up Executive 2.4 MPFI F.Power CD", "id": "2012-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "CHEVROLET", "key": "2011-2011-1", "veiculo": "S10 P-Up Executive 2.4 MPFI F.Power CD", "id": "2011-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "CHEVROLET", "key": "2010-2010-1", "veiculo": "S10 P-Up Executive 2.4 MPFI F.Power CD", "id": "2010-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "CHEVROLET", "key": "2009-2009-1", "veiculo": "S10 P-Up Executive 2.4 MPFI F.Power CD", "id": "2009-1"
+}
+]

@@ -1,0 +1,13 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "VOLKSWAGEN", "key": "2003-2003-1", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2003-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2003-2", "name": "2003 \u00c1lcool", "marca": "VOLKSWAGEN", "key": "2003-2003-2", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2003-2"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "VOLKSWAGEN", "key": "2002-2002-1", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2002-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2002-2", "name": "2002 \u00c1lcool", "marca": "VOLKSWAGEN", "key": "2002-2002-2", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2002-2"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "VOLKSWAGEN", "key": "2001-2001-1", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2001-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2001-2", "name": "2001 \u00c1lcool", "marca": "VOLKSWAGEN", "key": "2001-2001-2", "veiculo": "Gol 1.0 Plus 8v 4p", "id": "2001-2"
+}
+]

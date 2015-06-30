@@ -1,0 +1,7 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "FORD", "key": "32000-32000-1", "veiculo": "Fiesta Sedan 1.6 16V Flex Aut.", "id": "32000-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "FORD", "key": "2015-2015-1", "veiculo": "Fiesta Sedan 1.6 16V Flex Aut.", "id": "2015-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "FORD", "key": "2014-2014-1", "veiculo": "Fiesta Sedan 1.6 16V Flex Aut.", "id": "2014-1"
+}
+]

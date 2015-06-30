@@ -1,0 +1,9 @@
+[{"fipe_codigo": "1995-1", "veiculo": "605 SRi 3.0", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "605 SRi 3.0", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+, {"fipe_codigo": "1993-1", "veiculo": "605 SRi 3.0", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
+}
+, {"fipe_codigo": "1992-1", "veiculo": "605 SRi 3.0", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
+}
+]

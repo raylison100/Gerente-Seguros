@@ -1,0 +1,7 @@
+[{"fipe_codigo": "2013-1", "veiculo": "E-250 CGI Avantgarde 1.8 16V 204cv Aut.", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
+}
+, {"fipe_codigo": "2012-1", "veiculo": "E-250 CGI Avantgarde 1.8 16V 204cv Aut.", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
+}
+, {"fipe_codigo": "2011-1", "veiculo": "E-250 CGI Avantgarde 1.8 16V 204cv Aut.", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+]

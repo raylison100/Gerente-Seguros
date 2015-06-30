@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1998-3", "name": "1998 Diesel", "marca": "FORD", "key": "1998-1998-3", "veiculo": "F-1000 XL Diesel Turbo", "id": "1998-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1997-3", "name": "1997 Diesel", "marca": "FORD", "key": "1997-1997-3", "veiculo": "F-1000 XL Diesel Turbo", "id": "1997-3"
+}
+]

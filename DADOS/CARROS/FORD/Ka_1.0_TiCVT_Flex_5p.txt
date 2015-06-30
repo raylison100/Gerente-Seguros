@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "FORD", "key": "32000-32000-1", "veiculo": "Ka 1.0 TiCVT Flex 5p", "id": "32000-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "FORD", "key": "2015-2015-1", "veiculo": "Ka 1.0 TiCVT Flex 5p", "id": "2015-1"
+}
+]

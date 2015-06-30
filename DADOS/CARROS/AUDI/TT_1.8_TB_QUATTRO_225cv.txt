@@ -1,0 +1,17 @@
+[{"fipe_codigo": "2006-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
+}
+, {"fipe_codigo": "2005-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
+}
+, {"fipe_codigo": "2004-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
+}
+, {"fipe_codigo": "2003-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "TT 1.8 TB QUATTRO 225cv", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+]

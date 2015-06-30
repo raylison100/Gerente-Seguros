@@ -1,0 +1,9 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1996-3", "name": "1996 Diesel", "marca": "FORD", "key": "1996-1996-3", "veiculo": "F-1000 Super S\u00e9rie CE Diesel 3.9", "id": "1996-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1995-3", "name": "1995 Diesel", "marca": "FORD", "key": "1995-1995-3", "veiculo": "F-1000 Super S\u00e9rie CE Diesel 3.9", "id": "1995-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1994-3", "name": "1994 Diesel", "marca": "FORD", "key": "1994-1994-3", "veiculo": "F-1000 Super S\u00e9rie CE Diesel 3.9", "id": "1994-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1993-3", "name": "1993 Diesel", "marca": "FORD", "key": "1993-1993-3", "veiculo": "F-1000 Super S\u00e9rie CE Diesel 3.9", "id": "1993-3"
+}
+]

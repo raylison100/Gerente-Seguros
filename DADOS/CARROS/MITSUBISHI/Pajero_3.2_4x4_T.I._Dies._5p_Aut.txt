@@ -1,0 +1,5 @@
+[{"fipe_codigo": "32000-3", "veiculo": "Pajero 3.2 4x4 T.I. Dies. 5p Aut", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
+}
+, {"fipe_codigo": "2016-3", "veiculo": "Pajero 3.2 4x4 T.I. Dies. 5p Aut", "id": "2016-3", "key": "2016-2016-3", "name": "2016 Diesel"
+}
+]

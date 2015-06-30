@@ -1,0 +1,5 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "VOLKSWAGEN", "key": "32000-32000-1", "veiculo": "Saveiro Trendline 1.6 T.Flex 8V CD", "id": "32000-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "VOLKSWAGEN", "key": "2015-2015-1", "veiculo": "Saveiro Trendline 1.6 T.Flex 8V CD", "id": "2015-1"
+}
+]

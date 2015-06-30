@@ -1,0 +1,9 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "FIAT", "key": "2003-2003-1", "veiculo": "Brava HGT 1.8 mpi 16V  4p", "id": "2003-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "FIAT", "key": "2002-2002-1", "veiculo": "Brava HGT 1.8 mpi 16V  4p", "id": "2002-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "FIAT", "key": "2001-2001-1", "veiculo": "Brava HGT 1.8 mpi 16V  4p", "id": "2001-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "FIAT", "key": "2000-2000-1", "veiculo": "Brava HGT 1.8 mpi 16V  4p", "id": "2000-1"
+}
+]

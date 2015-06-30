@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "MERCEDES-BENZ", "key": "2002-2002-1", "veiculo": "Classe A 190 AvantGarde 1.9 8V 125cv Aut", "id": "2002-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "MERCEDES-BENZ", "key": "2001-2001-1", "veiculo": "Classe A 190 AvantGarde 1.9 8V 125cv Aut", "id": "2001-1"
+}
+]

@@ -1,0 +1,21 @@
+[{"fipe_codigo": "1995-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1995-2", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1995-2", "key": "1995-1995-2", "name": "1995 \u00c1lcool"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+, {"fipe_codigo": "1993-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
+}
+, {"fipe_codigo": "1992-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
+}
+, {"fipe_codigo": "1991-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
+}
+, {"fipe_codigo": "1990-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1990-1", "key": "1990-1990-1", "name": "1990 Gasolina"
+}
+, {"fipe_codigo": "1989-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1989-1", "key": "1989-1989-1", "name": "1989 Gasolina"
+}
+, {"fipe_codigo": "1988-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1988-1", "key": "1988-1988-1", "name": "1988 Gasolina"
+}
+, {"fipe_codigo": "1987-1", "veiculo": "Voyage C/CL/Fox 1.6", "id": "1987-1", "key": "1987-1987-1", "name": "1987 Gasolina"
+}
+]

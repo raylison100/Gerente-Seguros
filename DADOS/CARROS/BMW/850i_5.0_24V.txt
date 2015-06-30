@@ -1,0 +1,13 @@
+[{"fipe_codigo": "1996-1", "veiculo": "850i 5.0 24V", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "850i 5.0 24V", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "850i 5.0 24V", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+, {"fipe_codigo": "1993-1", "veiculo": "850i 5.0 24V", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
+}
+, {"fipe_codigo": "1992-1", "veiculo": "850i 5.0 24V", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
+}
+, {"fipe_codigo": "1991-1", "veiculo": "850i 5.0 24V", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
+}
+]

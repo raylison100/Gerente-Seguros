@@ -1,0 +1,7 @@
+[{"fipe_marca": "MINI", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "MINI", "key": "32000-32000-1", "veiculo": "COOPER CABRIO S HIGHGATE 1.6 Aut.", "id": "32000-1"
+}
+, {"fipe_marca": "MINI", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "MINI", "key": "2014-2014-1", "veiculo": "COOPER CABRIO S HIGHGATE 1.6 Aut.", "id": "2014-1"
+}
+, {"fipe_marca": "MINI", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "MINI", "key": "2013-2013-1", "veiculo": "COOPER CABRIO S HIGHGATE 1.6 Aut.", "id": "2013-1"
+}
+]

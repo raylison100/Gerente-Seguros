@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2003-1", "veiculo": "Gol City 1.6 Mi 8V 2p", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2003-2", "veiculo": "Gol City 1.6 Mi 8V 2p", "id": "2003-2", "key": "2003-2003-2", "name": "2003 \u00c1lcool"
+}
+]

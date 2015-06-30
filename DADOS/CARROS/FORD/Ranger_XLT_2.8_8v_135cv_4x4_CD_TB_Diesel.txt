@@ -1,0 +1,9 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "2005-3", "name": "2005 Diesel", "marca": "FORD", "key": "2005-2005-3", "veiculo": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel", "id": "2005-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2004-3", "name": "2004 Diesel", "marca": "FORD", "key": "2004-2004-3", "veiculo": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel", "id": "2004-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2003-3", "name": "2003 Diesel", "marca": "FORD", "key": "2003-2003-3", "veiculo": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel", "id": "2003-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2002-3", "name": "2002 Diesel", "marca": "FORD", "key": "2002-2002-3", "veiculo": "Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel", "id": "2002-3"
+}
+]

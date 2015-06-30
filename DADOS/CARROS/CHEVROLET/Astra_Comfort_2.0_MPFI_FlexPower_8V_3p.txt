@@ -1,0 +1,3 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Astra Comfort 2.0 MPFI FlexPower 8V 3p", "id": "2005-1"
+}
+]

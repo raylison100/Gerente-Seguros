@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2002-1", "veiculo": "Impreza SW GT 2.0 16v 4x4 Turbo Mec.", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "Impreza SW GT 2.0 16v 4x4 Turbo Mec.", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+]

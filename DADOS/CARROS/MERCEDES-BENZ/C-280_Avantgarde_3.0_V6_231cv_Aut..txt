@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "MERCEDES-BENZ", "key": "2009-2009-1", "veiculo": "C-280 Avantgarde 3.0 V6 231cv Aut.", "id": "2009-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "MERCEDES-BENZ", "key": "2008-2008-1", "veiculo": "C-280 Avantgarde 3.0 V6 231cv Aut.", "id": "2008-1"
+}
+]

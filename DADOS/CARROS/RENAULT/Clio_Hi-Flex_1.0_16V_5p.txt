@@ -1,0 +1,5 @@
+[{"fipe_marca": "Renault", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "RENAULT", "key": "2012-2012-1", "veiculo": "Clio Hi-Flex 1.0 16V 5p", "id": "2012-1"
+}
+, {"fipe_marca": "Renault", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "RENAULT", "key": "2011-2011-1", "veiculo": "Clio Hi-Flex 1.0 16V 5p", "id": "2011-1"
+}
+]

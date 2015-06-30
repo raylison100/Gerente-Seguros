@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "MERCEDES-BENZ", "key": "2003-2003-1", "veiculo": "C-200 Touring Komp. 2.0 16V 163cv 5p Aut", "id": "2003-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "MERCEDES-BENZ", "key": "2002-2002-1", "veiculo": "C-200 Touring Komp. 2.0 16V 163cv 5p Aut", "id": "2002-1"
+}
+]

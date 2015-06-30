@@ -1,0 +1,5 @@
+[{"fipe_codigo": "1995-1", "veiculo": "405 STi", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "405 STi", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+]

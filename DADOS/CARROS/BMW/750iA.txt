@@ -1,0 +1,41 @@
+[{"fipe_codigo": "32000-1", "veiculo": "750iA", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
+}
+, {"fipe_codigo": "2014-1", "veiculo": "750iA", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
+}
+, {"fipe_codigo": "2012-1", "veiculo": "750iA", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
+}
+, {"fipe_codigo": "2011-1", "veiculo": "750iA", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+, {"fipe_codigo": "2010-1", "veiculo": "750iA", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "750iA", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+, {"fipe_codigo": "2008-1", "veiculo": "750iA", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
+}
+, {"fipe_codigo": "2007-1", "veiculo": "750iA", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
+}
+, {"fipe_codigo": "2006-1", "veiculo": "750iA", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "750iA", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "750iA", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "750iA", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+, {"fipe_codigo": "1998-1", "veiculo": "750iA", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+, {"fipe_codigo": "1997-1", "veiculo": "750iA", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
+}
+, {"fipe_codigo": "1996-1", "veiculo": "750iA", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "750iA", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "750iA", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+, {"fipe_codigo": "1993-1", "veiculo": "750iA", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
+}
+, {"fipe_codigo": "1992-1", "veiculo": "750iA", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
+}
+, {"fipe_codigo": "1991-1", "veiculo": "750iA", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
+}
+]

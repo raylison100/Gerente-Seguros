@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1992-3", "name": "1992 Diesel", "marca": "MERCEDES-BENZ", "key": "1992-1992-3", "veiculo": "300-D 3.0 Diesel", "id": "1992-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1991-3", "name": "1991 Diesel", "marca": "MERCEDES-BENZ", "key": "1991-1991-3", "veiculo": "300-D 3.0 Diesel", "id": "1991-3"
+}
+]

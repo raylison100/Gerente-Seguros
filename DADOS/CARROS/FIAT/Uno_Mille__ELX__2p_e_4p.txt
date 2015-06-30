@@ -1,0 +1,9 @@
+[{"fipe_codigo": "1997-1", "veiculo": "Uno Mille  ELX  2p e 4p", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
+}
+, {"fipe_codigo": "1996-1", "veiculo": "Uno Mille  ELX  2p e 4p", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "Uno Mille  ELX  2p e 4p", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "Uno Mille  ELX  2p e 4p", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+]

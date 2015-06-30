@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2004-3", "veiculo": "Master 2.8 DTI Chassi 114cv Diesel", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
+}
+, {"fipe_codigo": "2003-3", "veiculo": "Master 2.8 DTI Chassi 114cv Diesel", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
+}
+]

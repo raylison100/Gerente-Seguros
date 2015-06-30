@@ -1,0 +1,7 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "FORD", "key": "2007-2007-1", "veiculo": "Fiesta Sed. Personnalit\u00e9 1.0 8V 4p", "id": "2007-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "FORD", "key": "2006-2006-1", "veiculo": "Fiesta Sed. Personnalit\u00e9 1.0 8V 4p", "id": "2006-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "FORD", "key": "2005-2005-1", "veiculo": "Fiesta Sed. Personnalit\u00e9 1.0 8V 4p", "id": "2005-1"
+}
+]

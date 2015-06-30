@@ -1,0 +1,9 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "CHEVROLET", "key": "2008-2008-1", "veiculo": "Meriva Maxx 1.8 MPFI 8V FlexPower", "id": "2008-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "CHEVROLET", "key": "2007-2007-1", "veiculo": "Meriva Maxx 1.8 MPFI 8V FlexPower", "id": "2007-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CHEVROLET", "key": "2006-2006-1", "veiculo": "Meriva Maxx 1.8 MPFI 8V FlexPower", "id": "2006-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Meriva Maxx 1.8 MPFI 8V FlexPower", "id": "2005-1"
+}
+]

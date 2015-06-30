@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2003-1", "veiculo": "Laguna Grand Tour Privil\u00e8ge 3.0 V6 210cv", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "Laguna Grand Tour Privil\u00e8ge 3.0 V6 210cv", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+]

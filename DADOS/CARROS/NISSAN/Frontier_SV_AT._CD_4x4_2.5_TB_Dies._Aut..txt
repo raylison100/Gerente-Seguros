@@ -1,0 +1,5 @@
+[{"fipe_codigo": "32000-3", "veiculo": "Frontier SV AT. CD 4x4 2.5 TB Dies. Aut.", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
+}
+, {"fipe_codigo": "2015-3", "veiculo": "Frontier SV AT. CD 4x4 2.5 TB Dies. Aut.", "id": "2015-3", "key": "2015-2015-3", "name": "2015 Diesel"
+}
+]

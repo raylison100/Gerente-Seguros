@@ -1,0 +1,9 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FORD", "key": "1995-1995-1", "veiculo": "Escort XR3 2.0i Convers\u00edvel", "id": "1995-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1995-2", "name": "1995 \u00c1lcool", "marca": "FORD", "key": "1995-1995-2", "veiculo": "Escort XR3 2.0i Convers\u00edvel", "id": "1995-2"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "FORD", "key": "1994-1994-1", "veiculo": "Escort XR3 2.0i Convers\u00edvel", "id": "1994-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "FORD", "key": "1993-1993-1", "veiculo": "Escort XR3 2.0i Convers\u00edvel", "id": "1993-1"
+}
+]

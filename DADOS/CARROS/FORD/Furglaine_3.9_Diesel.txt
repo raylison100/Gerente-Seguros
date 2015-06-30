@@ -1,0 +1,15 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1991-3", "name": "1991 Diesel", "marca": "FORD", "key": "1991-1991-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1991-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1990-3", "name": "1990 Diesel", "marca": "FORD", "key": "1990-1990-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1990-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1989-3", "name": "1989 Diesel", "marca": "FORD", "key": "1989-1989-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1989-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1988-3", "name": "1988 Diesel", "marca": "FORD", "key": "1988-1988-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1988-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1987-3", "name": "1987 Diesel", "marca": "FORD", "key": "1987-1987-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1987-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1986-3", "name": "1986 Diesel", "marca": "FORD", "key": "1986-1986-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1986-3"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1985-3", "name": "1985 Diesel", "marca": "FORD", "key": "1985-1985-3", "veiculo": "Furglaine 3.9 Diesel", "id": "1985-3"
+}
+]

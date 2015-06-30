@@ -1,0 +1,13 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "FIAT", "key": "1996-1996-1", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1996-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1996-2", "name": "1996 \u00c1lcool", "marca": "FIAT", "key": "1996-1996-2", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1996-2"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FIAT", "key": "1995-1995-1", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1995-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1995-2", "name": "1995 \u00c1lcool", "marca": "FIAT", "key": "1995-1995-2", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1995-2"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "FIAT", "key": "1994-1994-1", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1994-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "FIAT", "key": "1993-1993-1", "veiculo": "Uno CS/Top/Sport 1.5 i.e. / 1.5 4p", "id": "1993-1"
+}
+]

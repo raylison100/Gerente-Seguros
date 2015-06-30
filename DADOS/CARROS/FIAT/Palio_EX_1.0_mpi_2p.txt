@@ -1,0 +1,13 @@
+[{"fipe_codigo": "2000-1", "veiculo": "Palio EX 1.0 mpi 2p", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "2000-2", "veiculo": "Palio EX 1.0 mpi 2p", "id": "2000-2", "key": "2000-2000-2", "name": "2000 \u00c1lcool"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "Palio EX 1.0 mpi 2p", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+, {"fipe_codigo": "1999-2", "veiculo": "Palio EX 1.0 mpi 2p", "id": "1999-2", "key": "1999-1999-2", "name": "1999 \u00c1lcool"
+}
+, {"fipe_codigo": "1998-1", "veiculo": "Palio EX 1.0 mpi 2p", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+, {"fipe_codigo": "1998-2", "veiculo": "Palio EX 1.0 mpi 2p", "id": "1998-2", "key": "1998-1998-2", "name": "1998 \u00c1lcool"
+}
+]

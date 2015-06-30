@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2004-3", "veiculo": "Pick-Up CD 4x4 Curto/Longo 2.5 TDI Dies.", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
+}
+, {"fipe_codigo": "2003-3", "veiculo": "Pick-Up CD 4x4 Curto/Longo 2.5 TDI Dies.", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
+}
+]

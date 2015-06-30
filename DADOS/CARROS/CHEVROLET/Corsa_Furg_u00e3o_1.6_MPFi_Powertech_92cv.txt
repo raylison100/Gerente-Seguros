@@ -1,0 +1,7 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "CHEVROLET", "key": "2002-2002-1", "veiculo": "Corsa Furg\u00e3o 1.6 MPFi Powertech 92cv", "id": "2002-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "CHEVROLET", "key": "2001-2001-1", "veiculo": "Corsa Furg\u00e3o 1.6 MPFi Powertech 92cv", "id": "2001-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "Corsa Furg\u00e3o 1.6 MPFi Powertech 92cv", "id": "2000-1"
+}
+]

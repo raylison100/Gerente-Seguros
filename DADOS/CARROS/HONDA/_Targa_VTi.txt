@@ -1,0 +1,7 @@
+[{"fipe_codigo": "1995-1", "veiculo": "Civic CRX/ Targa VTi", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "Civic CRX/ Targa VTi", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+, {"fipe_codigo": "1993-1", "veiculo": "Civic CRX/ Targa VTi", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
+}
+]

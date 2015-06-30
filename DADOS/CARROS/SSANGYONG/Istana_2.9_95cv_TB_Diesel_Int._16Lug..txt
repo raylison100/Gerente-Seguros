@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2002-3", "veiculo": "Istana 2.9 95cv TB Diesel Int. 16Lug.", "id": "2002-3", "key": "2002-2002-3", "name": "2002 Diesel"
+}
+, {"fipe_codigo": "2001-3", "veiculo": "Istana 2.9 95cv TB Diesel Int. 16Lug.", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
+}
+]

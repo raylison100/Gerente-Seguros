@@ -1,0 +1,3 @@
+[{"fipe_codigo": "2002-1", "veiculo": "Chairman 3.2 V6 220cv Aut.", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+]

@@ -1,0 +1,7 @@
+[{"fipe_codigo": "32000-3", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
+}
+, {"fipe_codigo": "2015-3", "id": "2015-3", "key": "2015-2015-3", "name": "2015 Diesel"
+}
+, {"fipe_codigo": "2014-3", "id": "2014-3", "key": "2014-2014-3", "name": "2014 Diesel"
+}
+]

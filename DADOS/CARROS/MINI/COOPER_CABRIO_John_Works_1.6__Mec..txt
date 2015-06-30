@@ -1,0 +1,7 @@
+[{"fipe_marca": "MINI", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "MINI", "key": "2012-2012-1", "veiculo": "COOPER CABRIO John Works 1.6  Mec.", "id": "2012-1"
+}
+, {"fipe_marca": "MINI", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "MINI", "key": "2011-2011-1", "veiculo": "COOPER CABRIO John Works 1.6  Mec.", "id": "2011-1"
+}
+, {"fipe_marca": "MINI", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "MINI", "key": "2010-2010-1", "veiculo": "COOPER CABRIO John Works 1.6  Mec.", "id": "2010-1"
+}
+]

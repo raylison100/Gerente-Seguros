@@ -1,0 +1,17 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "VOLKSWAGEN", "key": "1998-1998-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1998-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "VOLKSWAGEN", "key": "1997-1997-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1997-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "VOLKSWAGEN", "key": "1991-1991-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1991-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1990-1", "name": "1990 Gasolina", "marca": "VOLKSWAGEN", "key": "1990-1990-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1990-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1989-1", "name": "1989 Gasolina", "marca": "VOLKSWAGEN", "key": "1989-1989-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1989-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1988-1", "name": "1988 Gasolina", "marca": "VOLKSWAGEN", "key": "1988-1988-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1988-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "VOLKSWAGEN", "key": "1987-1987-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1987-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "1986-1", "name": "1986 Gasolina", "marca": "VOLKSWAGEN", "key": "1986-1986-1", "veiculo": "Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6", "id": "1986-1"
+}
+]

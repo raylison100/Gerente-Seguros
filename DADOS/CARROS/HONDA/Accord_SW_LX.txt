@@ -1,0 +1,7 @@
+[{"fipe_marca": "Honda", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "HONDA", "key": "1995-1995-1", "veiculo": "Accord SW LX", "id": "1995-1"
+}
+, {"fipe_marca": "Honda", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "HONDA", "key": "1994-1994-1", "veiculo": "Accord SW LX", "id": "1994-1"
+}
+, {"fipe_marca": "Honda", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "HONDA", "key": "1993-1993-1", "veiculo": "Accord SW LX", "id": "1993-1"
+}
+]

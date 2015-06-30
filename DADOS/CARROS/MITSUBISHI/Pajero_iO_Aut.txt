@@ -1,0 +1,9 @@
+[{"fipe_codigo": "2002-1", "veiculo": "Pajero iO Aut", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "Pajero iO Aut", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "Pajero iO Aut", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "Pajero iO Aut", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+]

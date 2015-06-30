@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2001-1", "veiculo": "Trajet GLS 2.7 V6 24v 179cv Aut.", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "Trajet GLS 2.7 V6 24v 179cv Aut.", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+]

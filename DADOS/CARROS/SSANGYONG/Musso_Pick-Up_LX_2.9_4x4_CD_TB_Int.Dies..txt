@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2005-3", "veiculo": "Musso Pick-Up LX 2.9 4x4 CD TB Int.Dies.", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
+}
+, {"fipe_codigo": "2004-3", "veiculo": "Musso Pick-Up LX 2.9 4x4 CD TB Int.Dies.", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
+}
+]

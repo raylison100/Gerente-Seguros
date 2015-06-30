@@ -1,0 +1,5 @@
+[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "VOLKSWAGEN", "key": "2007-2007-1", "veiculo": "Parati COMFORTLINE 1.6 Mi Tot.Flex 8V 4p", "id": "2007-1"
+}
+, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "VOLKSWAGEN", "key": "2006-2006-1", "veiculo": "Parati COMFORTLINE 1.6 Mi Tot.Flex 8V 4p", "id": "2006-1"
+}
+]

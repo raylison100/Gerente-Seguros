@@ -1,0 +1,3 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Celta Spirit 1.0 MPFI VHC 8V 5p", "id": "2005-1"
+}
+]

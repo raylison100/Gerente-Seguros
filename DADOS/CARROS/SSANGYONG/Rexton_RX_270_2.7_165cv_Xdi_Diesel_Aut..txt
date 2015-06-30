@@ -1,0 +1,3 @@
+[{"fipe_codigo": "2005-3", "veiculo": "Rexton RX 270 2.7 165cv Xdi Diesel Aut.", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
+}
+]

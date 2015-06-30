@@ -1,0 +1,9 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "FORD", "key": "2012-2012-1", "veiculo": "EDGE SEL 3.5 V6 24V AWD Aut.", "id": "2012-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "FORD", "key": "2011-2011-1", "veiculo": "EDGE SEL 3.5 V6 24V AWD Aut.", "id": "2011-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "FORD", "key": "2010-2010-1", "veiculo": "EDGE SEL 3.5 V6 24V AWD Aut.", "id": "2010-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "FORD", "key": "2009-2009-1", "veiculo": "EDGE SEL 3.5 V6 24V AWD Aut.", "id": "2009-1"
+}
+]

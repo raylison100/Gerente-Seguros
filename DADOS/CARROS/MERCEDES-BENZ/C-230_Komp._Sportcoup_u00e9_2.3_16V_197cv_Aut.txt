@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "MERCEDES-BENZ", "key": "2003-2003-1", "veiculo": "C-230 Komp. Sportcoup\u00e9 2.3 16V 197cv Aut", "id": "2003-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "MERCEDES-BENZ", "key": "2002-2002-1", "veiculo": "C-230 Komp. Sportcoup\u00e9 2.3 16V 197cv Aut", "id": "2002-1"
+}
+]

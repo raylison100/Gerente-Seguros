@@ -1,0 +1,5 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "FIAT", "key": "2002-2002-1", "veiculo": "Siena EX 1.0 mpi Fire 16v 4p", "id": "2002-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "FIAT", "key": "2001-2001-1", "veiculo": "Siena EX 1.0 mpi Fire 16v 4p", "id": "2001-1"
+}
+]

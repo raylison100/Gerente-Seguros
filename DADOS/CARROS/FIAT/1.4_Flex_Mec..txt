@@ -1,0 +1,9 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "FIAT", "key": "32000-32000-1", "veiculo": "500 Sport Air 1.4 16V/1.4 Flex Mec.", "id": "32000-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "FIAT", "key": "2014-2014-1", "veiculo": "500 Sport Air 1.4 16V/1.4 Flex Mec.", "id": "2014-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "FIAT", "key": "2013-2013-1", "veiculo": "500 Sport Air 1.4 16V/1.4 Flex Mec.", "id": "2013-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "FIAT", "key": "2012-2012-1", "veiculo": "500 Sport Air 1.4 16V/1.4 Flex Mec.", "id": "2012-1"
+}
+]

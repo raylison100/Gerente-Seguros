@@ -1,0 +1,9 @@
+[{"fipe_marca": "Peugeot", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "PEUGEOT", "key": "32000-32000-1", "veiculo": "408 Sedan Feline 2.0 Flex 16V 4p Aut.", "id": "32000-1"
+}
+, {"fipe_marca": "Peugeot", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "PEUGEOT", "key": "2013-2013-1", "veiculo": "408 Sedan Feline 2.0 Flex 16V 4p Aut.", "id": "2013-1"
+}
+, {"fipe_marca": "Peugeot", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "PEUGEOT", "key": "2012-2012-1", "veiculo": "408 Sedan Feline 2.0 Flex 16V 4p Aut.", "id": "2012-1"
+}
+, {"fipe_marca": "Peugeot", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "PEUGEOT", "key": "2011-2011-1", "veiculo": "408 Sedan Feline 2.0 Flex 16V 4p Aut.", "id": "2011-1"
+}
+]

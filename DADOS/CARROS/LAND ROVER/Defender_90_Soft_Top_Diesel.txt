@@ -1,0 +1,17 @@
+[{"fipe_codigo": "2002-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "2002-3", "key": "2002-2002-3", "name": "2002 Diesel"
+}
+, {"fipe_codigo": "2001-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
+}
+, {"fipe_codigo": "2000-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "2000-3", "key": "2000-2000-3", "name": "2000 Diesel"
+}
+, {"fipe_codigo": "1999-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "1999-3", "key": "1999-1999-3", "name": "1999 Diesel"
+}
+, {"fipe_codigo": "1998-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "1998-3", "key": "1998-1998-3", "name": "1998 Diesel"
+}
+, {"fipe_codigo": "1997-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "1997-3", "key": "1997-1997-3", "name": "1997 Diesel"
+}
+, {"fipe_codigo": "1996-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
+}
+, {"fipe_codigo": "1995-3", "veiculo": "Defender 90 Soft Top Diesel", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
+}
+]

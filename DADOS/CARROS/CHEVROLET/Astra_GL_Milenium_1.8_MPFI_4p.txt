@@ -1,0 +1,5 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "CHEVROLET", "key": "2001-2001-1", "veiculo": "Astra GL Milenium 1.8 MPFI 4p", "id": "2001-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "Astra GL Milenium 1.8 MPFI 4p", "id": "2000-1"
+}
+]

@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ferrari", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "FERRARI", "key": "1994-1994-1", "veiculo": "348 GTS 3.4", "id": "1994-1"
+}
+, {"fipe_marca": "Ferrari", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "FERRARI", "key": "1993-1993-1", "veiculo": "348 GTS 3.4", "id": "1993-1"
+}
+]

@@ -1,0 +1,7 @@
+[{"fipe_codigo": "2010-1", "veiculo": "SANDERO Authentique Hi-Flex 1.6 8V 5p", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "SANDERO Authentique Hi-Flex 1.6 8V 5p", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+, {"fipe_codigo": "2008-1", "veiculo": "SANDERO Authentique Hi-Flex 1.6 8V 5p", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
+}
+]

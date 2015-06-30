@@ -1,0 +1,35 @@
+[{"fipe_codigo": "2001-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
+}
+, {"fipe_codigo": "2000-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "2000-3", "key": "2000-2000-3", "name": "2000 Diesel"
+}
+, {"fipe_codigo": "1999-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1999-3", "key": "1999-1999-3", "name": "1999 Diesel"
+}
+, {"fipe_codigo": "1998-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1998-3", "key": "1998-1998-3", "name": "1998 Diesel"
+}
+, {"fipe_codigo": "1997-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1997-3", "key": "1997-1997-3", "name": "1997 Diesel"
+}
+, {"fipe_codigo": "1996-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
+}
+, {"fipe_codigo": "1995-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
+}
+, {"fipe_codigo": "1994-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1994-3", "key": "1994-1994-3", "name": "1994 Diesel"
+}
+, {"fipe_codigo": "1993-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1993-3", "key": "1993-1993-3", "name": "1993 Diesel"
+}
+, {"fipe_codigo": "1992-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1992-3", "key": "1992-1992-3", "name": "1992 Diesel"
+}
+, {"fipe_codigo": "1991-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1991-3", "key": "1991-1991-3", "name": "1991 Diesel"
+}
+, {"fipe_codigo": "1990-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1990-3", "key": "1990-1990-3", "name": "1990 Diesel"
+}
+, {"fipe_codigo": "1989-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1989-3", "key": "1989-1989-3", "name": "1989 Diesel"
+}
+, {"fipe_codigo": "1988-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1988-3", "key": "1988-1988-3", "name": "1988 Diesel"
+}
+, {"fipe_codigo": "1987-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1987-3", "key": "1987-1987-3", "name": "1987 Diesel"
+}
+, {"fipe_codigo": "1986-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1986-3", "key": "1986-1986-3", "name": "1986 Diesel"
+}
+, {"fipe_codigo": "1985-3", "veiculo": "Band.Jipe Cap.de A\u00e7o Chas. Curto Diesel", "id": "1985-3", "key": "1985-1985-3", "name": "1985 Diesel"
+}
+]

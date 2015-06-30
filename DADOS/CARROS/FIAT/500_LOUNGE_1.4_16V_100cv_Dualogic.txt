@@ -1,0 +1,5 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "FIAT", "key": "2012-2012-1", "veiculo": "500 LOUNGE 1.4 16V 100cv Dualogic", "id": "2012-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "FIAT", "key": "2010-2010-1", "veiculo": "500 LOUNGE 1.4 16V 100cv Dualogic", "id": "2010-1"
+}
+]

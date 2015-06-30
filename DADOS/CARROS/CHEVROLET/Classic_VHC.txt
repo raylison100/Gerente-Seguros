@@ -1,0 +1,27 @@
+[{"fipe_codigo": "2005-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
+}
+, {"fipe_codigo": "2005-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2005-2", "key": "2005-2005-2", "name": "2005 \u00c1lcool"
+}
+, {"fipe_codigo": "2004-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
+}
+, {"fipe_codigo": "2004-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2004-2", "key": "2004-2004-2", "name": "2004 \u00c1lcool"
+}
+, {"fipe_codigo": "2003-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2003-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2003-2", "key": "2003-2003-2", "name": "2003 \u00c1lcool"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2002-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2002-2", "key": "2002-2002-2", "name": "2002 \u00c1lcool"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2001-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2001-2", "key": "2001-2001-2", "name": "2001 \u00c1lcool"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "2000-2", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "2000-2", "key": "2000-2000-2", "name": "2000 \u00c1lcool"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "Corsa Sed.Wind 1.0/Millenium/Classic VHC", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+]

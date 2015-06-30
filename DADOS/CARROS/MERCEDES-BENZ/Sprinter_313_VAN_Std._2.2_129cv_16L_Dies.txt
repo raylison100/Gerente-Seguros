@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-3", "name": "2006 Diesel", "marca": "MERCEDES-BENZ", "key": "2006-2006-3", "veiculo": "Sprinter 313 VAN Std. 2.2 129cv 16L Dies", "id": "2006-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2005-3", "name": "2005 Diesel", "marca": "MERCEDES-BENZ", "key": "2005-2005-3", "veiculo": "Sprinter 313 VAN Std. 2.2 129cv 16L Dies", "id": "2005-3"
+}
+]

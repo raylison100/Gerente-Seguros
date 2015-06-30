@@ -1,0 +1,5 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "S10 Pick-Up Executive CD 4.3 4x4", "id": "2000-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "CHEVROLET", "key": "1999-1999-1", "veiculo": "S10 Pick-Up Executive CD 4.3 4x4", "id": "1999-1"
+}
+]

@@ -1,0 +1,21 @@
+[{"fipe_codigo": "32000-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
+}
+, {"fipe_codigo": "2015-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2015-1", "key": "2015-2015-1", "name": "2015 Gasolina"
+}
+, {"fipe_codigo": "2014-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
+}
+, {"fipe_codigo": "2013-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
+}
+, {"fipe_codigo": "2006-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
+}
+, {"fipe_codigo": "2005-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
+}
+, {"fipe_codigo": "2004-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
+}
+, {"fipe_codigo": "2003-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "Clio RN/ Aliz\u00e9/ Exp.1.0/1.0 Hi-Power 5p", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+]

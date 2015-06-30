@@ -1,0 +1,7 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2001-3", "name": "2001 Diesel", "marca": "MERCEDES-BENZ", "key": "2001-2001-3", "veiculo": "Sprinter 312-D Chassi Diesel", "id": "2001-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2000-3", "name": "2000 Diesel", "marca": "MERCEDES-BENZ", "key": "2000-2000-3", "veiculo": "Sprinter 312-D Chassi Diesel", "id": "2000-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1999-3", "name": "1999 Diesel", "marca": "MERCEDES-BENZ", "key": "1999-1999-3", "veiculo": "Sprinter 312-D Chassi Diesel", "id": "1999-3"
+}
+]

@@ -1,0 +1,7 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "CHEVROLET", "key": "1999-1999-1", "veiculo": "Silverado Tropical CD 4.1 MPFI", "id": "1999-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "CHEVROLET", "key": "1998-1998-1", "veiculo": "Silverado Tropical CD 4.1 MPFI", "id": "1998-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "CHEVROLET", "key": "1997-1997-1", "veiculo": "Silverado Tropical CD 4.1 MPFI", "id": "1997-1"
+}
+]

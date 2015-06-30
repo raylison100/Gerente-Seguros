@@ -1,0 +1,9 @@
+[{"fipe_codigo": "2004-1", "veiculo": "307 Passion 1.6 16V 110cv 5p", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
+}
+, {"fipe_codigo": "2003-1", "veiculo": "307 Passion 1.6 16V 110cv 5p", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "307 Passion 1.6 16V 110cv 5p", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "307 Passion 1.6 16V 110cv 5p", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+]

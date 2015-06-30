@@ -1,0 +1,11 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "32000-3", "name": "Zero KM Diesel", "marca": "MERCEDES-BENZ", "key": "32000-32000-3", "veiculo": "ML-350 3.0 V6  4x4 Diesel", "id": "32000-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2015-3", "name": "2015 Diesel", "marca": "MERCEDES-BENZ", "key": "2015-2015-3", "veiculo": "ML-350 3.0 V6  4x4 Diesel", "id": "2015-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2014-3", "name": "2014 Diesel", "marca": "MERCEDES-BENZ", "key": "2014-2014-3", "veiculo": "ML-350 3.0 V6  4x4 Diesel", "id": "2014-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2011-3", "name": "2011 Diesel", "marca": "MERCEDES-BENZ", "key": "2011-2011-3", "veiculo": "ML-350 3.0 V6  4x4 Diesel", "id": "2011-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2010-3", "name": "2010 Diesel", "marca": "MERCEDES-BENZ", "key": "2010-2010-3", "veiculo": "ML-350 3.0 V6  4x4 Diesel", "id": "2010-3"
+}
+]

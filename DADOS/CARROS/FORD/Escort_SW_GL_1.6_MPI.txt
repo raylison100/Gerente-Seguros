@@ -1,0 +1,15 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "FORD", "key": "2003-2003-1", "veiculo": "Escort SW GL 1.6 MPI", "id": "2003-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2003-2", "name": "2003 \u00c1lcool", "marca": "FORD", "key": "2003-2003-2", "veiculo": "Escort SW GL 1.6 MPI", "id": "2003-2"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "FORD", "key": "2002-2002-1", "veiculo": "Escort SW GL 1.6 MPI", "id": "2002-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2002-2", "name": "2002 \u00c1lcool", "marca": "FORD", "key": "2002-2002-2", "veiculo": "Escort SW GL 1.6 MPI", "id": "2002-2"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "FORD", "key": "2001-2001-1", "veiculo": "Escort SW GL 1.6 MPI", "id": "2001-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2001-2", "name": "2001 \u00c1lcool", "marca": "FORD", "key": "2001-2001-2", "veiculo": "Escort SW GL 1.6 MPI", "id": "2001-2"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "FORD", "key": "2000-2000-1", "veiculo": "Escort SW GL 1.6 MPI", "id": "2000-1"
+}
+]

@@ -1,0 +1,5 @@
+[{"fipe_codigo": "32000-1", "veiculo": "X6 XDRIVE 50i M Sport 4.4 Bi-Turbo", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
+}
+, {"fipe_codigo": "2015-1", "veiculo": "X6 XDRIVE 50i M Sport 4.4 Bi-Turbo", "id": "2015-1", "key": "2015-2015-1", "name": "2015 Gasolina"
+}
+]

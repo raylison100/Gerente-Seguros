@@ -1,0 +1,3 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "MERCEDES-BENZ", "key": "2006-2006-1", "veiculo": "C-55 Touring AMG 24V 367cv Aut.", "id": "2006-1"
+}
+]

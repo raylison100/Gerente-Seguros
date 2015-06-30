@@ -1,0 +1,15 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2010-3", "name": "2010 Diesel", "marca": "CHEVROLET", "key": "2010-2010-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2010-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2009-3", "name": "2009 Diesel", "marca": "CHEVROLET", "key": "2009-2009-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2009-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2008-3", "name": "2008 Diesel", "marca": "CHEVROLET", "key": "2008-2008-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2008-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2007-3", "name": "2007 Diesel", "marca": "CHEVROLET", "key": "2007-2007-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2007-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2006-3", "name": "2006 Diesel", "marca": "CHEVROLET", "key": "2006-2006-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2006-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-3", "name": "2005 Diesel", "marca": "CHEVROLET", "key": "2005-2005-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2005-3"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2004-3", "name": "2004 Diesel", "marca": "CHEVROLET", "key": "2004-2004-3", "veiculo": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "id": "2004-3"
+}
+]

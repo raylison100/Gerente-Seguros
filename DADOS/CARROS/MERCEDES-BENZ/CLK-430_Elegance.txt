@@ -1,0 +1,3 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "MERCEDES-BENZ", "key": "2001-2001-1", "veiculo": "CLK-430 Elegance Cabriolet 4.3 V8 24v", "id": "2001-1"
+}
+]

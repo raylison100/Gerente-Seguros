@@ -1,0 +1,9 @@
+[{"fipe_marca": "Fiat", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "FIAT", "key": "2002-2002-1", "veiculo": "Palio Young 1.0 mpi 8v 4p", "id": "2002-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2002-2", "name": "2002 \u00c1lcool", "marca": "FIAT", "key": "2002-2002-2", "veiculo": "Palio Young 1.0 mpi 8v 4p", "id": "2002-2"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "FIAT", "key": "2001-2001-1", "veiculo": "Palio Young 1.0 mpi 8v 4p", "id": "2001-1"
+}
+, {"fipe_marca": "Fiat", "fipe_codigo": "2001-2", "name": "2001 \u00c1lcool", "marca": "FIAT", "key": "2001-2001-2", "veiculo": "Palio Young 1.0 mpi 8v 4p", "id": "2001-2"
+}
+]

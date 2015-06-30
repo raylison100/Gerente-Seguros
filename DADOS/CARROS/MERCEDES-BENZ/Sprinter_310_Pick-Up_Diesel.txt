@@ -1,0 +1,7 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1999-3", "name": "1999 Diesel", "marca": "MERCEDES-BENZ", "key": "1999-1999-3", "veiculo": "Sprinter 310 Pick-Up Diesel", "id": "1999-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1998-3", "name": "1998 Diesel", "marca": "MERCEDES-BENZ", "key": "1998-1998-3", "veiculo": "Sprinter 310 Pick-Up Diesel", "id": "1998-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1997-3", "name": "1997 Diesel", "marca": "MERCEDES-BENZ", "key": "1997-1997-3", "veiculo": "Sprinter 310 Pick-Up Diesel", "id": "1997-3"
+}
+]

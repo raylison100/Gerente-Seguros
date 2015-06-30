@@ -1,0 +1,3 @@
+[{"fipe_codigo": "2012-3", "veiculo": "L200 Triton XB 3.2 CD TB Int.Diesel Mec.", "id": "2012-3", "key": "2012-2012-3", "name": "2012 Diesel"
+}
+]

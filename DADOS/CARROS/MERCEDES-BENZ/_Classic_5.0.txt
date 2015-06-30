@@ -1,0 +1,37 @@
+[{"fipe_codigo": "2011-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+, {"fipe_codigo": "2010-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+, {"fipe_codigo": "2008-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
+}
+, {"fipe_codigo": "2007-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
+}
+, {"fipe_codigo": "2006-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
+}
+, {"fipe_codigo": "2005-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
+}
+, {"fipe_codigo": "2004-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
+}
+, {"fipe_codigo": "2003-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "1999-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+, {"fipe_codigo": "1998-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+, {"fipe_codigo": "1997-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
+}
+, {"fipe_codigo": "1996-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+, {"fipe_codigo": "1994-1", "veiculo": "SL-500 5.0 e 5.5/ Classic 5.0", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
+}
+]

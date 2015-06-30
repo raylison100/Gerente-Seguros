@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1986-1", "name": "1986 Gasolina", "marca": "FORD", "key": "1986-1986-1", "veiculo": "F-100 2.3", "id": "1986-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1985-1", "name": "1985 Gasolina", "marca": "FORD", "key": "1985-1985-1", "veiculo": "F-100 2.3", "id": "1985-1"
+}
+]

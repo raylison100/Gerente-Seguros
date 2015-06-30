@@ -1,0 +1,7 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2009-3", "name": "2009 Diesel", "marca": "MERCEDES-BENZ", "key": "2009-2009-3", "veiculo": "ML-320 3.0 V6 224cv 4x4 diesel", "id": "2009-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2008-3", "name": "2008 Diesel", "marca": "MERCEDES-BENZ", "key": "2008-2008-3", "veiculo": "ML-320 3.0 V6 224cv 4x4 diesel", "id": "2008-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2007-3", "name": "2007 Diesel", "marca": "MERCEDES-BENZ", "key": "2007-2007-3", "veiculo": "ML-320 3.0 V6 224cv 4x4 diesel", "id": "2007-3"
+}
+]

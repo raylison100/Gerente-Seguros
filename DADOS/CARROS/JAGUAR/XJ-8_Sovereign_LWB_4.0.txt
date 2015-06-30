@@ -1,0 +1,5 @@
+[{"fipe_codigo": "1999-1", "veiculo": "XJ-8 Sovereign LWB 4.0", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+, {"fipe_codigo": "1998-1", "veiculo": "XJ-8 Sovereign LWB 4.0", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+]

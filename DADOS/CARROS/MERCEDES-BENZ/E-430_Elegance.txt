@@ -1,0 +1,13 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "MERCEDES-BENZ", "key": "2002-2002-1", "veiculo": "E-430 Elegance", "id": "2002-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "MERCEDES-BENZ", "key": "2001-2001-1", "veiculo": "E-430 Elegance", "id": "2001-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "MERCEDES-BENZ", "key": "2000-2000-1", "veiculo": "E-430 Elegance", "id": "2000-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "MERCEDES-BENZ", "key": "1999-1999-1", "veiculo": "E-430 Elegance", "id": "1999-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "MERCEDES-BENZ", "key": "1998-1998-1", "veiculo": "E-430 Elegance", "id": "1998-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "MERCEDES-BENZ", "key": "1997-1997-1", "veiculo": "E-430 Elegance", "id": "1997-1"
+}
+]

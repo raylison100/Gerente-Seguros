@@ -1,0 +1,19 @@
+[{"fipe_codigo": "2011-1", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
+}
+, {"fipe_codigo": "2010-1", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+, {"fipe_codigo": "2008-1", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
+}
+, {"fipe_codigo": "2007-1", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
+}
+, {"fipe_codigo": "2002-1", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
+}
+, {"fipe_codigo": "2001-1", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
+}
+, {"fipe_codigo": "2000-1", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
+}
+, {"fipe_codigo": "1999-1", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+]

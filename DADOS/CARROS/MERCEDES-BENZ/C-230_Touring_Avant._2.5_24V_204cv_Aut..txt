@@ -1,0 +1,5 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "MERCEDES-BENZ", "key": "2007-2007-1", "veiculo": "C-230 Touring Avant. 2.5 24V 204cv Aut.", "id": "2007-1"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "MERCEDES-BENZ", "key": "2006-2006-1", "veiculo": "C-230 Touring Avant. 2.5 24V 204cv Aut.", "id": "2006-1"
+}
+]

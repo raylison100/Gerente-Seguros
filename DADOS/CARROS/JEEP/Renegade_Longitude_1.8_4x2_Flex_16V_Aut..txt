@@ -1,0 +1,5 @@
+[{"fipe_codigo": "32000-1", "veiculo": "Renegade Longitude 1.8 4x2 Flex 16V Aut.", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
+}
+, {"fipe_codigo": "2016-1", "veiculo": "Renegade Longitude 1.8 4x2 Flex 16V Aut.", "id": "2016-1", "key": "2016-2016-1", "name": "2016 Gasolina"
+}
+]

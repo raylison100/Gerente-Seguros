@@ -1,0 +1,9 @@
+[{"fipe_codigo": "1999-1", "veiculo": "Z3 Roadster 1.9 Mec", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
+}
+, {"fipe_codigo": "1998-1", "veiculo": "Z3 Roadster 1.9 Mec", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
+}
+, {"fipe_codigo": "1997-1", "veiculo": "Z3 Roadster 1.9 Mec", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
+}
+, {"fipe_codigo": "1996-1", "veiculo": "Z3 Roadster 1.9 Mec", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+]

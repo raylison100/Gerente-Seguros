@@ -1,0 +1,5 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CHEVROLET", "key": "2006-2006-1", "veiculo": "Astra Sed.Comf.2.0 MPFI MultiPower 8V 4p", "id": "2006-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Astra Sed.Comf.2.0 MPFI MultiPower 8V 4p", "id": "2005-1"
+}
+]

@@ -1,0 +1,7 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Saturn SL", "id": "1995-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "CHEVROLET", "key": "1992-1992-1", "veiculo": "Saturn SL", "id": "1992-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "CHEVROLET", "key": "1991-1991-1", "veiculo": "Saturn SL", "id": "1991-1"
+}
+]

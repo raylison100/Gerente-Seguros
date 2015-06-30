@@ -1,0 +1,13 @@
+[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "CHEVROLET", "key": "2008-2008-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2008-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "CHEVROLET", "key": "2007-2007-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2007-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CHEVROLET", "key": "2006-2006-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2006-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "CHEVROLET", "key": "2002-2002-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2002-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "CHEVROLET", "key": "2001-2001-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2001-1"
+}
+, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p", "id": "2000-1"
+}
+]

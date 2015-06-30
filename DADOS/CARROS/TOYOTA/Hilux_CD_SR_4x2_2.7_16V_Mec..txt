@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2010-1", "veiculo": "Hilux CD SR 4x2 2.7 16V Mec.", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
+}
+, {"fipe_codigo": "2009-1", "veiculo": "Hilux CD SR 4x2 2.7 16V Mec.", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
+}
+]

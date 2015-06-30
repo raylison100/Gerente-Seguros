@@ -1,0 +1,11 @@
+[{"fipe_codigo": "2007-3", "veiculo": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "id": "2007-3", "key": "2007-2007-3", "name": "2007 Diesel"
+}
+, {"fipe_codigo": "2006-3", "veiculo": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "id": "2006-3", "key": "2006-2006-3", "name": "2006 Diesel"
+}
+, {"fipe_codigo": "2005-3", "veiculo": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
+}
+, {"fipe_codigo": "2004-3", "veiculo": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
+}
+, {"fipe_codigo": "2003-3", "veiculo": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
+}
+]

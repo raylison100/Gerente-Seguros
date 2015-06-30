@@ -1,0 +1,17 @@
+[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2012-3", "name": "2012 Diesel", "marca": "MERCEDES-BENZ", "key": "2012-2012-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2012-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2011-3", "name": "2011 Diesel", "marca": "MERCEDES-BENZ", "key": "2011-2011-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2011-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2010-3", "name": "2010 Diesel", "marca": "MERCEDES-BENZ", "key": "2010-2010-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2010-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2009-3", "name": "2009 Diesel", "marca": "MERCEDES-BENZ", "key": "2009-2009-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2009-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2008-3", "name": "2008 Diesel", "marca": "MERCEDES-BENZ", "key": "2008-2008-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2008-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2007-3", "name": "2007 Diesel", "marca": "MERCEDES-BENZ", "key": "2007-2007-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2007-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-3", "name": "2006 Diesel", "marca": "MERCEDES-BENZ", "key": "2006-2006-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2006-3"
+}
+, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2005-3", "name": "2005 Diesel", "marca": "MERCEDES-BENZ", "key": "2005-2005-3", "veiculo": "Sprinter 313 Chassi 2.2 129cv Diesel", "id": "2005-3"
+}
+]

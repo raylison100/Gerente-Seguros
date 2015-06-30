@@ -1,0 +1,5 @@
+[{"fipe_codigo": "2007-3", "veiculo": "PANTANAL 3.0 TDI Elet. 4x4 CS Diesel", "id": "2007-3", "key": "2007-2007-3", "name": "2007 Diesel"
+}
+, {"fipe_codigo": "2006-3", "veiculo": "PANTANAL 3.0 TDI Elet. 4x4 CS Diesel", "id": "2006-3", "key": "2006-2006-3", "name": "2006 Diesel"
+}
+]

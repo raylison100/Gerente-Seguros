@@ -1,0 +1,11 @@
+[{"fipe_codigo": "2011-3", "veiculo": "Kyron 2.7 20V 165cv TDI Dies. Aut.", "id": "2011-3", "key": "2011-2011-3", "name": "2011 Diesel"
+}
+, {"fipe_codigo": "2010-3", "veiculo": "Kyron 2.7 20V 165cv TDI Dies. Aut.", "id": "2010-3", "key": "2010-2010-3", "name": "2010 Diesel"
+}
+, {"fipe_codigo": "2009-3", "veiculo": "Kyron 2.7 20V 165cv TDI Dies. Aut.", "id": "2009-3", "key": "2009-2009-3", "name": "2009 Diesel"
+}
+, {"fipe_codigo": "2008-3", "veiculo": "Kyron 2.7 20V 165cv TDI Dies. Aut.", "id": "2008-3", "key": "2008-2008-3", "name": "2008 Diesel"
+}
+, {"fipe_codigo": "2007-3", "veiculo": "Kyron 2.7 20V 165cv TDI Dies. Aut.", "id": "2007-3", "key": "2007-2007-3", "name": "2007 Diesel"
+}
+]

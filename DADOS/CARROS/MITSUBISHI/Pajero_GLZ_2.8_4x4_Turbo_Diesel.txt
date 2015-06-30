@@ -1,0 +1,7 @@
+[{"fipe_codigo": "1994-3", "veiculo": "Pajero GLZ 2.8 4x4 Turbo Diesel", "id": "1994-3", "key": "1994-1994-3", "name": "1994 Diesel"
+}
+, {"fipe_codigo": "1993-3", "veiculo": "Pajero GLZ 2.8 4x4 Turbo Diesel", "id": "1993-3", "key": "1993-1993-3", "name": "1993 Diesel"
+}
+, {"fipe_codigo": "1992-3", "veiculo": "Pajero GLZ 2.8 4x4 Turbo Diesel", "id": "1992-3", "key": "1992-1992-3", "name": "1992 Diesel"
+}
+]

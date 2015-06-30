@@ -1,0 +1,5 @@
+[{"fipe_marca": "Ford", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "FORD", "key": "1996-1996-1", "veiculo": "Club Wagon XLT 4.9 V6", "id": "1996-1"
+}
+, {"fipe_marca": "Ford", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FORD", "key": "1995-1995-1", "veiculo": "Club Wagon XLT 4.9 V6", "id": "1995-1"
+}
+]

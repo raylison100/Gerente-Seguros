@@ -1,0 +1,9 @@
+[{"fipe_codigo": "2003-1", "veiculo": "Golf GTI VR6/ Golf 2.8 VR6", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
+}
+, {"fipe_codigo": "1997-1", "veiculo": "Golf GTI VR6/ Golf 2.8 VR6", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
+}
+, {"fipe_codigo": "1996-1", "veiculo": "Golf GTI VR6/ Golf 2.8 VR6", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
+}
+, {"fipe_codigo": "1995-1", "veiculo": "Golf GTI VR6/ Golf 2.8 VR6", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
+}
+]

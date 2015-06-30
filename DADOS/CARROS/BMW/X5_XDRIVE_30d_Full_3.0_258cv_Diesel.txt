@@ -1,0 +1,5 @@
+[{"fipe_codigo": "32000-3", "veiculo": "X5 XDRIVE 30d Full 3.0 258cv Diesel", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
+}
+, {"fipe_codigo": "2015-3", "veiculo": "X5 XDRIVE 30d Full 3.0 258cv Diesel", "id": "2015-3", "key": "2015-2015-3", "name": "2015 Diesel"
+}
+]

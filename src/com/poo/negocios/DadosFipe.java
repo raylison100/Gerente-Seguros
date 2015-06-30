@@ -33,17 +33,9 @@ public class DadosFipe implements Serializable{
 	private int marcasCaminhoes;
 
 	//CONSTRUTOR DA CLASSE
-	public DadosFipe(String tipo, String marca) throws IOException {
+	public DadosFipe() throws IOException {
 		super();
-		baixarDadosCarros();
-		baixarDadosMotos();
-		baixarDadosCaminhoes();
-		baixarDadosCarrosPorMarca();
-		baixarDadosMotosPorMarca();
-		baixarDadosCaminhoesPorMarca();
-//		listarModelosPorMarcaETipo(tipo, marca);
-//		dadosModelos(tipo, marca);
-		buscarModelos(tipo, marca);
+		this.atualizarTabelaFipe();
 	}
 	
 	//METODO PRIVADO CRIADO PARA SER UTILIZADO APENAS NESSA CLASSE E TIRAR OS ESPAÇOS DAS FRASES
@@ -51,7 +43,7 @@ public class DadosFipe implements Serializable{
 		String padrao = "\\s", res = null;
 		Pattern regPat = Pattern.compile(padrao);
 		Matcher matcher = regPat.matcher(palavra);
-		res = matcher.replaceAll("_");
+		res = matcher.replaceAll("_").replace("\\", "_");
 		return res;
 	}
 	
@@ -206,7 +198,7 @@ public class DadosFipe implements Serializable{
 					st.nextToken();
 					st.nextToken();
 					aux = st.nextToken();
-					System.out.println(aux);
+					
 				}
 				break;
 			}
@@ -460,8 +452,7 @@ public class DadosFipe implements Serializable{
 					st.nextToken();
 					st.nextToken();
 					aux = st.nextToken();
-					System.out.println(aux);
-				}
+					}
 				break;
 			}
 			modelosLer.close();
@@ -477,11 +468,14 @@ public class DadosFipe implements Serializable{
 	public String[] listarModelosPorMarcaETipo(String tipo, String marca){
 		tipo = tipo.toUpperCase();
 		marca = marca.toUpperCase();
+		String diretorio = "DADOS\\"+tipo+"\\";
+		String diretorioAux = diretorio+marca+"\\";
 		int tamanho = this.quantidadeDeModelos(tipo, marca);
 		String[] listaModelos = new String[tamanho];
 		String aux = null;
 		int posicao = 0;
-		File arq = new File("DADOS\\"+tipo+"\\"+marca+".txt");
+		File arq = new File(diretorio+marca+".txt");
+		
 		try{
 			FileReader modelos = new FileReader(arq);
 			BufferedReader modelosLer = new BufferedReader(modelos);
@@ -497,10 +491,25 @@ public class DadosFipe implements Serializable{
 							st.nextToken();
 							temp = st.nextToken();
 							if(posicao <= tamanho){
-								listaModelos[posicao] = temp;
-								System.out.println(listaModelos[posicao]);
-								posicao++;
-								break;
+								if(temp.contains("/")){
+									StringTokenizer modeloSt = new StringTokenizer(temp, "/");
+									while(modeloSt.hasMoreTokens()){
+										int i = modeloSt.countTokens();
+										for(int j = 1; j <= i; j++){
+											temp = modeloSt.nextToken();
+											if(j == i){
+												listaModelos[posicao] = temp;
+												posicao++;
+												break;
+											}
+											
+										}
+									}
+								}else{
+									listaModelos[posicao] = temp;
+									posicao++;
+									break;
+								}
 							}
 						}
 					}
@@ -514,7 +523,7 @@ public class DadosFipe implements Serializable{
 		return listaModelos;        
 	}
 	
-	//RETORNA O ID DO MODELO PROCURADO
+	//RETORNA O ID (EM STRING) E BAIXA TODOS OS MODELOS DA MARCA SELECIONADA
 	public String buscarModelos(String tipo, String marca) throws IOException{
 		tipo = tipo.toUpperCase();
 		marca = marca.toUpperCase();
@@ -538,7 +547,6 @@ public class DadosFipe implements Serializable{
 							temp = st.nextToken();
 							if(temp.contains("id")){
 								aux = st.nextToken();
-								System.out.println(aux);
 							}
 						}
 					}
@@ -552,13 +560,14 @@ public class DadosFipe implements Serializable{
 			File modelo = new File("DADOS\\"+tipo+"\\"+marca+"\\");
 			modelo.mkdir();
 			File modelos = new File("DADOS\\"+tipo+"\\"+marca+"\\"+this.converterPalavra(listaModelos[i])+".txt");
+			
 			if(!(modelos.exists())){
 				
 				FileWriter modelosWriter = new FileWriter(modelos);
 				BufferedWriter gravarModelos = new BufferedWriter(modelosWriter);
 				try{
 					DefaultHttpClient httpClient = new DefaultHttpClient();
-					HttpGet httpPost = new HttpGet(link+"/"+tipo+"/veiculos"+this.buscaPorMarca(tipo, marca)+"/"+aux+".json");
+					HttpGet httpPost = new HttpGet(link+"/"+tipo+"/veiculo/"+this.buscaPorMarca(tipo, marca)+"/"+aux+".json");
 					HttpResponse response = httpClient.execute(httpPost);
 					HttpEntity entity = response.getEntity();
 					String body = EntityUtils.toString(entity);
@@ -583,6 +592,7 @@ public class DadosFipe implements Serializable{
 
 
 	}
+	
 	//BAIXA TODOS OS DADOS DE UM MODELO DE UM DETERMINADA MARCA E TIPO
 	public String dadosModelos(String tipo, String marca) throws IOException{
 		String retorno = null, temp = null, aux = null;
@@ -633,4 +643,64 @@ public class DadosFipe implements Serializable{
 		return retorno;
 
 	}
+
+	//RETORNA TOTAL DE MODELOS DE UM TIPO
+	public Integer totalDeModelos(String tipo) throws IOException{
+		Integer total = 0;
+		String[] marcas = this.listarMarcas(tipo);
+		for(int i = 0; i < marcas.length; i++){
+			String[] modelos = this.listarModelosPorMarcaETipo(tipo, marcas[i]);
+			total+=modelos.length;
+			for(int j = 0; j< modelos.length; j++){
+				this.buscarModelos(tipo, marcas[i]);
+			}
+		}
+		
+		return total;
+	}
+	
+	public String barraDeAvanco(Integer i, int a){
+		a = i/100;
+		String barra = "=";
+		for(int j = 1; j < a; j++){
+			
+		}
+		return barra;
+	}
+	
+	//BAIXA TODOS OS DADOS NECESSARIOS PARA MANIPULAÇÃO DA TABELA FIPE
+	public void atualizarTabelaFipe() throws IOException{
+		this.baixarDadosCarros();
+		this.baixarDadosMotos();
+		this.baixarDadosCaminhoes();
+		this.baixarDadosCarrosPorMarca();
+		this.baixarDadosMotosPorMarca();
+		this.baixarDadosCaminhoesPorMarca();
+		String tipo1 = "carros";
+		String tipo2 = "motos";
+		String tipo3 = "caminhoes";
+		String[] marcas = this.listarMarcas(tipo1);
+		for(int i = 0; i < marcas.length; i++){
+			String[] modelos = this.listarModelosPorMarcaETipo(tipo1, marcas[i]);
+			for(int j = 0; j< modelos.length; j++){
+				this.buscarModelos(tipo1, marcas[i]);
+			}
+		}
+		String[] marcas2 = this.listarMarcas(tipo2);
+		for(int i = 0; i < marcas2.length; i++){
+			String[] modelos = this.listarModelosPorMarcaETipo(tipo2, marcas2[i]);
+			for(int j = 0; j< modelos.length; j++){
+				this.buscarModelos(tipo2, marcas2[i]);
+			}
+		}
+		String[] marcas3 = this.listarMarcas(tipo3);
+		for(int i = 0; i < marcas3.length; i++){
+			String[] modelos = this.listarModelosPorMarcaETipo(tipo3, marcas3[i]);
+			for(int j = 0; j< modelos.length; j++){
+				this.buscarModelos(tipo3, marcas3[i]);
+			}
+		}
+	}
+	
+	
 }
