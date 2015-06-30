@@ -1,0 +1,20 @@
+{"contador" = "9"}
+[{"fipe_marca": "DAYUN", "name": "DY110-6", "marca": "DAYUN", "key": "dy110-6-4537", "id": "4537", "fipe_name": "DY110-6"
+}
+, {"fipe_marca": "DAYUN", "name": "DY125-8", "marca": "DAYUN", "key": "dy125-8-4538", "id": "4538", "fipe_name": "DY125-8"
+}
+, {"fipe_marca": "DAYUN", "name": "DY125T-10", "marca": "DAYUN", "key": "dy125t-10-4539", "id": "4539", "fipe_name": "DY125T-10"
+}
+, {"fipe_marca": "DAYUN", "name": "DY150-7", "marca": "DAYUN", "key": "dy150-7-4540", "id": "4540", "fipe_name": "DY150-7"
+}
+, {"fipe_marca": "DAYUN", "name": "DY150-9", "marca": "DAYUN", "key": "dy150-9-4541", "id": "4541", "fipe_name": "DY150-9"
+}
+, {"fipe_marca": "DAYUN", "name": "DY150GY", "marca": "DAYUN", "key": "dy150gy-4542", "id": "4542", "fipe_name": "DY150GY"
+}
+, {"fipe_marca": "DAYUN", "name": "DY150ZH   (triciclo carga)", "marca": "DAYUN", "key": "dy150zh-4543", "id": "4543", "fipe_name": "DY150ZH   (triciclo carga)"
+}
+, {"fipe_marca": "DAYUN", "name": "DY200ZH  (triciclo carga)", "marca": "DAYUN", "key": "dy200zh-5152", "id": "5152", "fipe_name": "DY200ZH  (triciclo carga)"
+}
+, {"fipe_marca": "DAYUN", "name": "DY250-2", "marca": "DAYUN", "key": "dy250-2-4544", "id": "4544", "fipe_name": "DY250-2"
+}
+]

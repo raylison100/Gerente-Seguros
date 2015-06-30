@@ -1,0 +1,3 @@
+{"contador" = "0"}
+{"request": "http://fipeapi.appspot.com/api/1/motos/veiculos/196.json", "error": "Could not complete your request", "details": "No result found in fipe site"
+}

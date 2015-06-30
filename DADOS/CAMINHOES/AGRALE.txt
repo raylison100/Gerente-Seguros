@@ -1,0 +1,62 @@
+{"contador" = "30"}
+[{"fipe_marca": "AGRALE", "name": "10000 2p (diesel) (E5)", "marca": "AGRALE", "key": "10000-5986", "id": "5986", "fipe_name": "10000 2p (diesel) (E5)"
+}
+, {"fipe_marca": "AGRALE", "name": "13000 Turbo 2p (diesel)", "marca": "AGRALE", "key": "13000-4448", "id": "4448", "fipe_name": "13000 Turbo 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "13000 Turbo 3-Eixos 2p (diesel)", "marca": "AGRALE", "key": "13000-4513", "id": "4513", "fipe_name": "13000 Turbo 3-Eixos 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "14000 2p (diesel) (E5)", "marca": "AGRALE", "key": "14000-5987", "id": "5987", "fipe_name": "14000 2p (diesel) (E5)"
+}
+, {"fipe_marca": "AGRALE", "name": "14000 6x2 2p (diesel) (E5)", "marca": "AGRALE", "key": "14000-5988", "id": "5988", "fipe_name": "14000 6x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "AGRALE", "name": "1600 D-RD 2p (diesel)", "marca": "AGRALE", "key": "1600-3110", "id": "3110", "fipe_name": "1600 D-RD 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "1600 D-RS 2p (diesel)", "marca": "AGRALE", "key": "1600-3111", "id": "3111", "fipe_name": "1600 D-RS 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "1800 D-RD 2p (diesel)", "marca": "AGRALE", "key": "1800-3112", "id": "3112", "fipe_name": "1800 D-RD 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "1800 D-RS 2p (diesel)", "marca": "AGRALE", "key": "1800-3113", "id": "3113", "fipe_name": "1800 D-RS 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "4500 D-RD 2p (diesel)", "marca": "AGRALE", "key": "4500-3114", "id": "3114", "fipe_name": "4500 D-RD 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "4500 D-RS 2p (diesel)", "marca": "AGRALE", "key": "4500-3115", "id": "3115", "fipe_name": "4500 D-RS 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "5000 D-RD 2p (diesel)", "marca": "AGRALE", "key": "5000-3116", "id": "3116", "fipe_name": "5000 D-RD 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "5000 D-RS 2p (diesel)", "marca": "AGRALE", "key": "5000-3117", "id": "3117", "fipe_name": "5000 D-RS 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "6000 D CD RS/ RD 3p (diesel)", "marca": "AGRALE", "key": "6000-3118", "id": "3118", "fipe_name": "6000 D CD RS/ RD 3p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "6000 D CS 2p (diesel)", "marca": "AGRALE", "key": "6000-3119", "id": "3119", "fipe_name": "6000 D CS 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "6000 Furgovan 2.8 TDI RS/ RD 4p", "marca": "AGRALE", "key": "6000-3120", "id": "3120", "fipe_name": "6000 Furgovan 2.8 TDI RS/ RD 4p"
+}
+, {"fipe_marca": "AGRALE", "name": "7000 D 2p (diesel)", "marca": "AGRALE", "key": "7000-3121", "id": "3121", "fipe_name": "7000 D 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "7000 D-RD (C.Dupla) 4p (diesel)", "marca": "AGRALE", "key": "7000-3122", "id": "3122", "fipe_name": "7000 D-RD (C.Dupla) 4p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "7000 DX 2p (diesel)", "marca": "AGRALE", "key": "7000-3123", "id": "3123", "fipe_name": "7000 DX 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "7500 TD 2p (diesel)", "marca": "AGRALE", "key": "7500-3124", "id": "3124", "fipe_name": "7500 TD 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "7500 TDX 2p (diesel)", "marca": "AGRALE", "key": "7500-3125", "id": "3125", "fipe_name": "7500 TDX 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "8000 Furgovan 4.3 TDI 145cv Aut 4p", "marca": "AGRALE", "key": "8000-3126", "id": "3126", "fipe_name": "8000 Furgovan 4.3 TDI 145cv Aut 4p"
+}
+, {"fipe_marca": "AGRALE", "name": "8000 Furgovan 4.3 TDI Mec 4p", "marca": "AGRALE", "key": "8000-3127", "id": "3127", "fipe_name": "8000 Furgovan 4.3 TDI Mec 4p"
+}
+, {"fipe_marca": "AGRALE", "name": "8500 E-tronic CE 2p (diesel)", "marca": "AGRALE", "key": "8500-4084", "id": "4084", "fipe_name": "8500 E-tronic CE 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "8500 Turbo 2p (diesel)", "marca": "AGRALE", "key": "8500-3128", "id": "3128", "fipe_name": "8500 Turbo 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "8500 Turbo CD 3p (diesel)", "marca": "AGRALE", "key": "8500-4757", "id": "4757", "fipe_name": "8500 Turbo CD 3p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "8700 2p (diesel) (E5)", "marca": "AGRALE", "key": "8700-5989", "id": "5989", "fipe_name": "8700 2p (diesel) (E5)"
+}
+, {"fipe_marca": "AGRALE", "name": "8700 TR 2p (diesel) (E5)", "marca": "AGRALE", "key": "8700-5990", "id": "5990", "fipe_name": "8700 TR 2p (diesel) (E5)"
+}
+, {"fipe_marca": "AGRALE", "name": "9200 Turbo 2p (diesel)", "marca": "AGRALE", "key": "9200-3129", "id": "3129", "fipe_name": "9200 Turbo 2p (diesel)"
+}
+, {"fipe_marca": "AGRALE", "name": "MARRU\u00c1 AM 300 2.8 CS TDI Diesel (E5)", "marca": "AGRALE", "key": "marrua-6704", "id": "6704", "fipe_name": "MARRU\u00c1 AM 300 2.8 CS TDI Diesel (E5)"
+}
+]

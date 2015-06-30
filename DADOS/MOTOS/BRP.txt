@@ -1,0 +1,40 @@
+{"contador" = "19"}
+[{"fipe_marca": "BRP", "name": "can-am DS 250 EFI 4X2 Quadr.", "marca": "BRP", "key": "can-am-5262", "id": "5262", "fipe_name": "can-am DS 250 EFI 4X2 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander 400 4X4 Quadr.", "marca": "BRP", "key": "can-am-6849", "id": "6849", "fipe_name": "can-am Outlander 400 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander MAX 400 4X4 Quadr.", "marca": "BRP", "key": "can-am-6850", "id": "6850", "fipe_name": "can-am Outlander MAX 400 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander MAX L.1000 4X4 Quadr.", "marca": "BRP", "key": "can-am-6851", "id": "6851", "fipe_name": "can-am Outlander MAX L.1000 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander MAX XT 400 4X4 Quadr.", "marca": "BRP", "key": "can-am-6852", "id": "6852", "fipe_name": "can-am Outlander MAX XT 400 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander MAX XT 650 4X4 Quadr.", "marca": "BRP", "key": "can-am-6853", "id": "6853", "fipe_name": "can-am Outlander MAX XT 650 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander MAX XT-P 800 4X4 Quadr.", "marca": "BRP", "key": "can-am-6854", "id": "6854", "fipe_name": "can-am Outlander MAX XT-P 800 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander X MR 1000 4X4 Quadr.", "marca": "BRP", "key": "can-am-6855", "id": "6855", "fipe_name": "can-am Outlander X MR 1000 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander X MR 650 4X4 Quadr.", "marca": "BRP", "key": "can-am-6856", "id": "6856", "fipe_name": "can-am Outlander X MR 650 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander XT 650 4X4 Quadr.", "marca": "BRP", "key": "can-am-6857", "id": "6857", "fipe_name": "can-am Outlander XT 650 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Outlander XT-P 800 4X4 Quadr.", "marca": "BRP", "key": "can-am-6858", "id": "6858", "fipe_name": "can-am Outlander XT-P 800 4X4 Quadr."
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 1330 RT-Limited", "marca": "BRP", "key": "can-am-6944", "id": "6944", "fipe_name": "can-am Spyder 1330 RT-Limited"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 1330 RT-S", "marca": "BRP", "key": "can-am-7220", "id": "7220", "fipe_name": "can-am Spyder 1330 RT-S"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 RS", "marca": "BRP", "key": "can-am-4698", "id": "4698", "fipe_name": "can-am Spyder 990 RS"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 RS-S", "marca": "BRP", "key": "can-am-5197", "id": "5197", "fipe_name": "can-am Spyder 990 RS-S"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 RT Techno", "marca": "BRP", "key": "can-am-5198", "id": "5198", "fipe_name": "can-am Spyder 990 RT Techno"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 RT-Limited", "marca": "BRP", "key": "can-am-5752", "id": "5752", "fipe_name": "can-am Spyder 990 RT-Limited"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 RT-S", "marca": "BRP", "key": "can-am-5199", "id": "5199", "fipe_name": "can-am Spyder 990 RT-S"
+}
+, {"fipe_marca": "BRP", "name": "can-am Spyder 990 ST-S", "marca": "BRP", "key": "can-am-6814", "id": "6814", "fipe_name": "can-am Spyder 990 ST-S"
+}
+]

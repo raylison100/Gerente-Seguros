@@ -1,0 +1,16 @@
+{"contador" = "7"}
+[{"fipe_marca": "PUMA-ALFA", "name": "7900 CB 2p (diesel)", "marca": "PUMA-ALFA", "key": "7900-3495", "id": "3495", "fipe_name": "7900 CB 2p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "7900 CB TURBO 2p (diesel)", "marca": "PUMA-ALFA", "key": "7900-3496", "id": "3496", "fipe_name": "7900 CB TURBO 2p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "7900 CD 4p (diesel)", "marca": "PUMA-ALFA", "key": "7900-3497", "id": "3497", "fipe_name": "7900 CD 4p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "7900 CD TURBO 4p (diesel)", "marca": "PUMA-ALFA", "key": "7900-3498", "id": "3498", "fipe_name": "7900 CD TURBO 4p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "9000 2p (diesel)", "marca": "PUMA-ALFA", "key": "9000-3499", "id": "3499", "fipe_name": "9000 2p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "914 CD 4p (diesel)", "marca": "PUMA-ALFA", "key": "914-3500", "id": "3500", "fipe_name": "914 CD 4p (diesel)"
+}
+, {"fipe_marca": "PUMA-ALFA", "name": "914 CS 2p (diesel)", "marca": "PUMA-ALFA", "key": "914-3501", "id": "3501", "fipe_name": "914 CS 2p (diesel)"
+}
+]

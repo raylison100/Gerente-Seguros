@@ -1,0 +1,190 @@
+{"contador" = "94"}
+[{"fipe_marca": "YAMAHA", "name": "750 VIRAGO", "marca": "YAMAHA", "key": "750-3060", "id": "3060", "fipe_name": "750 VIRAGO"
+}
+, {"fipe_marca": "YAMAHA", "name": "AXIS 90", "marca": "YAMAHA", "key": "axis-3061", "id": "3061", "fipe_name": "AXIS 90"
+}
+, {"fipe_marca": "YAMAHA", "name": "BW'S 50", "marca": "YAMAHA", "key": "bw-s-3062", "id": "3062", "fipe_name": "BW'S 50"
+}
+, {"fipe_marca": "YAMAHA", "name": "CRYPTON 100", "marca": "YAMAHA", "key": "crypton-3063", "id": "3063", "fipe_name": "CRYPTON 100"
+}
+, {"fipe_marca": "YAMAHA", "name": "DT 180-Z TRAIL", "marca": "YAMAHA", "key": "dt-3064", "id": "3064", "fipe_name": "DT 180-Z TRAIL"
+}
+, {"fipe_marca": "YAMAHA", "name": "DT 200", "marca": "YAMAHA", "key": "dt-3065", "id": "3065", "fipe_name": "DT 200"
+}
+, {"fipe_marca": "YAMAHA", "name": "DT 200 R", "marca": "YAMAHA", "key": "dt-3066", "id": "3066", "fipe_name": "DT 200 R"
+}
+, {"fipe_marca": "YAMAHA", "name": "FAZER 600/ FZ6 S", "marca": "YAMAHA", "key": "fazer-3067", "id": "3067", "fipe_name": "FAZER 600/ FZ6 S"
+}
+, {"fipe_marca": "YAMAHA", "name": "FZ6 N", "marca": "YAMAHA", "key": "fz6-4571", "id": "4571", "fipe_name": "FZ6 N"
+}
+, {"fipe_marca": "YAMAHA", "name": "FZR 1000", "marca": "YAMAHA", "key": "fzr-3068", "id": "3068", "fipe_name": "FZR 1000"
+}
+, {"fipe_marca": "YAMAHA", "name": "FZR 600", "marca": "YAMAHA", "key": "fzr-3069", "id": "3069", "fipe_name": "FZR 600"
+}
+, {"fipe_marca": "YAMAHA", "name": "JOG 50", "marca": "YAMAHA", "key": "jog-3070", "id": "3070", "fipe_name": "JOG 50"
+}
+, {"fipe_marca": "YAMAHA", "name": "JOG TEEN 50", "marca": "YAMAHA", "key": "jog-3071", "id": "3071", "fipe_name": "JOG TEEN 50"
+}
+, {"fipe_marca": "YAMAHA", "name": "MAJESTY YP 250", "marca": "YAMAHA", "key": "majesty-3072", "id": "3072", "fipe_name": "MAJESTY YP 250"
+}
+, {"fipe_marca": "YAMAHA", "name": "MT-01 1.670cc", "marca": "YAMAHA", "key": "mt-01-4211", "id": "4211", "fipe_name": "MT-01 1.670cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "MT-03 660cc", "marca": "YAMAHA", "key": "mt-03-4593", "id": "4593", "fipe_name": "MT-03 660cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "MT-07/MT-07 ABS 689cc", "marca": "YAMAHA", "key": "mt-07-mt-07-7145", "id": "7145", "fipe_name": "MT-07/MT-07 ABS 689cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "MT-09 850cc", "marca": "YAMAHA", "key": "mt-09-7064", "id": "7064", "fipe_name": "MT-09 850cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "NEO AT 115cc", "marca": "YAMAHA", "key": "neo-3073", "id": "3073", "fipe_name": "NEO AT 115cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "NEO Automatic 115cc", "marca": "YAMAHA", "key": "neo-4378", "id": "4378", "fipe_name": "NEO Automatic 115cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "RD 135", "marca": "YAMAHA", "key": "rd-3074", "id": "3074", "fipe_name": "RD 135"
+}
+, {"fipe_marca": "YAMAHA", "name": "RD 350 LC/ R", "marca": "YAMAHA", "key": "rd-3075", "id": "3075", "fipe_name": "RD 350 LC/ R"
+}
+, {"fipe_marca": "YAMAHA", "name": "RDZ 125", "marca": "YAMAHA", "key": "rdz-3076", "id": "3076", "fipe_name": "RDZ 125"
+}
+, {"fipe_marca": "YAMAHA", "name": "RDZ 135", "marca": "YAMAHA", "key": "rdz-3077", "id": "3077", "fipe_name": "RDZ 135"
+}
+, {"fipe_marca": "YAMAHA", "name": "ROYAL STAR 1300", "marca": "YAMAHA", "key": "royal-3078", "id": "3078", "fipe_name": "ROYAL STAR 1300"
+}
+, {"fipe_marca": "YAMAHA", "name": "T115 CRYPTON ED", "marca": "YAMAHA", "key": "t115-5163", "id": "5163", "fipe_name": "T115 CRYPTON ED"
+}
+, {"fipe_marca": "YAMAHA", "name": "T115 CRYPTON ED Penelope", "marca": "YAMAHA", "key": "t115-6477", "id": "6477", "fipe_name": "T115 CRYPTON ED Penelope"
+}
+, {"fipe_marca": "YAMAHA", "name": "T115 CRYPTON K", "marca": "YAMAHA", "key": "t115-5164", "id": "5164", "fipe_name": "T115 CRYPTON K"
+}
+, {"fipe_marca": "YAMAHA", "name": "TDM 225", "marca": "YAMAHA", "key": "tdm-3079", "id": "3079", "fipe_name": "TDM 225"
+}
+, {"fipe_marca": "YAMAHA", "name": "TDM 850", "marca": "YAMAHA", "key": "tdm-3080", "id": "3080", "fipe_name": "TDM 850"
+}
+, {"fipe_marca": "YAMAHA", "name": "TDM 900", "marca": "YAMAHA", "key": "tdm-3081", "id": "3081", "fipe_name": "TDM 900"
+}
+, {"fipe_marca": "YAMAHA", "name": "TDR 180", "marca": "YAMAHA", "key": "tdr-3082", "id": "3082", "fipe_name": "TDR 180"
+}
+, {"fipe_marca": "YAMAHA", "name": "TMAX 530", "marca": "YAMAHA", "key": "tmax-6677", "id": "6677", "fipe_name": "TMAX 530"
+}
+, {"fipe_marca": "YAMAHA", "name": "TRX 850", "marca": "YAMAHA", "key": "trx-3083", "id": "3083", "fipe_name": "TRX 850"
+}
+, {"fipe_marca": "YAMAHA", "name": "TT-R 125 E", "marca": "YAMAHA", "key": "tt-r-4483", "id": "4483", "fipe_name": "TT-R 125 E"
+}
+, {"fipe_marca": "YAMAHA", "name": "TT-R 125 LE", "marca": "YAMAHA", "key": "tt-r-4484", "id": "4484", "fipe_name": "TT-R 125 LE"
+}
+, {"fipe_marca": "YAMAHA", "name": "TT-R 125 LWE", "marca": "YAMAHA", "key": "tt-r-7177", "id": "7177", "fipe_name": "TT-R 125 LWE"
+}
+, {"fipe_marca": "YAMAHA", "name": "TT-R 230", "marca": "YAMAHA", "key": "tt-r-4485", "id": "4485", "fipe_name": "TT-R 230"
+}
+, {"fipe_marca": "YAMAHA", "name": "V-MAX 1200", "marca": "YAMAHA", "key": "v-max-3084", "id": "3084", "fipe_name": "V-MAX 1200"
+}
+, {"fipe_marca": "YAMAHA", "name": "V-MAX 1700", "marca": "YAMAHA", "key": "v-max-6678", "id": "6678", "fipe_name": "V-MAX 1700"
+}
+, {"fipe_marca": "YAMAHA", "name": "WR 200", "marca": "YAMAHA", "key": "wr-3085", "id": "3085", "fipe_name": "WR 200"
+}
+, {"fipe_marca": "YAMAHA", "name": "WR 426 F", "marca": "YAMAHA", "key": "wr-3086", "id": "3086", "fipe_name": "WR 426 F"
+}
+, {"fipe_marca": "YAMAHA", "name": "XJ 600", "marca": "YAMAHA", "key": "xj-3087", "id": "3087", "fipe_name": "XJ 600"
+}
+, {"fipe_marca": "YAMAHA", "name": "XJ6 F", "marca": "YAMAHA", "key": "xj6-5165", "id": "5165", "fipe_name": "XJ6 F"
+}
+, {"fipe_marca": "YAMAHA", "name": "XJ6 N", "marca": "YAMAHA", "key": "xj6-5166", "id": "5166", "fipe_name": "XJ6 N"
+}
+, {"fipe_marca": "YAMAHA", "name": "XJ6 N SP", "marca": "YAMAHA", "key": "xj6-6764", "id": "6764", "fipe_name": "XJ6 N SP"
+}
+, {"fipe_marca": "YAMAHA", "name": "XJR 1200", "marca": "YAMAHA", "key": "xjr-3088", "id": "3088", "fipe_name": "XJR 1200"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 1200 Z  SUPER T\u00c9N\u00c9R\u00c9", "marca": "YAMAHA", "key": "xt-5523", "id": "5523", "fipe_name": "XT 1200 Z  SUPER T\u00c9N\u00c9R\u00c9"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 225", "marca": "YAMAHA", "key": "xt-3091", "id": "3091", "fipe_name": "XT 225"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 600 E", "marca": "YAMAHA", "key": "xt-3092", "id": "3092", "fipe_name": "XT 600 E"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 600 Z TENERE", "marca": "YAMAHA", "key": "xt-3093", "id": "3093", "fipe_name": "XT 600 Z TENERE"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 660 R", "marca": "YAMAHA", "key": "xt-3094", "id": "3094", "fipe_name": "XT 660 R"
+}
+, {"fipe_marca": "YAMAHA", "name": "XT 660Z T\u00c9N\u00c9R\u00c9", "marca": "YAMAHA", "key": "xt-5738", "id": "5738", "fipe_name": "XT 660Z T\u00c9N\u00c9R\u00c9"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 125 E", "marca": "YAMAHA", "key": "xtz-3095", "id": "3095", "fipe_name": "XTZ 125 E"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 125 K", "marca": "YAMAHA", "key": "xtz-3096", "id": "3096", "fipe_name": "XTZ 125 K"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 125 XE", "marca": "YAMAHA", "key": "xtz-4486", "id": "4486", "fipe_name": "XTZ 125 XE"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 125 XK", "marca": "YAMAHA", "key": "xtz-4487", "id": "4487", "fipe_name": "XTZ 125 XK"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 150 E CROSSER", "marca": "YAMAHA", "key": "xtz-6765", "id": "6765", "fipe_name": "XTZ 150 E CROSSER"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 150 ED CROSSER", "marca": "YAMAHA", "key": "xtz-6766", "id": "6766", "fipe_name": "XTZ 150 ED CROSSER"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 250 LANDER 249cc", "marca": "YAMAHA", "key": "xtz-4195", "id": "4195", "fipe_name": "XTZ 250 LANDER 249cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 250 TENERE/TENERE BLUEFLEX", "marca": "YAMAHA", "key": "xtz-5442", "id": "5442", "fipe_name": "XTZ 250 TENERE/TENERE BLUEFLEX"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 250X", "marca": "YAMAHA", "key": "xtz-4658", "id": "4658", "fipe_name": "XTZ 250X"
+}
+, {"fipe_marca": "YAMAHA", "name": "XTZ 750 S TENERE", "marca": "YAMAHA", "key": "xtz-3097", "id": "3097", "fipe_name": "XTZ 750 S TENERE"
+}
+, {"fipe_marca": "YAMAHA", "name": "XV 1100 VIRAGO", "marca": "YAMAHA", "key": "xv-3098", "id": "3098", "fipe_name": "XV 1100 VIRAGO"
+}
+, {"fipe_marca": "YAMAHA", "name": "XV 250 VIRAGO", "marca": "YAMAHA", "key": "xv-3099", "id": "3099", "fipe_name": "XV 250 VIRAGO"
+}
+, {"fipe_marca": "YAMAHA", "name": "XV 535 S VIRAGO", "marca": "YAMAHA", "key": "xv-3100", "id": "3100", "fipe_name": "XV 535 S VIRAGO"
+}
+, {"fipe_marca": "YAMAHA", "name": "XVS 1100 DRAG STAR", "marca": "YAMAHA", "key": "xvs-3089", "id": "3089", "fipe_name": "XVS 1100 DRAG STAR"
+}
+, {"fipe_marca": "YAMAHA", "name": "XVS 650 DRAG STAR", "marca": "YAMAHA", "key": "xvs-3090", "id": "3090", "fipe_name": "XVS 650 DRAG STAR"
+}
+, {"fipe_marca": "YAMAHA", "name": "XVS 950 MIDNIGHT STAR", "marca": "YAMAHA", "key": "xvs-4956", "id": "4956", "fipe_name": "XVS 950 MIDNIGHT STAR"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 E", "marca": "YAMAHA", "key": "ybr-3101", "id": "3101", "fipe_name": "YBR 125 E"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 ED", "marca": "YAMAHA", "key": "ybr-3102", "id": "3102", "fipe_name": "YBR 125 ED"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 FACTOR E", "marca": "YAMAHA", "key": "ybr-4742", "id": "4742", "fipe_name": "YBR 125 FACTOR E"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 FACTOR ED/FACTOR EDITION", "marca": "YAMAHA", "key": "ybr-4743", "id": "4743", "fipe_name": "YBR 125 FACTOR ED/FACTOR EDITION"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 FACTOR K/ FACTOR K1", "marca": "YAMAHA", "key": "ybr-4744", "id": "4744", "fipe_name": "YBR 125 FACTOR K/ FACTOR K1"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 FACTOR Pro E", "marca": "YAMAHA", "key": "ybr-6568", "id": "6568", "fipe_name": "YBR 125 FACTOR Pro E"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 FACTOR Pro K", "marca": "YAMAHA", "key": "ybr-6569", "id": "6569", "fipe_name": "YBR 125 FACTOR Pro K"
+}
+, {"fipe_marca": "YAMAHA", "name": "YBR 125 K", "marca": "YAMAHA", "key": "ybr-3103", "id": "3103", "fipe_name": "YBR 125 K"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFM 250 BRUIN 230cc", "marca": "YAMAHA", "key": "yfm-4080", "id": "4080", "fipe_name": "YFM 250 BRUIN 230cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFM 350 GRIZZLY 350cc", "marca": "YAMAHA", "key": "yfm-4196", "id": "4196", "fipe_name": "YFM 350 GRIZZLY 350cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFM 660R 660cc", "marca": "YAMAHA", "key": "yfm-4081", "id": "4081", "fipe_name": "YFM 660R 660cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFM 700R 686cc", "marca": "YAMAHA", "key": "yfm-4582", "id": "4582", "fipe_name": "YFM 700R 686cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFM 80 79cc", "marca": "YAMAHA", "key": "yfm-4082", "id": "4082", "fipe_name": "YFM 80 79cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFS 200 BLASTER 195cc", "marca": "YAMAHA", "key": "yfs-4083", "id": "4083", "fipe_name": "YFS 200 BLASTER 195cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YFZ 450/ YZ 450 F 449cc", "marca": "YAMAHA", "key": "yfz-4583", "id": "4583", "fipe_name": "YFZ 450/ YZ 450 F 449cc"
+}
+, {"fipe_marca": "YAMAHA", "name": "YS 150 Fazer ED", "marca": "YAMAHA", "key": "ys-6605", "id": "6605", "fipe_name": "YS 150 Fazer ED"
+}
+, {"fipe_marca": "YAMAHA", "name": "YS 150 Fazer SED", "marca": "YAMAHA", "key": "ys-6606", "id": "6606", "fipe_name": "YS 150 Fazer SED"
+}
+, {"fipe_marca": "YAMAHA", "name": "YS 250 FAZER/ FAZER L. EDITION /BlueFlex", "marca": "YAMAHA", "key": "ys-3871", "id": "3871", "fipe_name": "YS 250 FAZER/ FAZER L. EDITION /BlueFlex"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZ 125", "marca": "YAMAHA", "key": "yz-3104", "id": "3104", "fipe_name": "YZ 125"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZ 250", "marca": "YAMAHA", "key": "yz-3105", "id": "3105", "fipe_name": "YZ 250"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZF 1000 THUNDERACE", "marca": "YAMAHA", "key": "yzf-3106", "id": "3106", "fipe_name": "YZF 1000 THUNDERACE"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZF 600 THUNDERCAT", "marca": "YAMAHA", "key": "yzf-3107", "id": "3107", "fipe_name": "YZF 600 THUNDERCAT"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZF 750", "marca": "YAMAHA", "key": "yzf-3108", "id": "3108", "fipe_name": "YZF 750"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZF R-1 1000", "marca": "YAMAHA", "key": "yzf-3109", "id": "3109", "fipe_name": "YZF R-1 1000"
+}
+, {"fipe_marca": "YAMAHA", "name": "YZF R-6 600", "marca": "YAMAHA", "key": "yzf-3943", "id": "3943", "fipe_name": "YZF R-6 600"
+}
+]

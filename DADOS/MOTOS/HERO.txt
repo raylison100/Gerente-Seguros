@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "HERO", "name": "ANKUR 50", "marca": "HERO", "key": "ankur-2759", "id": "2759", "fipe_name": "ANKUR 50"
+}
+, {"fipe_marca": "HERO", "name": "PUCH 50", "marca": "HERO", "key": "puch-2760", "id": "2760", "fipe_name": "PUCH 50"
+}
+, {"fipe_marca": "HERO", "name": "PUCH 65", "marca": "HERO", "key": "puch-2761", "id": "2761", "fipe_name": "PUCH 65"
+}
+, {"fipe_marca": "HERO", "name": "STREAM 50", "marca": "HERO", "key": "stream-2762", "id": "2762", "fipe_name": "STREAM 50"
+}
+]

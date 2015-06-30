@@ -1,0 +1,20 @@
+{"contador" = "9"}
+[{"fipe_marca": "BIMOTA", "name": "DB4 904cc", "marca": "BIMOTA", "key": "db4-2621", "id": "2621", "fipe_name": "DB4 904cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "DB5R 1078cc", "marca": "BIMOTA", "key": "db5r-4781", "id": "4781", "fipe_name": "DB5R 1078cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "DB6 Delirio 1078cc", "marca": "BIMOTA", "key": "db6-4782", "id": "4782", "fipe_name": "DB6 Delirio 1078cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "DB6R Delirio 1078cc", "marca": "BIMOTA", "key": "db6r-4783", "id": "4783", "fipe_name": "DB6R Delirio 1078cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "DB7 1099cc", "marca": "BIMOTA", "key": "db7-5090", "id": "5090", "fipe_name": "DB7 1099cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "MANTRA 904cc", "marca": "BIMOTA", "key": "mantra-2622", "id": "2622", "fipe_name": "MANTRA 904cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "SBR8 SPECIAL 996cc", "marca": "BIMOTA", "key": "sbr8-2623", "id": "2623", "fipe_name": "SBR8 SPECIAL 996cc"
+}
+, {"fipe_marca": "BIMOTA", "name": "Tesi 3D 1100cc ( Alum\u00ednio)", "marca": "BIMOTA", "key": "tesi-5285", "id": "5285", "fipe_name": "Tesi 3D 1100cc ( Alum\u00ednio)"
+}
+, {"fipe_marca": "BIMOTA", "name": "Tesi 3D 1100cc ( Carbono )", "marca": "BIMOTA", "key": "tesi-5091", "id": "5091", "fipe_name": "Tesi 3D 1100cc ( Carbono )"
+}
+]

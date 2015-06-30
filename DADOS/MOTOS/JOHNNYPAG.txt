@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "JOHNNYPAG", "name": "BARHOG 300cc", "marca": "JOHNNYPAG", "key": "barhog-5433", "id": "5433", "fipe_name": "BARHOG 300cc"
+}
+, {"fipe_marca": "JOHNNYPAG", "name": "ProStreet 300cc", "marca": "JOHNNYPAG", "key": "prostreet-5434", "id": "5434", "fipe_name": "ProStreet 300cc"
+}
+, {"fipe_marca": "JOHNNYPAG", "name": "SPYDER 300cc", "marca": "JOHNNYPAG", "key": "spyder-5435", "id": "5435", "fipe_name": "SPYDER 300cc"
+}
+]

@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "BUENO", "name": "JBr 125e", "marca": "BUENO", "key": "jbr-4873", "id": "4873", "fipe_name": "JBr 125e"
+}
+, {"fipe_marca": "BUENO", "name": "JBr 150e", "marca": "BUENO", "key": "jbr-4874", "id": "4874", "fipe_name": "JBr 150e"
+}
+, {"fipe_marca": "BUENO", "name": "JBr 250e", "marca": "BUENO", "key": "jbr-4875", "id": "4875", "fipe_name": "JBr 250e"
+}
+]

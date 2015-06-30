@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "KIMCO", "name": "DJW 50 50cc", "marca": "KIMCO", "key": "djw-2906", "id": "2906", "fipe_name": "DJW 50 50cc"
+}
+, {"fipe_marca": "KIMCO", "name": "M\u00b4BOY 90cc", "marca": "KIMCO", "key": "m boy-2907", "id": "2907", "fipe_name": "M\u00b4BOY 90cc"
+}
+, {"fipe_marca": "KIMCO", "name": "PEOPLE 50", "marca": "KIMCO", "key": "people-2908", "id": "2908", "fipe_name": "PEOPLE 50"
+}
+, {"fipe_marca": "KIMCO", "name": "ZING 150", "marca": "KIMCO", "key": "zing-2909", "id": "2909", "fipe_name": "ZING 150"
+}
+]

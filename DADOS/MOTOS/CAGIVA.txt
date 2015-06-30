@@ -1,0 +1,22 @@
+{"contador" = "10"}
+[{"fipe_marca": "CAGIVA", "name": "CANYON 500", "marca": "CAGIVA", "key": "canyon-2658", "id": "2658", "fipe_name": "CANYON 500"
+}
+, {"fipe_marca": "CAGIVA", "name": "ELEFANT 750", "marca": "CAGIVA", "key": "elefant-2659", "id": "2659", "fipe_name": "ELEFANT 750"
+}
+, {"fipe_marca": "CAGIVA", "name": "ELEFANT 900", "marca": "CAGIVA", "key": "elefant-2660", "id": "2660", "fipe_name": "ELEFANT 900"
+}
+, {"fipe_marca": "CAGIVA", "name": "GRAN CANYON 900", "marca": "CAGIVA", "key": "gran-2661", "id": "2661", "fipe_name": "GRAN CANYON 900"
+}
+, {"fipe_marca": "CAGIVA", "name": "MITO 125", "marca": "CAGIVA", "key": "mito-2662", "id": "2662", "fipe_name": "MITO 125"
+}
+, {"fipe_marca": "CAGIVA", "name": "NAVIGATOR 1000", "marca": "CAGIVA", "key": "navigator-2663", "id": "2663", "fipe_name": "NAVIGATOR 1000"
+}
+, {"fipe_marca": "CAGIVA", "name": "PLANET 125", "marca": "CAGIVA", "key": "planet-2664", "id": "2664", "fipe_name": "PLANET 125"
+}
+, {"fipe_marca": "CAGIVA", "name": "ROADSTER 200cc", "marca": "CAGIVA", "key": "roadster-2665", "id": "2665", "fipe_name": "ROADSTER 200cc"
+}
+, {"fipe_marca": "CAGIVA", "name": "V-RAPTOR 1000", "marca": "CAGIVA", "key": "v-raptor-2666", "id": "2666", "fipe_name": "V-RAPTOR 1000"
+}
+, {"fipe_marca": "CAGIVA", "name": "W-16 600cc", "marca": "CAGIVA", "key": "w-16-2667", "id": "2667", "fipe_name": "W-16 600cc"
+}
+]

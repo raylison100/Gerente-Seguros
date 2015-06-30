@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "Lon-V", "name": "DE LUXE 152cc", "marca": "LON-V", "key": "de-5226", "id": "5226", "fipe_name": "DE LUXE 152cc"
+}
+, {"fipe_marca": "Lon-V", "name": "E RETR\u00d4 2000 Watts (El\u00e9trica)", "marca": "LON-V", "key": "e-5264", "id": "5264", "fipe_name": "E RETR\u00d4 2000 Watts (El\u00e9trica)"
+}
+, {"fipe_marca": "Lon-V", "name": "LY 125T -5 RETR\u00d4", "marca": "LON-V", "key": "ly-5265", "id": "5265", "fipe_name": "LY 125T -5 RETR\u00d4"
+}
+, {"fipe_marca": "Lon-V", "name": "LY 150T-5 RETR\u00d4", "marca": "LON-V", "key": "ly-4653", "id": "4653", "fipe_name": "LY 150T-5 RETR\u00d4"
+}
+, {"fipe_marca": "Lon-V", "name": "LY 150T-6A CLASSIC", "marca": "LON-V", "key": "ly-4654", "id": "4654", "fipe_name": "LY 150T-6A CLASSIC"
+}
+, {"fipe_marca": "Lon-V", "name": "LY 150T-7A RACER LIMITED EDITION", "marca": "LON-V", "key": "ly-4655", "id": "4655", "fipe_name": "LY 150T-7A RACER LIMITED EDITION"
+}
+]

@@ -44,6 +44,8 @@ public class DadosFipe implements Serializable{
 //		System.out.println(quantidadeDeMarcas(tipo));
 		listarMarcas(tipo);
 		baixarDadosCarrosPorMarca();
+		baixarDadosMotosPorMarca();
+		baixarDadosCaminhoesPorMarca();
 	}
 
 	public String baixarDadosVeiculos() throws IOException{
@@ -315,7 +317,7 @@ public class DadosFipe implements Serializable{
 					temp = st1.nextToken();   				
 					gravarCarros.write(temp+"\n");
 				}
-				retorno = "Arquivo de caminhoes baixados com sucesso!!";
+				retorno = "Arquivo de carros baixados com sucesso!!";
 			}
 			catch(Exception e){
 				e.printStackTrace();
@@ -323,10 +325,109 @@ public class DadosFipe implements Serializable{
 			gravarCarros.close();	
 			carrosWriter.close();
 		}else{
+			return "Arquivo de carros já existe!!";
+		}
+		}
+		return retorno;
+
+	}
+
+	public String baixarDadosMotosPorMarca() throws IOException{
+		String retorno = null, temp = null, aux = null, marca = null;
+		String[] listaDeMotos = new String[this.quantidadeDeMarcas("MOTOS")];
+		listaDeMotos = this.listarMarcas("MOTOS");
+		for(int i = 0; i < listaDeMotos.length; i++){
+		marca = listaDeMotos[i];
+		int contador = 0;
+		int marcaId = this.buscaPorMarca("MOTOS", marca);
+		File motos = new File("DADOS\\MOTOS\\"+marca+".txt");
+		if(!(motos.exists())){
+			FileWriter motosWriter = new FileWriter(motos);
+			BufferedWriter gravarMotos = new BufferedWriter(motosWriter);
+			try{
+				DefaultHttpClient httpClient = new DefaultHttpClient();
+				HttpGet httpPost = new HttpGet(link+"motos/veiculos/"+marcaId+".json");
+				HttpResponse response = httpClient.execute(httpPost);
+				HttpEntity entity = response.getEntity();
+				String body = EntityUtils.toString(entity);
+				StringTokenizer st = new StringTokenizer(body, "}", true);
+				while(st.hasMoreTokens()){
+					temp = st.nextToken();
+					if(temp.contains("id")){
+						contador++;
+					}
+				}
+				Integer numero = contador;
+				this.marcasMotos = contador;
+				aux = Integer.toString(numero);
+				gravarMotos.write("{\"contador\" = \""+aux+"\"}\n");
+				StringTokenizer st1 = new StringTokenizer(body, "}", true);
+				while(st1.hasMoreTokens()){
+					temp = st1.nextToken();   				
+					gravarMotos.write(temp+"\n");
+				}
+				retorno = "Arquivo de motos baixados com sucesso!!";
+			}
+			catch(Exception e){
+				e.printStackTrace();
+			}
+			gravarMotos.close();	
+			motosWriter.close();
+		}else{
+			return "Arquivo de motos já existe!!";
+		}
+		}
+		return retorno;
+
+	}
+	
+	public String baixarDadosCaminhoesPorMarca() throws IOException{
+		String retorno = null, temp = null, aux = null, marca = null;
+		String[] listaDeCaminhoes = new String[this.quantidadeDeMarcas("CAMINHOES")];
+		listaDeCaminhoes = this.listarMarcas("CAMINHOES");
+		for(int i = 0; i < listaDeCaminhoes.length; i++){
+		marca = listaDeCaminhoes[i];
+		int contador = 0;
+		int marcaId = this.buscaPorMarca("CAMINHOES", marca);
+		File caminhoes = new File("DADOS\\CAMINHOES\\"+marca+".txt");
+		if(!(caminhoes.exists())){
+			FileWriter caminhoesWriter = new FileWriter(caminhoes);
+			BufferedWriter gravarCaminhoes = new BufferedWriter(caminhoesWriter);
+			try{
+				DefaultHttpClient httpClient = new DefaultHttpClient();
+				HttpGet httpPost = new HttpGet(link+"motos/veiculos/"+marcaId+".json");
+				HttpResponse response = httpClient.execute(httpPost);
+				HttpEntity entity = response.getEntity();
+				String body = EntityUtils.toString(entity);
+				StringTokenizer st = new StringTokenizer(body, "}", true);
+				while(st.hasMoreTokens()){
+					temp = st.nextToken();
+					if(temp.contains("id")){
+						contador++;
+					}
+				}
+				Integer numero = contador;
+				this.marcasCaminhoes = contador;
+				aux = Integer.toString(numero);
+				gravarCaminhoes.write("{\"contador\" = \""+aux+"\"}\n");
+				StringTokenizer st1 = new StringTokenizer(body, "}", true);
+				while(st1.hasMoreTokens()){
+					temp = st1.nextToken();   				
+					gravarCaminhoes.write(temp+"\n");
+				}
+				retorno = "Arquivo de caminhoes baixados com sucesso!!";
+			}
+			catch(Exception e){
+				e.printStackTrace();
+			}
+			gravarCaminhoes.close();	
+			caminhoesWriter.close();
+		}else{
 			return "Arquivo de caminhoes já existe!!";
 		}
 		}
 		return retorno;
 
 	}
+
 }

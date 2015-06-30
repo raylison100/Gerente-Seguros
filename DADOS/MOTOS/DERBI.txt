@@ -1,0 +1,18 @@
+{"contador" = "8"}
+[{"fipe_marca": "DERBI", "name": "ATLANTIS 49cc", "marca": "DERBI", "key": "atlantis-2677", "id": "2677", "fipe_name": "ATLANTIS 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "GPR 50R 49cc", "marca": "DERBI", "key": "gpr-2678", "id": "2678", "fipe_name": "GPR 50R 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "PREDATOR AR 49cc", "marca": "DERBI", "key": "predator-2679", "id": "2679", "fipe_name": "PREDATOR AR 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "PREDATOR LC 49cc", "marca": "DERBI", "key": "predator-2680", "id": "2680", "fipe_name": "PREDATOR LC 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "RED BULLET 49cc", "marca": "DERBI", "key": "red-2681", "id": "2681", "fipe_name": "RED BULLET 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "REPLICAS 49cc", "marca": "DERBI", "key": "replicas-2682", "id": "2682", "fipe_name": "REPLICAS 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "SENDA R 49cc", "marca": "DERBI", "key": "senda-2683", "id": "2683", "fipe_name": "SENDA R 49cc"
+}
+, {"fipe_marca": "DERBI", "name": "SENDA SM 49cc", "marca": "DERBI", "key": "senda-2684", "id": "2684", "fipe_name": "SENDA SM 49cc"
+}
+]

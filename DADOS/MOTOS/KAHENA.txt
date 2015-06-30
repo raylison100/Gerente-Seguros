@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "KAHENA", "name": "125 K-TOP", "marca": "KAHENA", "key": "125-4747", "id": "4747", "fipe_name": "125 K-TOP"
+}
+, {"fipe_marca": "KAHENA", "name": "125 TOP", "marca": "KAHENA", "key": "125-4301", "id": "4301", "fipe_name": "125 TOP"
+}
+, {"fipe_marca": "KAHENA", "name": "250 DUAL", "marca": "KAHENA", "key": "250-4837", "id": "4837", "fipe_name": "250 DUAL"
+}
+, {"fipe_marca": "KAHENA", "name": "250 DUAL-T", "marca": "KAHENA", "key": "250-5564", "id": "5564", "fipe_name": "250 DUAL-T"
+}
+]
