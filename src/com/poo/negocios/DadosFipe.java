@@ -659,15 +659,6 @@ public class DadosFipe implements Serializable{
 		return total;
 	}
 	
-	public String barraDeAvanco(Integer i, int a){
-		a = i/100;
-		String barra = "=";
-		for(int j = 1; j < a; j++){
-			
-		}
-		return barra;
-	}
-	
 	//BAIXA TODOS OS DADOS NECESSARIOS PARA MANIPULAÇÃO DA TABELA FIPE
 	public void atualizarTabelaFipe() throws IOException{
 		this.baixarDadosCarros();
