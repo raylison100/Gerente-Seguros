@@ -2,6 +2,8 @@ package com.poo.gui;
 
 import java.awt.EventQueue;
 
+
+
 public class Teste {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
