@@ -39,7 +39,7 @@ public class CadastroAuto {
 
 	}
 
-	public Automovel[] exibiClientes() throws IOException {
+	public Automovel[] exibiAuto() throws IOException {
 
 		return this.repositorio.imprimiAuto();
 	}
