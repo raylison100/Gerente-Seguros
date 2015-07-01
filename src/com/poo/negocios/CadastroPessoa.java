@@ -39,14 +39,14 @@ public class CadastroPessoa {
 
 	}
 
-	public void exibiClientes() throws IOException {
+	public Pessoa[] exibiClientes() throws IOException {
 
-		this.repositorio.imprimiClientes();
+		return this.repositorio.imprimiClientes();
 	}
 
-	public void exibiFuncionarios() throws IOException {
+	public Pessoa[] exibiFuncionarios() throws IOException {
 
-		this.repositorio.imprimiFuncionarios();
+		return this.repositorio.imprimiFuncionarios();
 	}
 
 	public Pessoa acharPessoa(String nome)
