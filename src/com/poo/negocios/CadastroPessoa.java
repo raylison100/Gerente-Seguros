@@ -2,7 +2,7 @@ package com.poo.negocios;
 
 import java.io.IOException;
 
-import com.poo.dados.IRepositorio;
+import com.poo.dados.IRepositorioPessoa;
 import com.poo.dados.RepositorioPessoa;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
@@ -12,7 +12,7 @@ import com.poo.negocios.beans.Pessoa;
 
 public class CadastroPessoa {
 
-	private IRepositorio repositorio;
+	private IRepositorioPessoa repositorio;
 
 	public CadastroPessoa() {
 

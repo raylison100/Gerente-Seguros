@@ -17,7 +17,7 @@ import com.poo.negocios.beans.Pessoa;
 
 
 
-public class RepositorioPessoa implements IRepositorio, Serializable{
+public class RepositorioPessoa implements IRepositorioPessoa, Serializable{
 	
 	
 	// atributos
@@ -36,7 +36,7 @@ public class RepositorioPessoa implements IRepositorio, Serializable{
 
 	// metodos
 
-	public static IRepositorio getInstance() throws IOException {
+	public static IRepositorioPessoa getInstance() throws IOException {
 		if (instance == null) {
 			instance = abrirArquivo();
 		}
@@ -202,23 +202,32 @@ public class RepositorioPessoa implements IRepositorio, Serializable{
 		}
 	}
 
-	public void imprimiClientes() {
+	public Pessoa[] imprimiClientes() {
 
-		
+		Pessoa[] cliente = new Cliente[pessoa.length];
+		int cont = 0;
 		for (Pessoa c : pessoa) {
-
-			if (c != null && (c instanceof Cliente) )
-				System.out.println(c);
+                
+			if(c!= null & (c instanceof Cliente)){
+                cliente[cont] = (Cliente) c;
+                cont++;
+			}
 		}
+		
+		return cliente;
 
 	}
 	
-	public void imprimiFuncionarios(){
-		 
+	public Pessoa[] imprimiFuncionarios(){
+		
+		Pessoa[] funcionario = new Cliente[pessoa.length];
+		int cont = 0;
 		for (Pessoa f : pessoa) {
 			if (f != null&& (f instanceof Funcionario))
-				System.out.println(f);
+				funcionario[cont]= f;
 		}
+		
+		return funcionario;
 	}
 
 }

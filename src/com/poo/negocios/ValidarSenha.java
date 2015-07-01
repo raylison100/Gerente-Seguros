@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-import com.poo.dados.IRepositorio;
+import com.poo.dados.IRepositorioPessoa;
 import com.poo.dados.RepositorioPessoa;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.execoes.SenhaIncorretaExeception;
@@ -13,7 +13,7 @@ import com.poo.negocios.beans.Pessoa;
 
 public class ValidarSenha {
 	
-	private IRepositorio repositorio;
+	private IRepositorioPessoa repositorio;
 	
 	public ValidarSenha(){
 		try {

@@ -11,16 +11,18 @@ public class Automovel implements Serializable {
 	private String anoModelo;
 	private String vercao;
 	private Sinistro sinistro;
+	private String placa;
 	
 	//construtor
 	
 	public Automovel(String marca, String modelo, String anoModelo,
-			String vercao) {
+			String vercao,String placa ){
 		
 		this.setMarca(marca);
 		this.setModelo(anoModelo);
 		this.setAnoModelo(anoModelo);
 		this.setVercao(vercao);
+		this.setPlaca(placa);
 	}
 
 	
@@ -78,7 +80,17 @@ public class Automovel implements Serializable {
 	@Override
 	public String toString() {
 		return "\n\nMARCA: " + marca + "MODELO: " + modelo
-				+ "\nANO MODELO: " + anoModelo + "  VERSAO: " + vercao + "\n";
+				+ "\nANO MODELO: " + anoModelo + "  VERSAO: " + vercao + "   Placa: " + placa +"\n";
+	}
+
+
+	public String getPlaca() {
+		return placa;
+	}
+
+
+	public void setPlaca(String placa) {
+		this.placa = placa;
 	}
 
 

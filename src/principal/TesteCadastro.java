@@ -56,9 +56,9 @@ public class TesteCadastro {
 
 		
 			
-                    Automovel automovel1 = new Automovel("HONDA","CIVIC","2014\\2015","CIVIC HATCH DX");
-                    Automovel automovel2 = new Automovel("FIAT","UNO","2014\\2015","TURBO 1.4 IE2P");
-                    Automovel automovel3 = new Automovel("VOLKWAGEN","GOL","2014\\2015","1.0 PLUS 8V-4P");
+                    Automovel automovel1 = new Automovel("HONDA","CIVIC","2014\\2015","CIVIC HATCH DX","qwe-1234");
+                    Automovel automovel2 = new Automovel("FIAT","UNO","2014\\2015","TURBO 1.4 IE2P","asd-4567");
+                    Automovel automovel3 = new Automovel("VOLKWAGEN","GOL","2014\\2015","1.0 PLUS 8V-4P","zxc-7809");
                     
                     
 					cliente1 = new Cliente( "RAYLISON", "10103566406",
