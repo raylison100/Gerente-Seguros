@@ -84,12 +84,15 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanelPrincipal" alignment="0" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanelPrincipal" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+          </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jPanelPrincipal" alignment="0" max="32767" attributes="0"/>
+          <Component id="jPanelPrincipal" alignment="0" pref="491" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
   </Layout>
@@ -98,6 +101,9 @@
       <Properties>
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="0" green="0" red="99" type="rgb"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[807, 505]"/>
         </Property>
       </Properties>
 
@@ -162,7 +168,7 @@
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane2" alignment="0" pref="418" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
@@ -171,11 +177,11 @@
 
                       <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
                       <SubComponents>
-                        <Container class="javax.swing.JPanel" name="jPanel7">
+                        <Container class="javax.swing.JPanel" name="jPanel22">
                           <Constraints>
                             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
-                              <JTabbedPaneConstraints tabName="Novo Cadastra ">
-                                <Property name="tabTitle" type="java.lang.String" value="Novo Cadastra "/>
+                              <JTabbedPaneConstraints tabName="Novo Cadastro">
+                                <Property name="tabTitle" type="java.lang.String" value="Novo Cadastro"/>
                               </JTabbedPaneConstraints>
                             </Constraint>
                           </Constraints>
@@ -183,15 +189,440 @@
                           <Layout>
                             <DimensionLayout dim="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="797" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane1" alignment="0" pref="797" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane1" alignment="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
+                          <SubComponents>
+                            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+                              <Properties>
+                                <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+                                <Property name="verticalScrollBarPolicy" type="int" value="22"/>
+                              </Properties>
+
+                              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                              <SubComponents>
+                                <Container class="javax.swing.JPanel" name="jPanel23">
+                                  <Properties>
+                                    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                                      <Dimension value="[797, 383]"/>
+                                    </Property>
+                                  </Properties>
+
+                                  <Layout>
+                                    <DimensionLayout dim="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="Sexo13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="Sexo14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="jTextFieldEnderecoCadastroCliente" min="-2" pref="233" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Numero" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jTextField1NumeroCadastroCliente6" min="-2" pref="57" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Complemento" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" attributes="0">
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldEstadoCivilCadastroCliente" min="-2" pref="130" max="-2" attributes="0"/>
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="jTextField1BairroCadastroCliente" min="-2" pref="104" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                                                      <Component id="Cidade" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                                                      <Component id="jTextField1CidadeCadastroCliente" min="-2" pref="136" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Estado" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jTextField1EstadoCadastroCliente" min="-2" pref="40" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                              <EmptySpace max="32767" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                          <Component id="jTextField1ComplementoCadastroCliente" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
+                                                          <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Numero_Cnh" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1NumeroCnhCadastroCliente" min="-2" pref="120" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Data_PrimeiraHab" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1DataHabCadastroCliente" min="-2" pref="89" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Vencimento_Hab" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1VencimentoHabCadastroCliente" min="-2" pref="92" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Nome4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNomeCadastroCliente4" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                                  <Group type="102" alignment="1" attributes="0">
+                                                                      <Component id="Sexo12" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jComboBox1SexoCadastroCliente" min="-2" pref="119" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Telefone4" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="Cpf4" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldCpfCadastroCliente4" min="-2" pref="148" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                                                      <Component id="Rg4" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldRgCadastroCliente" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldTelefoneCadastroCliente6" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="DataEmisao4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="OrgãoEmisor4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldOrgaoEmisorCadastroCliente4" max="32767" attributes="0"/>
+                                                                  <Component id="jTextFieldDataEmisaoCadastroCliente4" max="32767" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                      </Group>
+                                                      <EmptySpace pref="48" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="Profissão" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Component id="jTextField1ProfissaoCadastroCliente" min="-2" pref="117" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="Escolaridade" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jComboBox1EscolaridadeCadastroCliente" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                    <DimensionLayout dim="1">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Nome4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Cpf4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Rg4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataEmisaoCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="DataEmisao4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldRgCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCpfCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="OrgãoEmisor4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldOrgaoEmisorCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Sexo12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Telefone4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldTelefoneCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBox1SexoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo13" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEstadoCivilCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo14" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEnderecoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Complemento" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1ComplementoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Numero" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1NumeroCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1CidadeCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Cidade" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1BairroCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Estado" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1EstadoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Numero_Cnh" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1NumeroCnhCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Data_PrimeiraHab" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1DataHabCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Vencimento_Hab" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1VencimentoHabCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Profissão" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1ProfissaoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Escolaridade" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBox1EscolaridadeCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace pref="34" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                  </Layout>
+                                  <SubComponents>
+                                    <Component class="javax.swing.JLabel" name="Nome4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Nome"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeCadastroCliente4">
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfCadastroCliente4">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cpf4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="CPF"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Rg4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="RG"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoCadastroCliente4">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="DataEmisao4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data de Emis&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldRgCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Org&#xe3;oEmisor4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Org&#xe3;o Emisor"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorCadastroCliente4">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo12">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Sexo"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Telefone4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Telefone"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldTelefoneCadastroCliente6">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo13">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado Civil"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEstadoCivilCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo14">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Endere&#xe7;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEnderecoCadastroCliente">
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoCadastroClientejTextFieldEnderecoCadastroCliente2ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Complemento">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Complemento"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1ComplementoCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel2">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Bairro"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1CidadeCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cidade">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Cidade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1BairroCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCadastroCliente6">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Estado">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1EstadoCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero_Cnh">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba; CNH"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCnhCadastroCliente">
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1NumeroCnhCadastroClienteActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Data_PrimeiraHab">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data 1&#xba; Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1DataHabCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBox1SexoCadastroCliente">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="12" style="0"/>
+                                        </Property>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="2">
+                                            <StringItem index="0" value="Masculino"/>
+                                            <StringItem index="1" value="Feminino"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Vencimento_Hab">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Vencimento Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1VencimentoHabCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Profiss&#xe3;o">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Profiss&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1ProfissaoCadastroCliente">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Escolaridade">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Escolaridade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBox1EscolaridadeCadastroCliente">
+                                      <Properties>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="6">
+                                            <StringItem index="0" value="Ensino Fundamental Incompleto"/>
+                                            <StringItem index="1" value="Ensino Fundamental Completo"/>
+                                            <StringItem index="2" value="Ensino M&#xe9;dio Incompleto"/>
+                                            <StringItem index="3" value="Ensino M&#xe9;dio Completo"/>
+                                            <StringItem index="4" value="Ensino Superior Incompleto"/>
+                                            <StringItem index="5" value="Ensino Superior Completo"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                  </SubComponents>
+                                </Container>
+                              </SubComponents>
+                            </Container>
+                          </SubComponents>
                         </Container>
                         <Container class="javax.swing.JPanel" name="jPanel8">
                           <Constraints>
@@ -205,15 +636,446 @@
                           <Layout>
                             <DimensionLayout dim="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="797" max="32767" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                              <Component id="jSeparator2" max="32767" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Component id="CpfBucaCadastroCliente" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1CpfBuscaCadastroCliente" min="-2" pref="142" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jButton1OkBuscaCadastroCliente" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="Sexo16" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Sexo17" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jTextFieldEnderecoCadastroCliente1" min="-2" pref="233" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="Numero1" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace max="-2" attributes="0"/>
+                                                      <Component id="jTextField1NumeroCadastroCliente7" min="-2" pref="57" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="Complemento1" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Component id="jTextFieldEstadoCivilCadastroCliente4" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jTextField1BairroCadastroCliente1" min="-2" pref="104" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                                      <Component id="Cidade1" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                                      <Component id="jTextField1CidadeCadastroCliente1" min="-2" pref="136" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="Estado1" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jTextField1EstadoCadastroCliente1" min="-2" pref="40" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                              <Component id="jTextField1ComplementoCadastroCliente1" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
+                                              <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="Numero_Cnh1" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1NumeroCnhCadastroCliente1" min="-2" pref="120" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="Data_PrimeiraHab1" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1DataHabCadastroCliente1" min="-2" pref="89" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="Vencimento_Hab1" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1VencimentoHabCadastroCliente1" min="-2" pref="92" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="Nome5" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeCadastroCliente5" max="32767" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                      <Group type="102" alignment="1" attributes="0">
+                                                          <Component id="Sexo15" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                          <Component id="jComboBox1SexoCadastroCliente1" min="-2" pref="119" max="-2" attributes="0"/>
+                                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                          <Component id="Telefone5" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="102" alignment="0" attributes="0">
+                                                          <Component id="Cpf5" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                                          <Component id="jTextFieldCpfCadastroCliente5" min="-2" pref="148" max="-2" attributes="0"/>
+                                                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                                          <Component id="Rg5" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jTextFieldRgCadastroCliente4" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldTelefoneCadastroCliente7" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="DataEmisao5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="OrgãoEmisor5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                  <Group type="103" groupAlignment="0" attributes="0">
+                                                      <Component id="jTextFieldOrgaoEmisorCadastroCliente5" alignment="0" max="32767" attributes="0"/>
+                                                      <Component id="jTextFieldDataEmisaoCadastroCliente5" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="Profissão1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="jTextField1ProfissaoCadastroCliente1" min="-2" pref="117" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="Escolaridade1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="jComboBox1EscolaridadeCadastroCliente1" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace pref="48" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="jButton1SalvarCadastroCliente" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="361" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="CpfBucaCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1CpfBuscaCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jButton1OkBuscaCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="jSeparator2" min="-2" pref="10" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Nome5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldNomeCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Cpf5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Rg5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldDataEmisaoCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="DataEmisao5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldRgCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldCpfCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="OrgãoEmisor5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldOrgaoEmisorCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Sexo15" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Telefone5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldTelefoneCadastroCliente7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox1SexoCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Sexo16" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldEstadoCivilCadastroCliente4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Sexo17" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldEnderecoCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Complemento1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1ComplementoCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Numero1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1NumeroCadastroCliente7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1CidadeCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Cidade1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1BairroCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Estado1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1EstadoCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Numero_Cnh1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1NumeroCnhCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Data_PrimeiraHab1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1DataHabCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Vencimento_Hab1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1VencimentoHabCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Profissão1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField1ProfissaoCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Escolaridade1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jComboBox1EscolaridadeCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                      <Component id="jButton1SalvarCadastroCliente" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
                             </DimensionLayout>
                           </Layout>
+                          <SubComponents>
+                            <Component class="javax.swing.JLabel" name="CpfBucaCadastroCliente">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="CPF / Nome"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1CpfBuscaCadastroCliente">
+                            </Component>
+                            <Component class="javax.swing.JButton" name="jButton1OkBuscaCadastroCliente">
+                              <Properties>
+                                <Property name="text" type="java.lang.String" value="OK"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JSeparator" name="jSeparator2">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Nome5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Nome"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldNomeCadastroCliente5">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Cpf5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="CPF"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldCpfCadastroCliente5">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Rg5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="RG"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldRgCadastroCliente4">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="DataEmisao5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Data de Emis&#xe3;o"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoCadastroCliente5">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Sexo15">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Sexo"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JComboBox" name="jComboBox1SexoCadastroCliente1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="12" style="0"/>
+                                </Property>
+                                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                  <StringArray count="2">
+                                    <StringItem index="0" value="Masculino"/>
+                                    <StringItem index="1" value="Feminino"/>
+                                  </StringArray>
+                                </Property>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Telefone5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Telefone"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldTelefoneCadastroCliente7">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Org&#xe3;oEmisor5">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Org&#xe3;o Emisor"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorCadastroCliente5">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Sexo16">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Estado Civil"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldEstadoCivilCadastroCliente4">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Sexo17">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Endere&#xe7;o"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextFieldEnderecoCadastroCliente1">
+                              <Events>
+                                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoCadastroCliente1jTextFieldEnderecoCadastroCliente2ActionPerformed"/>
+                              </Events>
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Numero1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="N&#xba;"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1NumeroCadastroCliente7">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Complemento1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Complemento"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1ComplementoCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="jLabel3">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Bairro"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1BairroCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Cidade1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Cidade"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1CidadeCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Estado1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Estado"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1EstadoCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Numero_Cnh1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="N&#xba; CNH"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1NumeroCnhCadastroCliente1">
+                              <Events>
+                                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1NumeroCnhCadastroCliente1ActionPerformed"/>
+                              </Events>
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Data_PrimeiraHab1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Data 1&#xba; Habilita&#xe7;&#xe3;o"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1DataHabCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Vencimento_Hab1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Vencimento Habilita&#xe7;&#xe3;o"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1VencimentoHabCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Profiss&#xe3;o1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Profiss&#xe3;o"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JTextField" name="jTextField1ProfissaoCadastroCliente1">
+                            </Component>
+                            <Component class="javax.swing.JLabel" name="Escolaridade1">
+                              <Properties>
+                                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                  <Font name="Tahoma" size="14" style="1"/>
+                                </Property>
+                                <Property name="text" type="java.lang.String" value="Escolaridade"/>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JComboBox" name="jComboBox1EscolaridadeCadastroCliente1">
+                              <Properties>
+                                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                  <StringArray count="6">
+                                    <StringItem index="0" value="Ensino Fundamental Incompleto"/>
+                                    <StringItem index="1" value="Ensino Fundamental Completo"/>
+                                    <StringItem index="2" value="Ensino M&#xe9;dio Incompleto"/>
+                                    <StringItem index="3" value="Ensino M&#xe9;dio Completo"/>
+                                    <StringItem index="4" value="Ensino Superior Incompleto"/>
+                                    <StringItem index="5" value="Ensino Superior Completo"/>
+                                  </StringArray>
+                                </Property>
+                              </Properties>
+                            </Component>
+                            <Component class="javax.swing.JButton" name="jButton1SalvarCadastroCliente">
+                              <Properties>
+                                <Property name="text" type="java.lang.String" value="Salvar"/>
+                              </Properties>
+                            </Component>
+                          </SubComponents>
                         </Container>
                         <Container class="javax.swing.JPanel" name="jPanel9">
                           <Constraints>
@@ -227,12 +1089,12 @@
                           <Layout>
                             <DimensionLayout dim="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="797" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -284,7 +1146,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -306,7 +1168,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -328,7 +1190,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -380,7 +1242,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -402,7 +1264,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -424,7 +1286,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -476,7 +1338,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -498,7 +1360,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -520,7 +1382,7 @@
                             </DimensionLayout>
                             <DimensionLayout dim="1">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <EmptySpace min="0" pref="383" max="32767" attributes="0"/>
+                                  <EmptySpace min="0" pref="390" max="32767" attributes="0"/>
                               </Group>
                             </DimensionLayout>
                           </Layout>
@@ -546,7 +1408,7 @@
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <EmptySpace min="0" pref="411" max="32767" attributes="0"/>
+                          <EmptySpace min="0" pref="418" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
