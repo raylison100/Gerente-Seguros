@@ -1,7 +1,0 @@
-[{"fipe_marca": "Nissan", "fipe_codigo": "32000-3", "name": "Zero KM Diesel", "marca": "NISSAN", "key": "32000-32000-3", "veiculo": "Frontier S CD 4x4 2.5 TB Diesel", "id": "32000-3"
-}
-, {"fipe_marca": "Nissan", "fipe_codigo": "2015-3", "name": "2015 Diesel", "marca": "NISSAN", "key": "2015-2015-3", "veiculo": "Frontier S CD 4x4 2.5 TB Diesel", "id": "2015-3"
-}
-, {"fipe_marca": "Nissan", "fipe_codigo": "2014-3", "name": "2014 Diesel", "marca": "NISSAN", "key": "2014-2014-3", "veiculo": "Frontier S CD 4x4 2.5 TB Diesel", "id": "2014-3"
-}
-]

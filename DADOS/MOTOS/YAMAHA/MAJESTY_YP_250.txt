@@ -1,3 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "1998-1", "name": "1998", "marca": "YAMAHA", "key": "1998-1998-1", "veiculo": "MAJESTY YP 250", "id": "1998-1"
-}
-]

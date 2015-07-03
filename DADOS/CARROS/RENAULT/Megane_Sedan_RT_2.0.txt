@@ -1,7 +1,0 @@
-[{"fipe_codigo": "2000-1", "veiculo": "Megane Sedan RT 2.0", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
-}
-, {"fipe_codigo": "1999-1", "veiculo": "Megane Sedan RT 2.0", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
-}
-, {"fipe_codigo": "1998-1", "veiculo": "Megane Sedan RT 2.0", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
-}
-]

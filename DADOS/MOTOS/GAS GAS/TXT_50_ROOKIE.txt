@@ -1,3 +1,0 @@
-[{"fipe_marca": "GAS GAS", "fipe_codigo": "2001-1", "name": "2001", "marca": "GAS GAS", "key": "2001-2001-1", "veiculo": "TXT 50 ROOKIE", "id": "2001-1"
-}
-]

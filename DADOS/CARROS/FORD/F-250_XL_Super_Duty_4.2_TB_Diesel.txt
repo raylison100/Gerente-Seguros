@@ -1,5 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2002-3", "name": "2002 Diesel", "marca": "FORD", "key": "2002-2002-3", "veiculo": "F-250 XL Super Duty 4.2 TB Diesel", "id": "2002-3"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2001-3", "name": "2001 Diesel", "marca": "FORD", "key": "2001-2001-3", "veiculo": "F-250 XL Super Duty 4.2 TB Diesel", "id": "2001-3"
-}
-]

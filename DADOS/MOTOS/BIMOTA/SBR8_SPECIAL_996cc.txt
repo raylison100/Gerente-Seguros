@@ -1,3 +1,0 @@
-[{"fipe_marca": "BIMOTA", "fipe_codigo": "2000-1", "name": "2000", "marca": "BIMOTA", "key": "2000-2000-1", "veiculo": "SBR8 SPECIAL 996cc", "id": "2000-1"
-}
-]

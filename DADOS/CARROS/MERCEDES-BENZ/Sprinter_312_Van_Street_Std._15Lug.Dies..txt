@@ -1,7 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2002-3", "name": "2002 Diesel", "marca": "MERCEDES-BENZ", "key": "2002-2002-3", "veiculo": "Sprinter 312 Van Street Std. 15Lug.Dies.", "id": "2002-3"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2001-3", "name": "2001 Diesel", "marca": "MERCEDES-BENZ", "key": "2001-2001-3", "veiculo": "Sprinter 312 Van Street Std. 15Lug.Dies.", "id": "2001-3"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2000-3", "name": "2000 Diesel", "marca": "MERCEDES-BENZ", "key": "2000-2000-3", "veiculo": "Sprinter 312 Van Street Std. 15Lug.Dies.", "id": "2000-3"
-}
-]

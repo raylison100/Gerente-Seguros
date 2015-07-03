@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "CHEVROLET", "key": "1996-1996-1", "veiculo": "Trafic Passageiros 2.2", "id": "1996-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Trafic Passageiros 2.2", "id": "1995-1"
-}
-]

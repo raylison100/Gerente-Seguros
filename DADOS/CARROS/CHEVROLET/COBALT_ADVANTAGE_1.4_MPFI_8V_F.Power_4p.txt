@@ -1,3 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "CHEVROLET", "key": "2014-2014-1", "veiculo": "COBALT ADVANTAGE 1.4 MPFI 8V F.Power 4p", "id": "2014-1"
-}
-]

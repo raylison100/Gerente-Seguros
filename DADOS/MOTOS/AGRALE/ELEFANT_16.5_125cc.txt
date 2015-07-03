@@ -1,3 +1,0 @@
-[{"fipe_marca": "AGRALE", "fipe_codigo": "1990-1", "name": "1990", "marca": "AGRALE", "key": "1990-1990-1", "veiculo": "ELEFANT 16.5 125cc", "id": "1990-1"
-}
-]

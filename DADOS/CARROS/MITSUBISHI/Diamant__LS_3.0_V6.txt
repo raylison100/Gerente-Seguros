@@ -1,7 +1,0 @@
-[{"fipe_codigo": "1993-1", "veiculo": "Diamant  LS 3.0 V6", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-, {"fipe_codigo": "1992-1", "veiculo": "Diamant  LS 3.0 V6", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
-}
-, {"fipe_codigo": "1991-1", "veiculo": "Diamant  LS 3.0 V6", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
-}
-]

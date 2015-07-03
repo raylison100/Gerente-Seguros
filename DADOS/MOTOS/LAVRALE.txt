@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "LAVRALE", "name": "QUATTOR 30.0 190cc", "marca": "LAVRALE", "key": "quattor-2935", "id": "2935", "fipe_name": "QUATTOR 30.0 190cc"
-}
-]

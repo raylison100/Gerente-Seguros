@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "CHEVROLET", "key": "1997-1997-1", "veiculo": "Omega GLS 4.1", "id": "1997-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "CHEVROLET", "key": "1996-1996-1", "veiculo": "Omega GLS 4.1", "id": "1996-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Omega GLS 4.1", "id": "1995-1"
-}
-]

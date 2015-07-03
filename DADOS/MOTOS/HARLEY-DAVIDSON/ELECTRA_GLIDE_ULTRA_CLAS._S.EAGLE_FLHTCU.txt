@@ -1,9 +1,0 @@
-[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2010-1", "name": "2010", "marca": "HARLEY-DAVIDSON", "key": "2010-2010-1", "veiculo": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU", "id": "2010-1"
-}
-, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2008-1", "name": "2008", "marca": "HARLEY-DAVIDSON", "key": "2008-2008-1", "veiculo": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU", "id": "2008-1"
-}
-, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2007-1", "name": "2007", "marca": "HARLEY-DAVIDSON", "key": "2007-2007-1", "veiculo": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU", "id": "2007-1"
-}
-, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2006-1", "name": "2006", "marca": "HARLEY-DAVIDSON", "key": "2006-2006-1", "veiculo": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU", "id": "2006-1"
-}
-]

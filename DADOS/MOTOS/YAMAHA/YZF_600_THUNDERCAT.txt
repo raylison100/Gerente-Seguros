@@ -1,5 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "1997-1", "name": "1997", "marca": "YAMAHA", "key": "1997-1997-1", "veiculo": "YZF 600 THUNDERCAT", "id": "1997-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "1996-1", "name": "1996", "marca": "YAMAHA", "key": "1996-1996-1", "veiculo": "YZF 600 THUNDERCAT", "id": "1996-1"
-}
-]

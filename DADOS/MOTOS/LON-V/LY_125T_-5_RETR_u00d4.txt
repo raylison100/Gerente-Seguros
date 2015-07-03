@@ -1,7 +1,0 @@
-[{"fipe_marca": "Lon-V", "fipe_codigo": "2012-1", "name": "2012", "marca": "LON-V", "key": "2012-2012-1", "veiculo": "LY 125T -5 RETR\u00d4", "id": "2012-1"
-}
-, {"fipe_marca": "Lon-V", "fipe_codigo": "2011-1", "name": "2011", "marca": "LON-V", "key": "2011-2011-1", "veiculo": "LY 125T -5 RETR\u00d4", "id": "2011-1"
-}
-, {"fipe_marca": "Lon-V", "fipe_codigo": "2009-1", "name": "2009", "marca": "LON-V", "key": "2009-2009-1", "veiculo": "LY 125T -5 RETR\u00d4", "id": "2009-1"
-}
-]

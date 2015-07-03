@@ -1,3 +1,0 @@
-[{"fipe_marca": "Benelli", "fipe_codigo": "2008-1", "name": "2008", "marca": "BENELLI", "key": "2008-2008-1", "veiculo": "TNT Caf\u00e9 1130 Racer", "id": "2008-1"
-}
-]

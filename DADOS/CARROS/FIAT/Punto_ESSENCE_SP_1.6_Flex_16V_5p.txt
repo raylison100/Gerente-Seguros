@@ -1,5 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "FIAT", "key": "32000-32000-1", "veiculo": "Punto ESSENCE SP 1.6 Flex 16V 5p", "id": "32000-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "2016-1", "name": "2016 Gasolina", "marca": "FIAT", "key": "2016-2016-1", "veiculo": "Punto ESSENCE SP 1.6 Flex 16V 5p", "id": "2016-1"
-}
-]

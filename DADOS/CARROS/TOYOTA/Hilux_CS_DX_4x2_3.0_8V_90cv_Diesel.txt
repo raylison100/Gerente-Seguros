@@ -1,9 +1,0 @@
-[{"fipe_codigo": "2005-3", "veiculo": "Hilux CS DX 4x2 3.0 8V 90cv Diesel", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
-}
-, {"fipe_codigo": "2004-3", "veiculo": "Hilux CS DX 4x2 3.0 8V 90cv Diesel", "id": "2004-3", "key": "2004-2004-3", "name": "2004 Diesel"
-}
-, {"fipe_codigo": "2003-3", "veiculo": "Hilux CS DX 4x2 3.0 8V 90cv Diesel", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
-}
-, {"fipe_codigo": "2002-3", "veiculo": "Hilux CS DX 4x2 3.0 8V 90cv Diesel", "id": "2002-3", "key": "2002-2002-3", "name": "2002 Diesel"
-}
-]

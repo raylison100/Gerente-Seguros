@@ -1,9 +1,0 @@
-[{"fipe_codigo": "1997-1", "veiculo": "New Range/Range Rover Vogue 3.9 V8", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
-}
-, {"fipe_codigo": "1996-1", "veiculo": "New Range/Range Rover Vogue 3.9 V8", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
-}
-, {"fipe_codigo": "1993-1", "veiculo": "New Range/Range Rover Vogue 3.9 V8", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-, {"fipe_codigo": "1992-1", "veiculo": "New Range/Range Rover Vogue 3.9 V8", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
-}
-]

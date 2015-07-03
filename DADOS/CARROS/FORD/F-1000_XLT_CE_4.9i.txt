@@ -1,7 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "FORD", "key": "1998-1998-1", "veiculo": "F-1000 XLT CE 4.9i", "id": "1998-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "FORD", "key": "1997-1997-1", "veiculo": "F-1000 XLT CE 4.9i", "id": "1997-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "FORD", "key": "1996-1996-1", "veiculo": "F-1000 XLT CE 4.9i", "id": "1996-1"
-}
-]

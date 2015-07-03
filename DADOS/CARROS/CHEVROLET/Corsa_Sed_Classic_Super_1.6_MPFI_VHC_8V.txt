@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CHEVROLET", "key": "2006-2006-1", "veiculo": "Corsa Sed Classic Super 1.6 MPFI VHC 8V", "id": "2006-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Corsa Sed Classic Super 1.6 MPFI VHC 8V", "id": "2005-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "CHEVROLET", "key": "2004-2004-1", "veiculo": "Corsa Sed Classic Super 1.6 MPFI VHC 8V", "id": "2004-1"
-}
-]

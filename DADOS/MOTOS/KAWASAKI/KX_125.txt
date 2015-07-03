@@ -1,7 +1,0 @@
-[{"fipe_marca": "KAWASAKI", "fipe_codigo": "2003-1", "name": "2003", "marca": "KAWASAKI", "key": "2003-2003-1", "veiculo": "KX 125", "id": "2003-1"
-}
-, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2002-1", "name": "2002", "marca": "KAWASAKI", "key": "2002-2002-1", "veiculo": "KX 125", "id": "2002-1"
-}
-, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2001-1", "name": "2001", "marca": "KAWASAKI", "key": "2001-2001-1", "veiculo": "KX 125", "id": "2001-1"
-}
-]

@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "AM Gen", "name": "Hummer Hard-Top 6.5 4x4 Diesel TB", "marca": "AM GEN", "key": "hummer-21", "id": "21", "fipe_name": "Hummer Hard-Top 6.5 4x4 Diesel TB"
-}
-, {"fipe_marca": "AM Gen", "name": "Hummer Open-Top 6.5 4x4 Diesel TB", "marca": "AM GEN", "key": "hummer-22", "id": "22", "fipe_name": "Hummer Open-Top 6.5 4x4 Diesel TB"
-}
-, {"fipe_marca": "AM Gen", "name": "Hummer Wagon 6.5 4x4 Diesel TB", "marca": "AM GEN", "key": "hummer-23", "id": "23", "fipe_name": "Hummer Wagon 6.5 4x4 Diesel TB"
-}
-]

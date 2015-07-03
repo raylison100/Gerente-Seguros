@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1999-1", "veiculo": "Saveiro TSi 2.0 Mi", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
-}
-, {"fipe_codigo": "1998-1", "veiculo": "Saveiro TSi 2.0 Mi", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
-}
-]

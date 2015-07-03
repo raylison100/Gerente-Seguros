@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2014-1", "veiculo": "HOGGAR Allure 1.4 Flex 8V 2p", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
-}
-]

@@ -1,7 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "1995-1", "name": "1995", "marca": "YAMAHA", "key": "1995-1995-1", "veiculo": "FZR 1000", "id": "1995-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "1994-1", "name": "1994", "marca": "YAMAHA", "key": "1994-1994-1", "veiculo": "FZR 1000", "id": "1994-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "1993-1", "name": "1993", "marca": "YAMAHA", "key": "1993-1993-1", "veiculo": "FZR 1000", "id": "1993-1"
-}
-]

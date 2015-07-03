@@ -1,9 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "32000-3", "name": "Zero KM Diesel", "marca": "FORD", "key": "32000-32000-3", "veiculo": "Ranger XLS 3.2 20V 4x4 CS Diesel", "id": "32000-3"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2015-3", "name": "2015 Diesel", "marca": "FORD", "key": "2015-2015-3", "veiculo": "Ranger XLS 3.2 20V 4x4 CS Diesel", "id": "2015-3"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2014-3", "name": "2014 Diesel", "marca": "FORD", "key": "2014-2014-3", "veiculo": "Ranger XLS 3.2 20V 4x4 CS Diesel", "id": "2014-3"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2013-3", "name": "2013 Diesel", "marca": "FORD", "key": "2013-2013-3", "veiculo": "Ranger XLS 3.2 20V 4x4 CS Diesel", "id": "2013-3"
-}
-]

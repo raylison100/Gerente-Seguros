@@ -1,7 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "MERCEDES-BENZ", "key": "2010-2010-1", "veiculo": "E-500 Sport Avantgarde 5.0 V8 24V 4p Aut", "id": "2010-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "MERCEDES-BENZ", "key": "2009-2009-1", "veiculo": "E-500 Sport Avantgarde 5.0 V8 24V 4p Aut", "id": "2009-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "MERCEDES-BENZ", "key": "2008-2008-1", "veiculo": "E-500 Sport Avantgarde 5.0 V8 24V 4p Aut", "id": "2008-1"
-}
-]

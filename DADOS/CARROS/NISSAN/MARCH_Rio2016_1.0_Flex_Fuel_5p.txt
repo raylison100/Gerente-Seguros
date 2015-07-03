@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2013-1", "veiculo": "MARCH Rio2016 1.0 Flex Fuel 5p", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
-}
-]

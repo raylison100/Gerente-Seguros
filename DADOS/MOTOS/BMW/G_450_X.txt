@@ -1,5 +1,0 @@
-[{"fipe_marca": "BMW", "fipe_codigo": "2010-1", "name": "2010", "marca": "BMW", "key": "2010-2010-1", "veiculo": "G 450 X", "id": "2010-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2009-1", "name": "2009", "marca": "BMW", "key": "2009-2009-1", "veiculo": "G 450 X", "id": "2009-1"
-}
-]

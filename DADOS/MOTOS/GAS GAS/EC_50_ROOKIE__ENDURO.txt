@@ -1,5 +1,0 @@
-[{"fipe_marca": "GAS GAS", "fipe_codigo": "2002-1", "name": "2002", "marca": "GAS GAS", "key": "2002-2002-1", "veiculo": "EC 50 ROOKIE  ENDURO", "id": "2002-1"
-}
-, {"fipe_marca": "GAS GAS", "fipe_codigo": "2001-1", "name": "2001", "marca": "GAS GAS", "key": "2001-2001-1", "veiculo": "EC 50 ROOKIE  ENDURO", "id": "2001-1"
-}
-]

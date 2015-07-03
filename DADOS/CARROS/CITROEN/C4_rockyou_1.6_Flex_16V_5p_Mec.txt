@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2014-1", "veiculo": "C4 rockyou 1.6 Flex 16V 5p Mec", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
-}
-]

@@ -1,9 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Camaro Sport 5.0 Conv.", "id": "1995-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "CHEVROLET", "key": "1994-1994-1", "veiculo": "Camaro Sport 5.0 Conv.", "id": "1994-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "CHEVROLET", "key": "1993-1993-1", "veiculo": "Camaro Sport 5.0 Conv.", "id": "1993-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "CHEVROLET", "key": "1992-1992-1", "veiculo": "Camaro Sport 5.0 Conv.", "id": "1992-1"
-}
-]

@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "FOTON", "name": "10-16DT 3.8 4x2 Diesel(E5)", "marca": "FOTON", "key": "10-16dt-6904", "id": "6904", "fipe_name": "10-16DT 3.8 4x2 Diesel(E5)"
-}
-, {"fipe_marca": "FOTON", "name": "AUMARK 6.50AK 3.8 4x2 TB Diesel(E5)", "marca": "FOTON", "key": "aumark-6369", "id": "6369", "fipe_name": "AUMARK 6.50AK 3.8 4x2 TB Diesel(E5)"
-}
-, {"fipe_marca": "FOTON", "name": "AUMARK 8.60AK 3.8 4x2 TB Diesel(E5)", "marca": "FOTON", "key": "aumark-6370", "id": "6370", "fipe_name": "AUMARK 8.60AK 3.8 4x2 TB Diesel(E5)"
-}
-]

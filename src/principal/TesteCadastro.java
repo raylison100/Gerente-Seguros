@@ -64,15 +64,15 @@ public class TesteCadastro {
 					cliente1 = new Cliente( "RAYLISON", "10103566406",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco1,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel1);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO");
 					cliente2 = new Cliente( "ELAINE", "82024732259",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco2,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel2);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO");
 					cliente3 = new Cliente("MARCOS", "38138643838",
 							"8123321", "12\12\12", "SDS", "MASCULINO",
 							"8188458982", "SOLTEIRO", endereco3,"12345777", "12\12\12",
-							"13\12\15", "JOGADOR", "MEDIO COMPLETO", automovel3);
+							"13\12\15", "JOGADOR", "MEDIO COMPLETO");
 					
 					//contrato = new Cliente();
 

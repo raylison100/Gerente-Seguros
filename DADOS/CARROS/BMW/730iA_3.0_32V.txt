@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1992-1", "veiculo": "730iA 3.0 32V", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
-}
-, {"fipe_codigo": "1991-1", "veiculo": "730iA 3.0 32V", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
-}
-]

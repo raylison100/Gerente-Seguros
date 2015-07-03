@@ -1,9 +1,0 @@
-[{"fipe_codigo": "2009-1", "veiculo": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv", "id": "2009-1", "key": "2009-2009-1", "name": "2009 Gasolina"
-}
-, {"fipe_codigo": "2008-1", "veiculo": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
-}
-, {"fipe_codigo": "2007-1", "veiculo": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
-}
-, {"fipe_codigo": "2006-1", "veiculo": "CLK-350 Avant./Eleg. Cabriolet 3.5 272cv", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
-}
-]

@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2007-3", "veiculo": "Frontier SE Vibe CD 2.8 TDI Dies.", "id": "2007-3", "key": "2007-2007-3", "name": "2007 Diesel"
-}
-]

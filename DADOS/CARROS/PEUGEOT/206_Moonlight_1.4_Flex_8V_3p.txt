@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2008-1", "veiculo": "206 Moonlight 1.4 Flex 8V 3p", "id": "2008-1", "key": "2008-2008-1", "name": "2008 Gasolina"
-}
-, {"fipe_codigo": "2007-1", "veiculo": "206 Moonlight 1.4 Flex 8V 3p", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
-}
-]

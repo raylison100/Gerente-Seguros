@@ -1,9 +1,0 @@
-[{"fipe_marca": "DUCATI", "fipe_codigo": "2003-1", "name": "2003", "marca": "DUCATI", "key": "2003-2003-1", "veiculo": "ST-2 900/ 944cc", "id": "2003-1"
-}
-, {"fipe_marca": "DUCATI", "fipe_codigo": "2002-1", "name": "2002", "marca": "DUCATI", "key": "2002-2002-1", "veiculo": "ST-2 900/ 944cc", "id": "2002-1"
-}
-, {"fipe_marca": "DUCATI", "fipe_codigo": "1998-1", "name": "1998", "marca": "DUCATI", "key": "1998-1998-1", "veiculo": "ST-2 900/ 944cc", "id": "1998-1"
-}
-, {"fipe_marca": "DUCATI", "fipe_codigo": "1997-1", "name": "1997", "marca": "DUCATI", "key": "1997-1997-1", "veiculo": "ST-2 900/ 944cc", "id": "1997-1"
-}
-]

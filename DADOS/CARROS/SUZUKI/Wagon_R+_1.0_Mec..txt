@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1999-1", "veiculo": "Wagon R+ 1.0 Mec.", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
-}
-]

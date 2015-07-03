@@ -1,7 +1,0 @@
-[{"fipe_codigo": "2007-1", "veiculo": "GranSport 4.2 V8 32V 400cv", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
-}
-, {"fipe_codigo": "2006-1", "veiculo": "GranSport 4.2 V8 32V 400cv", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
-}
-, {"fipe_codigo": "2005-1", "veiculo": "GranSport 4.2 V8 32V 400cv", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
-}
-]

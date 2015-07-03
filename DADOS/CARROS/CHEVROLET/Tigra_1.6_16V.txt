@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "CHEVROLET", "key": "1999-1999-1", "veiculo": "Tigra 1.6 16V", "id": "1999-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "CHEVROLET", "key": "1998-1998-1", "veiculo": "Tigra 1.6 16V", "id": "1998-1"
-}
-]

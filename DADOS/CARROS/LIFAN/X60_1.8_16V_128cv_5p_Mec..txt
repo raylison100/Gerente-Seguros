@@ -1,9 +1,0 @@
-[{"fipe_marca": "LIFAN", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "LIFAN", "key": "32000-32000-1", "id": "32000-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "LIFAN", "key": "2015-2015-1", "id": "2015-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "LIFAN", "key": "2014-2014-1", "id": "2014-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "LIFAN", "key": "2013-2013-1", "id": "2013-1"
-}
-]

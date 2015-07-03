@@ -1,9 +1,0 @@
-[{"fipe_marca": "HAOBAO", "fipe_codigo": "2011-1", "name": "2011", "marca": "HAOBAO", "key": "2011-2011-1", "veiculo": "HB150-T R5 FEARFULSPEED", "id": "2011-1"
-}
-, {"fipe_marca": "HAOBAO", "fipe_codigo": "2009-1", "name": "2009", "marca": "HAOBAO", "key": "2009-2009-1", "veiculo": "HB150-T R5 FEARFULSPEED", "id": "2009-1"
-}
-, {"fipe_marca": "HAOBAO", "fipe_codigo": "2008-1", "name": "2008", "marca": "HAOBAO", "key": "2008-2008-1", "veiculo": "HB150-T R5 FEARFULSPEED", "id": "2008-1"
-}
-, {"fipe_marca": "HAOBAO", "fipe_codigo": "2007-1", "name": "2007", "marca": "HAOBAO", "key": "2007-2007-1", "veiculo": "HB150-T R5 FEARFULSPEED", "id": "2007-1"
-}
-]

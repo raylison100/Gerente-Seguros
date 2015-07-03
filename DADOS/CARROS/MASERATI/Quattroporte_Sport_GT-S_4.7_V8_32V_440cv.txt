@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "Quattroporte Sport GT-S 4.7 V8 32V 440cv", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-]

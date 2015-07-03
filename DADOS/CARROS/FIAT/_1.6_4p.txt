@@ -1,7 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "FIAT", "key": "1993-1993-1", "veiculo": "Uno CSL 1.6 4p (Argentino)", "id": "1993-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "FIAT", "key": "1992-1992-1", "veiculo": "Uno CSL 1.6 4p (Argentino)", "id": "1992-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "FIAT", "key": "1991-1991-1", "veiculo": "Uno CSL 1.6 4p (Argentino)", "id": "1991-1"
-}
-]

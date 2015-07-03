@@ -1,3 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "MERCEDES-BENZ", "key": "2006-2006-1", "veiculo": "C-230 Avantgarde 2.5 V6 24V 204cv Aut", "id": "2006-1"
-}
-]

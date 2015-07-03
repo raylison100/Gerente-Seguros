@@ -1,5 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "2010-1", "name": "2010", "marca": "YAMAHA", "key": "2010-2010-1", "veiculo": "YFM 700R 686cc", "id": "2010-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "2008-1", "name": "2008", "marca": "YAMAHA", "key": "2008-2008-1", "veiculo": "YFM 700R 686cc", "id": "2008-1"
-}
-]

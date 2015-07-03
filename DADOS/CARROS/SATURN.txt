@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "Saturn", "name": "SL-2 1.9", "marca": "SATURN", "key": "sl-2-2096", "id": "2096", "fipe_name": "SL-2 1.9"
-}
-]

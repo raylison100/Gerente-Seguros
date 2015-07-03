@@ -1,5 +1,0 @@
-[{"fipe_codigo": "32000-3", "veiculo": "SUV 2.2 4x4 (diesel) Mec.", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
-}
-, {"fipe_codigo": "2015-3", "veiculo": "SUV 2.2 4x4 (diesel) Mec.", "id": "2015-3", "key": "2015-2015-3", "name": "2015 Diesel"
-}
-]

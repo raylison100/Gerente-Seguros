@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Mercury", "name": "Mystique GS 2.5 V6 Mec.", "marca": "MERCURY", "key": "mystique-1695", "id": "1695", "fipe_name": "Mystique GS 2.5 V6 Mec."
-}
-, {"fipe_marca": "Mercury", "name": "Sable LS 3.0 V6", "marca": "MERCURY", "key": "sable-1696", "id": "1696", "fipe_name": "Sable LS 3.0 V6"
-}
-]

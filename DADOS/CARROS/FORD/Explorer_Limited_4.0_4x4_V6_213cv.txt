@@ -1,3 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "FORD", "key": "2005-2005-1", "veiculo": "Explorer Limited 4.0 4x4 V6 213cv", "id": "2005-1"
-}
-]

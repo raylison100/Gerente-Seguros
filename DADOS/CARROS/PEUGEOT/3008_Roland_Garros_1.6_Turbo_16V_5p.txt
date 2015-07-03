@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2014-1", "veiculo": "3008 Roland Garros 1.6 Turbo 16V 5p", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
-}
-]

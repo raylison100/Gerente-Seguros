@@ -1,9 +1,0 @@
-[{"fipe_marca": "AMAZONAS", "fipe_codigo": "2009-1", "name": "2009", "marca": "AMAZONAS", "key": "2009-2009-1", "veiculo": "AME-150 TC/ SC", "id": "2009-1"
-}
-, {"fipe_marca": "AMAZONAS", "fipe_codigo": "2008-1", "name": "2008", "marca": "AMAZONAS", "key": "2008-2008-1", "veiculo": "AME-150 TC/ SC", "id": "2008-1"
-}
-, {"fipe_marca": "AMAZONAS", "fipe_codigo": "2007-1", "name": "2007", "marca": "AMAZONAS", "key": "2007-2007-1", "veiculo": "AME-150 TC/ SC", "id": "2007-1"
-}
-, {"fipe_marca": "AMAZONAS", "fipe_codigo": "2006-1", "name": "2006", "marca": "AMAZONAS", "key": "2006-2006-1", "veiculo": "AME-150 TC/ SC", "id": "2006-1"
-}
-]

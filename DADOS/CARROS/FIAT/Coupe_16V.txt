@@ -1,7 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "FIAT", "key": "1997-1997-1", "veiculo": "Coupe 16V", "id": "1997-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "FIAT", "key": "1996-1996-1", "veiculo": "Coupe 16V", "id": "1996-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FIAT", "key": "1995-1995-1", "veiculo": "Coupe 16V", "id": "1995-1"
-}
-]

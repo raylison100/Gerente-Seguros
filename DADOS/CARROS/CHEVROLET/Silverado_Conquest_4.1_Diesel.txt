@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-3", "name": "2000 Diesel", "marca": "CHEVROLET", "key": "2000-2000-3", "veiculo": "Silverado Conquest 4.1 Diesel", "id": "2000-3"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-3", "name": "1999 Diesel", "marca": "CHEVROLET", "key": "1999-1999-3", "veiculo": "Silverado Conquest 4.1 Diesel", "id": "1999-3"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1998-3", "name": "1998 Diesel", "marca": "CHEVROLET", "key": "1998-1998-3", "veiculo": "Silverado Conquest 4.1 Diesel", "id": "1998-3"
-}
-]

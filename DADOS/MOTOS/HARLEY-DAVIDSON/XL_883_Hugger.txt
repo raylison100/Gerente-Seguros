@@ -1,7 +1,0 @@
-[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "1996-1", "name": "1996", "marca": "HARLEY-DAVIDSON", "key": "1996-1996-1", "veiculo": "XL 883 Hugger", "id": "1996-1"
-}
-, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "1995-1", "name": "1995", "marca": "HARLEY-DAVIDSON", "key": "1995-1995-1", "veiculo": "XL 883 Hugger", "id": "1995-1"
-}
-, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "1994-1", "name": "1994", "marca": "HARLEY-DAVIDSON", "key": "1994-1994-1", "veiculo": "XL 883 Hugger", "id": "1994-1"
-}
-]

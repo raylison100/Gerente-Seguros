@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2001-1", "veiculo": "Polo Classic 1.0 Mi 16v  65cv 4p", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
-}
-]

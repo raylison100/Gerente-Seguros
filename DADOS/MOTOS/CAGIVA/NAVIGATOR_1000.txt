@@ -1,3 +1,0 @@
-[{"fipe_marca": "CAGIVA", "fipe_codigo": "2001-1", "name": "2001", "marca": "CAGIVA", "key": "2001-2001-1", "veiculo": "NAVIGATOR 1000", "id": "2001-1"
-}
-]

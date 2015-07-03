@@ -1,5 +1,0 @@
-[{"fipe_marca": "KAWASAKI", "fipe_codigo": "2006-1", "name": "2006", "marca": "KAWASAKI", "key": "2006-2006-1", "veiculo": "VULCAN VN 1600 Mean Streak", "id": "2006-1"
-}
-, {"fipe_marca": "KAWASAKI", "fipe_codigo": "2005-1", "name": "2005", "marca": "KAWASAKI", "key": "2005-2005-1", "veiculo": "VULCAN VN 1600 Mean Streak", "id": "2005-1"
-}
-]

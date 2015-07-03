@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2011-3", "veiculo": "Discovery4 S 2.7 4x4 TDV6 Diesel Aut.", "id": "2011-3", "key": "2011-2011-3", "name": "2011 Diesel"
-}
-, {"fipe_codigo": "2010-3", "veiculo": "Discovery4 S 2.7 4x4 TDV6 Diesel Aut.", "id": "2010-3", "key": "2010-2010-3", "name": "2010 Diesel"
-}
-]

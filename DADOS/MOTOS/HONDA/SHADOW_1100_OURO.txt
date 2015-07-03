@@ -1,3 +1,0 @@
-[{"fipe_marca": "HONDA", "fipe_codigo": "2000-1", "name": "2000", "marca": "HONDA", "key": "2000-2000-1", "veiculo": "SHADOW 1100 OURO", "id": "2000-1"
-}
-]

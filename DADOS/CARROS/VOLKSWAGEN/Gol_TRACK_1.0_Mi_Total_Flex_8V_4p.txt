@@ -1,7 +1,0 @@
-[{"fipe_marca": "VW - VolksWagen", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "VOLKSWAGEN", "key": "32000-32000-1", "veiculo": "Gol TRACK 1.0 Mi Total Flex 8V 4p", "id": "32000-1"
-}
-, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "VOLKSWAGEN", "key": "2015-2015-1", "veiculo": "Gol TRACK 1.0 Mi Total Flex 8V 4p", "id": "2015-1"
-}
-, {"fipe_marca": "VW - VolksWagen", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "VOLKSWAGEN", "key": "2014-2014-1", "veiculo": "Gol TRACK 1.0 Mi Total Flex 8V 4p", "id": "2014-1"
-}
-]

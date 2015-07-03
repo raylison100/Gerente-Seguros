@@ -1,5 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "FIAT", "key": "32000-32000-1", "veiculo": "UNO WAY 1.4 EVO Dualogic Flex 8V 5p", "id": "32000-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "FIAT", "key": "2015-2015-1", "veiculo": "UNO WAY 1.4 EVO Dualogic Flex 8V 5p", "id": "2015-1"
-}
-]

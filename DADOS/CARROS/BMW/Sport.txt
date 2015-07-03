@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2003-1", "veiculo": "Z4 Roadster Sport 3.0 24V 231cv Aut.", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
-}
-]

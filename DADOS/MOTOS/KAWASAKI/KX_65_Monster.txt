@@ -1,3 +1,0 @@
-[{"fipe_marca": "KAWASAKI", "fipe_codigo": "2009-1", "name": "2009", "marca": "KAWASAKI", "key": "2009-2009-1", "veiculo": "KX 65 Monster", "id": "2009-1"
-}
-]

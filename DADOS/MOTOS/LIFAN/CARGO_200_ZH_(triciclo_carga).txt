@@ -1,9 +1,0 @@
-[{"fipe_marca": "LIFAN", "fipe_codigo": "2011-1", "name": "2011", "marca": "LIFAN", "key": "2011-2011-1", "veiculo": "CARGO 200 ZH (triciclo carga)", "id": "2011-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2010-1", "name": "2010", "marca": "LIFAN", "key": "2010-2010-1", "veiculo": "CARGO 200 ZH (triciclo carga)", "id": "2010-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2009-1", "name": "2009", "marca": "LIFAN", "key": "2009-2009-1", "veiculo": "CARGO 200 ZH (triciclo carga)", "id": "2009-1"
-}
-, {"fipe_marca": "LIFAN", "fipe_codigo": "2008-1", "name": "2008", "marca": "LIFAN", "key": "2008-2008-1", "veiculo": "CARGO 200 ZH (triciclo carga)", "id": "2008-1"
-}
-]

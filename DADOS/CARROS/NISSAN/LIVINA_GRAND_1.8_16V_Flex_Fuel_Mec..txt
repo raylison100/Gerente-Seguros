@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2010-1", "veiculo": "LIVINA GRAND 1.8 16V Flex Fuel Mec.", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
-}
-]

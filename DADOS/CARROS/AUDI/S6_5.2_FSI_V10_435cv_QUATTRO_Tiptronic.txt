@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "S6 5.2 FSI V10 435cv QUATTRO Tiptronic", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-, {"fipe_codigo": "2010-1", "veiculo": "S6 5.2 FSI V10 435cv QUATTRO Tiptronic", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2001-1", "veiculo": "A6 2.7 30V Avant Tiptronic", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
-}
-, {"fipe_codigo": "2000-1", "veiculo": "A6 2.7 30V Avant Tiptronic", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
-}
-]

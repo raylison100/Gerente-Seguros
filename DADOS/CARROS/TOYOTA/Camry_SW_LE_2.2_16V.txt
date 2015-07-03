@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1993-1", "veiculo": "Camry SW LE 2.2 16V", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-]

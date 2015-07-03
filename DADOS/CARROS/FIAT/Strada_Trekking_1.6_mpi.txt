@@ -1,5 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "FIAT", "key": "2000-2000-1", "veiculo": "Strada Trekking 1.6 mpi", "id": "2000-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "FIAT", "key": "1999-1999-1", "veiculo": "Strada Trekking 1.6 mpi", "id": "1999-1"
-}
-]

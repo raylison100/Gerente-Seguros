@@ -1,7 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "MERCEDES-BENZ", "key": "2000-2000-1", "veiculo": "C-43 AMG", "id": "2000-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "MERCEDES-BENZ", "key": "1999-1999-1", "veiculo": "C-43 AMG", "id": "1999-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "MERCEDES-BENZ", "key": "1998-1998-1", "veiculo": "C-43 AMG", "id": "1998-1"
-}
-]

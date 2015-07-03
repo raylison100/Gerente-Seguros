@@ -1,5 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "FORD", "key": "2011-2011-1", "veiculo": "Ranger TROPIVAN XLT 2.3 16V 150cv", "id": "2011-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "FORD", "key": "2010-2010-1", "veiculo": "Ranger TROPIVAN XLT 2.3 16V 150cv", "id": "2010-1"
-}
-]

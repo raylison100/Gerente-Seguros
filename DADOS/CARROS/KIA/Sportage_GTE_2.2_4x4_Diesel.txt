@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1996-3", "veiculo": "Sportage GTE 2.2 4x4 Diesel", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
-}
-, {"fipe_codigo": "1995-3", "veiculo": "Sportage GTE 2.2 4x4 Diesel", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
-}
-]

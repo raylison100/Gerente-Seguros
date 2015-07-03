@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1994-1", "veiculo": "Omega Diamond", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
-}
-]

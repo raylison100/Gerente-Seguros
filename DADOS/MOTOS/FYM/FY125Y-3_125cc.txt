@@ -1,5 +1,0 @@
-[{"fipe_marca": "FYM", "fipe_codigo": "2007-1", "name": "2007", "marca": "FYM", "key": "2007-2007-1", "veiculo": "FY125Y-3 125cc", "id": "2007-1"
-}
-, {"fipe_marca": "FYM", "fipe_codigo": "2006-1", "name": "2006", "marca": "FYM", "key": "2006-2006-1", "veiculo": "FY125Y-3 125cc", "id": "2006-1"
-}
-]

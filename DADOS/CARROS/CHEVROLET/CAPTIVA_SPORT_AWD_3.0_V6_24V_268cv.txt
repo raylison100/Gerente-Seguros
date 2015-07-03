@@ -1,9 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "CHEVROLET", "key": "32000-32000-1", "veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv", "id": "32000-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "CHEVROLET", "key": "2013-2013-1", "veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv", "id": "2013-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "CHEVROLET", "key": "2012-2012-1", "veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv", "id": "2012-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "CHEVROLET", "key": "2011-2011-1", "veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv", "id": "2011-1"
-}
-]

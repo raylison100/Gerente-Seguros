@@ -1,3 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2009-3", "name": "2009 Diesel", "marca": "FORD", "key": "2009-2009-3", "veiculo": "Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.", "id": "2009-3"
-}
-]

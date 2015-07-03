@@ -1,5 +1,0 @@
-[{"fipe_codigo": "32000-3", "veiculo": "L200 Triton Savanaoff 3.2 CD TBI Die.Mec", "id": "32000-3", "key": "32000-32000-3", "name": "Zero KM Diesel"
-}
-, {"fipe_codigo": "2016-3", "veiculo": "L200 Triton Savanaoff 3.2 CD TBI Die.Mec", "id": "2016-3", "key": "2016-2016-3", "name": "2016 Diesel"
-}
-]

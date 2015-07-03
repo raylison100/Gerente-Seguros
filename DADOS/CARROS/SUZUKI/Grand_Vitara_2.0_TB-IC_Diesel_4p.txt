@@ -1,7 +1,0 @@
-[{"fipe_codigo": "2003-3", "veiculo": "Grand Vitara 2.0 TB-IC Diesel 4p", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
-}
-, {"fipe_codigo": "2002-3", "veiculo": "Grand Vitara 2.0 TB-IC Diesel 4p", "id": "2002-3", "key": "2002-2002-3", "name": "2002 Diesel"
-}
-, {"fipe_codigo": "2001-3", "veiculo": "Grand Vitara 2.0 TB-IC Diesel 4p", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
-}
-]

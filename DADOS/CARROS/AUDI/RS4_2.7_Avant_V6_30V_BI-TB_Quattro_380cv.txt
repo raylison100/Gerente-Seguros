@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2001-1", "veiculo": "RS4 2.7 Avant V6 30V BI-TB Quattro 380cv", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
-}
-]

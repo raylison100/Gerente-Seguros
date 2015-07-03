@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2005-1", "veiculo": "Gol 1.8 Mi Rallye Total Flex 8V 4p", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
-}
-]

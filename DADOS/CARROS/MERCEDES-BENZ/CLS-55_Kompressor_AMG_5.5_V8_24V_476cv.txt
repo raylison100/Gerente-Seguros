@@ -1,5 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "MERCEDES-BENZ", "key": "2006-2006-1", "veiculo": "CLS-55 Kompressor AMG 5.5 V8 24V 476cv", "id": "2006-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "MERCEDES-BENZ", "key": "2005-2005-1", "veiculo": "CLS-55 Kompressor AMG 5.5 V8 24V 476cv", "id": "2005-1"
-}
-]

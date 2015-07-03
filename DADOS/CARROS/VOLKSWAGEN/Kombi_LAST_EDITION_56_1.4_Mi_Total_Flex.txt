@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2014-1", "veiculo": "Kombi LAST EDITION 56 1.4 Mi Total Flex", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
-}
-]

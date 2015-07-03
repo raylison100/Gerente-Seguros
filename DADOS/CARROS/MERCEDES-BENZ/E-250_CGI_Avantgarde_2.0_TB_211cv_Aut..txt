@@ -1,7 +1,0 @@
-[{"fipe_codigo": "32000-1", "veiculo": "E-250 CGI Avantgarde 2.0 TB 211cv Aut.", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
-}
-, {"fipe_codigo": "2015-1", "veiculo": "E-250 CGI Avantgarde 2.0 TB 211cv Aut.", "id": "2015-1", "key": "2015-2015-1", "name": "2015 Gasolina"
-}
-, {"fipe_codigo": "2014-1", "veiculo": "E-250 CGI Avantgarde 2.0 TB 211cv Aut.", "id": "2014-1", "key": "2014-2014-1", "name": "2014 Gasolina"
-}
-]

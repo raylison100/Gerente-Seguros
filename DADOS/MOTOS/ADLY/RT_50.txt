@@ -1,3 +1,0 @@
-[{"fipe_marca": "ADLY", "fipe_codigo": "2001-1", "name": "2001", "marca": "ADLY", "key": "2001-2001-1", "veiculo": "RT 50", "id": "2001-1"
-}
-]

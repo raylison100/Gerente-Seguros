@@ -1,3 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "2001-1", "name": "2001", "marca": "YAMAHA", "key": "2001-2001-1", "veiculo": "WR 426 F", "id": "2001-1"
-}
-]

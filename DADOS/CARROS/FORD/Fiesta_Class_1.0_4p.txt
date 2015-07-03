@@ -1,7 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "FORD", "key": "2000-2000-1", "veiculo": "Fiesta Class 1.0 4p", "id": "2000-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "FORD", "key": "1999-1999-1", "veiculo": "Fiesta Class 1.0 4p", "id": "1999-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "FORD", "key": "1998-1998-1", "veiculo": "Fiesta Class 1.0 4p", "id": "1998-1"
-}
-]

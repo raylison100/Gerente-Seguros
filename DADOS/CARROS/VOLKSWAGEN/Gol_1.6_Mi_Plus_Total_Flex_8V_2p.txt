@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2003-1", "veiculo": "Gol 1.6 Mi Plus Total Flex 8V 2p", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
-}
-]

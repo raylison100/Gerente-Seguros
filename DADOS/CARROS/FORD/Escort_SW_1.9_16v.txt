@@ -1,3 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FORD", "key": "1995-1995-1", "veiculo": "Escort SW 1.9 16v", "id": "1995-1"
-}
-]

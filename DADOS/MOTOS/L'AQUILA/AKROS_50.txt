@@ -1,3 +1,0 @@
-[{"fipe_marca": "L'AQUILA", "fipe_codigo": "1999-1", "name": "1999", "marca": "L'AQUILA", "key": "1999-1999-1", "veiculo": "AKROS 50", "id": "1999-1"
-}
-]

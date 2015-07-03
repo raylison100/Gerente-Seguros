@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "Corsa Super 1.0 MPFI 16V 3p", "id": "2000-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "CHEVROLET", "key": "1999-1999-1", "veiculo": "Corsa Super 1.0 MPFI 16V 3p", "id": "1999-1"
-}
-]

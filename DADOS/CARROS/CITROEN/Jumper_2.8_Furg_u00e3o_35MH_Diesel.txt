@@ -1,9 +1,0 @@
-[{"fipe_codigo": "2005-3", "veiculo": "Jumper 2.8 Furg\u00e3o 35MH Diesel", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
-}
-, {"fipe_codigo": "2003-3", "veiculo": "Jumper 2.8 Furg\u00e3o 35MH Diesel", "id": "2003-3", "key": "2003-2003-3", "name": "2003 Diesel"
-}
-, {"fipe_codigo": "2001-3", "veiculo": "Jumper 2.8 Furg\u00e3o 35MH Diesel", "id": "2001-3", "key": "2001-2001-3", "name": "2001 Diesel"
-}
-, {"fipe_codigo": "2000-3", "veiculo": "Jumper 2.8 Furg\u00e3o 35MH Diesel", "id": "2000-3", "key": "2000-2000-3", "name": "2000 Diesel"
-}
-]

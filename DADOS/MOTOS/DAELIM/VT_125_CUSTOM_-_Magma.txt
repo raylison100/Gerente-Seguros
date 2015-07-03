@@ -1,3 +1,0 @@
-[{"fipe_marca": "DAELIM", "fipe_codigo": "1999-1", "name": "1999", "marca": "DAELIM", "key": "1999-1999-1", "veiculo": "VT 125 CUSTOM - Magma", "id": "1999-1"
-}
-]

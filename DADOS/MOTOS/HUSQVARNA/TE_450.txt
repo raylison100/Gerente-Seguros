@@ -1,3 +1,0 @@
-[{"fipe_marca": "HUSQVARNA", "fipe_codigo": "2004-1", "name": "2004", "marca": "HUSQVARNA", "key": "2004-2004-1", "veiculo": "TE 450", "id": "2004-1"
-}
-]

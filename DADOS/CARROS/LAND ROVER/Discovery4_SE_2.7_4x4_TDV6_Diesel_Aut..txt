@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2010-3", "veiculo": "Discovery4 SE 2.7 4x4 TDV6 Diesel Aut.", "id": "2010-3", "key": "2010-2010-3", "name": "2010 Diesel"
-}
-]

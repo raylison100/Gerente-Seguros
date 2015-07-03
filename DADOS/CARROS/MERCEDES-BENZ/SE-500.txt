@@ -1,9 +1,0 @@
-[{"fipe_codigo": "1993-1", "veiculo": "SE-500", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-, {"fipe_codigo": "1992-1", "veiculo": "SE-500", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
-}
-, {"fipe_codigo": "1991-1", "veiculo": "SE-500", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
-}
-, {"fipe_codigo": "1986-1", "veiculo": "SE-500", "id": "1986-1", "key": "1986-1986-1", "name": "1986 Gasolina"
-}
-]

@@ -1,3 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "Astra 500 Sedan 2.0 MPFI 16V 4p", "id": "2000-1"
-}
-]

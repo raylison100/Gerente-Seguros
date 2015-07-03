@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "FIAT", "key": "2012-2012-1", "veiculo": "UNO SPORTING 1.4 EVO Fire Flex 8V 2p", "id": "2012-1"
-}
-]

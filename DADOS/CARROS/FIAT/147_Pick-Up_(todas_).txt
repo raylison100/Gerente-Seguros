@@ -1,9 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "1988-1", "name": "1988 Gasolina", "marca": "FIAT", "key": "1988-1988-1", "veiculo": "147 Pick-Up (todas )", "id": "1988-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "FIAT", "key": "1987-1987-1", "veiculo": "147 Pick-Up (todas )", "id": "1987-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1986-1", "name": "1986 Gasolina", "marca": "FIAT", "key": "1986-1986-1", "veiculo": "147 Pick-Up (todas )", "id": "1986-1"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1985-1", "name": "1985 Gasolina", "marca": "FIAT", "key": "1985-1985-1", "veiculo": "147 Pick-Up (todas )", "id": "1985-1"
-}
-]

@@ -1,6 +1,7 @@
 package com.poo.negocios.beans;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 
 public class Automovel implements Serializable {
 	
@@ -10,7 +11,7 @@ public class Automovel implements Serializable {
 	private String modelo;
 	private String anoModelo;
 	private String vercao;
-	private Sinistro sinistro;
+	private ArrayList<Sinistro> sinistro;
 	private String placa;
 	
 	//construtor
@@ -23,6 +24,7 @@ public class Automovel implements Serializable {
 		this.setAnoModelo(anoModelo);
 		this.setVercao(vercao);
 		this.setPlaca(placa);
+                sinistro = new ArrayList<>();
 	}
 
 	
@@ -66,14 +68,14 @@ public class Automovel implements Serializable {
 		this.vercao = vercao;
 	}
 	
-	public Sinistro getSinistro() {
+	public ArrayList<Sinistro> getSinistro() {
 		return sinistro;
 	}
 
 
 	public void setSinistro(Sinistro sinistro) {
 		if(sinistro != null)
-		this.sinistro = sinistro;
+		this.sinistro.add(sinistro);
 	}
 
 

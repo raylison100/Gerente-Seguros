@@ -1,5 +1,0 @@
-[{"fipe_marca": "CALOI", "fipe_codigo": "1998-1", "name": "1998", "marca": "CALOI", "key": "1998-1998-1", "veiculo": "MONDO 75cc", "id": "1998-1"
-}
-, {"fipe_marca": "CALOI", "fipe_codigo": "1997-1", "name": "1997", "marca": "CALOI", "key": "1997-1997-1", "veiculo": "MONDO 75cc", "id": "1997-1"
-}
-]

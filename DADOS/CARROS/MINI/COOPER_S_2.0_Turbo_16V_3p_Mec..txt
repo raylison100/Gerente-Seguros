@@ -1,7 +1,0 @@
-[{"fipe_marca": "MINI", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "MINI", "key": "32000-32000-1", "veiculo": "COOPER S 2.0 Turbo 16V 3p Mec.", "id": "32000-1"
-}
-, {"fipe_marca": "MINI", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "MINI", "key": "2015-2015-1", "veiculo": "COOPER S 2.0 Turbo 16V 3p Mec.", "id": "2015-1"
-}
-, {"fipe_marca": "MINI", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "MINI", "key": "2014-2014-1", "veiculo": "COOPER S 2.0 Turbo 16V 3p Mec.", "id": "2014-1"
-}
-]

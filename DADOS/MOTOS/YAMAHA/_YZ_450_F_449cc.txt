@@ -1,7 +1,0 @@
-[{"fipe_marca": "YAMAHA", "fipe_codigo": "2012-1", "name": "2012", "marca": "YAMAHA", "key": "2012-2012-1", "veiculo": "YFZ 450/ YZ 450 F 449cc", "id": "2012-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "2009-1", "name": "2009", "marca": "YAMAHA", "key": "2009-2009-1", "veiculo": "YFZ 450/ YZ 450 F 449cc", "id": "2009-1"
-}
-, {"fipe_marca": "YAMAHA", "fipe_codigo": "2008-1", "name": "2008", "marca": "YAMAHA", "key": "2008-2008-1", "veiculo": "YFZ 450/ YZ 450 F 449cc", "id": "2008-1"
-}
-]

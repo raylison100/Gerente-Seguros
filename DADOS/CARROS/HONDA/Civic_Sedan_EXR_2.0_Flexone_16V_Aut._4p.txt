@@ -1,7 +1,0 @@
-[{"fipe_marca": "Honda", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "HONDA", "key": "32000-32000-1", "veiculo": "Civic Sedan EXR 2.0 Flexone 16V Aut. 4p", "id": "32000-1"
-}
-, {"fipe_marca": "Honda", "fipe_codigo": "2016-1", "name": "2016 Gasolina", "marca": "HONDA", "key": "2016-2016-1", "veiculo": "Civic Sedan EXR 2.0 Flexone 16V Aut. 4p", "id": "2016-1"
-}
-, {"fipe_marca": "Honda", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "HONDA", "key": "2014-2014-1", "veiculo": "Civic Sedan EXR 2.0 Flexone 16V Aut. 4p", "id": "2014-1"
-}
-]

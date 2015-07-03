@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "FIAT", "key": "1999-1999-1", "veiculo": "Tempra 2.0 mpi 16V", "id": "1999-1"
-}
-]

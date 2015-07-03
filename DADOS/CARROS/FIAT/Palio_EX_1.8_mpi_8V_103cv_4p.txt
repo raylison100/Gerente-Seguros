@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2003-1", "veiculo": "Palio EX 1.8 mpi 8V 103cv 4p", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
-}
-]

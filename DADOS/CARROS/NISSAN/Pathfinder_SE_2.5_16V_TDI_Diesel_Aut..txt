@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2009-3", "veiculo": "Pathfinder SE 2.5 16V TDI Diesel Aut.", "id": "2009-3", "key": "2009-2009-3", "name": "2009 Diesel"
-}
-, {"fipe_codigo": "2008-3", "veiculo": "Pathfinder SE 2.5 16V TDI Diesel Aut.", "id": "2008-3", "key": "2008-2008-3", "name": "2008 Diesel"
-}
-]

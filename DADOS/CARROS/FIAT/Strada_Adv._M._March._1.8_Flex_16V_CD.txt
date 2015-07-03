@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "FIAT", "key": "2013-2013-1", "veiculo": "Strada Adv. M. March. 1.8 Flex 16V CD", "id": "2013-1"
-}
-]

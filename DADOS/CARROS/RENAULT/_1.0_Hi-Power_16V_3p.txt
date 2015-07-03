@@ -1,7 +1,0 @@
-[{"fipe_codigo": "2006-1", "veiculo": "Clio Dynamique 1.0/ 1.0 Hi-Power 16V 3p", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
-}
-, {"fipe_codigo": "2005-1", "veiculo": "Clio Dynamique 1.0/ 1.0 Hi-Power 16V 3p", "id": "2005-1", "key": "2005-2005-1", "name": "2005 Gasolina"
-}
-, {"fipe_codigo": "2004-1", "veiculo": "Clio Dynamique 1.0/ 1.0 Hi-Power 16V 3p", "id": "2004-1", "key": "2004-2004-1", "name": "2004 Gasolina"
-}
-]

@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1985-3", "veiculo": "Kombi Furg\u00e3o Diesel", "id": "1985-3", "key": "1985-1985-3", "name": "1985 Diesel"
-}
-]

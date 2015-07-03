@@ -3,6 +3,7 @@ package com.poo.negocios.beans;
 import java.io.Serializable;
 
 import com.poo.execoes.CPFInvalidoExeception;
+import java.util.ArrayList;
 
 public class Cliente extends Pessoa implements Serializable {
 
@@ -13,7 +14,7 @@ public class Cliente extends Pessoa implements Serializable {
 	private String vencHab;
 	private String profissao;
 	private String escolaridade;
-	private Automovel automovel;
+	private ArrayList <Automovel> automovel;
 	private Contrato contrato;
 	private static int numeroDeClientes = 1;
 
@@ -22,8 +23,7 @@ public class Cliente extends Pessoa implements Serializable {
 	public Cliente(String nome, String cpf, String rg, String datEmissao,
 			String orgaoEmissao, String sexo, String telefone,
 			String estadoCivil, Endereco endereco,String cnh, String datPrimeiraHab,
-			String vencHab, String profissao, String escolaridade,
-			Automovel automovel) throws CPFInvalidoExeception {
+			String vencHab, String profissao, String escolaridade) throws CPFInvalidoExeception {
 
 		
 		super(nome, cpf, rg,  datEmissao,
@@ -34,16 +34,9 @@ public class Cliente extends Pessoa implements Serializable {
 		this.setVencHab(vencHab);
 		this.setProfissao(profissao);
 		this.setEscolaridade(escolaridade);
-		this.setAutomovel(automovel);
+		this.automovel =  new ArrayList<>();
 		numeroDeClientes = numeroDeClientes + 1;
-	}
-
-	
-	public Cliente(Contrato contrato) {
-		
-		
-		this.setContrato(contrato);
-
+		numeroDeClientes = numeroDeClientes + 1;
 	}
 
 	// metodos
@@ -108,13 +101,13 @@ public class Cliente extends Pessoa implements Serializable {
 			this.contrato = contrato;
 	}
 
-	public Automovel getAutomovel() {
+	public ArrayList<Automovel> getAutomovel() {
 		return automovel;
 	}
 
 	public void setAutomovel(Automovel automovel) {
 		if (automovel != null)
-			this.automovel = automovel;
+			this.automovel.add(automovel);
 	}
 
 	@Override
@@ -122,7 +115,7 @@ public class Cliente extends Pessoa implements Serializable {
 		return  super.toString() + "\nCNH: " + cnh + " \nDATA DA PRIMEIRA HABILITACAO: "
 				+ datPrimeiraHab + "  VENCIMENTO DA HABILITCAO: " + vencHab
 				+ "\nPROFISSAO: " + profissao + "  ESCOLARIDADE: "
-				+ escolaridade + "\nVeiculo:" + automovel + contrato;
+				+ escolaridade + "\n" + contrato;
 				
 	}
 

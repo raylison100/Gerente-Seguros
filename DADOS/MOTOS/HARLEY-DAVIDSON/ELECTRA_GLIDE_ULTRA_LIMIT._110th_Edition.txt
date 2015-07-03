@@ -1,3 +1,0 @@
-[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_codigo": "2013-1", "name": "2013", "marca": "HARLEY-DAVIDSON", "key": "2013-2013-1", "veiculo": "ELECTRA GLIDE ULTRA LIMIT. 110th Edition", "id": "2013-1"
-}
-]

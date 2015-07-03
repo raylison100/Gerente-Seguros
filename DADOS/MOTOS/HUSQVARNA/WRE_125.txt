@@ -1,5 +1,0 @@
-[{"fipe_marca": "HUSQVARNA", "fipe_codigo": "1996-1", "name": "1996", "marca": "HUSQVARNA", "key": "1996-1996-1", "veiculo": "WRE 125", "id": "1996-1"
-}
-, {"fipe_marca": "HUSQVARNA", "fipe_codigo": "1995-1", "name": "1995", "marca": "HUSQVARNA", "key": "1995-1995-1", "veiculo": "WRE 125", "id": "1995-1"
-}
-]

@@ -1,3 +1,0 @@
-[{"fipe_marca": "BRANDY", "fipe_codigo": "1996-1", "name": "1996", "marca": "BRANDY", "key": "1996-1996-1", "veiculo": "ZANELLA NEW FIRE 50 FULL", "id": "1996-1"
-}
-]

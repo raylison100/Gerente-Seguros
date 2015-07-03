@@ -1,7 +1,0 @@
-[{"fipe_codigo": "32000-1", "veiculo": "up! move I MOTION 1.0 T. Flex 12V 5p", "id": "32000-1", "key": "32000-32000-1", "name": "Zero KM Gasolina"
-}
-, {"fipe_codigo": "2016-1", "veiculo": "up! move I MOTION 1.0 T. Flex 12V 5p", "id": "2016-1", "key": "2016-2016-1", "name": "2016 Gasolina"
-}
-, {"fipe_codigo": "2015-1", "veiculo": "up! move I MOTION 1.0 T. Flex 12V 5p", "id": "2015-1", "key": "2015-2015-1", "name": "2015 Gasolina"
-}
-]

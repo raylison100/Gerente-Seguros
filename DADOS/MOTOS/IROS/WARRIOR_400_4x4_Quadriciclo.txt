@@ -1,3 +1,0 @@
-[{"fipe_marca": "IROS", "fipe_codigo": "2009-1", "name": "2009", "marca": "IROS", "key": "2009-2009-1", "veiculo": "WARRIOR 400 4x4 Quadriciclo", "id": "2009-1"
-}
-]

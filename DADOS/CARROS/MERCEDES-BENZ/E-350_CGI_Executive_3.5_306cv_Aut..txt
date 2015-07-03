@@ -1,3 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "MERCEDES-BENZ", "key": "2012-2012-1", "veiculo": "E-350 CGI Executive 3.5 306cv Aut.", "id": "2012-1"
-}
-]

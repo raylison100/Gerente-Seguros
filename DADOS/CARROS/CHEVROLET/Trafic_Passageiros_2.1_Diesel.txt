@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1996-3", "name": "1996 Diesel", "marca": "CHEVROLET", "key": "1996-1996-3", "veiculo": "Trafic Passageiros 2.1 Diesel", "id": "1996-3"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-3", "name": "1995 Diesel", "marca": "CHEVROLET", "key": "1995-1995-3", "veiculo": "Trafic Passageiros 2.1 Diesel", "id": "1995-3"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1994-3", "name": "1994 Diesel", "marca": "CHEVROLET", "key": "1994-1994-3", "veiculo": "Trafic Passageiros 2.1 Diesel", "id": "1994-3"
-}
-]

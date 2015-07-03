@@ -1,3 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1985-3", "name": "1985 Diesel", "marca": "CHEVROLET", "key": "1985-1985-3", "veiculo": "D-10 Diesel", "id": "1985-3"
-}
-]

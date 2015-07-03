@@ -1,7 +1,0 @@
-[{"fipe_codigo": "1997-3", "veiculo": "Terrano II SLX 2.7 Diesel", "id": "1997-3", "key": "1997-1997-3", "name": "1997 Diesel"
-}
-, {"fipe_codigo": "1996-3", "veiculo": "Terrano II SLX 2.7 Diesel", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
-}
-, {"fipe_codigo": "1995-3", "veiculo": "Terrano II SLX 2.7 Diesel", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
-}
-]

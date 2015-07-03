@@ -1,3 +1,0 @@
-[{"fipe_marca": "KTM", "fipe_codigo": "1998-1", "name": "1998", "marca": "KTM", "key": "1998-1998-1", "veiculo": "SC 620", "id": "1998-1"
-}
-]

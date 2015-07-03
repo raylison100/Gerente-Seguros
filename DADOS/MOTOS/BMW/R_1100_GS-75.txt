@@ -1,5 +1,0 @@
-[{"fipe_marca": "BMW", "fipe_codigo": "1999-1", "name": "1999", "marca": "BMW", "key": "1999-1999-1", "veiculo": "R 1100 GS-75", "id": "1999-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "1998-1", "name": "1998", "marca": "BMW", "key": "1998-1998-1", "veiculo": "R 1100 GS-75", "id": "1998-1"
-}
-]

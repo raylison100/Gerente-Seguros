@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2011-3", "veiculo": "Defender 90 RAW 2.4 122cv T.Diesel", "id": "2011-3", "key": "2011-2011-3", "name": "2011 Diesel"
-}
-]

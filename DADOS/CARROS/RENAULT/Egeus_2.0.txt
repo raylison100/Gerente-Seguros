@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2001-1", "veiculo": "Sc\u00e9nic RXE Egeus 2.0", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
-}
-, {"fipe_codigo": "2000-1", "veiculo": "Sc\u00e9nic RXE Egeus 2.0", "id": "2000-1", "key": "2000-2000-1", "name": "2000 Gasolina"
-}
-]

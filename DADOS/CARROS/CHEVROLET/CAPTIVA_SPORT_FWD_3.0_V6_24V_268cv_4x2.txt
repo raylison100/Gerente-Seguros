@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "CHEVROLET", "key": "2012-2012-1", "veiculo": "CAPTIVA SPORT FWD 3.0 V6 24V 268cv 4x2", "id": "2012-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "CHEVROLET", "key": "2011-2011-1", "veiculo": "CAPTIVA SPORT FWD 3.0 V6 24V 268cv 4x2", "id": "2011-1"
-}
-]

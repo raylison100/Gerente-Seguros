@@ -1,7 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "MERCEDES-BENZ", "key": "1995-1995-1", "veiculo": "E-220 Classic/Touring 2.2", "id": "1995-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "MERCEDES-BENZ", "key": "1994-1994-1", "veiculo": "E-220 Classic/Touring 2.2", "id": "1994-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "MERCEDES-BENZ", "key": "1993-1993-1", "veiculo": "E-220 Classic/Touring 2.2", "id": "1993-1"
-}
-]

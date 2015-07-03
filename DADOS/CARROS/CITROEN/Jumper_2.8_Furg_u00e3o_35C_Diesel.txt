@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2000-3", "veiculo": "Jumper 2.8 Furg\u00e3o 35C Diesel", "id": "2000-3", "key": "2000-2000-3", "name": "2000 Diesel"
-}
-]

@@ -1,9 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "MERCEDES-BENZ", "key": "32000-32000-1", "veiculo": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "id": "32000-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "MERCEDES-BENZ", "key": "2015-2015-1", "veiculo": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "id": "2015-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "MERCEDES-BENZ", "key": "2014-2014-1", "veiculo": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "id": "2014-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "MERCEDES-BENZ", "key": "2013-2013-1", "veiculo": "G-63 AMG 5.5 Bi-Turbo 32V 4x4 Aut.", "id": "2013-1"
-}
-]

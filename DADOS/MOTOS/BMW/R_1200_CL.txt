@@ -1,3 +1,0 @@
-[{"fipe_marca": "BMW", "fipe_codigo": "2003-1", "name": "2003", "marca": "BMW", "key": "2003-2003-1", "veiculo": "R 1200 CL", "id": "2003-1"
-}
-]

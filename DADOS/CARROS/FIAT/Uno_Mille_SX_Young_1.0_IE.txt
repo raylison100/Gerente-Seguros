@@ -1,9 +1,0 @@
-[{"fipe_codigo": "1999-1", "veiculo": "Uno Mille SX Young 1.0 IE", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
-}
-, {"fipe_codigo": "1999-2", "veiculo": "Uno Mille SX Young 1.0 IE", "id": "1999-2", "key": "1999-1999-2", "name": "1999 \u00c1lcool"
-}
-, {"fipe_codigo": "1998-1", "veiculo": "Uno Mille SX Young 1.0 IE", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
-}
-, {"fipe_codigo": "1998-2", "veiculo": "Uno Mille SX Young 1.0 IE", "id": "1998-2", "key": "1998-1998-2", "name": "1998 \u00c1lcool"
-}
-]

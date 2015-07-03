@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2006-1", "veiculo": "A8 6.0 W12 48V 450cv Quattro Tiptronic", "id": "2006-1", "key": "2006-2006-1", "name": "2006 Gasolina"
-}
-]

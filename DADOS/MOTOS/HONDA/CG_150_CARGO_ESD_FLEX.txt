@@ -1,7 +1,0 @@
-[{"fipe_marca": "HONDA", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "HONDA", "key": "32000-32000-1", "veiculo": "CG 150 CARGO ESD FLEX", "id": "32000-1"
-}
-, {"fipe_marca": "HONDA", "fipe_codigo": "2015-1", "name": "2015", "marca": "HONDA", "key": "2015-2015-1", "veiculo": "CG 150 CARGO ESD FLEX", "id": "2015-1"
-}
-, {"fipe_marca": "HONDA", "fipe_codigo": "2014-1", "name": "2014", "marca": "HONDA", "key": "2014-2014-1", "veiculo": "CG 150 CARGO ESD FLEX", "id": "2014-1"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1996-1", "veiculo": "164 Super V6 24V", "id": "1996-1", "key": "1996-1996-1", "name": "1996 Gasolina"
-}
-, {"fipe_codigo": "1995-1", "veiculo": "164 Super V6 24V", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
-}
-]

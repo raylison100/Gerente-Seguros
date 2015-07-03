@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1994-1", "veiculo": "Mirage LS", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
-}
-, {"fipe_codigo": "1993-1", "veiculo": "Mirage LS", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-]

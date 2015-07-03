@@ -1,5 +1,0 @@
-[{"fipe_marca": "DAELIM", "fipe_codigo": "1999-1", "name": "1999", "marca": "DAELIM", "key": "1999-1999-1", "veiculo": "MESSAGE 50cc", "id": "1999-1"
-}
-, {"fipe_marca": "DAELIM", "fipe_codigo": "1998-1", "name": "1998", "marca": "DAELIM", "key": "1998-1998-1", "veiculo": "MESSAGE 50cc", "id": "1998-1"
-}
-]

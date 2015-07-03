@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "Acura", "name": "Integra GS 1.8", "marca": "ACURA", "key": "integra-1", "id": "1", "fipe_name": "Integra GS 1.8"
-}
-, {"fipe_marca": "Acura", "name": "Legend 3.2/3.5", "marca": "ACURA", "key": "legend-2", "id": "2", "fipe_name": "Legend 3.2/3.5"
-}
-, {"fipe_marca": "Acura", "name": "NSX 3.0", "marca": "ACURA", "key": "nsx-3", "id": "3", "fipe_name": "NSX 3.0"
-}
-]

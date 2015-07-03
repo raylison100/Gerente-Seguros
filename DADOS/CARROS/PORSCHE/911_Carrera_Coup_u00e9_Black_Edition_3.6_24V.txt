@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2012-1", "veiculo": "911 Carrera Coup\u00e9 Black Edition 3.6 24V", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
-}
-]

@@ -1,7 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "FORD", "key": "2012-2012-1", "veiculo": "Fusion SEL 2.5 16V 173cv Aut.", "id": "2012-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "FORD", "key": "2011-2011-1", "veiculo": "Fusion SEL 2.5 16V 173cv Aut.", "id": "2011-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "FORD", "key": "2010-2010-1", "veiculo": "Fusion SEL 2.5 16V 173cv Aut.", "id": "2010-1"
-}
-]

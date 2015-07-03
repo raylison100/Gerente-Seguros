@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2010-1", "veiculo": "Golf SILVER EDIT. 2.0 Mi T.Flex 8V Tip.", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
-}
-]

@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "Impreza XV 2.0 16V 160cv Aut.", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-]

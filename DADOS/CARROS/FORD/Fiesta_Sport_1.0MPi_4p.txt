@@ -1,3 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "FORD", "key": "2000-2000-1", "veiculo": "Fiesta Sport 1.0MPi 4p", "id": "2000-1"
-}
-]

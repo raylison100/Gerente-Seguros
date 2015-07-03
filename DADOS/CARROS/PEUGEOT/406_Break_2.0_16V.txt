@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1999-1", "veiculo": "406 Break 2.0 16V", "id": "1999-1", "key": "1999-1999-1", "name": "1999 Gasolina"
-}
-]

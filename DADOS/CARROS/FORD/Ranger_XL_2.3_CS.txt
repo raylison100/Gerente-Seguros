@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1997-1", "veiculo": "Ranger XL 2.3 CS", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
-}
-]

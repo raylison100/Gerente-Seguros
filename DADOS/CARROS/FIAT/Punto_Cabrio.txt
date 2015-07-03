@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "FIAT", "key": "1995-1995-1", "veiculo": "Punto Cabrio", "id": "1995-1"
-}
-]

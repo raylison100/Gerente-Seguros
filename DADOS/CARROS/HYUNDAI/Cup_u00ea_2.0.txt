@@ -1,5 +1,0 @@
-[{"fipe_codigo": "1998-1", "veiculo": "Cup\u00ea 2.0", "id": "1998-1", "key": "1998-1998-1", "name": "1998 Gasolina"
-}
-, {"fipe_codigo": "1997-1", "veiculo": "Cup\u00ea 2.0", "id": "1997-1", "key": "1997-1997-1", "name": "1997 Gasolina"
-}
-]

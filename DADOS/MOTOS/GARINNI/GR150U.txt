@@ -1,5 +1,0 @@
-[{"fipe_marca": "GARINNI", "fipe_codigo": "2007-1", "name": "2007", "marca": "GARINNI", "key": "2007-2007-1", "veiculo": "GR150U", "id": "2007-1"
-}
-, {"fipe_marca": "GARINNI", "fipe_codigo": "2006-1", "name": "2006", "marca": "GARINNI", "key": "2006-2006-1", "veiculo": "GR150U", "id": "2006-1"
-}
-]

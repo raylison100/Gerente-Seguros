@@ -1,9 +1,0 @@
-[{"fipe_marca": "ATALA", "fipe_codigo": "2003-1", "name": "2003", "marca": "ATALA", "key": "2003-2003-1", "veiculo": "MASTER 50cc", "id": "2003-1"
-}
-, {"fipe_marca": "ATALA", "fipe_codigo": "2002-1", "name": "2002", "marca": "ATALA", "key": "2002-2002-1", "veiculo": "MASTER 50cc", "id": "2002-1"
-}
-, {"fipe_marca": "ATALA", "fipe_codigo": "2001-1", "name": "2001", "marca": "ATALA", "key": "2001-2001-1", "veiculo": "MASTER 50cc", "id": "2001-1"
-}
-, {"fipe_marca": "ATALA", "fipe_codigo": "2000-1", "name": "2000", "marca": "ATALA", "key": "2000-2000-1", "veiculo": "MASTER 50cc", "id": "2000-1"
-}
-]

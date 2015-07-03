@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2003-1", "veiculo": "Hilux CD SRV 4x2 2.7 16V 142cv", "id": "2003-1", "key": "2003-2003-1", "name": "2003 Gasolina"
-}
-, {"fipe_codigo": "2002-1", "veiculo": "Hilux CD SRV 4x2 2.7 16V 142cv", "id": "2002-1", "key": "2002-2002-1", "name": "2002 Gasolina"
-}
-]

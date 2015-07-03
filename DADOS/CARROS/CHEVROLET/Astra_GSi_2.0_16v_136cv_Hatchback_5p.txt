@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CHEVROLET", "key": "2005-2005-1", "veiculo": "Astra GSi 2.0 16v 136cv Hatchback 5p", "id": "2005-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "CHEVROLET", "key": "2004-2004-1", "veiculo": "Astra GSi 2.0 16v 136cv Hatchback 5p", "id": "2004-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "CHEVROLET", "key": "2003-2003-1", "veiculo": "Astra GSi 2.0 16v 136cv Hatchback 5p", "id": "2003-1"
-}
-]

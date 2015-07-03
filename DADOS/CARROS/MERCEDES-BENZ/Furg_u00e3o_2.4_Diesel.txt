@@ -1,9 +1,0 @@
-[{"fipe_codigo": "1996-3", "veiculo": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel", "id": "1996-3", "key": "1996-1996-3", "name": "1996 Diesel"
-}
-, {"fipe_codigo": "1995-3", "veiculo": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel", "id": "1995-3", "key": "1995-1995-3", "name": "1995 Diesel"
-}
-, {"fipe_codigo": "1994-3", "veiculo": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel", "id": "1994-3", "key": "1994-1994-3", "name": "1994 Diesel"
-}
-, {"fipe_codigo": "1993-3", "veiculo": "180-D Pick-Up/Furg\u00e3o 2.4 Diesel", "id": "1993-3", "key": "1993-1993-3", "name": "1993 Diesel"
-}
-]

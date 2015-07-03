@@ -1,7 +1,0 @@
-[{"fipe_marca": "HONDA", "fipe_codigo": "2009-1", "name": "2009", "marca": "HONDA", "key": "2009-2009-1", "veiculo": "XL 1000V VARADERO", "id": "2009-1"
-}
-, {"fipe_marca": "HONDA", "fipe_codigo": "2008-1", "name": "2008", "marca": "HONDA", "key": "2008-2008-1", "veiculo": "XL 1000V VARADERO", "id": "2008-1"
-}
-, {"fipe_marca": "HONDA", "fipe_codigo": "2007-1", "name": "2007", "marca": "HONDA", "key": "2007-2007-1", "veiculo": "XL 1000V VARADERO", "id": "2007-1"
-}
-]

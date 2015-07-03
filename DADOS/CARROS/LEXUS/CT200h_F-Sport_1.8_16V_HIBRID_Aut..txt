@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2013-1", "veiculo": "CT200h F-Sport 1.8 16V HIBRID Aut.", "id": "2013-1", "key": "2013-2013-1", "name": "2013 Gasolina"
-}
-]

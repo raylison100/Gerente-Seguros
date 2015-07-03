@@ -1,3 +1,0 @@
-[{"fipe_marca": "HONDA", "fipe_codigo": "1997-1", "name": "1997", "marca": "HONDA", "key": "1997-1997-1", "veiculo": "AMERICA CLASSIC 1600", "id": "1997-1"
-}
-]

@@ -1,9 +1,0 @@
-[{"fipe_codigo": "2007-1", "veiculo": "Supra", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
-}
-, {"fipe_codigo": "1995-1", "veiculo": "Supra", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
-}
-, {"fipe_codigo": "1994-1", "veiculo": "Supra", "id": "1994-1", "key": "1994-1994-1", "name": "1994 Gasolina"
-}
-, {"fipe_codigo": "1993-1", "veiculo": "Supra", "id": "1993-1", "key": "1993-1993-1", "name": "1993 Gasolina"
-}
-]

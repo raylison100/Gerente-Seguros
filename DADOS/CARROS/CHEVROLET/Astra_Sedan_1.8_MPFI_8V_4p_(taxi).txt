@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2004-2", "name": "2004 \u00c1lcool", "marca": "CHEVROLET", "key": "2004-2004-2", "veiculo": "Astra Sedan 1.8 MPFI 8V 4p (taxi)", "id": "2004-2"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2003-2", "name": "2003 \u00c1lcool", "marca": "CHEVROLET", "key": "2003-2003-2", "veiculo": "Astra Sedan 1.8 MPFI 8V 4p (taxi)", "id": "2003-2"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2002-2", "name": "2002 \u00c1lcool", "marca": "CHEVROLET", "key": "2002-2002-2", "veiculo": "Astra Sedan 1.8 MPFI 8V 4p (taxi)", "id": "2002-2"
-}
-]

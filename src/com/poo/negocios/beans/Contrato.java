@@ -10,77 +10,72 @@ public class Contrato implements Serializable {
 
 	// atributos
 
-	private String dataInicial; // fazer calculo do calendario do computador e
-								// dizer dias restantes para termino do
-								// contrato.
-	private String dataFinal; // somatorio do plano com a data inicial do
-							  // contrato.
-	private int numeroCliente;
+	
+	
 	private int numeroContrato;
-	private int categoria;
+	private String categoria; // premio= 1 , lite= 2, basic 3u 
 	private String duracao;
 	private String anotatoes;
 	private float valor;
 	private Automovel automovel;
 	private static int numContratosFeitos = 1;
+        private String ativado;
+        private Calendar calendar;
+	private SimpleDateFormat formatter;
+	private Date minhaDataEncapsulada;
+	private String dataFormatada;
+        private int somaData;
+        private int ano;
 
 	// construtor
 
 	// fazer o calculo da data final com base na data de inicio e na duracao
 	// *obs modificar depois
-	public Contrato(String dataInicial, String dataFinal, String duracao,
-			float valor, String anotatoes, int categoria, int numeroCliente) {
+	public Contrato(String duracao, String anotatoes, String categoria, int numeroCliente) {
 
-		this.setDataInicial(dataInicial);
-		this.setDataFinal(dataFinal);
+		
 		this.setDuracao(duracao);
-		this.setValor(valor);
+		
 		this.setAnotatoes(anotatoes);
-		this.setNumeroCliente(numeroCliente);
 		this.setCategoria(categoria);
 		this.setNumeroContrato();
 		numContratosFeitos = numContratosFeitos + 1;
+                this.calendar = Calendar.getInstance();
+		this.formatter = new SimpleDateFormat("dd/MM/YYYY");
+		this.minhaDataEncapsulada = calendar.getTime();
+		this.dataFormatada = formatter.format(minhaDataEncapsulada);
+                this.setSomaData(Integer.getInteger(dataFormatada.substring(4,6 ))+ Integer.getInteger(this.duracao));
+                this.ano = Integer.getInteger(dataFormatada.substring(9))+ 1;
 	}
 
 	// metodos
 
-	public int getCategoria() {
+        public void setSomaData(int x){
+            
+           int somaData = x;
+           if(somaData > 12){
+               somaData = somaData - 12;
+           }
+            
+        }
+	public String getDataFormatada() {
+		return dataFormatada;
+	}
+        
+        public String getCategoria() {
 		return categoria;
 	}
 
-	public void setCategoria(int categoria) {
+	public void setCategoria(String categoria) {
 		this.categoria = categoria;
 	}
 
-	public int getNumeroCliente() {
-		return numeroCliente;
-	}
-
-	public void setNumeroCliente(int numeroCliente) {
-		this.numeroCliente = numeroCliente;
-	}
-
+	
 	public int getNumeroContrato() {
 		return numeroContrato;
 	}
 
-	public String getDataInicial() {
-		return dataInicial;
-	}
-
-	public void setDataInicial(String dataInicial) {
-		if (dataInicial != null)
-			this.dataInicial = dataInicial;
-	}
-
-	public String getDataFinal() {
-		return dataFinal;
-	}
-
-	public void setDataFinal(String dataFinal) {
-		if (dataFinal != null)
-			this.dataFinal = dataFinal;
-	}
+	
 
 	public String getDuracao() {
 		return duracao;
@@ -108,15 +103,13 @@ public class Contrato implements Serializable {
 		return valor;
 	}
 
-	public void setValor(float valor) {
-		if (valor < 0)
-			this.valor = valor;
+	public void setValor() {
+		// fazer assim q receber o valor do carro da tabela fipe
 	}
 	
-	private int setNumeroContrato(){
-		SimpleDateFormat anoC = new SimpleDateFormat("yyyy"); 
-		int ano = Integer.valueOf(anoC.format(new Date()));
-		return ano+this.categoria+this.numeroCliente;
+	private void  setNumeroContrato(){
+		
+            numeroContrato = 0001 + numContratosFeitos;
 	}
 	
 	public Automovel getAutomevel() {
@@ -127,12 +120,33 @@ public class Contrato implements Serializable {
 		if(automovel != null)
 		this.automovel = automovel;
 	}
+        
+        public String getAtivado(){
+            return ativado;
+        }
+        
+        public boolean  contadorDeaAtivacao(){
+            boolean contratoExpirado = false;
+            Calendar cal = Calendar.getInstance();
+            SimpleDateFormat formatada =  new SimpleDateFormat("dd/MM//YYYY");
+            Date data = cal.getTime();
+            String dataForma = formatada.format(data);
+            int anoAtual = Integer.getInteger(dataForma.substring(9));
+            int mesAtual = Integer.getInteger(dataForma.substring(4,6 ));
+            
+           
+            if(mesAtual == this.somaData && anoAtual > this.ano){
+                contratoExpirado = true;
+            }
+       
+                    
+            return contratoExpirado;        
+        }
 
 	
 	@Override
 	public String toString() {
-		return "\nINICIO: " + dataInicial + "  TERMINO: " + dataFinal
-				+ "  DURACAO: " + duracao + "\nANOTAOES: " + anotatoes
+		return "  DURACAO: " + duracao + "\nANOTAOES: " + anotatoes
 				+ "\nVALOR" + valor;
 	}
 

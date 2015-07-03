@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "TAC", "name": "Stark 2.3 4WD 127cv TDI Diesel 3p", "marca": "TAC", "key": "stark-5192", "id": "5192", "fipe_name": "Stark 2.3 4WD 127cv TDI Diesel 3p"
-}
-]

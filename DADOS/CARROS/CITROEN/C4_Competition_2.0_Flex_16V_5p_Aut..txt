@@ -1,7 +1,0 @@
-[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "CITROEN", "key": "32000-32000-1", "veiculo": "C4 Competition 2.0 Flex 16V 5p Aut.", "id": "32000-1"
-}
-, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "CITROEN", "key": "2014-2014-1", "veiculo": "C4 Competition 2.0 Flex 16V 5p Aut.", "id": "2014-1"
-}
-, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "CITROEN", "key": "2010-2010-1", "veiculo": "C4 Competition 2.0 Flex 16V 5p Aut.", "id": "2010-1"
-}
-]

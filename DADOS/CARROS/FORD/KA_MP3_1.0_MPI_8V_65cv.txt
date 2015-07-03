@@ -1,5 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "FORD", "key": "2007-2007-1", "veiculo": "KA MP3 1.0 MPI 8V 65cv", "id": "2007-1"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "FORD", "key": "2006-2006-1", "veiculo": "KA MP3 1.0 MPI 8V 65cv", "id": "2006-1"
-}
-]

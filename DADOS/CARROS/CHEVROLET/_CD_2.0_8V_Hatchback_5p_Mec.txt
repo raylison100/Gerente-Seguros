@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "CHEVROLET", "key": "2004-2004-1", "veiculo": "Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Mec", "id": "2004-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "CHEVROLET", "key": "2003-2003-1", "veiculo": "Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Mec", "id": "2003-1"
-}
-]

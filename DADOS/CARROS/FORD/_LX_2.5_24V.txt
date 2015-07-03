@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1995-1", "veiculo": "Contour SE/GL/ LX 2.5 24V", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
-}
-]

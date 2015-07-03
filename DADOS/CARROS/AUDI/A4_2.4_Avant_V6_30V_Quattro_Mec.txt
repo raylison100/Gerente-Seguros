@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2001-1", "veiculo": "A4 2.4 Avant V6 30V Quattro Mec", "id": "2001-1", "key": "2001-2001-1", "name": "2001 Gasolina"
-}
-]

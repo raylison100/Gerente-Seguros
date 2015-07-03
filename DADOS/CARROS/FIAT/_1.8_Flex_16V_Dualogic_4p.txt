@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "LINEA LX 1.9/ 1.8 Flex 16V Dualogic 4p", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-, {"fipe_codigo": "2010-1", "veiculo": "LINEA LX 1.9/ 1.8 Flex 16V Dualogic 4p", "id": "2010-1", "key": "2010-2010-1", "name": "2010 Gasolina"
-}
-]

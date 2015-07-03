@@ -1,3 +1,0 @@
-[{"fipe_marca": "KAWASAKI", "fipe_codigo": "1996-1", "name": "1996", "marca": "KAWASAKI", "key": "1996-1996-1", "veiculo": "NINJA EX 500cc", "id": "1996-1"
-}
-]

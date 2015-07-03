@@ -1,2 +1,0 @@
-{"request": "http://fipeapi.appspot.com/api/1//MOTOS/veiculo/101/3091.json", "error": "Could not complete your request", "details": ""
-}

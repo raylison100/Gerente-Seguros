@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2012-1", "veiculo": "Palio Week. Adv. ITALIA 1.8 Flex 16V", "id": "2012-1", "key": "2012-2012-1", "name": "2012 Gasolina"
-}
-]

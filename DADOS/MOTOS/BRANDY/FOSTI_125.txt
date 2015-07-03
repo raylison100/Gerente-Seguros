@@ -1,7 +1,0 @@
-[{"fipe_marca": "BRANDY", "fipe_codigo": "1999-1", "name": "1999", "marca": "BRANDY", "key": "1999-1999-1", "veiculo": "FOSTI 125", "id": "1999-1"
-}
-, {"fipe_marca": "BRANDY", "fipe_codigo": "1998-1", "name": "1998", "marca": "BRANDY", "key": "1998-1998-1", "veiculo": "FOSTI 125", "id": "1998-1"
-}
-, {"fipe_marca": "BRANDY", "fipe_codigo": "1997-1", "name": "1997", "marca": "BRANDY", "key": "1997-1997-1", "veiculo": "FOSTI 125", "id": "1997-1"
-}
-]

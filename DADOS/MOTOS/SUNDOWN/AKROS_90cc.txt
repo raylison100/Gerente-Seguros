@@ -1,7 +1,0 @@
-[{"fipe_marca": "SUNDOWN", "fipe_codigo": "1998-1", "name": "1998", "marca": "SUNDOWN", "key": "1998-1998-1", "veiculo": "AKROS 90cc", "id": "1998-1"
-}
-, {"fipe_marca": "SUNDOWN", "fipe_codigo": "1997-1", "name": "1997", "marca": "SUNDOWN", "key": "1997-1997-1", "veiculo": "AKROS 90cc", "id": "1997-1"
-}
-, {"fipe_marca": "SUNDOWN", "fipe_codigo": "1996-1", "name": "1996", "marca": "SUNDOWN", "key": "1996-1996-1", "veiculo": "AKROS 90cc", "id": "1996-1"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "MERCEDES-BENZ", "key": "32000-32000-1", "veiculo": "S-63 Coupe AMG 5.5 V8 Bi-Turbo Aut.", "id": "32000-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "MERCEDES-BENZ", "key": "2015-2015-1", "veiculo": "S-63 Coupe AMG 5.5 V8 Bi-Turbo Aut.", "id": "2015-1"
-}
-]

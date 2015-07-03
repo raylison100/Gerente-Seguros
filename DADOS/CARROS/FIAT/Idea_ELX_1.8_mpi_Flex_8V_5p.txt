@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "FIAT", "key": "2010-2010-1", "veiculo": "Idea ELX 1.8 mpi Flex 8V 5p", "id": "2010-1"
-}
-]

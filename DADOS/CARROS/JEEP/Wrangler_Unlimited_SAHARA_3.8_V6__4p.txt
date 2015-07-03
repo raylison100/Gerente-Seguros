@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "Wrangler Unlimited SAHARA 3.8 V6  4p", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-]

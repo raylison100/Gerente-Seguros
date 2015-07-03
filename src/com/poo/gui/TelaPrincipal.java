@@ -90,9 +90,9 @@ public class TelaPrincipal extends javax.swing.JFrame {
                 .addContainerGap(274, Short.MAX_VALUE))
             .addGroup(jPanelPrincipalLayout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(jPanelPrincipalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addComponent(jButtonFuncionario, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jButtonSuporte, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addGroup(jPanelPrincipalLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jButtonFuncionario)
+                    .addComponent(jButtonSuporte, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanelPrincipalLayout.setVerticalGroup(
@@ -101,11 +101,11 @@ public class TelaPrincipal extends javax.swing.JFrame {
                 .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(36, 36, 36)
                 .addComponent(jLabel1)
-                .addGap(58, 58, 58)
+                .addGap(37, 37, 37)
                 .addComponent(jButtonSuporte)
-                .addGap(36, 36, 36)
+                .addGap(48, 48, 48)
                 .addComponent(jButtonFuncionario)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 94, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 103, Short.MAX_VALUE)
                 .addComponent(jLabel2)
                 .addContainerGap())
         );
@@ -127,13 +127,17 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
     private void jButtonSuporteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonSuporteActionPerformed
                TelaSuporte tela = new TelaSuporte();
+               tela.setSize(this.getWidth(),this.getHeight());
+               tela.setLocationRelativeTo(null);
                tela.setVisible(true);
 	       this.setVisible(false);
     }//GEN-LAST:event_jButtonSuporteActionPerformed
 
     private void jButtonFuncionarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonFuncionarioActionPerformed
                TelaFuncionario tela = new TelaFuncionario();
+               tela.setSize(this.getWidth(),this.getHeight());
                tela.setVisible(true);
+               tela.setLocationRelativeTo(null);
 	       this.setVisible(false);     
     }//GEN-LAST:event_jButtonFuncionarioActionPerformed
 
@@ -181,4 +185,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
     private javax.swing.JPanel jPanelPrincipal;
     private javax.swing.JSeparator jSeparator1;
     // End of variables declaration//GEN-END:variables
+   
+    
+    
 }

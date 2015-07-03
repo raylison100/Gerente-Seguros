@@ -1,7 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1987-1", "name": "1987 Gasolina", "marca": "CHEVROLET", "key": "1987-1987-1", "veiculo": "Monza 1.6i/ 1.8i  (restante)", "id": "1987-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1986-1", "name": "1986 Gasolina", "marca": "CHEVROLET", "key": "1986-1986-1", "veiculo": "Monza 1.6i/ 1.8i  (restante)", "id": "1986-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1985-1", "name": "1985 Gasolina", "marca": "CHEVROLET", "key": "1985-1985-1", "veiculo": "Monza 1.6i/ 1.8i  (restante)", "id": "1985-1"
-}
-]

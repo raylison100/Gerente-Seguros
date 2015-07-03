@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2007-1", "veiculo": "Corolla S 1.8 16V 136cv Aut", "id": "2007-1", "key": "2007-2007-1", "name": "2007 Gasolina"
-}
-]

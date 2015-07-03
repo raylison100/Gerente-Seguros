@@ -1,5 +1,0 @@
-[{"fipe_marca": "KTM", "fipe_codigo": "2011-1", "name": "2011", "marca": "KTM", "key": "2011-2011-1", "veiculo": "1190 RC8 R", "id": "2011-1"
-}
-, {"fipe_marca": "KTM", "fipe_codigo": "2010-1", "name": "2010", "marca": "KTM", "key": "2010-2010-1", "veiculo": "1190 RC8 R", "id": "2010-1"
-}
-]

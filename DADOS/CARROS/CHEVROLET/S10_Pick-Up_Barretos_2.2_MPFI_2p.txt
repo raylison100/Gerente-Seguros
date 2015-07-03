@@ -1,3 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "CHEVROLET", "key": "2000-2000-1", "veiculo": "S10 Pick-Up Barretos 2.2 MPFI 2p", "id": "2000-1"
-}
-]

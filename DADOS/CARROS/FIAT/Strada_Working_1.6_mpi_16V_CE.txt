@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "FIAT", "key": "2001-2001-1", "veiculo": "Strada Working 1.6 mpi 16V CE", "id": "2001-1"
-}
-]

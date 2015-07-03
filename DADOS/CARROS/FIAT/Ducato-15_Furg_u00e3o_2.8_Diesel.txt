@@ -1,7 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2000-3", "name": "2000 Diesel", "marca": "FIAT", "key": "2000-2000-3", "veiculo": "Ducato-15 Furg\u00e3o 2.8 Diesel", "id": "2000-3"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1999-3", "name": "1999 Diesel", "marca": "FIAT", "key": "1999-1999-3", "veiculo": "Ducato-15 Furg\u00e3o 2.8 Diesel", "id": "1999-3"
-}
-, {"fipe_marca": "Fiat", "fipe_codigo": "1998-3", "name": "1998 Diesel", "marca": "FIAT", "key": "1998-1998-3", "veiculo": "Ducato-15 Furg\u00e3o 2.8 Diesel", "id": "1998-3"
-}
-]

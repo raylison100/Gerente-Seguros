@@ -1,3 +1,0 @@
-[{"fipe_codigo": "2011-1", "veiculo": "SYMBOL CONNECTION Hi-Flex 1.6 8V 4p", "id": "2011-1", "key": "2011-2011-1", "name": "2011 Gasolina"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_marca": "Peugeot", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "PEUGEOT", "key": "2011-2011-1", "veiculo": "207 QUIKSILVER 1.4 Flex 8V 5p", "id": "2011-1"
-}
-, {"fipe_marca": "Peugeot", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "PEUGEOT", "key": "2010-2010-1", "veiculo": "207 QUIKSILVER 1.4 Flex 8V 5p", "id": "2010-1"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_marca": "BMW", "fipe_codigo": "2009-1", "name": "2009", "marca": "BMW", "key": "2009-2009-1", "veiculo": "G 650 X Country", "id": "2009-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2008-1", "name": "2008", "marca": "BMW", "key": "2008-2008-1", "veiculo": "G 650 X Country", "id": "2008-1"
-}
-]

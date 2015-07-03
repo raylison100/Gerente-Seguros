@@ -1,7 +1,0 @@
-[{"fipe_codigo": "1992-1", "veiculo": "Apolo GLS/ Vip 1.8", "id": "1992-1", "key": "1992-1992-1", "name": "1992 Gasolina"
-}
-, {"fipe_codigo": "1991-1", "veiculo": "Apolo GLS/ Vip 1.8", "id": "1991-1", "key": "1991-1991-1", "name": "1991 Gasolina"
-}
-, {"fipe_codigo": "1990-1", "veiculo": "Apolo GLS/ Vip 1.8", "id": "1990-1", "key": "1990-1990-1", "name": "1990 Gasolina"
-}
-]

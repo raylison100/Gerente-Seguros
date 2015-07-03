@@ -1,5 +1,0 @@
-[{"fipe_marca": "BMW", "fipe_codigo": "32000-1", "name": "Zero KM", "marca": "BMW", "key": "32000-32000-1", "veiculo": "C 650 GT", "id": "32000-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2015-1", "name": "2015", "marca": "BMW", "key": "2015-2015-1", "veiculo": "C 650 GT", "id": "2015-1"
-}
-]

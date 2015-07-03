@@ -1,5 +1,0 @@
-[{"fipe_marca": "Ford", "fipe_codigo": "2003-3", "name": "2003 Diesel", "marca": "FORD", "key": "2003-2003-3", "veiculo": "Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel", "id": "2003-3"
-}
-, {"fipe_marca": "Ford", "fipe_codigo": "2002-3", "name": "2002 Diesel", "marca": "FORD", "key": "2002-2002-3", "veiculo": "Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel", "id": "2002-3"
-}
-]

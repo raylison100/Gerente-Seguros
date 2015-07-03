@@ -1,7 +1,0 @@
-[{"fipe_marca": "APRILIA", "fipe_codigo": "2000-1", "name": "2000", "marca": "APRILIA", "key": "2000-2000-1", "veiculo": "SCARABEO DE LUXE 50cc", "id": "2000-1"
-}
-, {"fipe_marca": "APRILIA", "fipe_codigo": "1999-1", "name": "1999", "marca": "APRILIA", "key": "1999-1999-1", "veiculo": "SCARABEO DE LUXE 50cc", "id": "1999-1"
-}
-, {"fipe_marca": "APRILIA", "fipe_codigo": "1998-1", "name": "1998", "marca": "APRILIA", "key": "1998-1998-1", "veiculo": "SCARABEO DE LUXE 50cc", "id": "1998-1"
-}
-]

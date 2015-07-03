@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "CHEVROLET", "key": "1992-1992-1", "veiculo": "Syclone 5.7 V8", "id": "1992-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "CHEVROLET", "key": "1991-1991-1", "veiculo": "Syclone 5.7 V8", "id": "1991-1"
-}
-]

@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "BRAVA", "name": "YB 150T-15 150cc", "marca": "BRAVA", "key": "yb-4359", "id": "4359", "fipe_name": "YB 150T-15 150cc"
-}
-]

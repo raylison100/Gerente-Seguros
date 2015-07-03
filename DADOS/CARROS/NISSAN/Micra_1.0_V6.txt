@@ -1,3 +1,0 @@
-[{"fipe_codigo": "1995-1", "veiculo": "Micra 1.0 V6", "id": "1995-1", "key": "1995-1995-1", "name": "1995 Gasolina"
-}
-]

@@ -1,5 +1,0 @@
-[{"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "CHEVROLET", "key": "1995-1995-1", "veiculo": "Blazer S-10 4.3 V6", "id": "1995-1"
-}
-, {"fipe_marca": "GM - Chevrolet", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "CHEVROLET", "key": "1994-1994-1", "veiculo": "Blazer S-10 4.3 V6", "id": "1994-1"
-}
-]

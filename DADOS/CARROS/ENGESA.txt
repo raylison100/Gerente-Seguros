@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Engesa", "name": "Engesa 4x4 2.5/4.1", "marca": "ENGESA", "key": "engesa-411", "id": "411", "fipe_name": "Engesa 4x4 2.5/4.1"
-}
-, {"fipe_marca": "Engesa", "name": "Engesa 4x4 4.0 Diesel", "marca": "ENGESA", "key": "engesa-412", "id": "412", "fipe_name": "Engesa 4x4 4.0 Diesel"
-}
-]

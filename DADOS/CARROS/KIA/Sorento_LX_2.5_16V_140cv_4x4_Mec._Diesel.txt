@@ -1,5 +1,0 @@
-[{"fipe_codigo": "2006-3", "veiculo": "Sorento LX 2.5 16V 140cv 4x4 Mec. Diesel", "id": "2006-3", "key": "2006-2006-3", "name": "2006 Diesel"
-}
-, {"fipe_codigo": "2005-3", "veiculo": "Sorento LX 2.5 16V 140cv 4x4 Mec. Diesel", "id": "2005-3", "key": "2005-2005-3", "name": "2005 Diesel"
-}
-]

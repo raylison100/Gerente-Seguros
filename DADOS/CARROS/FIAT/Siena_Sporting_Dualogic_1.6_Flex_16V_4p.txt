@@ -1,3 +1,0 @@
-[{"fipe_marca": "Fiat", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "FIAT", "key": "2011-2011-1", "veiculo": "Siena Sporting Dualogic 1.6 Flex 16V 4p", "id": "2011-1"
-}
-]

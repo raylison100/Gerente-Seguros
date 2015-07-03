@@ -1,9 +1,0 @@
-[{"fipe_marca": "LERIVO", "fipe_codigo": "2008-1", "name": "2008", "marca": "LERIVO", "key": "2008-2008-1", "veiculo": "Formig\u00e3o Pick-Up 200cc", "id": "2008-1"
-}
-, {"fipe_marca": "LERIVO", "fipe_codigo": "2007-1", "name": "2007", "marca": "LERIVO", "key": "2007-2007-1", "veiculo": "Formig\u00e3o Pick-Up 200cc", "id": "2007-1"
-}
-, {"fipe_marca": "LERIVO", "fipe_codigo": "2006-1", "name": "2006", "marca": "LERIVO", "key": "2006-2006-1", "veiculo": "Formig\u00e3o Pick-Up 200cc", "id": "2006-1"
-}
-, {"fipe_marca": "LERIVO", "fipe_codigo": "2005-1", "name": "2005", "marca": "LERIVO", "key": "2005-2005-1", "veiculo": "Formig\u00e3o Pick-Up 200cc", "id": "2005-1"
-}
-]

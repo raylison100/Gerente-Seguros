@@ -1,7 +1,0 @@
-[{"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "MERCEDES-BENZ", "key": "1993-1993-1", "veiculo": "500-E 5.0", "id": "1993-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "MERCEDES-BENZ", "key": "1992-1992-1", "veiculo": "500-E 5.0", "id": "1992-1"
-}
-, {"fipe_marca": "Mercedes-Benz", "fipe_codigo": "1991-1", "name": "1991 Gasolina", "marca": "MERCEDES-BENZ", "key": "1991-1991-1", "veiculo": "500-E 5.0", "id": "1991-1"
-}
-]
