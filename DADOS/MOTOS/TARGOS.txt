@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "TARGOS", "fipe_name": "TRIMOTO 125cc Picape", "marca": "TARGOS", "key": "trimoto-5440", "id": "5440", "name": "TRIMOTO 125cc Picape"
+}
+, {"fipe_marca": "TARGOS", "fipe_name": "TRIMOTO 125cc Picape Baú", "marca": "TARGOS", "key": "trimoto-5441", "id": "5441", "name": "TRIMOTO 125cc Picape Baú"
+}
+]

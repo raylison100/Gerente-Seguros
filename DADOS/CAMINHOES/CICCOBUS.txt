@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Gran ( Escolar ) 2p (diesel)", "marca": "CICCOBUS", "key": "alleanza-3999", "id": "3999", "name": "Alleanza Gran ( Escolar ) 2p (diesel)"
+}
+, {"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Gran ( Executivo Turismo ) 2p", "marca": "CICCOBUS", "key": "alleanza-4000", "id": "4000", "name": "Alleanza Gran ( Executivo Turismo ) 2p"
+}
+, {"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Gran ( Urbano SPTRANS ) 2p (di", "marca": "CICCOBUS", "key": "alleanza-4001", "id": "4001", "name": "Alleanza Gran ( Urbano SPTRANS ) 2p (di"
+}
+, {"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Mini ( Escolar ) 2p (diesel)", "marca": "CICCOBUS", "key": "alleanza-4002", "id": "4002", "name": "Alleanza Mini ( Escolar ) 2p (diesel)"
+}
+, {"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Mini ( Executivo Turismo ) 2p", "marca": "CICCOBUS", "key": "alleanza-4003", "id": "4003", "name": "Alleanza Mini ( Executivo Turismo ) 2p"
+}
+, {"fipe_marca": "CICCOBUS", "fipe_name": "Alleanza Mini ( Urbano SPTRANS ) 2p (di", "marca": "CICCOBUS", "key": "alleanza-4004", "id": "4004", "name": "Alleanza Mini ( Urbano SPTRANS ) 2p (di"
+}
+]

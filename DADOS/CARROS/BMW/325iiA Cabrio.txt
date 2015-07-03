@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "BMW", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "BMW", "key": "1996-1996-1", "veiculo": "325iiA Cabrio", "id": "1996-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "BMW", "key": "1995-1995-1", "veiculo": "325iiA Cabrio", "id": "1995-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "BMW", "key": "1994-1994-1", "veiculo": "325iiA Cabrio", "id": "1994-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "BMW", "key": "1993-1993-1", "veiculo": "325iiA Cabrio", "id": "1993-1"
+}
+]

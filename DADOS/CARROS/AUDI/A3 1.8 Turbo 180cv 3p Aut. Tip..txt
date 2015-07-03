@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Audi", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "AUDI", "key": "2003-2003-1", "veiculo": "A3 1.8 Turbo 180cv 3p Aut. Tip.", "id": "2003-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "AUDI", "key": "2002-2002-1", "veiculo": "A3 1.8 Turbo 180cv 3p Aut. Tip.", "id": "2002-1"
+}
+]

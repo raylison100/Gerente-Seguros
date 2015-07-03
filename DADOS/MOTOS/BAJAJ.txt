@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BAJAJ", "fipe_name": "CHAMPION 45 100cc", "marca": "BAJAJ", "key": "champion-2617", "id": "2617", "name": "CHAMPION 45 100cc"
+}
+, {"fipe_marca": "BAJAJ", "fipe_name": "Classic 150cc", "marca": "BAJAJ", "key": "classic-2618", "id": "2618", "name": "Classic 150cc"
+}
+]

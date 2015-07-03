@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "MIZA", "fipe_name": "DRAGO LJ 150-7", "marca": "MIZA", "key": "drago-4353", "id": "4353", "name": "DRAGO LJ 150-7"
+}
+, {"fipe_marca": "MIZA", "fipe_name": "EASY LJ 110-10", "marca": "MIZA", "key": "easy-4178", "id": "4178", "name": "EASY LJ 110-10"
+}
+, {"fipe_marca": "MIZA", "fipe_name": "EASY LJ 125-10", "marca": "MIZA", "key": "easy-4426", "id": "4426", "name": "EASY LJ 125-10"
+}
+, {"fipe_marca": "MIZA", "fipe_name": "FAST LJ 150-2", "marca": "MIZA", "key": "fast-4354", "id": "4354", "name": "FAST LJ 150-2"
+}
+, {"fipe_marca": "MIZA", "fipe_name": "Skema LJ 125-6", "marca": "MIZA", "key": "skema-4265", "id": "4265", "name": "Skema LJ 125-6"
+}
+, {"fipe_marca": "MIZA", "fipe_name": "VITE LJ 150T-7", "marca": "MIZA", "key": "vite-4355", "id": "4355", "name": "VITE LJ 150T-7"
+}
+]

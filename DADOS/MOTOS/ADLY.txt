@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "ADLY", "fipe_name": "ATV 100", "marca": "ADLY", "key": "atv-2576", "id": "2576", "name": "ATV 100"
+}
+, {"fipe_marca": "ADLY", "fipe_name": "ATV 50", "marca": "ADLY", "key": "atv-2577", "id": "2577", "name": "ATV 50"
+}
+, {"fipe_marca": "ADLY", "fipe_name": "JAGUAR JT 100", "marca": "ADLY", "key": "jaguar-2578", "id": "2578", "name": "JAGUAR JT 100"
+}
+, {"fipe_marca": "ADLY", "fipe_name": "JAGUAR JT 50", "marca": "ADLY", "key": "jaguar-2579", "id": "2579", "name": "JAGUAR JT 50"
+}
+, {"fipe_marca": "ADLY", "fipe_name": "RT 50", "marca": "ADLY", "key": "rt-2580", "id": "2580", "name": "RT 50"
+}
+]

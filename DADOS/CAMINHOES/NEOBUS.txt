@@ -1,0 +1,26 @@
+{"contador" = "12"}
+[{"fipe_marca": "NEOBUS", "fipe_name": "T.BOY WAY (Lot.,Esc. e SPTRANS) (diesel", "marca": "NEOBUS", "key": "t-boy-3494", "id": "3494", "name": "T.BOY WAY (Lot.,Esc. e SPTRANS) (diesel"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER + (Executivo) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6221", "id": "6221", "name": "THUNDER + (Executivo) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER + (Executivo) 1p (diesel)", "marca": "NEOBUS", "key": "thunder-3491", "id": "3491", "name": "THUNDER + (Executivo) 1p (diesel)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER + (Lot. e Esc.) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6222", "id": "6222", "name": "THUNDER + (Lot. e Esc.) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER + (Lot.,Esc. e SPTRANS)  (diesel", "marca": "NEOBUS", "key": "thunder-3492", "id": "3492", "name": "THUNDER + (Lot.,Esc. e SPTRANS)  (diesel"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER + NEOSTAR (Urbano) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6223", "id": "6223", "name": "THUNDER + NEOSTAR (Urbano) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER BOY WAY (Executivo) 1p (diesel)", "marca": "NEOBUS", "key": "thunder-3493", "id": "3493", "name": "THUNDER BOY WAY (Executivo) 1p (diesel)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER Plus (Executivo) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6224", "id": "6224", "name": "THUNDER Plus (Executivo) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER PLUS (Executivo) 1p (diesel)", "marca": "NEOBUS", "key": "thunder-4699", "id": "4699", "name": "THUNDER PLUS (Executivo) 1p (diesel)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER WAY (Executivo) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6225", "id": "6225", "name": "THUNDER WAY (Executivo) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER WAY (Lot. e Esc.) (diesel)(E5)", "marca": "NEOBUS", "key": "thunder-6226", "id": "6226", "name": "THUNDER WAY (Lot. e Esc.) (diesel)(E5)"
+}
+, {"fipe_marca": "NEOBUS", "fipe_name": "THUNDER+ NEOSTAR (Urbano) (diesel)", "marca": "NEOBUS", "key": "thunder+-6227", "id": "6227", "name": "THUNDER+ NEOSTAR (Urbano) (diesel)"
+}
+]

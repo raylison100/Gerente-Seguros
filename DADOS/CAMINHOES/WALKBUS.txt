@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "WALKBUS", "fipe_name": "Phanter Special ( Escolar ) 2p (diesel)", "marca": "WALKBUS", "key": "phanter-4572", "id": "4572", "name": "Phanter Special ( Escolar ) 2p (diesel)"
+}
+, {"fipe_marca": "WALKBUS", "fipe_name": "Phanter Special ( Executivo Turismo ) 2", "marca": "WALKBUS", "key": "phanter-4573", "id": "4573", "name": "Phanter Special ( Executivo Turismo ) 2"
+}
+, {"fipe_marca": "WALKBUS", "fipe_name": "Phanter Special ( Urbano SPTRANS ) 2p (", "marca": "WALKBUS", "key": "phanter-4574", "id": "4574", "name": "Phanter Special ( Urbano SPTRANS ) 2p ("
+}
+]

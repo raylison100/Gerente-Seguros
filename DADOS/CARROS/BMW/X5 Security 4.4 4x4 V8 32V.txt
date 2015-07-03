@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "BMW", "key": "2006-2006-1", "veiculo": "X5 Security 4.4 4x4 V8 32V", "id": "2006-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "BMW", "key": "2005-2005-1", "veiculo": "X5 Security 4.4 4x4 V8 32V", "id": "2005-1"
+}
+]

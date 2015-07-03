@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "MASCARELLO", "fipe_name": "Gran Micro Rodoviário (diesel)(E5)", "marca": "MASCARELLO", "key": "gran-6680", "id": "6680", "name": "Gran Micro Rodoviário (diesel)(E5)"
+}
+, {"fipe_marca": "MASCARELLO", "fipe_name": "Gran Micro Urbano (diesel)(E5)", "marca": "MASCARELLO", "key": "gran-6681", "id": "6681", "name": "Gran Micro Urbano (diesel)(E5)"
+}
+, {"fipe_marca": "MASCARELLO", "fipe_name": "Gran Mini Rodoviário (diesel)(E5)", "marca": "MASCARELLO", "key": "gran-6682", "id": "6682", "name": "Gran Mini Rodoviário (diesel)(E5)"
+}
+, {"fipe_marca": "MASCARELLO", "fipe_name": "Gran Mini Urbano (diesel)(E5)", "marca": "MASCARELLO", "key": "gran-6683", "id": "6683", "name": "Gran Mini Urbano (diesel)(E5)"
+}
+]

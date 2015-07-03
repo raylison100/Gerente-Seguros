@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "HAOBAO", "fipe_name": "HB 50Q", "marca": "HAOBAO", "key": "hb-5588", "id": "5588", "name": "HB 50Q"
+}
+, {"fipe_marca": "HAOBAO", "fipe_name": "HB110-3", "marca": "HAOBAO", "key": "hb110-3-4454", "id": "4454", "name": "HB110-3"
+}
+, {"fipe_marca": "HAOBAO", "fipe_name": "HB125-9 FEARFULSPEED", "marca": "HAOBAO", "key": "hb125-9-4455", "id": "4455", "name": "HB125-9 FEARFULSPEED"
+}
+, {"fipe_marca": "HAOBAO", "fipe_name": "HB150", "marca": "HAOBAO", "key": "hb150-4756", "id": "4756", "name": "HB150"
+}
+, {"fipe_marca": "HAOBAO", "fipe_name": "HB150-T R5 FEARFULSPEED", "marca": "HAOBAO", "key": "hb150-t-4456", "id": "4456", "name": "HB150-T R5 FEARFULSPEED"
+}
+]

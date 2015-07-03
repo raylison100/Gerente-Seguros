@@ -1,0 +1,24 @@
+{"contador" = "11"}
+[{"fipe_marca": "PEUGEOT", "fipe_name": "BUXY 50", "marca": "PEUGEOT", "key": "buxy-2954", "id": "2954", "name": "BUXY 50"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "ELYSEO 125", "marca": "PEUGEOT", "key": "elyseo-2955", "id": "2955", "name": "ELYSEO 125"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SCOOT'ELEC", "marca": "PEUGEOT", "key": "scoot-elec-2956", "id": "2956", "name": "SCOOT'ELEC"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SPEEDAKE 50", "marca": "PEUGEOT", "key": "speedake-2957", "id": "2957", "name": "SPEEDAKE 50"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SPEEDFIGHT 100", "marca": "PEUGEOT", "key": "speedfight-2958", "id": "2958", "name": "SPEEDFIGHT 100"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SPEEDFIGHT 50", "marca": "PEUGEOT", "key": "speedfight-2959", "id": "2959", "name": "SPEEDFIGHT 50"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SPEEDFIGHT 50-LC", "marca": "PEUGEOT", "key": "speedfight-2960", "id": "2960", "name": "SPEEDFIGHT 50-LC"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "SQUAB 50", "marca": "PEUGEOT", "key": "squab-2961", "id": "2961", "name": "SQUAB 50"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "TREKKER 100", "marca": "PEUGEOT", "key": "trekker-2962", "id": "2962", "name": "TREKKER 100"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "VIVACITY 50", "marca": "PEUGEOT", "key": "vivacity-2963", "id": "2963", "name": "VIVACITY 50"
+}
+, {"fipe_marca": "PEUGEOT", "fipe_name": "ZENITH 50", "marca": "PEUGEOT", "key": "zenith-2964", "id": "2964", "name": "ZENITH 50"
+}
+]

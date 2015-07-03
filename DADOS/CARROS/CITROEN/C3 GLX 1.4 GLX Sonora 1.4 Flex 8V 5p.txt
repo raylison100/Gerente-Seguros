@@ -1,0 +1,22 @@
+{"contador" = "10"}
+[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "CITROEN", "key": "2012-2012-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2012-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "CITROEN", "key": "2011-2011-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2011-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "CITROEN", "key": "2010-2010-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2010-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "CITROEN", "key": "2009-2009-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2009-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "CITROEN", "key": "2008-2008-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2008-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "CITROEN", "key": "2007-2007-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2007-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CITROEN", "key": "2006-2006-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2006-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CITROEN", "key": "2005-2005-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2005-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "CITROEN", "key": "2004-2004-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2004-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "CITROEN", "key": "2003-2003-1", "veiculo": "C3 GLX 1.4 GLX Sonora 1.4 Flex 8V 5p", "id": "2003-1"
+}
+]

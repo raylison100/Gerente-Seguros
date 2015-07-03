@@ -1,0 +1,182 @@
+{"contador" = "90"}
+[{"fipe_marca": "Volvo", "fipe_name": "440 Turbo 1.8", "marca": "VOLVO", "key": "440-2296", "id": "2296", "name": "440 Turbo 1.8"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "460 GLT 2.0 Turbo 1.8", "marca": "VOLVO", "key": "460-2297", "id": "2297", "name": "460 GLT 2.0 Turbo 1.8"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 GLE 2.5 20V", "marca": "VOLVO", "key": "850-2298", "id": "2298", "name": "850 GLE 2.5 20V"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 GLE SW 20V", "marca": "VOLVO", "key": "850-2299", "id": "2299", "name": "850 GLE SW 20V"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 GLT 2.5 20V", "marca": "VOLVO", "key": "850-2300", "id": "2300", "name": "850 GLT 2.5 20V"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 GLT SW 2.5 20V", "marca": "VOLVO", "key": "850-2301", "id": "2301", "name": "850 GLT SW 2.5 20V"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 R SW 2.3 Turbo", "marca": "VOLVO", "key": "850-2302", "id": "2302", "name": "850 R SW 2.3 Turbo"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 Sedan", "marca": "VOLVO", "key": "850-2303", "id": "2303", "name": "850 Sedan"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 T-5 SW 2.5 BI-Turbo 2.3 Turbo", "marca": "VOLVO", "key": "850-2304", "id": "2304", "name": "850 T-5 SW 2.5 BI-Turbo 2.3 Turbo"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "850 TURBO 20V R Turbo 2.3", "marca": "VOLVO", "key": "850-2305", "id": "2305", "name": "850 TURBO 20V R Turbo 2.3"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "940 Turbo SW Turbo 3.0", "marca": "VOLVO", "key": "940-2306", "id": "2306", "name": "940 Turbo SW Turbo 3.0"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "960 Sedan", "marca": "VOLVO", "key": "960-2307", "id": "2307", "name": "960 Sedan"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C30 2.0 145cv", "marca": "VOLVO", "key": "c30-4319", "id": "4319", "name": "C30 2.0 145cv"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C30 2.4 170cv Aut", "marca": "VOLVO", "key": "c30-4320", "id": "4320", "name": "C30 2.4 170cv Aut"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C30 T-5 2.5 220 230cv Aut.", "marca": "VOLVO", "key": "c30-4321", "id": "4321", "name": "C30 T-5 2.5 220 230cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C30 T-5 2.5 230cv Mec.", "marca": "VOLVO", "key": "c30-4418", "id": "4418", "name": "C30 T-5 2.5 230cv Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C30 T-5 R-DESIGN 2.5 230cv Aut.", "marca": "VOLVO", "key": "c30-5475", "id": "5475", "name": "C30 T-5 R-DESIGN 2.5 230cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C70 Cabriolet", "marca": "VOLVO", "key": "c70-2308", "id": "2308", "name": "C70 Cabriolet"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "C70 Cupê", "marca": "VOLVO", "key": "c70-2309", "id": "2309", "name": "C70 Cupê"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 1.8 Aut", "marca": "VOLVO", "key": "s40-2310", "id": "2310", "name": "S40 1.8 Aut"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 1.8 Mec.", "marca": "VOLVO", "key": "s40-2311", "id": "2311", "name": "S40 1.8 Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 2.0 Aut.", "marca": "VOLVO", "key": "s40-2312", "id": "2312", "name": "S40 2.0 Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 2.0 Mec.", "marca": "VOLVO", "key": "s40-2313", "id": "2313", "name": "S40 2.0 Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 2.0 T", "marca": "VOLVO", "key": "s40-2314", "id": "2314", "name": "S40 2.0 T"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 2.4 140cv Aut.", "marca": "VOLVO", "key": "s40-4127", "id": "4127", "name": "S40 2.4 140cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 2.4 170cv Aut.", "marca": "VOLVO", "key": "s40-2315", "id": "2315", "name": "S40 2.4 170cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 T 2.0  Turbo Aut.", "marca": "VOLVO", "key": "s40-2316", "id": "2316", "name": "S40 T 2.0  Turbo Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 T-4", "marca": "VOLVO", "key": "s40-2317", "id": "2317", "name": "S40 T-4"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 T-4 ARM Aut.", "marca": "VOLVO", "key": "s40-2318", "id": "2318", "name": "S40 T-4 ARM Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 T-4 ARM Mec.", "marca": "VOLVO", "key": "s40-2319", "id": "2319", "name": "S40 T-4 ARM Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S40 T-5 2.5 220230cv Aut.", "marca": "VOLVO", "key": "s40-2320", "id": "2320", "name": "S40 T-5 2.5 220230cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 R 2.5 300cv Aut.", "marca": "VOLVO", "key": "s60-2321", "id": "2321", "name": "S60 R 2.5 300cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 R 2.5 300cv Mec.", "marca": "VOLVO", "key": "s60-2322", "id": "2322", "name": "S60 R 2.5 300cv Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T 2.0 4p", "marca": "VOLVO", "key": "s60-2323", "id": "2323", "name": "S60 T 2.0 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T 2.4 2.5", "marca": "VOLVO", "key": "s60-2324", "id": "2324", "name": "S60 T 2.4 2.5"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-4 1.6 180cv 4p", "marca": "VOLVO", "key": "s60-5491", "id": "5491", "name": "S60 T-4 1.6 180cv 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-5 2.0 240cv 4p", "marca": "VOLVO", "key": "s60-5492", "id": "5492", "name": "S60 T-5 2.0 240cv 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-5 2.3", "marca": "VOLVO", "key": "s60-2325", "id": "2325", "name": "S60 T-5 2.3"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-5 KINETIC 2.0 245cv 4p", "marca": "VOLVO", "key": "s60-7170", "id": "7170", "name": "S60 T-5 KINETIC 2.0 245cv 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-5 MOMENTUM 2.0 245cv 4p", "marca": "VOLVO", "key": "s60-7171", "id": "7171", "name": "S60 T-5 MOMENTUM 2.0 245cv 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-5 R-DESIGN 2.0 240cv 4p", "marca": "VOLVO", "key": "s60-6485", "id": "6485", "name": "S60 T-5 R-DESIGN 2.0 240cv 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-6 3.0 304cv AWD 4p", "marca": "VOLVO", "key": "s60-5493", "id": "5493", "name": "S60 T-6 3.0 304cv AWD 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S60 T-6 R-DESIGN 3.0 AWD 4p", "marca": "VOLVO", "key": "s60-5653", "id": "5653", "name": "S60 T-6 R-DESIGN 3.0 AWD 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S70 2.5", "marca": "VOLVO", "key": "s70-2326", "id": "2326", "name": "S70 2.5"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S70 2.5 Aut.", "marca": "VOLVO", "key": "s70-2327", "id": "2327", "name": "S70 2.5 Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S70 R", "marca": "VOLVO", "key": "s70-2328", "id": "2328", "name": "S70 R"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S70 R Aut.", "marca": "VOLVO", "key": "s70-2329", "id": "2329", "name": "S70 R Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S70 T-5 2.3", "marca": "VOLVO", "key": "s70-2330", "id": "2330", "name": "S70 T-5 2.3"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 2.9", "marca": "VOLVO", "key": "s80-2331", "id": "2331", "name": "S80 2.9"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 2.9 ARM", "marca": "VOLVO", "key": "s80-2332", "id": "2332", "name": "S80 2.9 ARM"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 3.2 238cv Aut.", "marca": "VOLVO", "key": "s80-4248", "id": "4248", "name": "S80 3.2 238cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 4.4 V8 315cv AWD Aut.", "marca": "VOLVO", "key": "s80-4249", "id": "4249", "name": "S80 4.4 V8 315cv AWD Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 T6 2.8 BI-Turbo", "marca": "VOLVO", "key": "s80-2333", "id": "2333", "name": "S80 T6 2.8 BI-Turbo"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 T6 2.8 BI-Turbo ARM", "marca": "VOLVO", "key": "s80-2334", "id": "2334", "name": "S80 T6 2.8 BI-Turbo ARM"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 T-6 Executive 2.8", "marca": "VOLVO", "key": "s80-2335", "id": "2335", "name": "S80 T-6 Executive 2.8"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "S80 T-6 Executive ARM 2.8 24v", "marca": "VOLVO", "key": "s80-2336", "id": "2336", "name": "S80 T-6 Executive ARM 2.8 24v"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 1.8 Aut", "marca": "VOLVO", "key": "v40-2337", "id": "2337", "name": "V40 1.8 Aut"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 1.8 Mec.", "marca": "VOLVO", "key": "v40-2338", "id": "2338", "name": "V40 1.8 Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 2.0", "marca": "VOLVO", "key": "v40-2339", "id": "2339", "name": "V40 2.0"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 2.0 Aut.", "marca": "VOLVO", "key": "v40-2340", "id": "2340", "name": "V40 2.0 Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 2.0 Turbo", "marca": "VOLVO", "key": "v40-2341", "id": "2341", "name": "V40 2.0 Turbo"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 T-4", "marca": "VOLVO", "key": "v40-2342", "id": "2342", "name": "V40 T-4"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 T-4 ARM Aut.", "marca": "VOLVO", "key": "v40-2343", "id": "2343", "name": "V40 T-4 ARM Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 T-4 Aut.", "marca": "VOLVO", "key": "v40-2344", "id": "2344", "name": "V40 T-4 Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 T-5 Cross Country 2.0 Awd Aut.", "marca": "VOLVO", "key": "v40-6759", "id": "6759", "name": "V40 T-5 Cross Country 2.0 Awd Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V40 T-5 R-DESIGN 2.0 Aut.", "marca": "VOLVO", "key": "v40-6599", "id": "6599", "name": "V40 T-5 R-DESIGN 2.0 Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V50 2.4 20V 140cv Aut.", "marca": "VOLVO", "key": "v50-4628", "id": "4628", "name": "V50 2.4 20V 140cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V50 2.4 20V 170cv Aut.", "marca": "VOLVO", "key": "v50-2345", "id": "2345", "name": "V50 2.4 20V 170cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V50 T-5 2.5 220cv Aut.", "marca": "VOLVO", "key": "v50-2346", "id": "2346", "name": "V50 T-5 2.5 220cv Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V60 T-5 KINETIC 2.0 245cv 5p", "marca": "VOLVO", "key": "v60-7233", "id": "7233", "name": "V60 T-5 KINETIC 2.0 245cv 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V60 T-5 MOMENTUM 2.0 245cv 5p", "marca": "VOLVO", "key": "v60-7234", "id": "7234", "name": "V60 T-5 MOMENTUM 2.0 245cv 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V60 T-5 R-DESING 2.0 5p", "marca": "VOLVO", "key": "v60-6216", "id": "6216", "name": "V60 T-5 R-DESING 2.0 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V60 T-6 R-DESIGN 3.0 AWD 4p", "marca": "VOLVO", "key": "v60-6217", "id": "6217", "name": "V60 T-6 R-DESIGN 3.0 AWD 4p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 2.5", "marca": "VOLVO", "key": "v70-2347", "id": "2347", "name": "V70 2.5"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 Cross Country 2.4", "marca": "VOLVO", "key": "v70-2348", "id": "2348", "name": "V70 Cross Country 2.4"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 R 2.5 300cv AWD Aut.", "marca": "VOLVO", "key": "v70-2349", "id": "2349", "name": "V70 R 2.5 300cv AWD Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 R 2.5 300cv AWD Mec.", "marca": "VOLVO", "key": "v70-2350", "id": "2350", "name": "V70 R 2.5 300cv AWD Mec."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 T 2.0 20v 180cv 4p Aut.", "marca": "VOLVO", "key": "v70-2351", "id": "2351", "name": "V70 T 2.0 20v 180cv 4p Aut."
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 T 2.4", "marca": "VOLVO", "key": "v70-2352", "id": "2352", "name": "V70 T 2.4"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 T 2.4 2.5 Premium", "marca": "VOLVO", "key": "v70-2353", "id": "2353", "name": "V70 T 2.4 2.5 Premium"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 T5 2.3", "marca": "VOLVO", "key": "v70-2354", "id": "2354", "name": "V70 T5 2.3"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "V70 XC XC 70", "marca": "VOLVO", "key": "v70-2355", "id": "2355", "name": "V70 XC XC 70"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 60 2.0 T5  5p", "marca": "VOLVO", "key": "xc-5561", "id": "5561", "name": "XC 60 2.0 T5  5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 60 3.0 AWD 5p", "marca": "VOLVO", "key": "xc-4816", "id": "4816", "name": "XC 60 3.0 AWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 60 R-DESIGN 3.0 304cv AWD 5p", "marca": "VOLVO", "key": "xc-5459", "id": "5459", "name": "XC 60 R-DESIGN 3.0 304cv AWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 60 T-5 R-DESIGN 2.0 FWD 5p", "marca": "VOLVO", "key": "xc-6131", "id": "6131", "name": "XC 60 T-5 R-DESIGN 2.0 FWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 90 2.5T 210cv AWD 5p", "marca": "VOLVO", "key": "xc-2356", "id": "2356", "name": "XC 90 2.5T 210cv AWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 90 3.2 238cv AWD 5p", "marca": "VOLVO", "key": "xc-4450", "id": "4450", "name": "XC 90 3.2 238cv AWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 90 4.4 V8 315cv AWD 5p", "marca": "VOLVO", "key": "xc-2357", "id": "2357", "name": "XC 90 4.4 V8 315cv AWD 5p"
+}
+, {"fipe_marca": "Volvo", "fipe_name": "XC 90 T6 2.9 BI-TB 272cv AWD 5p", "marca": "VOLVO", "key": "xc-2358", "id": "2358", "name": "XC 90 T6 2.9 BI-TB 272cv AWD 5p"
+}
+]

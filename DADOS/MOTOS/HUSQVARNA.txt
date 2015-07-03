@@ -1,0 +1,40 @@
+{"contador" = "19"}
+[{"fipe_marca": "HUSQVARNA", "fipe_name": "CR 125", "marca": "HUSQVARNA", "key": "cr-2832", "id": "2832", "name": "CR 125"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "CR 250", "marca": "HUSQVARNA", "key": "cr-2833", "id": "2833", "name": "CR 250"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "HUSQY BOY J", "marca": "HUSQVARNA", "key": "husqy-2834", "id": "2834", "name": "HUSQY BOY J"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "HUSQY BOY R", "marca": "HUSQVARNA", "key": "husqy-2835", "id": "2835", "name": "HUSQY BOY R"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "HUSQY BOY S", "marca": "HUSQVARNA", "key": "husqy-2836", "id": "2836", "name": "HUSQY BOY S"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "SM 610", "marca": "HUSQVARNA", "key": "sm-2837", "id": "2837", "name": "SM 610"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "SMR 510", "marca": "HUSQVARNA", "key": "smr-4419", "id": "4419", "name": "SMR 510"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TC 570", "marca": "HUSQVARNA", "key": "tc-2838", "id": "2838", "name": "TC 570"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 400", "marca": "HUSQVARNA", "key": "te-2839", "id": "2839", "name": "TE 400"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 410", "marca": "HUSQVARNA", "key": "te-2840", "id": "2840", "name": "TE 410"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 410 E", "marca": "HUSQVARNA", "key": "te-2841", "id": "2841", "name": "TE 410 E"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 450", "marca": "HUSQVARNA", "key": "te-2842", "id": "2842", "name": "TE 450"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 510", "marca": "HUSQVARNA", "key": "te-4420", "id": "4420", "name": "TE 510"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 570", "marca": "HUSQVARNA", "key": "te-2843", "id": "2843", "name": "TE 570"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 610", "marca": "HUSQVARNA", "key": "te-2844", "id": "2844", "name": "TE 610"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "TE 610 E", "marca": "HUSQVARNA", "key": "te-2845", "id": "2845", "name": "TE 610 E"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "WR 250", "marca": "HUSQVARNA", "key": "wr-2846", "id": "2846", "name": "WR 250"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "WR 360", "marca": "HUSQVARNA", "key": "wr-2847", "id": "2847", "name": "WR 360"
+}
+, {"fipe_marca": "HUSQVARNA", "fipe_name": "WRE 125", "marca": "HUSQVARNA", "key": "wre-2848", "id": "2848", "name": "WRE 125"
+}
+]

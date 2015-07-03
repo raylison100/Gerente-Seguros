@@ -5,6 +5,7 @@
  */
 package com.poo.gui;
 
+import com.poo.execoes.CPFCadastradoExeception;
 import com.poo.execoes.CPFInvalidoExeception;
 import com.poo.execoes.CadatroAutoExistenteExeception;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
@@ -195,7 +196,7 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jComboBox14 = new javax.swing.JComboBox();
         jLabel43 = new javax.swing.JLabel();
         jScrollPane4 = new javax.swing.JScrollPane();
-        jTextArea3 = new javax.swing.JTextArea();
+        jTextAreaobservacaoCadastroContra = new javax.swing.JTextArea();
         jLabel44 = new javax.swing.JLabel();
         jTextField18 = new javax.swing.JTextField();
         jButton17 = new javax.swing.JButton();
@@ -212,7 +213,7 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jLabel49 = new javax.swing.JLabel();
         jLabel50 = new javax.swing.JLabel();
         jScrollPane6 = new javax.swing.JScrollPane();
-        jTextAreaObservaçoesBuscaContrato = new javax.swing.JTextArea();
+        jTextAreaObservacoesBuscaContrato = new javax.swing.JTextArea();
         jLabel51 = new javax.swing.JLabel();
         jTextFieldValorBuscaContrato = new javax.swing.JTextField();
         jButtonRenovar = new javax.swing.JButton();
@@ -1188,10 +1189,10 @@ public class TelaSuporte2 extends javax.swing.JFrame {
 
         jLabel43.setText("Observações");
 
-        jTextArea3.setColumns(20);
-        jTextArea3.setRows(5);
-        jTextArea3.setEnabled(false);
-        jScrollPane4.setViewportView(jTextArea3);
+        jTextAreaobservacaoCadastroContra.setColumns(20);
+        jTextAreaobservacaoCadastroContra.setRows(5);
+        jTextAreaobservacaoCadastroContra.setEnabled(false);
+        jScrollPane4.setViewportView(jTextAreaobservacaoCadastroContra);
 
         jLabel44.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel44.setText("valor");
@@ -1311,9 +1312,9 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jLabel50.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel50.setText("Observações");
 
-        jTextAreaObservaçoesBuscaContrato.setColumns(20);
-        jTextAreaObservaçoesBuscaContrato.setRows(5);
-        jScrollPane6.setViewportView(jTextAreaObservaçoesBuscaContrato);
+        jTextAreaObservacoesBuscaContrato.setColumns(20);
+        jTextAreaObservacoesBuscaContrato.setRows(5);
+        jScrollPane6.setViewportView(jTextAreaObservacoesBuscaContrato);
 
         jLabel51.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel51.setText("valor");
@@ -1802,6 +1803,9 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         } catch (CPFInvalidoExeception ex) {
             JOptionPane.showMessageDialog(null, ex.getMessage());            
             jTextFieldCEPCadastroCliente.setText("");
+        } catch (CPFCadastradoExeception ex) {
+            JOptionPane.showMessageDialog(null, ex.getMessage());            
+            jTextFieldCEPCadastroCliente.setText("");;
         }        
     }//GEN-LAST:event_jButtonSalvarCadastroClientesActionPerformed
 
@@ -1943,16 +1947,8 @@ public class TelaSuporte2 extends javax.swing.JFrame {
             try {
             
             fachada.cadatrarCliente(jTextFieldNomeCadastroCliente.getText(), jTextFieldCpfCadastroCliente.getText(), jTextFieldRgCadastroCliente.getText(), jTextFieldDataEmisaoCadastroCliente.getText(), jTextFieldOrgaoEmisorCadastroCliente.getText(), jComboBoxSexoCadastroCliente.getSelectedItem().toString(), jTextFieldTelefoneCadastroCliente.getText(), jComboBoxestadoCivil.getSelectedItem().toString(), jTextField1NumeroCnhCadastroCliente.getText(), jTextField1DataHabCadastroCliente.getText(), jTextField1VencimentoHabCadastroCliente.getText(), jTextField1ProfissaoCadastroCliente.getText(), jComboBox1EscolaridadeCadastroCliente.getSelectedItem().toString(), jTextFieldEnderecoCadastroCliente.getText(), jTextField1BairroCadastroCliente.getText(), jTextFieldCEPCadastroCliente.getText(), jTextField1NumeroCadastroCliente.getText(), jTextField1ComplementoCadastroCliente.getText(), jTextField1CidadeCadastroCliente.getText(), jComboBoxEstados.getSelectedItem().toString());
-            JOptionPane.showMessageDialog(null, "CADATRO COM SUCESSO!");            
-            
-        } catch (IOException ex) {
-            Logger.getLogger(TelaSuporte2.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (CadatroPessoaExistenteExeception ex) {            
-            JOptionPane.showMessageDialog(null, ex.getMessage());            
-        } catch (CPFInvalidoExeception ex) {
-            JOptionPane.showMessageDialog(null, ex.getMessage());            
-           
-            jTextFieldNomeBuscarCliente.setText("");
+            JOptionPane.showMessageDialog(null, "CADATRO COM SUCESSO!");   
+             jTextFieldNomeBuscarCliente.setText("");
             jTextFieldCpfBuscarCliente.setText("");
             jTextFieldRgBuscaCliente.setText("");
             jTextFieldDataEmisaoBuscaCliente.setText("");
@@ -1972,7 +1968,20 @@ public class TelaSuporte2 extends javax.swing.JFrame {
             jTextFieldProfissaoBuscaCliente.setText("");
             jTextFieldEscolaridadeBuscaCliente.setText("");           
             jButtonSalvarBuscaCliente.setText("");
-        }  
+            
+        } catch (IOException ex) {
+            Logger.getLogger(TelaSuporte2.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (CadatroPessoaExistenteExeception ex) {            
+            JOptionPane.showMessageDialog(null, ex.getMessage());            
+        } catch (CPFInvalidoExeception ex) {
+            JOptionPane.showMessageDialog(null, ex.getMessage());            
+        } catch (CPFCadastradoExeception ex) {
+            JOptionPane.showMessageDialog(null, ex.getMessage());            
+            jTextFieldCEPCadastroCliente.setText("");
+        } 
+            
+           
+         
     }//GEN-LAST:event_jButtonSalvarBuscaClienteActionPerformed
 
     private void jButtonRemoverCadastroClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonRemoverCadastroClienteActionPerformed
@@ -2262,8 +2271,8 @@ public class TelaSuporte2 extends javax.swing.JFrame {
     private javax.swing.JTabbedPane jTabbedPane6;
     private javax.swing.JTextArea jTextArea1;
     private javax.swing.JTextArea jTextArea2;
-    private javax.swing.JTextArea jTextArea3;
-    private javax.swing.JTextArea jTextAreaObservaçoesBuscaContrato;
+    private javax.swing.JTextArea jTextAreaObservacoesBuscaContrato;
+    private javax.swing.JTextArea jTextAreaobservacaoCadastroContra;
     private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField jTextField10;
     private javax.swing.JTextField jTextField17;

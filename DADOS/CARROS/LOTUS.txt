@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Lotus", "fipe_name": "Elan S-2 1.6 16V", "marca": "LOTUS", "key": "elan-1481", "id": "1481", "name": "Elan S-2 1.6 16V"
+}
+, {"fipe_marca": "Lotus", "fipe_name": "Esprit S-4 2.2 16V", "marca": "LOTUS", "key": "esprit-1482", "id": "1482", "name": "Esprit S-4 2.2 16V"
+}
+]

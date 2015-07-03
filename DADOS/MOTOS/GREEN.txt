@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "GREEN", "fipe_name": "EASY 110cc", "marca": "GREEN", "key": "easy-4366", "id": "4366", "name": "EASY 110cc"
+}
+, {"fipe_marca": "GREEN", "fipe_name": "RUNNER 125cc", "marca": "GREEN", "key": "runner-4367", "id": "4367", "name": "RUNNER 125cc"
+}
+, {"fipe_marca": "GREEN", "fipe_name": "SAFARI 150cc", "marca": "GREEN", "key": "safari-4368", "id": "4368", "name": "SAFARI 150cc"
+}
+, {"fipe_marca": "GREEN", "fipe_name": "SPORT 150cc", "marca": "GREEN", "key": "sport-4369", "id": "4369", "name": "SPORT 150cc"
+}
+]

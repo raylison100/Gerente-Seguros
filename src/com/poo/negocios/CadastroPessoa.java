@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import com.poo.dados.IRepositorioPessoa;
 import com.poo.dados.RepositorioPessoa;
+import com.poo.execoes.CPFCadastradoExeception;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.execoes.SenhaIncorretaExeception;
@@ -27,7 +28,7 @@ public class CadastroPessoa {
 	}
 
 	public void cadatrar(Pessoa c) throws IOException,
-			CadatroPessoaExistenteExeception{
+			CadatroPessoaExistenteExeception, CPFCadastradoExeception{
 		this.repositorio.cadastra(c);
 
 	}

@@ -1,0 +1,242 @@
+{"contador" = "120"}
+[{"fipe_marca": "HONDA", "name": "AMERICA CLASSIC 1600", "marca": "HONDA", "key": "america-2763", "id": "2763", "fipe_name": "AMERICA CLASSIC 1600"
+}
+, {"fipe_marca": "HONDA", "name": "BIZ 125 ES ES F.INJ.ES MIX F.INJECTION", "marca": "HONDA", "key": "biz-3841", "id": "3841", "fipe_name": "BIZ 125 ES ES F.INJ.ES MIX F.INJECTION"
+}
+, {"fipe_marca": "HONDA", "name": "BIZ 125 EX 125 EX FLEX", "marca": "HONDA", "key": "biz-5515", "id": "5515", "fipe_name": "BIZ 125 EX 125 EX FLEX"
+}
+, {"fipe_marca": "HONDA", "name": "BIZ 125 KS KS F.INJ.KS MIX F.INJECTION", "marca": "HONDA", "key": "biz-3842", "id": "3842", "fipe_name": "BIZ 125 KS KS F.INJ.KS MIX F.INJECTION"
+}
+, {"fipe_marca": "HONDA", "name": "BIZ 125+", "marca": "HONDA", "key": "biz-3963", "id": "3963", "fipe_name": "BIZ 125+"
+}
+, {"fipe_marca": "HONDA", "name": "C 100 BIZ 100 BIZ KS", "marca": "HONDA", "key": "c-2764", "id": "2764", "fipe_name": "C 100 BIZ 100 BIZ KS"
+}
+, {"fipe_marca": "HONDA", "name": "C 100 BIZ+", "marca": "HONDA", "key": "c-2765", "id": "2765", "fipe_name": "C 100 BIZ+"
+}
+, {"fipe_marca": "HONDA", "name": "C 100 BIZ-ES", "marca": "HONDA", "key": "c-2766", "id": "2766", "fipe_name": "C 100 BIZ-ES"
+}
+, {"fipe_marca": "HONDA", "name": "C 100 DREAM", "marca": "HONDA", "key": "c-2767", "id": "2767", "fipe_name": "C 100 DREAM"
+}
+, {"fipe_marca": "HONDA", "name": "CB 1000R", "marca": "HONDA", "key": "cb-5679", "id": "5679", "fipe_name": "CB 1000R"
+}
+, {"fipe_marca": "HONDA", "name": "CB 300R 300R FLEX", "marca": "HONDA", "key": "cb-4939", "id": "4939", "fipe_name": "CB 300R 300R FLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CB 450 DX", "marca": "HONDA", "key": "cb-2768", "id": "2768", "fipe_name": "CB 450 DX"
+}
+, {"fipe_marca": "HONDA", "name": "CB 500", "marca": "HONDA", "key": "cb-2769", "id": "2769", "fipe_name": "CB 500"
+}
+, {"fipe_marca": "HONDA", "name": "CB 500F", "marca": "HONDA", "key": "cb-6619", "id": "6619", "fipe_name": "CB 500F"
+}
+, {"fipe_marca": "HONDA", "name": "CB 500X", "marca": "HONDA", "key": "cb-6821", "id": "6821", "fipe_name": "CB 500X"
+}
+, {"fipe_marca": "HONDA", "name": "CB 600F Hornet", "marca": "HONDA", "key": "cb-2770", "id": "2770", "fipe_name": "CB 600F Hornet"
+}
+, {"fipe_marca": "HONDA", "name": "CB 650F", "marca": "HONDA", "key": "cb-7058", "id": "7058", "fipe_name": "CB 650F"
+}
+, {"fipe_marca": "HONDA", "name": "CB1300 SUPER FOUR", "marca": "HONDA", "key": "cb1300-4412", "id": "4412", "fipe_name": "CB1300 SUPER FOUR"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 1000 F", "marca": "HONDA", "key": "cbr-2771", "id": "2771", "fipe_name": "CBR 1000 F"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 1000 RR Fire Blade", "marca": "HONDA", "key": "cbr-2772", "id": "2772", "fipe_name": "CBR 1000 RR Fire Blade"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 1100 XX Super Blackbird", "marca": "HONDA", "key": "cbr-2773", "id": "2773", "fipe_name": "CBR 1100 XX Super Blackbird"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 250R", "marca": "HONDA", "key": "cbr-6041", "id": "6041", "fipe_name": "CBR 250R"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 450", "marca": "HONDA", "key": "cbr-2774", "id": "2774", "fipe_name": "CBR 450"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 450 SR", "marca": "HONDA", "key": "cbr-2775", "id": "2775", "fipe_name": "CBR 450 SR"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 500R", "marca": "HONDA", "key": "cbr-6676", "id": "6676", "fipe_name": "CBR 500R"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 600 F", "marca": "HONDA", "key": "cbr-2776", "id": "2776", "fipe_name": "CBR 600 F"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 600 RR", "marca": "HONDA", "key": "cbr-2777", "id": "2777", "fipe_name": "CBR 600 RR"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 650F", "marca": "HONDA", "key": "cbr-7059", "id": "7059", "fipe_name": "CBR 650F"
+}
+, {"fipe_marca": "HONDA", "name": "CBR 900 RR Fire Blade", "marca": "HONDA", "key": "cbr-2778", "id": "2778", "fipe_name": "CBR 900 RR Fire Blade"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 150 AERO", "marca": "HONDA", "key": "cbx-2779", "id": "2779", "fipe_name": "CBX 150 AERO"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 200 STRADA", "marca": "HONDA", "key": "cbx-2780", "id": "2780", "fipe_name": "CBX 200 STRADA"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 250 TWISTER", "marca": "HONDA", "key": "cbx-2781", "id": "2781", "fipe_name": "CBX 250 TWISTER"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 750 FOUR", "marca": "HONDA", "key": "cbx-2782", "id": "2782", "fipe_name": "CBX 750 FOUR"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 750 FOUR INDY", "marca": "HONDA", "key": "cbx-2783", "id": "2783", "fipe_name": "CBX 750 FOUR INDY"
+}
+, {"fipe_marca": "HONDA", "name": "CBX 750 R", "marca": "HONDA", "key": "cbx-2784", "id": "2784", "fipe_name": "CBX 750 R"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125", "marca": "HONDA", "key": "cg-2785", "id": "2785", "fipe_name": "CG 125"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 CARGO ES", "marca": "HONDA", "key": "cg-4913", "id": "4913", "fipe_name": "CG 125 CARGO ES"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 CARGO ESD", "marca": "HONDA", "key": "cg-6875", "id": "6875", "fipe_name": "CG 125 CARGO ESD"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 CARGO CARGO KS", "marca": "HONDA", "key": "cg-2786", "id": "2786", "fipe_name": "CG 125 CARGO CARGO KS"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 FAN  FAN KS", "marca": "HONDA", "key": "cg-2787", "id": "2787", "fipe_name": "CG 125 FAN  FAN KS"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 FAN ES", "marca": "HONDA", "key": "cg-4842", "id": "4842", "fipe_name": "CG 125 FAN ES"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 FAN ESD", "marca": "HONDA", "key": "cg-6567", "id": "6567", "fipe_name": "CG 125 FAN ESD"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 TITAN", "marca": "HONDA", "key": "cg-2788", "id": "2788", "fipe_name": "CG 125 TITAN"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 TITAN-ES", "marca": "HONDA", "key": "cg-2789", "id": "2789", "fipe_name": "CG 125 TITAN-ES"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 TITAN-KS", "marca": "HONDA", "key": "cg-2790", "id": "2790", "fipe_name": "CG 125 TITAN-KS"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 TITAN-KSE", "marca": "HONDA", "key": "cg-2791", "id": "2791", "fipe_name": "CG 125 TITAN-KSE"
+}
+, {"fipe_marca": "HONDA", "name": "CG 125 TODAY", "marca": "HONDA", "key": "cg-2792", "id": "2792", "fipe_name": "CG 125 TODAY"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 CARGO ESD FLEX", "marca": "HONDA", "key": "cg-6876", "id": "6876", "fipe_name": "CG 150 CARGO ESD FLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 FAN ESDi 150 FAN ESDi FLEX", "marca": "HONDA", "key": "cg-5432", "id": "5432", "fipe_name": "CG 150 FAN ESDi 150 FAN ESDi FLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 FAN ESi 150 FAN ESi FLEX", "marca": "HONDA", "key": "cg-5095", "id": "5095", "fipe_name": "CG 150 FAN ESi 150 FAN ESi FLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 Sport", "marca": "HONDA", "key": "cg-2793", "id": "2793", "fipe_name": "CG 150 Sport"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 Start FLEXone", "marca": "HONDA", "key": "cg-7108", "id": "7108", "fipe_name": "CG 150 Start FLEXone"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-ES", "marca": "HONDA", "key": "cg-2794", "id": "2794", "fipe_name": "CG 150 TITAN-ES"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-ES MIX", "marca": "HONDA", "key": "cg-4914", "id": "4914", "fipe_name": "CG 150 TITAN-ES MIX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-ESD MIXFLEX", "marca": "HONDA", "key": "cg-4915", "id": "4915", "fipe_name": "CG 150 TITAN-ESD MIXFLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-ESD TITAN SPECIAL EDITION", "marca": "HONDA", "key": "cg-2795", "id": "2795", "fipe_name": "CG 150 TITAN-ESD TITAN SPECIAL EDITION"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-EX MIXFLEX", "marca": "HONDA", "key": "cg-5051", "id": "5051", "fipe_name": "CG 150 TITAN-EX MIXFLEX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-KS MIX", "marca": "HONDA", "key": "cg-4916", "id": "4916", "fipe_name": "CG 150 TITAN-KS MIX"
+}
+, {"fipe_marca": "HONDA", "name": "CG 150 TITAN-KS TITAN-JOB", "marca": "HONDA", "key": "cg-2796", "id": "2796", "fipe_name": "CG 150 TITAN-KS TITAN-JOB"
+}
+, {"fipe_marca": "HONDA", "name": "CH 125-R SPACY", "marca": "HONDA", "key": "ch-2797", "id": "2797", "fipe_name": "CH 125-R SPACY"
+}
+, {"fipe_marca": "HONDA", "name": "CR 125", "marca": "HONDA", "key": "cr-2798", "id": "2798", "fipe_name": "CR 125"
+}
+, {"fipe_marca": "HONDA", "name": "CR 250", "marca": "HONDA", "key": "cr-2799", "id": "2799", "fipe_name": "CR 250"
+}
+, {"fipe_marca": "HONDA", "name": "CR 80", "marca": "HONDA", "key": "cr-2800", "id": "2800", "fipe_name": "CR 80"
+}
+, {"fipe_marca": "HONDA", "name": "CRF 110F", "marca": "HONDA", "key": "crf-6859", "id": "6859", "fipe_name": "CRF 110F"
+}
+, {"fipe_marca": "HONDA", "name": "CRF 150F", "marca": "HONDA", "key": "crf-6195", "id": "6195", "fipe_name": "CRF 150F"
+}
+, {"fipe_marca": "HONDA", "name": "CRF 230 F", "marca": "HONDA", "key": "crf-4446", "id": "4446", "fipe_name": "CRF 230 F"
+}
+, {"fipe_marca": "HONDA", "name": "CRF 250 X", "marca": "HONDA", "key": "crf-4917", "id": "4917", "fipe_name": "CRF 250 X"
+}
+, {"fipe_marca": "HONDA", "name": "CRF 250L", "marca": "HONDA", "key": "crf-6455", "id": "6455", "fipe_name": "CRF 250L"
+}
+, {"fipe_marca": "HONDA", "name": "CTX 700N", "marca": "HONDA", "key": "ctx-6877", "id": "6877", "fipe_name": "CTX 700N"
+}
+, {"fipe_marca": "HONDA", "name": "DOMINATOR 650", "marca": "HONDA", "key": "dominator-2801", "id": "2801", "fipe_name": "DOMINATOR 650"
+}
+, {"fipe_marca": "HONDA", "name": "GOLD WING 1500 1800", "marca": "HONDA", "key": "gold-2802", "id": "2802", "fipe_name": "GOLD WING 1500 1800"
+}
+, {"fipe_marca": "HONDA", "name": "LEAD 110", "marca": "HONDA", "key": "lead-4994", "id": "4994", "fipe_name": "LEAD 110"
+}
+, {"fipe_marca": "HONDA", "name": "MAGNA 750", "marca": "HONDA", "key": "magna-2803", "id": "2803", "fipe_name": "MAGNA 750"
+}
+, {"fipe_marca": "HONDA", "name": "NC 700 X 700X ABS", "marca": "HONDA", "key": "nc-6135", "id": "6135", "fipe_name": "NC 700 X 700X ABS"
+}
+, {"fipe_marca": "HONDA", "name": "NC 750XNC 750X ABS", "marca": "HONDA", "key": "nc-7174", "id": "7174", "fipe_name": "NC 750XNC 750X ABS"
+}
+, {"fipe_marca": "HONDA", "name": "NX 150", "marca": "HONDA", "key": "nx-2804", "id": "2804", "fipe_name": "NX 150"
+}
+, {"fipe_marca": "HONDA", "name": "NX 200", "marca": "HONDA", "key": "nx-2805", "id": "2805", "fipe_name": "NX 200"
+}
+, {"fipe_marca": "HONDA", "name": "NX 350 SAHARA", "marca": "HONDA", "key": "nx-2806", "id": "2806", "fipe_name": "NX 350 SAHARA"
+}
+, {"fipe_marca": "HONDA", "name": "NX 400i FALCON", "marca": "HONDA", "key": "nx-6252", "id": "6252", "fipe_name": "NX 400i FALCON"
+}
+, {"fipe_marca": "HONDA", "name": "NX-4 FALCON 400", "marca": "HONDA", "key": "nx-4-2807", "id": "2807", "fipe_name": "NX-4 FALCON 400"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 125 Bros ES", "marca": "HONDA", "key": "nxr-2808", "id": "2808", "fipe_name": "NXR 125 Bros ES"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 125 Bros KS", "marca": "HONDA", "key": "nxr-2809", "id": "2809", "fipe_name": "NXR 125 Bros KS"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros ES", "marca": "HONDA", "key": "nxr-3843", "id": "3843", "fipe_name": "NXR 150 Bros ES"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros ES MIXFLEX", "marca": "HONDA", "key": "nxr-5136", "id": "5136", "fipe_name": "NXR 150 Bros ES MIXFLEX"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros ESD", "marca": "HONDA", "key": "nxr-2810", "id": "2810", "fipe_name": "NXR 150 Bros ESD"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros ESD MIXFLEX", "marca": "HONDA", "key": "nxr-5137", "id": "5137", "fipe_name": "NXR 150 Bros ESD MIXFLEX"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros KS", "marca": "HONDA", "key": "nxr-3844", "id": "3844", "fipe_name": "NXR 150 Bros KS"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 150 Bros KS MIXFLEX", "marca": "HONDA", "key": "nxr-5138", "id": "5138", "fipe_name": "NXR 150 Bros KS MIXFLEX"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 160 Bros ESD FLEXone", "marca": "HONDA", "key": "nxr-7109", "id": "7109", "fipe_name": "NXR 160 Bros ESD FLEXone"
+}
+, {"fipe_marca": "HONDA", "name": "NXR 160 Bros ESDD FLEXone", "marca": "HONDA", "key": "nxr-7110", "id": "7110", "fipe_name": "NXR 160 Bros ESDD FLEXone"
+}
+, {"fipe_marca": "HONDA", "name": "PCX 150", "marca": "HONDA", "key": "pcx-6473", "id": "6473", "fipe_name": "PCX 150"
+}
+, {"fipe_marca": "HONDA", "name": "POP 100 97cc", "marca": "HONDA", "key": "pop-4264", "id": "4264", "fipe_name": "POP 100 97cc"
+}
+, {"fipe_marca": "HONDA", "name": "SHADOW 1100 AC", "marca": "HONDA", "key": "shadow-2811", "id": "2811", "fipe_name": "SHADOW 1100 AC"
+}
+, {"fipe_marca": "HONDA", "name": "SHADOW 1100 OURO", "marca": "HONDA", "key": "shadow-2812", "id": "2812", "fipe_name": "SHADOW 1100 OURO"
+}
+, {"fipe_marca": "HONDA", "name": "SHADOW AM 750", "marca": "HONDA", "key": "shadow-2813", "id": "2813", "fipe_name": "SHADOW AM 750"
+}
+, {"fipe_marca": "HONDA", "name": "SHADOW VT 1100", "marca": "HONDA", "key": "shadow-2814", "id": "2814", "fipe_name": "SHADOW VT 1100"
+}
+, {"fipe_marca": "HONDA", "name": "SUPER HAWK 1000", "marca": "HONDA", "key": "super-2815", "id": "2815", "fipe_name": "SUPER HAWK 1000"
+}
+, {"fipe_marca": "HONDA", "name": "TRX 350 Fourtrax FM Quadriciclo", "marca": "HONDA", "key": "trx-2816", "id": "2816", "fipe_name": "TRX 350 Fourtrax FM Quadriciclo"
+}
+, {"fipe_marca": "HONDA", "name": "TRX 350 Fourtrax TM Quadriciclo", "marca": "HONDA", "key": "trx-2817", "id": "2817", "fipe_name": "TRX 350 Fourtrax TM Quadriciclo"
+}
+, {"fipe_marca": "HONDA", "name": "TRX 420 Fourtrax  FM 4x4 Quadriciclo", "marca": "HONDA", "key": "trx-4708", "id": "4708", "fipe_name": "TRX 420 Fourtrax  FM 4x4 Quadriciclo"
+}
+, {"fipe_marca": "HONDA", "name": "TRX 420 Fourtrax  TM 4x2 Quadriciclo", "marca": "HONDA", "key": "trx-4709", "id": "4709", "fipe_name": "TRX 420 Fourtrax  TM 4x2 Quadriciclo"
+}
+, {"fipe_marca": "HONDA", "name": "VALKYRIE 1500", "marca": "HONDA", "key": "valkyrie-2818", "id": "2818", "fipe_name": "VALKYRIE 1500"
+}
+, {"fipe_marca": "HONDA", "name": "VFR 1200F", "marca": "HONDA", "key": "vfr-5562", "id": "5562", "fipe_name": "VFR 1200F"
+}
+, {"fipe_marca": "HONDA", "name": "VFR 1200X CROSSTOURER", "marca": "HONDA", "key": "vfr-6311", "id": "6311", "fipe_name": "VFR 1200X CROSSTOURER"
+}
+, {"fipe_marca": "HONDA", "name": "VT 600 C SHADOW", "marca": "HONDA", "key": "vt-2819", "id": "2819", "fipe_name": "VT 600 C SHADOW"
+}
+, {"fipe_marca": "HONDA", "name": "VT 750 SHADOW", "marca": "HONDA", "key": "vt-3918", "id": "3918", "fipe_name": "VT 750 SHADOW"
+}
+, {"fipe_marca": "HONDA", "name": "VTX 1800R 1800S 1800C 1795cc", "marca": "HONDA", "key": "vtx-2820", "id": "2820", "fipe_name": "VTX 1800R 1800S 1800C 1795cc"
+}
+, {"fipe_marca": "HONDA", "name": "XL 1000V VARADERO", "marca": "HONDA", "key": "xl-4447", "id": "4447", "fipe_name": "XL 1000V VARADERO"
+}
+, {"fipe_marca": "HONDA", "name": "XL 125 DUTY", "marca": "HONDA", "key": "xl-2821", "id": "2821", "fipe_name": "XL 125 DUTY"
+}
+, {"fipe_marca": "HONDA", "name": "XL 125 S", "marca": "HONDA", "key": "xl-2822", "id": "2822", "fipe_name": "XL 125 S"
+}
+, {"fipe_marca": "HONDA", "name": "XL 700V TRANSALP", "marca": "HONDA", "key": "xl-5546", "id": "5546", "fipe_name": "XL 700V TRANSALP"
+}
+, {"fipe_marca": "HONDA", "name": "XLR 125", "marca": "HONDA", "key": "xlr-2823", "id": "2823", "fipe_name": "XLR 125"
+}
+, {"fipe_marca": "HONDA", "name": "XLR 125 ES", "marca": "HONDA", "key": "xlr-2824", "id": "2824", "fipe_name": "XLR 125 ES"
+}
+, {"fipe_marca": "HONDA", "name": "XLX 250 R", "marca": "HONDA", "key": "xlx-2825", "id": "2825", "fipe_name": "XLX 250 R"
+}
+, {"fipe_marca": "HONDA", "name": "XLX 350 R", "marca": "HONDA", "key": "xlx-2826", "id": "2826", "fipe_name": "XLX 350 R"
+}
+, {"fipe_marca": "HONDA", "name": "XR 200 R", "marca": "HONDA", "key": "xr-2827", "id": "2827", "fipe_name": "XR 200 R"
+}
+, {"fipe_marca": "HONDA", "name": "XR 250 TORNADO", "marca": "HONDA", "key": "xr-2828", "id": "2828", "fipe_name": "XR 250 TORNADO"
+}
+, {"fipe_marca": "HONDA", "name": "XR 650", "marca": "HONDA", "key": "xr-2829", "id": "2829", "fipe_name": "XR 650"
+}
+, {"fipe_marca": "HONDA", "name": "XRE 300 RALLY", "marca": "HONDA", "key": "xre-6720", "id": "6720", "fipe_name": "XRE 300 RALLY"
+}
+, {"fipe_marca": "HONDA", "name": "XRE 300 300 ABS Flex", "marca": "HONDA", "key": "xre-4940", "id": "4940", "fipe_name": "XRE 300 300 ABS Flex"
+}
+]

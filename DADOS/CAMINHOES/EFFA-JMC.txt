@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "EFFA-JMC", "fipe_name": "JBC 3.2 TURBO INTERCOOLER 2p (diesel)", "marca": "EFFA-JMC", "key": "jbc-5682", "id": "5682", "name": "JBC 3.2 TURBO INTERCOOLER 2p (diesel)"
+}
+, {"fipe_marca": "EFFA-JMC", "fipe_name": "N601 2.8 2p (diesel)", "marca": "EFFA-JMC", "key": "n601-5566", "id": "5566", "name": "N601 2.8 2p (diesel)"
+}
+, {"fipe_marca": "EFFA-JMC", "fipe_name": "N900 2.8 2p (diesel)", "marca": "EFFA-JMC", "key": "n900-5567", "id": "5567", "name": "N900 2.8 2p (diesel)"
+}
+]

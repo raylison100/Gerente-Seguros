@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BETA", "fipe_name": "MX-50 CROSS 50cc", "marca": "BETA", "key": "mx-50-2619", "id": "2619", "name": "MX-50 CROSS 50cc"
+}
+, {"fipe_marca": "BETA", "fipe_name": "MX-50 ENDURO 50cc", "marca": "BETA", "key": "mx-50-2620", "id": "2620", "name": "MX-50 ENDURO 50cc"
+}
+]

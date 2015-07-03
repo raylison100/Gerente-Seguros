@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "BMW", "key": "2012-2012-1", "veiculo": "Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p", "id": "2012-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "BMW", "key": "2011-2011-1", "veiculo": "Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p", "id": "2011-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "BMW", "key": "2010-2010-1", "veiculo": "Z4 Roadster sDRIVE 23i 2.5 24V 204cv 2p", "id": "2010-1"
+}
+]

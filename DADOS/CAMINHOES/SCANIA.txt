@@ -1,0 +1,466 @@
+{"contador" = "232"}
+[{"fipe_marca": "SCANIA", "fipe_name": "G-360 A 4x2 (diesel)(E5)", "marca": "SCANIA", "key": "g-360-5921", "id": "5921", "name": "G-360 A 4x2 (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-360 A 4x2 3-EixosA 6x2 2p (dies.)(E5)", "marca": "SCANIA", "key": "g-360-5920", "id": "5920", "name": "G-360 A 4x2 3-EixosA 6x2 2p (dies.)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-380 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "g-380-4596", "id": "4596", "name": "G-380 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-380 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "g-380-4597", "id": "4597", "name": "G-380 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-400 A 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-400-5822", "id": "5822", "name": "G-400 A 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-400 A 4x2 3-EixosA 6x2 2p(dies.) (E5)", "marca": "SCANIA", "key": "g-400-5823", "id": "5823", "name": "G-400 A 4x2 3-EixosA 6x2 2p(dies.) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-400 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-400-5808", "id": "5808", "name": "G-400 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-400 B 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-400-5804", "id": "5804", "name": "G-400 B 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-420 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "g-420-4598", "id": "4598", "name": "G-420 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-420 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "g-420-4599", "id": "4599", "name": "G-420 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-420 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "g-420-4600", "id": "4600", "name": "G-420 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-420 B 6x4 2p (diesel)", "marca": "SCANIA", "key": "g-420-4918", "id": "4918", "name": "G-420 B 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-420 B 8x4 2p (diesel)", "marca": "SCANIA", "key": "g-420-5321", "id": "5321", "name": "G-420 B 8x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "g-440-4601", "id": "4601", "name": "G-440 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 4x2 2p (diesel)(E5)", "marca": "SCANIA", "key": "g-440-6412", "id": "6412", "name": "G-440 A 4x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "g-440-4602", "id": "4602", "name": "G-440 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 6x2 2p (diesel)(E5)", "marca": "SCANIA", "key": "g-440-6030", "id": "6030", "name": "G-440 A 6x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "g-440-4603", "id": "4603", "name": "G-440 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-440-5809", "id": "5809", "name": "G-440 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 B 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-440-5805", "id": "5805", "name": "G-440 B 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 B 8x4 2p (diesel)", "marca": "SCANIA", "key": "g-440-5322", "id": "5322", "name": "G-440 B 8x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-440 B 8x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-440-5806", "id": "5806", "name": "G-440 B 8x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-470 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "g-470-4604", "id": "4604", "name": "G-470 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-470 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "g-470-4605", "id": "4605", "name": "G-470 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-470 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "g-470-4606", "id": "4606", "name": "G-470 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-470 B 6x4 2p (diesel)", "marca": "SCANIA", "key": "g-470-4957", "id": "4957", "name": "G-470 B 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-470 B 8x4 2p (diesel)", "marca": "SCANIA", "key": "g-470-4625", "id": "4625", "name": "G-470 B 8x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-480 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-480-5798", "id": "5798", "name": "G-480 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "G-480 B 8x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "g-480-5807", "id": "5807", "name": "G-480 B 8x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "L-111 2p (diesel)", "marca": "SCANIA", "key": "l-111-3527", "id": "3527", "name": "L-111 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "L-141 2p (diesel)", "marca": "SCANIA", "key": "l-141-3528", "id": "3528", "name": "L-141 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 CA 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3529", "id": "3529", "name": "P-114 CA 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 CB 330 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3530", "id": "3530", "name": "P-114 CB 330 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 CB 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3531", "id": "3531", "name": "P-114 CB 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 GA 320 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3532", "id": "3532", "name": "P-114 GA 320 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 GA 330 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3533", "id": "3533", "name": "P-114 GA 330 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 GA 340 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3922", "id": "3922", "name": "P-114 GA 340 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 GA 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-4607", "id": "4607", "name": "P-114 GA 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 GB 330 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-114-3534", "id": "3534", "name": "P-114 GB 330 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-114 LA 340 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "p-114-3923", "id": "3923", "name": "P-114 LA 340 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CA 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3535", "id": "3535", "name": "P-124 CA 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CA 400 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3536", "id": "3536", "name": "P-124 CA 400 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CA 420 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3537", "id": "3537", "name": "P-124 CA 420 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3538", "id": "3538", "name": "P-124 CB 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 360 8x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3539", "id": "3539", "name": "P-124 CB 360 8x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 400 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3540", "id": "3540", "name": "P-124 CB 400 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 400 8x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3541", "id": "3541", "name": "P-124 CB 400 8x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 420 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3542", "id": "3542", "name": "P-124 CB 420 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 CB 420 8X4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3924", "id": "3924", "name": "P-124 CB 420 8X4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 GA 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-124-3543", "id": "3543", "name": "P-124 GA 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 GA 420 6X4 NA 2p (diesel)", "marca": "SCANIA", "key": "p-124-5606", "id": "5606", "name": "P-124 GA 420 6X4 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 LA 360 6x2 Na 2p (diesel)", "marca": "SCANIA", "key": "p-124-6228", "id": "6228", "name": "P-124 LA 360 6x2 Na 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-124 LA 420 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "p-124-4153", "id": "4153", "name": "P-124 LA 420 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-230 B 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-230-4884", "id": "4884", "name": "P-230 B 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-250 B 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-250-5799", "id": "5799", "name": "P-250 B 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-250 B 6x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-250-5800", "id": "5800", "name": "P-250 B 6x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-250 B 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-250-5811", "id": "5811", "name": "P-250 B 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-250 B 8x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-250-5801", "id": "5801", "name": "P-250 B 8x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-250 B 8x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-250-5812", "id": "5812", "name": "P-250 B 8x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-270 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-270-4608", "id": "4608", "name": "P-270 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-270 B 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-270-4885", "id": "4885", "name": "P-270 B 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-270 B 6x2 2p (diesel)", "marca": "SCANIA", "key": "p-270-4886", "id": "4886", "name": "P-270 B 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-310-4609", "id": "4609", "name": "P-310 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 A 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-310-5829", "id": "5829", "name": "P-310 A 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 4x2 2p (diesel)(E5)", "marca": "SCANIA", "key": "p-310-6572", "id": "6572", "name": "P-310 B 4x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 6x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-310-6031", "id": "6031", "name": "P-310 B 6x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 6x4 2p (diesel)", "marca": "SCANIA", "key": "p-310-4610", "id": "4610", "name": "P-310 B 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-310-5813", "id": "5813", "name": "P-310 B 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 8x2 (diesel) (E5)", "marca": "SCANIA", "key": "p-310-5802", "id": "5802", "name": "P-310 B 8x2 (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 8X2 2p (diesel)", "marca": "SCANIA", "key": "p-310-5828", "id": "5828", "name": "P-310 B 8X2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 8x4 2p (diesel)", "marca": "SCANIA", "key": "p-310-4611", "id": "4611", "name": "P-310 B 8x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-310 B 8x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-310-5814", "id": "5814", "name": "P-310 B 8x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-340 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-340-4612", "id": "4612", "name": "P-340 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-340 A 6x2 2p (diesel)", "marca": "SCANIA", "key": "p-340-5019", "id": "5019", "name": "P-340 A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-340 B 6x4 2p (diesel)", "marca": "SCANIA", "key": "p-340-5573", "id": "5573", "name": "P-340 B 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-360 A 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-360-5830", "id": "5830", "name": "P-360 A 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-360 A 6x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-360-5831", "id": "5831", "name": "P-360 A 6x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-360 B 6x2 2p (diesel)(E5)", "marca": "SCANIA", "key": "p-360-6949", "id": "6949", "name": "P-360 B 6x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-360 B 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "p-360-5815", "id": "5815", "name": "P-360 B 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-420 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "p-420-4613", "id": "4613", "name": "P-420 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-420 B 6x4 2p (diesel)", "marca": "SCANIA", "key": "p-420-4614", "id": "4614", "name": "P-420 B 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-420 B 8x4 2p (diesel)", "marca": "SCANIA", "key": "p-420-4626", "id": "4626", "name": "P-420 B 8x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-93 H 250 4x2 2p (diesel)", "marca": "SCANIA", "key": "p-93-3544", "id": "3544", "name": "P-93 H 250 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 CB 260 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3545", "id": "3545", "name": "P-94 CB 260 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 CB 270 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3546", "id": "3546", "name": "P-94 CB 270 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 CB 310 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3547", "id": "3547", "name": "P-94 CB 310 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 220 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3548", "id": "3548", "name": "P-94 DB 220 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 230 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3549", "id": "3549", "name": "P-94 DB 230 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 260 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3550", "id": "3550", "name": "P-94 DB 260 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 260 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "p-94-3551", "id": "3551", "name": "P-94 DB 260 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 270 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3552", "id": "3552", "name": "P-94 DB 270 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 DB 270 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "p-94-3553", "id": "3553", "name": "P-94 DB 270 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 GA 260 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3554", "id": "3554", "name": "P-94 GA 260 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 GA 270 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3925", "id": "3925", "name": "P-94 GA 270 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 GA 300 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3555", "id": "3555", "name": "P-94 GA 300 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 GA 310 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-3556", "id": "3556", "name": "P-94 GA 310 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "P-94 GB 230 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "p-94-4254", "id": "4254", "name": "P-94 GB 230 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 E 310 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-113-3557", "id": "3557", "name": "R-113 E 310 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 E 320 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-113-3558", "id": "3558", "name": "R-113 E 320 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 E 360 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-113-3559", "id": "3559", "name": "R-113 E 360 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 H 320 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-113-3560", "id": "3560", "name": "R-113 H 320 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 H 360 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-113-3561", "id": "3561", "name": "R-113 H 360 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-113 H 360 4x2 Top-Line 2p (diesel)", "marca": "SCANIA", "key": "r-113-3562", "id": "3562", "name": "R-113 H 360 4x2 Top-Line 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GA 320 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3563", "id": "3563", "name": "R-114 GA 320 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GA 330 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3564", "id": "3564", "name": "R-114 GA 330 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GA 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3565", "id": "3565", "name": "R-114 GA 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GA 380 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3566", "id": "3566", "name": "R-114 GA 380 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GA 380 6x2 NZ 4x2 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-114-3567", "id": "3567", "name": "R-114 GA 380 6x2 NZ 4x2 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GB 320 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3568", "id": "3568", "name": "R-114 GB 320 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GB 330 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-114-3569", "id": "3569", "name": "R-114 GB 330 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 GB 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-114-3570", "id": "3570", "name": "R-114 GB 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 LA 380 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-114-4269", "id": "4269", "name": "R-114 LA 380 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-114 LA 380 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-114-3571", "id": "3571", "name": "R-114 LA 380 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 360 4x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "r-124-3572", "id": "3572", "name": "R-124 GA 360 4x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 360 6x2 NZ 4x2 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-124-3926", "id": "3926", "name": "R-124 GA 360 6x2 NZ 4x2 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3573", "id": "3573", "name": "R-124 GA 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 400 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3574", "id": "3574", "name": "R-124 GA 400 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 400 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3575", "id": "3575", "name": "R-124 GA 400 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 420 4x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "r-124-3576", "id": "3576", "name": "R-124 GA 420 4x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 420 6x2 NZ 4x2 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-124-3927", "id": "3927", "name": "R-124 GA 420 6x2 NZ 4x2 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 420 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3577", "id": "3577", "name": "R-124 GA 420 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GA 470 6x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-4449", "id": "4449", "name": "R-124 GA 470 6x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GB 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3578", "id": "3578", "name": "R-124 GB 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GB 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3579", "id": "3579", "name": "R-124 GB 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GB 400 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3580", "id": "3580", "name": "R-124 GB 400 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 GB 420 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-124-3581", "id": "3581", "name": "R-124 GB 420 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 360 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3582", "id": "3582", "name": "R-124 LA 360 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 360 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3583", "id": "3583", "name": "R-124 LA 360 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 400 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3584", "id": "3584", "name": "R-124 LA 400 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 400 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3585", "id": "3585", "name": "R-124 LA 400 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 420 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3586", "id": "3586", "name": "R-124 LA 420 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 420 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3587", "id": "3587", "name": "R-124 LA 420 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-124 LA 420 6x4 NA 2p (diesel)", "marca": "SCANIA", "key": "r-124-3588", "id": "3588", "name": "R-124 LA 420 6x4 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-143 E 450 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-143-3589", "id": "3589", "name": "R-143 E 450 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-143 H 450 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-143-3590", "id": "3590", "name": "R-143 H 450 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-164 CA 480 8x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-164-3591", "id": "3591", "name": "R-164 CA 480 8x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-164 GA 480 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-164-3592", "id": "3592", "name": "R-164 GA 480 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-164 GA 480 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "r-164-3593", "id": "3593", "name": "R-164 GA 480 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-164 LA 480 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "r-164-3594", "id": "3594", "name": "R-164 LA 480 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-380 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-380-5206", "id": "5206", "name": "R-380 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-380 A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-380-5207", "id": "5207", "name": "R-380 A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-400 A 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-400-5944", "id": "5944", "name": "R-400 A 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-400 A 4x2 3-EixosA 6x2 2p (dies.)(E5)", "marca": "SCANIA", "key": "r-400-5919", "id": "5919", "name": "R-400 A 4x2 3-EixosA 6x2 2p (dies.)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-400 A 4x2 HIGHLINE 2p (diesel)(E5)", "marca": "SCANIA", "key": "r-400-6042", "id": "6042", "name": "R-400 A 4x2 HIGHLINE 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-400 A 6x2 HIGHLINE 2p (diesel)(E5)", "marca": "SCANIA", "key": "r-400-6199", "id": "6199", "name": "R-400 A 6x2 HIGHLINE 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-420-5290", "id": "5290", "name": "R-420 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-420-5231", "id": "5231", "name": "R-420 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 4x2 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-420-5323", "id": "5323", "name": "R-420 A 4x2 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 4x2 HIGHLINE 3-Eixos A 6x2 2p (", "marca": "SCANIA", "key": "r-420-4615", "id": "4615", "name": "R-420 A 4x2 HIGHLINE 3-Eixos A 6x2 2p ("
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-420-5324", "id": "5324", "name": "R-420 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 A 6x4 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-420-4616", "id": "4616", "name": "R-420 A 6x4 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-420-4488", "id": "4488", "name": "R-420 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 LA 6x2 NA HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-420-4489", "id": "4489", "name": "R-420 LA 6x2 NA HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 LA 6x4 HZ HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-420-4490", "id": "4490", "name": "R-420 LA 6x4 HZ HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-420 LA 6x4 NA HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-420-4491", "id": "4491", "name": "R-420 LA 6x4 NA HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-440-5325", "id": "5325", "name": "R-440 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-440-5824", "id": "5824", "name": "R-440 A 4x2 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-440-5326", "id": "5326", "name": "R-440 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 3-EixosA 6x2 2p(dies.) (E5)", "marca": "SCANIA", "key": "r-440-5825", "id": "5825", "name": "R-440 A 4x2 3-EixosA 6x2 2p(dies.) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 HIG. 3-E.A 6x2  (die.) (E5)", "marca": "SCANIA", "key": "r-440-5803", "id": "5803", "name": "R-440 A 4x2 HIG. 3-E.A 6x2  (die.) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 HIGHLINE (diesel)(E5)", "marca": "SCANIA", "key": "r-440-7115", "id": "7115", "name": "R-440 A 4x2 HIGHLINE (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 4x2 HIGHLINE 3-Eixos A 6x2 2p (", "marca": "SCANIA", "key": "r-440-4617", "id": "4617", "name": "R-440 A 4x2 HIGHLINE 3-Eixos A 6x2 2p ("
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-440-5327", "id": "5327", "name": "R-440 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-440-5826", "id": "5826", "name": "R-440 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 6x4 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-440-4618", "id": "4618", "name": "R-440 A 6x4 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 A 6x4 HIGHLINE 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-440-5819", "id": "5819", "name": "R-440 A 6x4 HIGHLINE 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-440 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-440-4492", "id": "4492", "name": "R-440 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 4x2 2p (diesel)", "marca": "SCANIA", "key": "r-470-5328", "id": "5328", "name": "R-470 A 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-470-5329", "id": "5329", "name": "R-470 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 4x2 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-470-5330", "id": "5330", "name": "R-470 A 4x2 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 4x2 HIGHLINE 3-Eixos A 6x2 2p (", "marca": "SCANIA", "key": "r-470-4619", "id": "4619", "name": "R-470 A 4x2 HIGHLINE 3-Eixos A 6x2 2p ("
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-470-5331", "id": "5331", "name": "R-470 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 A 6x4 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-470-4620", "id": "4620", "name": "R-470 A 6x4 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die", "marca": "SCANIA", "key": "r-470-4493", "id": "4493", "name": "R-470 LA 4x2 HZ HIGHLINE 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 LA 6x2 NA HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-470-4494", "id": "4494", "name": "R-470 LA 6x2 NA HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 LA 6x4 HZ HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-470-4495", "id": "4495", "name": "R-470 LA 6x4 HZ HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-470 LA 6x4 NA HIGHLINE  2p (diesel)", "marca": "SCANIA", "key": "r-470-4496", "id": "4496", "name": "R-470 LA 6x4 NA HIGHLINE  2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-480 A 4x2 3-EixosA 6x2 2p(dies.) (E5)", "marca": "SCANIA", "key": "r-480-5827", "id": "5827", "name": "R-480 A 4x2 3-EixosA 6x2 2p(dies.) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-480 A 4x2 HIG. 3-E.A 6x2 (dies.) (E5)", "marca": "SCANIA", "key": "r-480-5797", "id": "5797", "name": "R-480 A 4x2 HIG. 3-E.A 6x2 (dies.) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-480 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-480-5816", "id": "5816", "name": "R-480 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-480 A 6x4 HIGHLINE 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-480-5820", "id": "5820", "name": "R-480 A 6x4 HIGHLINE 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-500-5332", "id": "5332", "name": "R-500 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 A 6x2 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-500-4621", "id": "4621", "name": "R-500 A 6x2 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-500-5333", "id": "5333", "name": "R-500 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 A 6x4 HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-500-4622", "id": "4622", "name": "R-500 A 6x4 HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 LA 6x4 HZ HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-500-4497", "id": "4497", "name": "R-500 LA 6x4 HZ HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-500 LA 6x4 NA HIGHLINE 2p (diesel)", "marca": "SCANIA", "key": "r-500-4498", "id": "4498", "name": "R-500 LA 6x4 NA HIGHLINE 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-560 A 6x2 HIGHLINE (diesel)(E5)", "marca": "SCANIA", "key": "r-560-7146", "id": "7146", "name": "R-560 A 6x2 HIGHLINE (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-560 A 6x4 (diesel) (E5)", "marca": "SCANIA", "key": "r-560-5817", "id": "5817", "name": "R-560 A 6x4 (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-560 A 6x4 HIGHLINE 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-560-5821", "id": "5821", "name": "R-560 A 6x4 HIGHLINE 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-580 A 4x2 3-Eixos A 6x2 2p (diesel)", "marca": "SCANIA", "key": "r-580-5525", "id": "5525", "name": "R-580 A 4x2 3-Eixos A 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-580 A 6x4 2p (diesel)", "marca": "SCANIA", "key": "r-580-5526", "id": "5526", "name": "R-580 A 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-620 A 6x2 2p (diesel)(E5)", "marca": "SCANIA", "key": "r-620-7082", "id": "7082", "name": "R-620 A 6x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-620 A 6x4 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-620-5818", "id": "5818", "name": "R-620 A 6x4 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "R-620 A 6x4 HIGHLINE 2p (diesel) (E5)", "marca": "SCANIA", "key": "r-620-5810", "id": "5810", "name": "R-620 A 6x4 HIGHLINE 2p (diesel) (E5)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-112 MA 320 4x2 2p (diesel)", "marca": "SCANIA", "key": "t-112-3595", "id": "3595", "name": "T-112 MA 320 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 E 310 6x4 2p (diesel)", "marca": "SCANIA", "key": "t-113-3596", "id": "3596", "name": "T-113 E 310 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 E 320 6x4 2p (diesel)", "marca": "SCANIA", "key": "t-113-3597", "id": "3597", "name": "T-113 E 320 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 E 360 6x4 2p (diesel)", "marca": "SCANIA", "key": "t-113-3598", "id": "3598", "name": "T-113 E 360 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 310 4x2 2p (diesel)", "marca": "SCANIA", "key": "t-113-3599", "id": "3599", "name": "T-113 H 310 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 320 4x2 2p (diesel)", "marca": "SCANIA", "key": "t-113-3600", "id": "3600", "name": "T-113 H 320 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 320 4x2 Top-Line 2p (diesel)", "marca": "SCANIA", "key": "t-113-3601", "id": "3601", "name": "T-113 H 320 4x2 Top-Line 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 320 6X2 2p (diesel)", "marca": "SCANIA", "key": "t-113-3602", "id": "3602", "name": "T-113 H 320 6X2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 360 4x2 2p (diesel)", "marca": "SCANIA", "key": "t-113-3603", "id": "3603", "name": "T-113 H 360 4x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 360 4x2 Top-Line 2p (diesel)", "marca": "SCANIA", "key": "t-113-3604", "id": "3604", "name": "T-113 H 360 4x2 Top-Line 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 360 4x2 Top-Line 3-Eixos 2p (die", "marca": "SCANIA", "key": "t-113-3605", "id": "3605", "name": "T-113 H 360 4x2 Top-Line 3-Eixos 2p (die"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-113 H 360 6x2 2p (diesel)", "marca": "SCANIA", "key": "t-113-3606", "id": "3606", "name": "T-113 H 360 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GA 320 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3607", "id": "3607", "name": "T-114 GA 320 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GA 330 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3608", "id": "3608", "name": "T-114 GA 330 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GA 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3609", "id": "3609", "name": "T-114 GA 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GB 320 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3610", "id": "3610", "name": "T-114 GB 320 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GB 330 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3611", "id": "3611", "name": "T-114 GB 330 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-114 GB 360 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-114-3612", "id": "3612", "name": "T-114 GB 360 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 360 4x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "t-124-3613", "id": "3613", "name": "T-124 GA 360 4x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 360 6x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "t-124-5574", "id": "5574", "name": "T-124 GA 360 6x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 360 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3614", "id": "3614", "name": "T-124 GA 360 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 400 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3615", "id": "3615", "name": "T-124 GA 400 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 400 6x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3616", "id": "3616", "name": "T-124 GA 400 6x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 400 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3617", "id": "3617", "name": "T-124 GA 400 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 420 4x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "t-124-3618", "id": "3618", "name": "T-124 GA 420 4x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 420 6x2 NZ 2p (diesel)  Millen", "marca": "SCANIA", "key": "t-124-5575", "id": "5575", "name": "T-124 GA 420 6x2 NZ 2p (diesel)  Millen"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GA 420 6x4 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3619", "id": "3619", "name": "T-124 GA 420 6x4 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GB 400 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3620", "id": "3620", "name": "T-124 GB 400 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 GB 420 4x2 NZ 2p (diesel)", "marca": "SCANIA", "key": "t-124-3621", "id": "3621", "name": "T-124 GB 420 4x2 NZ 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 360 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "t-124-3622", "id": "3622", "name": "T-124 LA 360 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 360 6X2 NA 2p (diesel)", "marca": "SCANIA", "key": "t-124-3623", "id": "3623", "name": "T-124 LA 360 6X2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 400 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "t-124-3624", "id": "3624", "name": "T-124 LA 400 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 400 6x2 NA 2p (diesel)", "marca": "SCANIA", "key": "t-124-3625", "id": "3625", "name": "T-124 LA 400 6x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 420 4x2 NA 2p (diesel)", "marca": "SCANIA", "key": "t-124-3626", "id": "3626", "name": "T-124 LA 420 4x2 NA 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-124 LA 420 6x2 2p (diesel)", "marca": "SCANIA", "key": "t-124-3627", "id": "3627", "name": "T-124 LA 420 6x2 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-143 E 450 6x4 2p (diesel)", "marca": "SCANIA", "key": "t-143-3628", "id": "3628", "name": "T-143 E 450 6x4 2p (diesel)"
+}
+, {"fipe_marca": "SCANIA", "fipe_name": "T-143 H 450 4x2 2p (diesel)", "marca": "SCANIA", "key": "t-143-3629", "id": "3629", "name": "T-143 H 450 4x2 2p (diesel)"
+}
+]

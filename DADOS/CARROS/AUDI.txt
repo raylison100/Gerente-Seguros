@@ -1,0 +1,394 @@
+{"contador" = "196"}
+[{"fipe_marca": "Audi", "name": "100 2.8 V6", "marca": "AUDI", "key": "100-43", "id": "43", "fipe_name": "100 2.8 V6"
+}
+, {"fipe_marca": "Audi", "name": "100 2.8 V6 Avant", "marca": "AUDI", "key": "100-44", "id": "44", "fipe_name": "100 2.8 V6 Avant"
+}
+, {"fipe_marca": "Audi", "name": "100 S-4 2.2 Avant Turbo", "marca": "AUDI", "key": "100-45", "id": "45", "fipe_name": "100 S-4 2.2 Avant Turbo"
+}
+, {"fipe_marca": "Audi", "name": "80 2.0", "marca": "AUDI", "key": "80-46", "id": "46", "fipe_name": "80 2.0"
+}
+, {"fipe_marca": "Audi", "name": "80 2.0 Avant", "marca": "AUDI", "key": "80-47", "id": "47", "fipe_name": "80 2.0 Avant"
+}
+, {"fipe_marca": "Audi", "name": "80 2.6 2.8", "marca": "AUDI", "key": "80-48", "id": "48", "fipe_name": "80 2.6 2.8"
+}
+, {"fipe_marca": "Audi", "name": "80 2.62.8 Avant", "marca": "AUDI", "key": "80-49", "id": "49", "fipe_name": "80 2.62.8 Avant"
+}
+, {"fipe_marca": "Audi", "name": "80 2.8 Cabriolet", "marca": "AUDI", "key": "80-50", "id": "50", "fipe_name": "80 2.8 Cabriolet"
+}
+, {"fipe_marca": "Audi", "name": "80 S2 Avant", "marca": "AUDI", "key": "80-51", "id": "51", "fipe_name": "80 S2 Avant"
+}
+, {"fipe_marca": "Audi", "name": "A1 1.4 TFSI 122cv S-Tronic 3p", "marca": "AUDI", "key": "a1-5496", "id": "5496", "fipe_name": "A1 1.4 TFSI 122cv S-Tronic 3p"
+}
+, {"fipe_marca": "Audi", "name": "A1 2.0 TFSI Quattro 256cv 3p", "marca": "AUDI", "key": "a1-6293", "id": "6293", "fipe_name": "A1 2.0 TFSI Quattro 256cv 3p"
+}
+, {"fipe_marca": "Audi", "name": "A1 Sport 1.4 TFSI 185cv 3p S-tronic", "marca": "AUDI", "key": "a1-6143", "id": "6143", "fipe_name": "A1 Sport 1.4 TFSI 185cv 3p S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "A1 Sportback 1.4 TFSI 122cv 5p S-tronic", "marca": "AUDI", "key": "a1-6200", "id": "6200", "fipe_name": "A1 Sportback 1.4 TFSI 122cv 5p S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "A1 Sportback 1.4 TFSI 185cv 5p S-Tronic", "marca": "AUDI", "key": "a1-6201", "id": "6201", "fipe_name": "A1 Sportback 1.4 TFSI 185cv 5p S-Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.6 3p", "marca": "AUDI", "key": "a3-52", "id": "52", "fipe_name": "A3 1.6 3p"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.6 3p Aut", "marca": "AUDI", "key": "a3-53", "id": "53", "fipe_name": "A3 1.6 3p Aut"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.6 5p", "marca": "AUDI", "key": "a3-54", "id": "54", "fipe_name": "A3 1.6 5p"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.6 5p Aut", "marca": "AUDI", "key": "a3-55", "id": "55", "fipe_name": "A3 1.6 5p Aut"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.6 8V 102cv 3p", "marca": "AUDI", "key": "a3-4154", "id": "4154", "fipe_name": "A3 1.6 8V 102cv 3p"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 3p", "marca": "AUDI", "key": "a3-56", "id": "56", "fipe_name": "A3 1.8 3p"
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 3p Aut.", "marca": "AUDI", "key": "a3-57", "id": "57", "fipe_name": "A3 1.8 3p Aut."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 5p Aut.", "marca": "AUDI", "key": "a3-58", "id": "58", "fipe_name": "A3 1.8 5p Aut."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 5p Mec.", "marca": "AUDI", "key": "a3-59", "id": "59", "fipe_name": "A3 1.8 5p Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 180cv 3p Aut. Tip.", "marca": "AUDI", "key": "a3-60", "id": "60", "fipe_name": "A3 1.8 Turbo 180cv 3p Aut. Tip."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 180cv 3p Mec.", "marca": "AUDI", "key": "a3-61", "id": "61", "fipe_name": "A3 1.8 Turbo 180cv 3p Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 180cv 5p Aut. Tip.", "marca": "AUDI", "key": "a3-62", "id": "62", "fipe_name": "A3 1.8 Turbo 180cv 5p Aut. Tip."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 180cv 5p Mec.", "marca": "AUDI", "key": "a3-63", "id": "63", "fipe_name": "A3 1.8 Turbo 180cv 5p Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 3p Aut.", "marca": "AUDI", "key": "a3-64", "id": "64", "fipe_name": "A3 1.8 Turbo 3p Aut."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 3p Mec.", "marca": "AUDI", "key": "a3-65", "id": "65", "fipe_name": "A3 1.8 Turbo 3p Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 5p Aut.", "marca": "AUDI", "key": "a3-66", "id": "66", "fipe_name": "A3 1.8 Turbo 5p Aut."
+}
+, {"fipe_marca": "Audi", "name": "A3 1.8 Turbo 5p Mec.", "marca": "AUDI", "key": "a3-67", "id": "67", "fipe_name": "A3 1.8 Turbo 5p Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 Cabriolet 1.8 16V TFSI 180cv S-tronic", "marca": "AUDI", "key": "a3-6950", "id": "6950", "fipe_name": "A3 Cabriolet 1.8 16V TFSI 180cv S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sedan 1.4 16V TB FSI  S-tronic 4p", "marca": "AUDI", "key": "a3-6768", "id": "6768", "fipe_name": "A3 Sedan 1.4 16V TB FSI  S-tronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sedan1.8 16V TB FSI 180cv S-tronic 4p", "marca": "AUDI", "key": "a3-6689", "id": "6689", "fipe_name": "A3 Sedan1.8 16V TB FSI 180cv S-tronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sport 1.8 16V TFSI S-Tronic 3p", "marca": "AUDI", "key": "a3-6461", "id": "6461", "fipe_name": "A3 Sport 1.8 16V TFSI S-Tronic 3p"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sport 2.0 16V TFSI S Tronic", "marca": "AUDI", "key": "a3-5125", "id": "5125", "fipe_name": "A3 Sport 2.0 16V TFSI S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sportback 1.4 TFSI S-Tronic", "marca": "AUDI", "key": "a3-6510", "id": "6510", "fipe_name": "A3 Sportback 1.4 TFSI S-Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sportback 1.6 8V 102cv 5p", "marca": "AUDI", "key": "a3-4155", "id": "4155", "fipe_name": "A3 Sportback 1.6 8V 102cv 5p"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sportback 1.8 16V TFSI S-Tronic 5p", "marca": "AUDI", "key": "a3-6511", "id": "6511", "fipe_name": "A3 Sportback 1.8 16V TFSI S-Tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "A3 Sportback 2.0 16V TFSI Mec.", "marca": "AUDI", "key": "a3-4156", "id": "4156", "fipe_name": "A3 Sportback 2.0 16V TFSI Mec."
+}
+, {"fipe_marca": "Audi", "name": "A3 Sportback 2.0 16V TFSI S-Tronic", "marca": "AUDI", "key": "a3-4157", "id": "4157", "fipe_name": "A3 Sportback 2.0 16V TFSI S-Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8  Aut.", "marca": "AUDI", "key": "a4-68", "id": "68", "fipe_name": "A4 1.8  Aut."
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8  Mec.", "marca": "AUDI", "key": "a4-69", "id": "69", "fipe_name": "A4 1.8  Mec."
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Avant Aut.", "marca": "AUDI", "key": "a4-70", "id": "70", "fipe_name": "A4 1.8 Avant Aut."
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Avant Mec.", "marca": "AUDI", "key": "a4-71", "id": "71", "fipe_name": "A4 1.8 Avant Mec."
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Avant Turbo Mec.", "marca": "AUDI", "key": "a4-72", "id": "72", "fipe_name": "A4 1.8 Avant Turbo Mec."
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Avant Turbo Tip. Multitronic", "marca": "AUDI", "key": "a4-73", "id": "73", "fipe_name": "A4 1.8 Avant Turbo Tip. Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Tip. Multitronic Turbo", "marca": "AUDI", "key": "a4-74", "id": "74", "fipe_name": "A4 1.8 Tip. Multitronic Turbo"
+}
+, {"fipe_marca": "Audi", "name": "A4 1.8 Turbo", "marca": "AUDI", "key": "a4-75", "id": "75", "fipe_name": "A4 1.8 Turbo"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 16V TFSI 183180cv Multitronic", "marca": "AUDI", "key": "a4-4843", "id": "4843", "fipe_name": "A4 2.0 16V TFSI 183180cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 16V TFSI 200 214cv Multitronic", "marca": "AUDI", "key": "a4-4182", "id": "4182", "fipe_name": "A4 2.0 16V TFSI 200 214cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 16V TFSI Quattro Stronic", "marca": "AUDI", "key": "a4-6144", "id": "6144", "fipe_name": "A4 2.0 16V TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 20V 130cv Multitronic 4p", "marca": "AUDI", "key": "a4-76", "id": "76", "fipe_name": "A4 2.0 20V 130cv Multitronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 Avant 16V TFSI Quattro Stronic", "marca": "AUDI", "key": "a4-6145", "id": "6145", "fipe_name": "A4 2.0 Avant 16V TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 Avant TFSI 183180cv Multitroni", "marca": "AUDI", "key": "a4-4844", "id": "4844", "fipe_name": "A4 2.0 Avant TFSI 183180cv Multitroni"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.0 Avant TFSI 200214cv Multitron.", "marca": "AUDI", "key": "a4-4183", "id": "4183", "fipe_name": "A4 2.0 Avant TFSI 200214cv Multitron."
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 30V Avant Mec", "marca": "AUDI", "key": "a4-77", "id": "77", "fipe_name": "A4 2.4 30V Avant Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 30V Avant Tip.Multitronic", "marca": "AUDI", "key": "a4-78", "id": "78", "fipe_name": "A4 2.4 30V Avant Tip.Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 30V Mec", "marca": "AUDI", "key": "a4-79", "id": "79", "fipe_name": "A4 2.4 30V Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 30V Tip.Multitronic", "marca": "AUDI", "key": "a4-80", "id": "80", "fipe_name": "A4 2.4 30V Tip.Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 Avant V6 30V Quattro Mec", "marca": "AUDI", "key": "a4-81", "id": "81", "fipe_name": "A4 2.4 Avant V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 Avant V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a4-82", "id": "82", "fipe_name": "A4 2.4 Avant V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 V6 30V Quattro Mec", "marca": "AUDI", "key": "a4-83", "id": "83", "fipe_name": "A4 2.4 V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.4 V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a4-84", "id": "84", "fipe_name": "A4 2.4 V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8", "marca": "AUDI", "key": "a4-85", "id": "85", "fipe_name": "A4 2.8"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 30V  Tiptronic Aut.", "marca": "AUDI", "key": "a4-86", "id": "86", "fipe_name": "A4 2.8 30V  Tiptronic Aut."
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 30V Mec", "marca": "AUDI", "key": "a4-87", "id": "87", "fipe_name": "A4 2.8 30V Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 Avant V6 12V", "marca": "AUDI", "key": "a4-88", "id": "88", "fipe_name": "A4 2.8 Avant V6 12V"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 Avant V6 30V Mec.", "marca": "AUDI", "key": "a4-89", "id": "89", "fipe_name": "A4 2.8 Avant V6 30V Mec."
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 Avant V6 30V Quattro Mec.", "marca": "AUDI", "key": "a4-90", "id": "90", "fipe_name": "A4 2.8 Avant V6 30V Quattro Mec."
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 Avant V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a4-91", "id": "91", "fipe_name": "A4 2.8 Avant V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 Avant V6 30V Tiptronic", "marca": "AUDI", "key": "a4-92", "id": "92", "fipe_name": "A4 2.8 Avant V6 30V Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 V6 30V  Quattro Tiptronic", "marca": "AUDI", "key": "a4-93", "id": "93", "fipe_name": "A4 2.8 V6 30V  Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 2.8 V6 30V Quattro Mec", "marca": "AUDI", "key": "a4-94", "id": "94", "fipe_name": "A4 2.8 V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.0 30V 218cv Multitronic 4p", "marca": "AUDI", "key": "a4-95", "id": "95", "fipe_name": "A4 3.0 30V 218cv Multitronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.0 30V 218cv Quattro Tiptron.Aut 4p", "marca": "AUDI", "key": "a4-96", "id": "96", "fipe_name": "A4 3.0 30V 218cv Quattro Tiptron.Aut 4p"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.0 Avant 30V 218cv Multitronic 5p", "marca": "AUDI", "key": "a4-97", "id": "97", "fipe_name": "A4 3.0 Avant 30V 218cv Multitronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.0 Avant 30V 218cv Quattro Tiptronic", "marca": "AUDI", "key": "a4-98", "id": "98", "fipe_name": "A4 3.0 Avant 30V 218cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.0 Cabriolet 30V 218cv Multitronic", "marca": "AUDI", "key": "a4-99", "id": "99", "fipe_name": "A4 3.0 Cabriolet 30V 218cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.2 FSI 24V 255cv Multitronic", "marca": "AUDI", "key": "a4-4286", "id": "4286", "fipe_name": "A4 3.2 FSI 24V 255cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.2 FSI 24V 269cv Quattro Tiptronic", "marca": "AUDI", "key": "a4-4731", "id": "4731", "fipe_name": "A4 3.2 FSI 24V 269cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.2 FSI Avant 24V 255cv Multitronic", "marca": "AUDI", "key": "a4-4287", "id": "4287", "fipe_name": "A4 3.2 FSI Avant 24V 255cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.2 FSI Avant 24V Quattro S Tronic", "marca": "AUDI", "key": "a4-4935", "id": "4935", "fipe_name": "A4 3.2 FSI Avant 24V Quattro S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A4 3.2 FSI Cabriolet 24V 255cv Multitron", "marca": "AUDI", "key": "a4-4288", "id": "4288", "fipe_name": "A4 3.2 FSI Cabriolet 24V 255cv Multitron"
+}
+, {"fipe_marca": "Audi", "name": "A5 3.2 FSI 24V 269cv Multitronic", "marca": "AUDI", "key": "a5-4798", "id": "4798", "fipe_name": "A5 3.2 FSI 24V 269cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A5 3.2 FSI V6 24V 269cv Quattro Tiptroni", "marca": "AUDI", "key": "a5-5126", "id": "5126", "fipe_name": "A5 3.2 FSI V6 24V 269cv Quattro Tiptroni"
+}
+, {"fipe_marca": "Audi", "name": "A5 Cabriolet 2.0 TFSI Quattro Stronic", "marca": "AUDI", "key": "a5-6082", "id": "6082", "fipe_name": "A5 Cabriolet 2.0 TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "A5 Coupê 2.0 TFSI Quattro Stronic", "marca": "AUDI", "key": "a5-6083", "id": "6083", "fipe_name": "A5 Coupê 2.0 TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "A5 Sportb. 2.0 16V TFSI Quat. S-tronic", "marca": "AUDI", "key": "a5-6084", "id": "6084", "fipe_name": "A5 Sportb. 2.0 16V TFSI Quat. S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "A5 Sportback 1.8 TFSI 170cv Multi.", "marca": "AUDI", "key": "a5-7022", "id": "7022", "fipe_name": "A5 Sportback 1.8 TFSI 170cv Multi."
+}
+, {"fipe_marca": "Audi", "name": "A5 Sportback 2.0 16V TFSI 180cv Multi.", "marca": "AUDI", "key": "a5-6043", "id": "6043", "fipe_name": "A5 Sportback 2.0 16V TFSI 180cv Multi."
+}
+, {"fipe_marca": "Audi", "name": "A5 Sportback 2.0 16V TFSI 211cv Multi.", "marca": "AUDI", "key": "a5-5234", "id": "5234", "fipe_name": "A5 Sportback 2.0 16V TFSI 211cv Multi."
+}
+, {"fipe_marca": "Audi", "name": "A6 2.0 TFSI 252cv S tronic 4p", "marca": "AUDI", "key": "a6-7254", "id": "7254", "fipe_name": "A6 2.0 TFSI 252cv S tronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 30V Mec", "marca": "AUDI", "key": "a6-100", "id": "100", "fipe_name": "A6 2.4 30V Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 30V Tip.Multitronic", "marca": "AUDI", "key": "a6-101", "id": "101", "fipe_name": "A6 2.4 30V Tip.Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 Avant 30V Mec.", "marca": "AUDI", "key": "a6-102", "id": "102", "fipe_name": "A6 2.4 Avant 30V Mec."
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 Avant 30V Tip. Multitronic", "marca": "AUDI", "key": "a6-103", "id": "103", "fipe_name": "A6 2.4 Avant 30V Tip. Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 Avant V6 30V Quattro Mec.", "marca": "AUDI", "key": "a6-104", "id": "104", "fipe_name": "A6 2.4 Avant V6 30V Quattro Mec."
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 Avant V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a6-105", "id": "105", "fipe_name": "A6 2.4 Avant V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 V6 30V Quattro Mec", "marca": "AUDI", "key": "a6-106", "id": "106", "fipe_name": "A6 2.4 V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.4 V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a6-107", "id": "107", "fipe_name": "A6 2.4 V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.7 30V Avant Tiptronic", "marca": "AUDI", "key": "a6-108", "id": "108", "fipe_name": "A6 2.7 30V Avant Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.7 30V Mec.", "marca": "AUDI", "key": "a6-109", "id": "109", "fipe_name": "A6 2.7 30V Mec."
+}
+, {"fipe_marca": "Audi", "name": "A6 2.7 Avant Quattro Tiptronic", "marca": "AUDI", "key": "a6-110", "id": "110", "fipe_name": "A6 2.7 Avant Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.7 Quattro Tiptronic", "marca": "AUDI", "key": "a6-111", "id": "111", "fipe_name": "A6 2.7 Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8", "marca": "AUDI", "key": "a6-112", "id": "112", "fipe_name": "A6 2.8"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 30V Mec", "marca": "AUDI", "key": "a6-113", "id": "113", "fipe_name": "A6 2.8 30V Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 30V Tiptronic", "marca": "AUDI", "key": "a6-114", "id": "114", "fipe_name": "A6 2.8 30V Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 Avant", "marca": "AUDI", "key": "a6-115", "id": "115", "fipe_name": "A6 2.8 Avant"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 Avant 30V Mec", "marca": "AUDI", "key": "a6-116", "id": "116", "fipe_name": "A6 2.8 Avant 30V Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 Avant 30V Tiptronic", "marca": "AUDI", "key": "a6-117", "id": "117", "fipe_name": "A6 2.8 Avant 30V Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 Avant V6 30V Quattro Mec", "marca": "AUDI", "key": "a6-118", "id": "118", "fipe_name": "A6 2.8 Avant V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 Avant V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a6-119", "id": "119", "fipe_name": "A6 2.8 Avant V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 V6 30V Quattro Mec", "marca": "AUDI", "key": "a6-120", "id": "120", "fipe_name": "A6 2.8 V6 30V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "A6 2.8 V6 30V Quattro Tiptronic", "marca": "AUDI", "key": "a6-121", "id": "121", "fipe_name": "A6 2.8 V6 30V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 Avant V6 30V 218cv Multitronic 5p", "marca": "AUDI", "key": "a6-122", "id": "122", "fipe_name": "A6 3.0 Avant V6 30V 218cv Multitronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p", "marca": "AUDI", "key": "a6-5374", "id": "5374", "fipe_name": "A6 3.0 Avant. TB FSI V6 Quattro Tip. 5p"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 Avant.TFSI V6 Quattro S tronic 5p", "marca": "AUDI", "key": "a6-6413", "id": "6413", "fipe_name": "A6 3.0 Avant.TFSI V6 Quattro S tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 TB FSI V6 Quattro Tiptronic", "marca": "AUDI", "key": "a6-4958", "id": "4958", "fipe_name": "A6 3.0 TB FSI V6 Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 TFSI V6 Quattro S tronic 4p", "marca": "AUDI", "key": "a6-6414", "id": "6414", "fipe_name": "A6 3.0 TFSI V6 Quattro S tronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.0 V6 30V 218cv Multitronic 4p", "marca": "AUDI", "key": "a6-123", "id": "123", "fipe_name": "A6 3.0 V6 30V 218cv Multitronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A6 3.2 FSI 24V 255cv Multitronic", "marca": "AUDI", "key": "a6-4526", "id": "4526", "fipe_name": "A6 3.2 FSI 24V 255cv Multitronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 4.2 Avant Quattro Tiptronic", "marca": "AUDI", "key": "a6-124", "id": "124", "fipe_name": "A6 4.2 Avant Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 4.2 Quattro Tiptronic", "marca": "AUDI", "key": "a6-125", "id": "125", "fipe_name": "A6 4.2 Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A6 Allroad 3.0 TFSI V6 Quattro S tronic", "marca": "AUDI", "key": "a6-6462", "id": "6462", "fipe_name": "A6 Allroad 3.0 TFSI V6 Quattro S tronic"
+}
+, {"fipe_marca": "Audi", "name": "A7 Sportback 3.0 TFSI Quattro S Tronic", "marca": "AUDI", "key": "a7-5549", "id": "5549", "fipe_name": "A7 Sportback 3.0 TFSI Quattro S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "A8 3.0 TFSI 310cv Quattro Tiptronic 4p", "marca": "AUDI", "key": "a8-7127", "id": "7127", "fipe_name": "A8 3.0 TFSI 310cv Quattro Tiptronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "A8 4.0 TFSI Quattro Tiptronic", "marca": "AUDI", "key": "a8-6631", "id": "6631", "fipe_name": "A8 4.0 TFSI Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A8 4.2 Quattro Tiptronic", "marca": "AUDI", "key": "a8-126", "id": "126", "fipe_name": "A8 4.2 Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A8 4.2 V8 32V Tiptronic", "marca": "AUDI", "key": "a8-127", "id": "127", "fipe_name": "A8 4.2 V8 32V Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A8 6.0 W12 48V 450cv Quattro Tiptronic", "marca": "AUDI", "key": "a8-3928", "id": "3928", "fipe_name": "A8 6.0 W12 48V 450cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "A8 6.3 W12 48V Quattro Tiptronic", "marca": "AUDI", "key": "a8-5717", "id": "5717", "fipe_name": "A8 6.3 W12 48V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "Allroad 2.7 30V Quattro Turbo Tiptronic", "marca": "AUDI", "key": "allroad-128", "id": "128", "fipe_name": "Allroad 2.7 30V Quattro Turbo Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "Avant RS2", "marca": "AUDI", "key": "avant-129", "id": "129", "fipe_name": "Avant RS2"
+}
+, {"fipe_marca": "Audi", "name": "Q3 1.4 TFSI 150cv S-tronic 5p", "marca": "AUDI", "key": "q3-7255", "id": "7255", "fipe_name": "Q3 1.4 TFSI 150cv S-tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "Q3 2.0 TFSI Quat. 170180cv S-tronic 5p", "marca": "AUDI", "key": "q3-6044", "id": "6044", "fipe_name": "Q3 2.0 TFSI Quat. 170180cv S-tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "Q3 2.0 TFSI Quat. 211220cv S-tronic 5p", "marca": "AUDI", "key": "q3-6045", "id": "6045", "fipe_name": "Q3 2.0 TFSI Quat. 211220cv S-tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "Q5 2.0 16V TFSI 225cv Quattro Tiptronic", "marca": "AUDI", "key": "q5-6573", "id": "6573", "fipe_name": "Q5 2.0 16V TFSI 225cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "Q5 2.0 16V TFSI Quattro S Tronic", "marca": "AUDI", "key": "q5-4936", "id": "4936", "fipe_name": "Q5 2.0 16V TFSI Quattro S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "Q5 3.0 V6 TFSI 272cv Quattro Tiptronic", "marca": "AUDI", "key": "q5-6486", "id": "6486", "fipe_name": "Q5 3.0 V6 TFSI 272cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "Q5 3.2 FSI V6 Quattro S Tronic", "marca": "AUDI", "key": "q5-4959", "id": "4959", "fipe_name": "Q5 3.2 FSI V6 Quattro S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "Q7 3.0 V6 TFSI 333cv Quattro Tip. 4p", "marca": "AUDI", "key": "q7-5445", "id": "5445", "fipe_name": "Q7 3.0 V6 TFSI 333cv Quattro Tip. 4p"
+}
+, {"fipe_marca": "Audi", "name": "Q7 3.6 V6 284cv Quattro Tiptronic", "marca": "AUDI", "key": "q7-4694", "id": "4694", "fipe_name": "Q7 3.6 V6 284cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "Q7 4.2 V8 40V 350cv Quattro Tiptronic", "marca": "AUDI", "key": "q7-4184", "id": "4184", "fipe_name": "Q7 4.2 V8 40V 350cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "R8 4.2 V8 426cv QUATTRO R-tronic", "marca": "AUDI", "key": "r8-5235", "id": "5235", "fipe_name": "R8 4.2 V8 426cv QUATTRO R-tronic"
+}
+, {"fipe_marca": "Audi", "name": "R8 5.2 V10 QUATTRO R-tronicS-tronic", "marca": "AUDI", "key": "r8-5236", "id": "5236", "fipe_name": "R8 5.2 V10 QUATTRO R-tronicS-tronic"
+}
+, {"fipe_marca": "Audi", "name": "R8 GT 5.2 V10 560cv QUATTRO R-tronic", "marca": "AUDI", "key": "r8-5974", "id": "5974", "fipe_name": "R8 GT 5.2 V10 560cv QUATTRO R-tronic"
+}
+, {"fipe_marca": "Audi", "name": "R8 Spyder 5.2 QUATTRO R-tronicS-tronic", "marca": "AUDI", "key": "r8-5550", "id": "5550", "fipe_name": "R8 Spyder 5.2 QUATTRO R-tronicS-tronic"
+}
+, {"fipe_marca": "Audi", "name": "RS Q3 2.5 TFSI Quattro 310cv S-tronic 5p", "marca": "AUDI", "key": "rs-6865", "id": "6865", "fipe_name": "RS Q3 2.5 TFSI Quattro 310cv S-tronic 5p"
+}
+, {"fipe_marca": "Audi", "name": "RS3 Sportback 2.5 TFSI Quattro S-tronic", "marca": "AUDI", "key": "rs3-5922", "id": "5922", "fipe_name": "RS3 Sportback 2.5 TFSI Quattro S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "RS4 2.7 Avant V6 30V BI-TB Quattro 380cv", "marca": "AUDI", "key": "rs4-130", "id": "130", "fipe_name": "RS4 2.7 Avant V6 30V BI-TB Quattro 380cv"
+}
+, {"fipe_marca": "Audi", "name": "RS4 4.2 Avant 32V FSI Quattro S-tronic", "marca": "AUDI", "key": "rs4-6487", "id": "6487", "fipe_name": "RS4 4.2 Avant 32V FSI Quattro S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p", "marca": "AUDI", "key": "rs5-5410", "id": "5410", "fipe_name": "RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p"
+}
+, {"fipe_marca": "Audi", "name": "RS6 4.0 Avant FSI BI-TB Quattro Tip. 5p", "marca": "AUDI", "key": "rs6-6690", "id": "6690", "fipe_name": "RS6 4.0 Avant FSI BI-TB Quattro Tip. 5p"
+}
+, {"fipe_marca": "Audi", "name": "RS6 4.2 450cv BI-TB Quattro Tiptronic 4p", "marca": "AUDI", "key": "rs6-131", "id": "131", "fipe_name": "RS6 4.2 450cv BI-TB Quattro Tiptronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p", "marca": "AUDI", "key": "rs6-132", "id": "132", "fipe_name": "RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p"
+}
+, {"fipe_marca": "Audi", "name": "RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.", "marca": "AUDI", "key": "rs6-5335", "id": "5335", "fipe_name": "RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip."
+}
+, {"fipe_marca": "Audi", "name": "RS6 5.0 FSI V10 Bi-TB Quattro Tip.", "marca": "AUDI", "key": "rs6-5336", "id": "5336", "fipe_name": "RS6 5.0 FSI V10 Bi-TB Quattro Tip."
+}
+, {"fipe_marca": "Audi", "name": "RS7 Sportback 4.0 TFSI Quattro Tiptronic", "marca": "AUDI", "key": "rs7-6883", "id": "6883", "fipe_name": "RS7 Sportback 4.0 TFSI Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic", "marca": "AUDI", "key": "s-6769", "id": "6769", "fipe_name": "S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S3 1.8 225cv Turbo Quattro", "marca": "AUDI", "key": "s3-133", "id": "133", "fipe_name": "S3 1.8 225cv Turbo Quattro"
+}
+, {"fipe_marca": "Audi", "name": "S3 Sedan 2.0 TFSI Quattro 286cv S-tronic", "marca": "AUDI", "key": "s3-6951", "id": "6951", "fipe_name": "S3 Sedan 2.0 TFSI Quattro 286cv S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "S3 Sportback 2.0 TFSI Quattro S Tronic", "marca": "AUDI", "key": "s3-5127", "id": "5127", "fipe_name": "S3 Sportback 2.0 TFSI Quattro S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "S4 2.7 Avant Turbo Quattro", "marca": "AUDI", "key": "s4-134", "id": "134", "fipe_name": "S4 2.7 Avant Turbo Quattro"
+}
+, {"fipe_marca": "Audi", "name": "S4 2.7 Turbo Quattro Mec.", "marca": "AUDI", "key": "s4-135", "id": "135", "fipe_name": "S4 2.7 Turbo Quattro Mec."
+}
+, {"fipe_marca": "Audi", "name": "S4 3.0 Avant TFSI V6 24V Quattro Stronic", "marca": "AUDI", "key": "s4-6085", "id": "6085", "fipe_name": "S4 3.0 Avant TFSI V6 24V Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "S4 3.0 TFSI V6 24V Quattro Stronic", "marca": "AUDI", "key": "s4-6086", "id": "6086", "fipe_name": "S4 3.0 TFSI V6 24V Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "S4 4.2 Avant V8 40V 344cv Quattro Tipt.", "marca": "AUDI", "key": "s4-136", "id": "136", "fipe_name": "S4 4.2 Avant V8 40V 344cv Quattro Tipt."
+}
+, {"fipe_marca": "Audi", "name": "S4 4.2 V8 40V 344cv Quattro Tiptronic", "marca": "AUDI", "key": "s4-137", "id": "137", "fipe_name": "S4 4.2 V8 40V 344cv Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S5 Cabriolet 3.0 TFSI Quattro Stronic", "marca": "AUDI", "key": "s5-6087", "id": "6087", "fipe_name": "S5 Cabriolet 3.0 TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "S5 Coupê 3.0 TFSI Quattro Stronic", "marca": "AUDI", "key": "s5-6088", "id": "6088", "fipe_name": "S5 Coupê 3.0 TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "S5 Sportback 3.0 TFSI Quattro Stronic", "marca": "AUDI", "key": "s5-6089", "id": "6089", "fipe_name": "S5 Sportback 3.0 TFSI Quattro Stronic"
+}
+, {"fipe_marca": "Audi", "name": "S6 2.2 20V TB", "marca": "AUDI", "key": "s6-138", "id": "138", "fipe_name": "S6 2.2 20V TB"
+}
+, {"fipe_marca": "Audi", "name": "S6 2.2 Avant 20V TB", "marca": "AUDI", "key": "s6-139", "id": "139", "fipe_name": "S6 2.2 Avant 20V TB"
+}
+, {"fipe_marca": "Audi", "name": "S6 4.2 Avant V8 40V Quattro Tiptronic", "marca": "AUDI", "key": "s6-140", "id": "140", "fipe_name": "S6 4.2 Avant V8 40V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S6 4.2 V8 40V Quattro Mec", "marca": "AUDI", "key": "s6-141", "id": "141", "fipe_name": "S6 4.2 V8 40V Quattro Mec"
+}
+, {"fipe_marca": "Audi", "name": "S6 4.2 V8 40V Quattro Tiptronic", "marca": "AUDI", "key": "s6-142", "id": "142", "fipe_name": "S6 4.2 V8 40V Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S6 5.2 Avant FSI V10 435cv QUATTRO Tiptr", "marca": "AUDI", "key": "s6-5186", "id": "5186", "fipe_name": "S6 5.2 Avant FSI V10 435cv QUATTRO Tiptr"
+}
+, {"fipe_marca": "Audi", "name": "S6 5.2 FSI V10 435cv QUATTRO Tiptronic", "marca": "AUDI", "key": "s6-5187", "id": "5187", "fipe_name": "S6 5.2 FSI V10 435cv QUATTRO Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S6 Plus 4.2 Avant V8 32V", "marca": "AUDI", "key": "s6-143", "id": "143", "fipe_name": "S6 Plus 4.2 Avant V8 32V"
+}
+, {"fipe_marca": "Audi", "name": "S6 Plus 4.2 V8 32V", "marca": "AUDI", "key": "s6-144", "id": "144", "fipe_name": "S6 Plus 4.2 V8 32V"
+}
+, {"fipe_marca": "Audi", "name": "S7 4.0 TFSI 420cv Quattro S-tronic", "marca": "AUDI", "key": "s7-6632", "id": "6632", "fipe_name": "S7 4.0 TFSI 420cv Quattro S-tronic"
+}
+, {"fipe_marca": "Audi", "name": "S8 4.0 TFSI 520cv Quattro Tiptronic 4p", "marca": "AUDI", "key": "s8-7128", "id": "7128", "fipe_name": "S8 4.0 TFSI 520cv Quattro Tiptronic 4p"
+}
+, {"fipe_marca": "Audi", "name": "S8 4.2 Mec", "marca": "AUDI", "key": "s8-145", "id": "145", "fipe_name": "S8 4.2 Mec"
+}
+, {"fipe_marca": "Audi", "name": "S8 4.2 Quattro Mec.", "marca": "AUDI", "key": "s8-146", "id": "146", "fipe_name": "S8 4.2 Quattro Mec."
+}
+, {"fipe_marca": "Audi", "name": "S8 4.2 Quattro Tiptronic", "marca": "AUDI", "key": "s8-147", "id": "147", "fipe_name": "S8 4.2 Quattro Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "S8 4.2 Tiptronic", "marca": "AUDI", "key": "s8-148", "id": "148", "fipe_name": "S8 4.2 Tiptronic"
+}
+, {"fipe_marca": "Audi", "name": "TT 1.8 TB 180cv", "marca": "AUDI", "key": "tt-149", "id": "149", "fipe_name": "TT 1.8 TB 180cv"
+}
+, {"fipe_marca": "Audi", "name": "TT 1.8 TB QUATTRO 225cv", "marca": "AUDI", "key": "tt-150", "id": "150", "fipe_name": "TT 1.8 TB QUATTRO 225cv"
+}
+, {"fipe_marca": "Audi", "name": "TT 2.0 16v TFSI S-Tronic", "marca": "AUDI", "key": "tt-4330", "id": "4330", "fipe_name": "TT 2.0 16v TFSI S-Tronic"
+}
+, {"fipe_marca": "Audi", "name": "TT Roadster 1.8 TB QUATTRO 225cv (Conv.)", "marca": "AUDI", "key": "tt-151", "id": "151", "fipe_name": "TT Roadster 1.8 TB QUATTRO 225cv (Conv.)"
+}
+, {"fipe_marca": "Audi", "name": "TT Roadster 2.0 16v TFSI S-Tronic", "marca": "AUDI", "key": "tt-4431", "id": "4431", "fipe_name": "TT Roadster 2.0 16v TFSI S-Tronic"
+}
+, {"fipe_marca": "Audi", "name": "TTRS 2.5 TB FSI QUATTRO S Tronic", "marca": "AUDI", "key": "ttrs-6258", "id": "6258", "fipe_name": "TTRS 2.5 TB FSI QUATTRO S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "TTRS Roadster 2.5 TB FSI QUATTRO STronic", "marca": "AUDI", "key": "ttrs-6259", "id": "6259", "fipe_name": "TTRS Roadster 2.5 TB FSI QUATTRO STronic"
+}
+, {"fipe_marca": "Audi", "name": "TTS 2.0 TFSI QUATTRO S Tronic", "marca": "AUDI", "key": "tts-5128", "id": "5128", "fipe_name": "TTS 2.0 TFSI QUATTRO S Tronic"
+}
+, {"fipe_marca": "Audi", "name": "TTS Roadster 2.0 TB FSI QUATTRO S Tronic", "marca": "AUDI", "key": "tts-5129", "id": "5129", "fipe_name": "TTS Roadster 2.0 TB FSI QUATTRO S Tronic"
+}
+]

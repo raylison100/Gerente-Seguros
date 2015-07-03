@@ -1,0 +1,420 @@
+{"contador" = "209"}
+[{"fipe_marca": "Peugeot", "name": "106 KID 1.0", "marca": "PEUGEOT", "key": "106-1834", "id": "1834", "fipe_name": "106 KID 1.0"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Passion 1.0 3p", "marca": "PEUGEOT", "key": "106-1835", "id": "1835", "fipe_name": "106 Passion 1.0 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Passion 1.0 5p", "marca": "PEUGEOT", "key": "106-1836", "id": "1836", "fipe_name": "106 Passion 1.0 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Quiksilver 1.0 3p", "marca": "PEUGEOT", "key": "106-1837", "id": "1837", "fipe_name": "106 Quiksilver 1.0 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Selection 1.0 3p", "marca": "PEUGEOT", "key": "106-1838", "id": "1838", "fipe_name": "106 Selection 1.0 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Selection 1.0 5p", "marca": "PEUGEOT", "key": "106-1839", "id": "1839", "fipe_name": "106 Selection 1.0 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Soleil 1.0 3p", "marca": "PEUGEOT", "key": "106-1840", "id": "1840", "fipe_name": "106 Soleil 1.0 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 Soleil 1.0 5p", "marca": "PEUGEOT", "key": "106-1841", "id": "1841", "fipe_name": "106 Soleil 1.0 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 XN 3p e 5p", "marca": "PEUGEOT", "key": "106-1842", "id": "1842", "fipe_name": "106 XN 3p e 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "106 XT", "marca": "PEUGEOT", "key": "106-1843", "id": "1843", "fipe_name": "106 XT"
+}
+, {"fipe_marca": "Peugeot", "name": "2008 Allure 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "2008-7201", "id": "7201", "fipe_name": "2008 Allure 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "2008 Allure 1.6 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "2008-7202", "id": "7202", "fipe_name": "2008 Allure 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "2008 Griffe 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "2008-7203", "id": "7203", "fipe_name": "2008 Griffe 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "2008 Griffe 1.6 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "2008-7204", "id": "7204", "fipe_name": "2008 Griffe 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "2008 Griffe 1.6 Turbo Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "2008-7205", "id": "7205", "fipe_name": "2008 Griffe 1.6 Turbo Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "205 CJ Cabriolet", "marca": "PEUGEOT", "key": "205-1844", "id": "1844", "fipe_name": "205 CJ Cabriolet"
+}
+, {"fipe_marca": "Peugeot", "name": "205 CTi Cabriolet 1.4", "marca": "PEUGEOT", "key": "205-1845", "id": "1845", "fipe_name": "205 CTi Cabriolet 1.4"
+}
+, {"fipe_marca": "Peugeot", "name": "205 GTi 1.4", "marca": "PEUGEOT", "key": "205-1846", "id": "1846", "fipe_name": "205 GTi 1.4"
+}
+, {"fipe_marca": "Peugeot", "name": "205 XSi Junior 1.4 3p", "marca": "PEUGEOT", "key": "205-1847", "id": "1847", "fipe_name": "205 XSi Junior 1.4 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Allure 1.6 Flex 16V 3p", "marca": "PEUGEOT", "key": "206-4336", "id": "4336", "fipe_name": "206 Allure 1.6 Flex 16V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Allure 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-4337", "id": "4337", "fipe_name": "206 Allure 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Automatic (feline)1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-4338", "id": "4338", "fipe_name": "206 Automatic (feline)1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 CC 1.6 16v 2p", "marca": "PEUGEOT", "key": "206-1848", "id": "1848", "fipe_name": "206 CC 1.6 16v 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Feline 1.4 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-1849", "id": "1849", "fipe_name": "206 Feline 1.4 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Holiday 1.4 8V 75cv 3p", "marca": "PEUGEOT", "key": "206-1850", "id": "1850", "fipe_name": "206 Holiday 1.4 8V 75cv 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Holiday 1.4 8V 75cv 5p", "marca": "PEUGEOT", "key": "206-1851", "id": "1851", "fipe_name": "206 Holiday 1.4 8V 75cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Holiday 1.6 Flex 16V 3p", "marca": "PEUGEOT", "key": "206-1852", "id": "1852", "fipe_name": "206 Holiday 1.6 Flex 16V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Holiday 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-1853", "id": "1853", "fipe_name": "206 Holiday 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Moonlight 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "206-4307", "id": "4307", "fipe_name": "206 Moonlight 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Moonlight 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-4308", "id": "4308", "fipe_name": "206 Moonlight 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Passion 1.6", "marca": "PEUGEOT", "key": "206-1854", "id": "1854", "fipe_name": "206 Passion 1.6"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Passion 1.6 16v 110cv 5p", "marca": "PEUGEOT", "key": "206-1855", "id": "1855", "fipe_name": "206 Passion 1.6 16v 110cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Presence 1.4 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "206-1856", "id": "1856", "fipe_name": "206 Presence 1.4 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Presence 1.4 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-1857", "id": "1857", "fipe_name": "206 Presence 1.4 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Rallye 1.6", "marca": "PEUGEOT", "key": "206-1858", "id": "1858", "fipe_name": "206 Rallye 1.6"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Rallye 1.6 1.6 Flex 16v 110cv 3p", "marca": "PEUGEOT", "key": "206-1859", "id": "1859", "fipe_name": "206 Rallye 1.6 1.6 Flex 16v 110cv 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Select.Presence 1.61.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-1860", "id": "1860", "fipe_name": "206 Select.Presence 1.61.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Selection 1.6 16V 110cv 3p", "marca": "PEUGEOT", "key": "206-1861", "id": "1861", "fipe_name": "206 Selection 1.6 16V 110cv 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Selection Sensation 1.0 16v 3p", "marca": "PEUGEOT", "key": "206-1862", "id": "1862", "fipe_name": "206 Selection Sensation 1.0 16v 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Selection Sensation 1.0 16v 5p", "marca": "PEUGEOT", "key": "206-1863", "id": "1863", "fipe_name": "206 Selection Sensation 1.0 16v 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Sensation 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "206-3900", "id": "3900", "fipe_name": "206 Sensation 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Sensation 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-3901", "id": "3901", "fipe_name": "206 Sensation 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil 1.0 16v 5p", "marca": "PEUGEOT", "key": "206-1864", "id": "1864", "fipe_name": "206 Soleil 1.0 16v 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil 1.6 16v 110cv 5p", "marca": "PEUGEOT", "key": "206-1865", "id": "1865", "fipe_name": "206 Soleil 1.6 16v 110cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil 1.6 3p", "marca": "PEUGEOT", "key": "206-1866", "id": "1866", "fipe_name": "206 Soleil 1.6 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil 1.6 5p", "marca": "PEUGEOT", "key": "206-1867", "id": "1867", "fipe_name": "206 Soleil 1.6 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil Quiksilver 1.0 16v 3p", "marca": "PEUGEOT", "key": "206-1868", "id": "1868", "fipe_name": "206 Soleil Quiksilver 1.0 16v 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Soleil Quiksilver 1.6 16v 110cv 3p", "marca": "PEUGEOT", "key": "206-1869", "id": "1869", "fipe_name": "206 Soleil Quiksilver 1.6 16v 110cv 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW Automatic (feline)1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-4339", "id": "4339", "fipe_name": "206 SW Automatic (feline)1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW ESCAPADE 1.6 16v Flex 5p", "marca": "PEUGEOT", "key": "206-4194", "id": "4194", "fipe_name": "206 SW ESCAPADE 1.6 16v Flex 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW Feline 1.6 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-1870", "id": "1870", "fipe_name": "206 SW Feline 1.6 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW Moonlight 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-4586", "id": "4586", "fipe_name": "206 SW Moonlight 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW Presence 1.4 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "206-1871", "id": "1871", "fipe_name": "206 SW Presence 1.4 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 SW Presence 1.61.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-1872", "id": "1872", "fipe_name": "206 SW Presence 1.61.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Techno 1.0 16V 70cv 5p", "marca": "PEUGEOT", "key": "206-1873", "id": "1873", "fipe_name": "206 Techno 1.0 16V 70cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "206 Techno Feline 1.6 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "206-1874", "id": "1874", "fipe_name": "206 Techno Feline 1.6 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Active 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-6545", "id": "6545", "fipe_name": "207 Active 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Blue Lion 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-6274", "id": "6274", "fipe_name": "207 Blue Lion 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 QUIKSILVER 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "207-5159", "id": "5159", "fipe_name": "207 QUIKSILVER 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 QUIKSILVER 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-5160", "id": "5160", "fipe_name": "207 QUIKSILVER 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 QUIKSILVER 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "207-5711", "id": "5711", "fipe_name": "207 QUIKSILVER 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sed. Passion XR Sport 1.4 Flex 8V 4p", "marca": "PEUGEOT", "key": "207-4793", "id": "4793", "fipe_name": "207 Sed. Passion XR Sport 1.4 Flex 8V 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sedan Active 1.4 Flex 8V 4p", "marca": "PEUGEOT", "key": "207-6593", "id": "6593", "fipe_name": "207 Sedan Active 1.4 Flex 8V 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sedan Allure 1.4 Flex 8v 4p", "marca": "PEUGEOT", "key": "207-6594", "id": "6594", "fipe_name": "207 Sedan Allure 1.4 Flex 8v 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sedan Passion XR 1.4 Flex 8V 4p", "marca": "PEUGEOT", "key": "207-4794", "id": "4794", "fipe_name": "207 Sedan Passion XR 1.4 Flex 8V 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sedan Passion XS 1.6 Flex 16V 4p", "marca": "PEUGEOT", "key": "207-4795", "id": "4795", "fipe_name": "207 Sedan Passion XS 1.6 Flex 16V 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 Sedan Passion XS 1.6 Flex 16V 4p Aut", "marca": "PEUGEOT", "key": "207-4796", "id": "4796", "fipe_name": "207 Sedan Passion XS 1.6 Flex 16V 4p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "207 SW ESCAPADE 1.6 16V Flex 5p", "marca": "PEUGEOT", "key": "207-4814", "id": "4814", "fipe_name": "207 SW ESCAPADE 1.6 16V Flex 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 SW XR 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-4718", "id": "4718", "fipe_name": "207 SW XR 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 SW XR Sport 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-4719", "id": "4719", "fipe_name": "207 SW XR Sport 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 SW XS 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "207-4720", "id": "4720", "fipe_name": "207 SW XS 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "207 X-Line 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "207-5110", "id": "5110", "fipe_name": "207 X-Line 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 X-Line 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-5111", "id": "5111", "fipe_name": "207 X-Line 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XR 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "207-4721", "id": "4721", "fipe_name": "207 XR 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XR 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-4722", "id": "4722", "fipe_name": "207 XR 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XR Sport 1.4 Flex 8V 3p", "marca": "PEUGEOT", "key": "207-4723", "id": "4723", "fipe_name": "207 XR Sport 1.4 Flex 8V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XR Sport 1.4 Flex 8V 5p", "marca": "PEUGEOT", "key": "207-4724", "id": "4724", "fipe_name": "207 XR Sport 1.4 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XS 1.6 Flex 16V 3p", "marca": "PEUGEOT", "key": "207-4725", "id": "4725", "fipe_name": "207 XS 1.6 Flex 16V 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XS 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "207-4726", "id": "4726", "fipe_name": "207 XS 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "207 XS 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "207-4727", "id": "4727", "fipe_name": "207 XS 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "208 Active Pack 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "208-6843", "id": "6843", "fipe_name": "208 Active Pack 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "208 ActiveActive Pack 1.5 Flex 8V 5p", "marca": "PEUGEOT", "key": "208-6396", "id": "6396", "fipe_name": "208 ActiveActive Pack 1.5 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "208 Allure 1.5 Flex 8V 5p", "marca": "PEUGEOT", "key": "208-6397", "id": "6397", "fipe_name": "208 Allure 1.5 Flex 8V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "208 Allure 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "208-7267", "id": "7267", "fipe_name": "208 Allure 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "208 Griffe 1.6 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "208-6398", "id": "6398", "fipe_name": "208 Griffe 1.6 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "208 Griffe 1.6 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "208-6399", "id": "6399", "fipe_name": "208 Griffe 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "208 Premier 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "208-6448", "id": "6448", "fipe_name": "208 Premier 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "3008 Allure 1.6 Turbo 16V 5p Aut.", "marca": "PEUGEOT", "key": "3008-5427", "id": "5427", "fipe_name": "3008 Allure 1.6 Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "3008 Griffe 1.6 Turbo 16V 5p Aut.", "marca": "PEUGEOT", "key": "3008-5428", "id": "5428", "fipe_name": "3008 Griffe 1.6 Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "3008 Roland Garros 1.6 Turbo 16V 5p", "marca": "PEUGEOT", "key": "3008-6546", "id": "6546", "fipe_name": "3008 Roland Garros 1.6 Turbo 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Break Passion 1.8 16V", "marca": "PEUGEOT", "key": "306-1875", "id": "1875", "fipe_name": "306 Break Passion 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Cabriolet 1.8 Mi 16V", "marca": "PEUGEOT", "key": "306-1876", "id": "1876", "fipe_name": "306 Cabriolet 1.8 Mi 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Cabriolet 2.0", "marca": "PEUGEOT", "key": "306-1877", "id": "1877", "fipe_name": "306 Cabriolet 2.0"
+}
+, {"fipe_marca": "Peugeot", "name": "306 GTi 2.0 16V", "marca": "PEUGEOT", "key": "306-1878", "id": "1878", "fipe_name": "306 GTi 2.0 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Passion 1.8 16V", "marca": "PEUGEOT", "key": "306-1879", "id": "1879", "fipe_name": "306 Passion 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Passion Sedan 1.8 16V", "marca": "PEUGEOT", "key": "306-1880", "id": "1880", "fipe_name": "306 Passion Sedan 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Rallye 1.8 16V", "marca": "PEUGEOT", "key": "306-1881", "id": "1881", "fipe_name": "306 Rallye 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 S16 2.0 3p", "marca": "PEUGEOT", "key": "306-1882", "id": "1882", "fipe_name": "306 S16 2.0 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Selection Hatch 1.8 16V", "marca": "PEUGEOT", "key": "306-1883", "id": "1883", "fipe_name": "306 Selection Hatch 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Selection Sedan 1.8 16V", "marca": "PEUGEOT", "key": "306-1884", "id": "1884", "fipe_name": "306 Selection Sedan 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Si SL 1.8", "marca": "PEUGEOT", "key": "306-1885", "id": "1885", "fipe_name": "306 Si SL 1.8"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Soleil 1.8 16V  4p", "marca": "PEUGEOT", "key": "306-1886", "id": "1886", "fipe_name": "306 Soleil 1.8 16V  4p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Soleil 1.8 16V 2p", "marca": "PEUGEOT", "key": "306-1887", "id": "1887", "fipe_name": "306 Soleil 1.8 16V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Soleil Break 1.8 16V 5p", "marca": "PEUGEOT", "key": "306-1888", "id": "1888", "fipe_name": "306 Soleil Break 1.8 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 Soleil Hatch 1.8 16V 5p", "marca": "PEUGEOT", "key": "306-1889", "id": "1889", "fipe_name": "306 Soleil Hatch 1.8 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 SR", "marca": "PEUGEOT", "key": "306-1890", "id": "1890", "fipe_name": "306 SR"
+}
+, {"fipe_marca": "Peugeot", "name": "306 XN 1.8", "marca": "PEUGEOT", "key": "306-1891", "id": "1891", "fipe_name": "306 XN 1.8"
+}
+, {"fipe_marca": "Peugeot", "name": "306 XR 1.8  XR Break 1.8 16V", "marca": "PEUGEOT", "key": "306-1892", "id": "1892", "fipe_name": "306 XR 1.8  XR Break 1.8 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "306 XS 1.6 3p ST 1.8i 4p", "marca": "PEUGEOT", "key": "306-1893", "id": "1893", "fipe_name": "306 XS 1.6 3p ST 1.8i 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "306 XSi 2.0 35p", "marca": "PEUGEOT", "key": "306-1894", "id": "1894", "fipe_name": "306 XSi 2.0 35p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 CC 2.0 16V 138cv 2p Mec.", "marca": "PEUGEOT", "key": "307-1896", "id": "1896", "fipe_name": "307 CC 2.0 16V 138cv 2p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "307 CC 2.0 16V 2p Aut.", "marca": "PEUGEOT", "key": "307-1895", "id": "1895", "fipe_name": "307 CC 2.0 16V 2p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "307 Feline 2.0 2.0 Flex 16V 5p Mec", "marca": "PEUGEOT", "key": "307-1898", "id": "1898", "fipe_name": "307 Feline 2.0 2.0 Flex 16V 5p Mec"
+}
+, {"fipe_marca": "Peugeot", "name": "307 FelineGriffPremi. 2.0 Flex 5p Aut", "marca": "PEUGEOT", "key": "307-1897", "id": "1897", "fipe_name": "307 FelineGriffPremi. 2.0 Flex 5p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "307 MILLESIM200 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "307-5400", "id": "5400", "fipe_name": "307 MILLESIM200 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Passion 1.6 16V 110cv 5p", "marca": "PEUGEOT", "key": "307-1899", "id": "1899", "fipe_name": "307 Passion 1.6 16V 110cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Passion 2.0 16V 138cv 5p", "marca": "PEUGEOT", "key": "307-3974", "id": "3974", "fipe_name": "307 Passion 2.0 16V 138cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Presence 2.0 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "307-4986", "id": "4986", "fipe_name": "307 Presence 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "307 Rallye 1.6 16V 110cv 5p", "marca": "PEUGEOT", "key": "307-1900", "id": "1900", "fipe_name": "307 Rallye 1.6 16V 110cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Rallye 2.0 16V 138cv 5p", "marca": "PEUGEOT", "key": "307-1901", "id": "1901", "fipe_name": "307 Rallye 2.0 16V 138cv 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Rallye 2.0 16V 138cv 5p Aut", "marca": "PEUGEOT", "key": "307-1902", "id": "1902", "fipe_name": "307 Rallye 2.0 16V 138cv 5p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Sed. Feline 2.0 2.0 Flex 16V 4p Mec", "marca": "PEUGEOT", "key": "307-4144", "id": "4144", "fipe_name": "307 Sed. Feline 2.0 2.0 Flex 16V 4p Mec"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Sed. Presence 1.6 Flex 16V 4p", "marca": "PEUGEOT", "key": "307-4146", "id": "4146", "fipe_name": "307 Sed. Presence 1.6 Flex 16V 4p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Sed. Presence 2.0 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "307-4987", "id": "4987", "fipe_name": "307 Sed. Presence 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "307 Sed.FelineGriff 2.02.0 Flex 4p Aut", "marca": "PEUGEOT", "key": "307-4145", "id": "4145", "fipe_name": "307 Sed.FelineGriff 2.02.0 Flex 4p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "307 Soleil Presence 1.61.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "307-1903", "id": "1903", "fipe_name": "307 Soleil Presence 1.61.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "307 SW 2.0 16V 138cv 5p Mec.", "marca": "PEUGEOT", "key": "307-1905", "id": "1905", "fipe_name": "307 SW 2.0 16V 138cv 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "307 SW 2.0 16V 5p Aut.", "marca": "PEUGEOT", "key": "307-1904", "id": "1904", "fipe_name": "307 SW 2.0 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "307 SW Allure 2.0 16V 5p Aut.", "marca": "PEUGEOT", "key": "307-4340", "id": "4340", "fipe_name": "307 SW Allure 2.0 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "307 SW Allure 2.0 16V 5p Mec.", "marca": "PEUGEOT", "key": "307-4341", "id": "4341", "fipe_name": "307 SW Allure 2.0 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "307 SW Feline 2.0 16V 5p Aut.", "marca": "PEUGEOT", "key": "307-4342", "id": "4342", "fipe_name": "307 SW Feline 2.0 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "308 Active 1.6 Flex 16V 5p mec.", "marca": "PEUGEOT", "key": "308-5901", "id": "5901", "fipe_name": "308 Active 1.6 Flex 16V 5p mec."
+}
+, {"fipe_marca": "Peugeot", "name": "308 Allure 1.6 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "308-5902", "id": "5902", "fipe_name": "308 Allure 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "308 Allure 2.0 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "308-5903", "id": "5903", "fipe_name": "308 Allure 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "308 Allure 2.0 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "308-5904", "id": "5904", "fipe_name": "308 Allure 2.0 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "308 CC 1.6 Turbo 16V 2p Aut.", "marca": "PEUGEOT", "key": "308-6189", "id": "6189", "fipe_name": "308 CC 1.6 Turbo 16V 2p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "308 CC Roland Garros 1.6 Turbo16V 2p Aut", "marca": "PEUGEOT", "key": "308-6547", "id": "6547", "fipe_name": "308 CC Roland Garros 1.6 Turbo16V 2p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "308 Feline 2.0 Flex 16V 5p Aut.", "marca": "PEUGEOT", "key": "308-5905", "id": "5905", "fipe_name": "308 Feline 2.0 Flex 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "308 FelineGriffe 1.6 Turbo 16V 5p Aut.", "marca": "PEUGEOT", "key": "308-6304", "id": "6304", "fipe_name": "308 FelineGriffe 1.6 Turbo 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "308 QUIKSILVER 1.6 Flex 16V 5p Mec.", "marca": "PEUGEOT", "key": "308-7104", "id": "7104", "fipe_name": "308 QUIKSILVER 1.6 Flex 16V 5p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "308 Roland Garros 1.6 Turbo 16V 5P", "marca": "PEUGEOT", "key": "308-6493", "id": "6493", "fipe_name": "308 Roland Garros 1.6 Turbo 16V 5P"
+}
+, {"fipe_marca": "Peugeot", "name": "405 GLi GL 1.6", "marca": "PEUGEOT", "key": "405-1906", "id": "1906", "fipe_name": "405 GLi GL 1.6"
+}
+, {"fipe_marca": "Peugeot", "name": "405 GRi 1.8", "marca": "PEUGEOT", "key": "405-1907", "id": "1907", "fipe_name": "405 GRi 1.8"
+}
+, {"fipe_marca": "Peugeot", "name": "405 Mi 2.0 16V", "marca": "PEUGEOT", "key": "405-1908", "id": "1908", "fipe_name": "405 Mi 2.0 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "405 SRi 1.8", "marca": "PEUGEOT", "key": "405-1909", "id": "1909", "fipe_name": "405 SRi 1.8"
+}
+, {"fipe_marca": "Peugeot", "name": "405 SRi 2.0", "marca": "PEUGEOT", "key": "405-1910", "id": "1910", "fipe_name": "405 SRi 2.0"
+}
+, {"fipe_marca": "Peugeot", "name": "405 SRi Break", "marca": "PEUGEOT", "key": "405-1911", "id": "1911", "fipe_name": "405 SRi Break"
+}
+, {"fipe_marca": "Peugeot", "name": "405 STi", "marca": "PEUGEOT", "key": "405-1912", "id": "1912", "fipe_name": "405 STi"
+}
+, {"fipe_marca": "Peugeot", "name": "406 Break 2.0 16V", "marca": "PEUGEOT", "key": "406-1913", "id": "1913", "fipe_name": "406 Break 2.0 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "406 Break 3.0 V6 24V", "marca": "PEUGEOT", "key": "406-1914", "id": "1914", "fipe_name": "406 Break 3.0 V6 24V"
+}
+, {"fipe_marca": "Peugeot", "name": "406 Break ST 2.0", "marca": "PEUGEOT", "key": "406-1915", "id": "1915", "fipe_name": "406 Break ST 2.0"
+}
+, {"fipe_marca": "Peugeot", "name": "406 Cupê 3.0 24V Aut.", "marca": "PEUGEOT", "key": "406-1916", "id": "1916", "fipe_name": "406 Cupê 3.0 24V Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Cupê 3.0 24V Mec.", "marca": "PEUGEOT", "key": "406-1917", "id": "1917", "fipe_name": "406 Cupê 3.0 24V Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Familiale 2.0 16V Aut.", "marca": "PEUGEOT", "key": "406-1918", "id": "1918", "fipe_name": "406 Familiale 2.0 16V Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Familiale 2.0 16V Mec.", "marca": "PEUGEOT", "key": "406-1919", "id": "1919", "fipe_name": "406 Familiale 2.0 16V Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Sedan 2.0 Aut.", "marca": "PEUGEOT", "key": "406-1920", "id": "1920", "fipe_name": "406 Sedan 2.0 Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Sedan 2.0 Mec.", "marca": "PEUGEOT", "key": "406-1921", "id": "1921", "fipe_name": "406 Sedan 2.0 Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "406 Sedan 3.0 V6 24V", "marca": "PEUGEOT", "key": "406-1922", "id": "1922", "fipe_name": "406 Sedan 3.0 V6 24V"
+}
+, {"fipe_marca": "Peugeot", "name": "406 ST 2.0 16V  Mec", "marca": "PEUGEOT", "key": "406-1923", "id": "1923", "fipe_name": "406 ST 2.0 16V  Mec"
+}
+, {"fipe_marca": "Peugeot", "name": "406 ST SVA 2.0 16V Aut", "marca": "PEUGEOT", "key": "406-1924", "id": "1924", "fipe_name": "406 ST SVA 2.0 16V Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "406 SV 2.0 16V", "marca": "PEUGEOT", "key": "406-1925", "id": "1925", "fipe_name": "406 SV 2.0 16V"
+}
+, {"fipe_marca": "Peugeot", "name": "406 SVA 3.0 24V", "marca": "PEUGEOT", "key": "406-1926", "id": "1926", "fipe_name": "406 SVA 3.0 24V"
+}
+, {"fipe_marca": "Peugeot", "name": "406 SVE 3.0 24V", "marca": "PEUGEOT", "key": "406-1927", "id": "1927", "fipe_name": "406 SVE 3.0 24V"
+}
+, {"fipe_marca": "Peugeot", "name": "407 Sed. Allure 2.0 16V 4p Aut.", "marca": "PEUGEOT", "key": "407-4343", "id": "4343", "fipe_name": "407 Sed. Allure 2.0 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "407 Sed. Feline 3.0 V6 211cv 4p Aut.", "marca": "PEUGEOT", "key": "407-4344", "id": "4344", "fipe_name": "407 Sed. Feline 3.0 V6 211cv 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "407 Sed. Griffe 3.0 V6 211cv 4p Aut.", "marca": "PEUGEOT", "key": "407-4345", "id": "4345", "fipe_name": "407 Sed. Griffe 3.0 V6 211cv 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "407 Sedan 2.0 16V  138cv 4p Aut", "marca": "PEUGEOT", "key": "407-1928", "id": "1928", "fipe_name": "407 Sedan 2.0 16V  138cv 4p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "407 Sedan 3.0 V6 211cv 4p Aut", "marca": "PEUGEOT", "key": "407-1929", "id": "1929", "fipe_name": "407 Sedan 3.0 V6 211cv 4p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "407 SW 2.0 16V 5p Aut", "marca": "PEUGEOT", "key": "407-1930", "id": "1930", "fipe_name": "407 SW 2.0 16V 5p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "407 SW 3.0 V6 211cv 5p Aut", "marca": "PEUGEOT", "key": "407-1931", "id": "1931", "fipe_name": "407 SW 3.0 V6 211cv 5p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "407 SW Allure 2.0 16V 5p Aut.", "marca": "PEUGEOT", "key": "407-4346", "id": "4346", "fipe_name": "407 SW Allure 2.0 16V 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "407 SW Feline 3.0 V6 211cv 5p Aut.", "marca": "PEUGEOT", "key": "407-4347", "id": "4347", "fipe_name": "407 SW Feline 3.0 V6 211cv 5p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Allure 2.0 Flex 16V 4p Aut.", "marca": "PEUGEOT", "key": "408-5504", "id": "5504", "fipe_name": "408 Sedan Allure 2.0 Flex 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Allure 2.0 Flex 16V 4p Mec.", "marca": "PEUGEOT", "key": "408-5505", "id": "5505", "fipe_name": "408 Sedan Allure 2.0 Flex 16V 4p Mec."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Feline 2.0 Flex 16V 4p Aut.", "marca": "PEUGEOT", "key": "408-5506", "id": "5506", "fipe_name": "408 Sedan Feline 2.0 Flex 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Griffe 1.6 Turbo 16V 4p Aut.", "marca": "PEUGEOT", "key": "408-5906", "id": "5906", "fipe_name": "408 Sedan Griffe 1.6 Turbo 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Griffe 2.0 Flex 16V 4p Aut.", "marca": "PEUGEOT", "key": "408-5507", "id": "5507", "fipe_name": "408 Sedan Griffe 2.0 Flex 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "408 Sedan Limited 2.0 Flex 16V 4p Aut.", "marca": "PEUGEOT", "key": "408-7169", "id": "7169", "fipe_name": "408 Sedan Limited 2.0 Flex 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "504 GD 2.3 Diesel", "marca": "PEUGEOT", "key": "504-1932", "id": "1932", "fipe_name": "504 GD 2.3 Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "504 GRD 2.3 Diesel", "marca": "PEUGEOT", "key": "504-1933", "id": "1933", "fipe_name": "504 GRD 2.3 Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "505 SR SRi SRX", "marca": "PEUGEOT", "key": "505-1934", "id": "1934", "fipe_name": "505 SR SRi SRX"
+}
+, {"fipe_marca": "Peugeot", "name": "508 THP 1.6 Turbo 16V 4p Aut.", "marca": "PEUGEOT", "key": "508-6072", "id": "6072", "fipe_name": "508 THP 1.6 Turbo 16V 4p Aut."
+}
+, {"fipe_marca": "Peugeot", "name": "605 SRi 3.0", "marca": "PEUGEOT", "key": "605-1935", "id": "1935", "fipe_name": "605 SRi 3.0"
+}
+, {"fipe_marca": "Peugeot", "name": "605 SRi SLi 2.0", "marca": "PEUGEOT", "key": "605-1936", "id": "1936", "fipe_name": "605 SRi SLi 2.0"
+}
+, {"fipe_marca": "Peugeot", "name": "605 SV 3.0 Aut", "marca": "PEUGEOT", "key": "605-1937", "id": "1937", "fipe_name": "605 SV 3.0 Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "605 SV-3 3.0 V6 24V", "marca": "PEUGEOT", "key": "605-1938", "id": "1938", "fipe_name": "605 SV-3 3.0 V6 24V"
+}
+, {"fipe_marca": "Peugeot", "name": "607 Sedan 3.0 V6", "marca": "PEUGEOT", "key": "607-1939", "id": "1939", "fipe_name": "607 Sedan 3.0 V6"
+}
+, {"fipe_marca": "Peugeot", "name": "806 ST Turbo", "marca": "PEUGEOT", "key": "806-1940", "id": "1940", "fipe_name": "806 ST Turbo"
+}
+, {"fipe_marca": "Peugeot", "name": "806 SV 2.0 Turbo", "marca": "PEUGEOT", "key": "806-1941", "id": "1941", "fipe_name": "806 SV 2.0 Turbo"
+}
+, {"fipe_marca": "Peugeot", "name": "807 2.0 16V 138cv 5p Aut", "marca": "PEUGEOT", "key": "807-1942", "id": "1942", "fipe_name": "807 2.0 16V 138cv 5p Aut"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.3 Furg.TB Dies. CurtoMédio", "marca": "PEUGEOT", "key": "boxer-5076", "id": "5076", "fipe_name": "Boxer 2.3 Furg.TB Dies. CurtoMédio"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.3 Furg.TB Dies. Méd LongoT.Alto", "marca": "PEUGEOT", "key": "boxer-5077", "id": "5077", "fipe_name": "Boxer 2.3 Furg.TB Dies. Méd LongoT.Alto"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.3 LH Executive 1516L TB Diesel", "marca": "PEUGEOT", "key": "boxer-5597", "id": "5597", "fipe_name": "Boxer 2.3 LH Executive 1516L TB Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.3 Minibus 1516L TB Diesel.", "marca": "PEUGEOT", "key": "boxer-5112", "id": "5112", "fipe_name": "Boxer 2.3 Minibus 1516L TB Diesel."
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.5 Diesel", "marca": "PEUGEOT", "key": "boxer-1943", "id": "1943", "fipe_name": "Boxer 2.5 Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.8 10Lug. Diesel", "marca": "PEUGEOT", "key": "boxer-1944", "id": "1944", "fipe_name": "Boxer 2.8 10Lug. Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.8 15L16L Dies.TB Diesel", "marca": "PEUGEOT", "key": "boxer-1945", "id": "1945", "fipe_name": "Boxer 2.8 15L16L Dies.TB Diesel"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.8 Furg. TB Dies. MédLongoT.Alto", "marca": "PEUGEOT", "key": "boxer-1947", "id": "1947", "fipe_name": "Boxer 2.8 Furg. TB Dies. MédLongoT.Alto"
+}
+, {"fipe_marca": "Peugeot", "name": "Boxer 2.8 Furgão Dies TB Dies.curtoméd", "marca": "PEUGEOT", "key": "boxer-1946", "id": "1946", "fipe_name": "Boxer 2.8 Furgão Dies TB Dies.curtoméd"
+}
+, {"fipe_marca": "Peugeot", "name": "HOGGAR Active 1.4 Flex 8V 2p", "marca": "PEUGEOT", "key": "hoggar-6645", "id": "6645", "fipe_name": "HOGGAR Active 1.4 Flex 8V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "HOGGAR Allure 1.4 Flex 8V 2p", "marca": "PEUGEOT", "key": "hoggar-6646", "id": "6646", "fipe_name": "HOGGAR Allure 1.4 Flex 8V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "HOGGAR ESCAPADE 1.6 Flex 16V 2p", "marca": "PEUGEOT", "key": "hoggar-5258", "id": "5258", "fipe_name": "HOGGAR ESCAPADE 1.6 Flex 16V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "HOGGAR X-Line 1.4 Flex 8V 2p", "marca": "PEUGEOT", "key": "hoggar-5259", "id": "5259", "fipe_name": "HOGGAR X-Line 1.4 Flex 8V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "HOGGAR XR 1.4 Flex 8V 2p", "marca": "PEUGEOT", "key": "hoggar-5260", "id": "5260", "fipe_name": "HOGGAR XR 1.4 Flex 8V 2p"
+}
+, {"fipe_marca": "Peugeot", "name": "Partner  VAN 1.6  Flex 16V  5p", "marca": "PEUGEOT", "key": "partner-5282", "id": "5282", "fipe_name": "Partner  VAN 1.6  Flex 16V  5p"
+}
+, {"fipe_marca": "Peugeot", "name": "Partner  VAN ESCAPADE 1.6 Flex 16V 5p", "marca": "PEUGEOT", "key": "partner-5283", "id": "5283", "fipe_name": "Partner  VAN ESCAPADE 1.6 Flex 16V 5p"
+}
+, {"fipe_marca": "Peugeot", "name": "Partner Furgão 1.6 16V 1.6 16V Flex 3p", "marca": "PEUGEOT", "key": "partner-1948", "id": "1948", "fipe_name": "Partner Furgão 1.6 16V 1.6 16V Flex 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "Partner Furgão 1.8 3p", "marca": "PEUGEOT", "key": "partner-1949", "id": "1949", "fipe_name": "Partner Furgão 1.8 3p"
+}
+, {"fipe_marca": "Peugeot", "name": "RCZ 1.6 Turbo16v 2p Aut.", "marca": "PEUGEOT", "key": "rcz-5669", "id": "5669", "fipe_name": "RCZ 1.6 Turbo16v 2p Aut."
+}
+]

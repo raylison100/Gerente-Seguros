@@ -1,0 +1,164 @@
+{"contador" = "81"}
+[{"fipe_marca": "Kia Motors", "name": "Besta EST 2.7 Diesel (1012lug.)", "marca": "KIA", "key": "besta-1390", "id": "1390", "fipe_name": "Besta EST 2.7 Diesel (1012lug.)"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta EST Full 2.7 Diesel (1012lug.)", "marca": "KIA", "key": "besta-1391", "id": "1391", "fipe_name": "Besta EST Full 2.7 Diesel (1012lug.)"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta Furgão 2.2 Diesel", "marca": "KIA", "key": "besta-1392", "id": "1392", "fipe_name": "Besta Furgão 2.2 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta Furgão 2.7 Diesel", "marca": "KIA", "key": "besta-1393", "id": "1393", "fipe_name": "Besta Furgão 2.7 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta Furgão Grand 3.0 Diesel", "marca": "KIA", "key": "besta-1394", "id": "1394", "fipe_name": "Besta Furgão Grand 3.0 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta GS 2.7 8V 12L Diesel", "marca": "KIA", "key": "besta-1395", "id": "1395", "fipe_name": "Besta GS 2.7 8V 12L Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta GS Full 2.7 Diesel", "marca": "KIA", "key": "besta-1396", "id": "1396", "fipe_name": "Besta GS Full 2.7 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta GS Grand 3.0 8V 16L Diesel", "marca": "KIA", "key": "besta-1397", "id": "1397", "fipe_name": "Besta GS Grand 3.0 8V 16L Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Besta ST 2.2 Diesel (12lug.)", "marca": "KIA", "key": "besta-1398", "id": "1398", "fipe_name": "Besta ST 2.2 Diesel (12lug.)"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-2400 2.4 Diesel", "marca": "KIA", "key": "bongo-1399", "id": "1399", "fipe_name": "Bongo K-2400 2.4 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-2500 2.5 4x2 TB Diesel", "marca": "KIA", "key": "bongo-4476", "id": "4476", "fipe_name": "Bongo K-2500 2.5 4x2 TB Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-2700 2.7 4x24x4 Diesel", "marca": "KIA", "key": "bongo-1400", "id": "1400", "fipe_name": "Bongo K-2700 2.7 4x24x4 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-2700 2.7 4x4 Basculante Diesel", "marca": "KIA", "key": "bongo-4140", "id": "4140", "fipe_name": "Bongo K-2700 2.7 4x4 Basculante Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-2700 2.7 4x4 CD Diesel", "marca": "KIA", "key": "bongo-1401", "id": "1401", "fipe_name": "Bongo K-2700 2.7 4x4 CD Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Bongo K-3500K-3600110 3.6 Diesel", "marca": "KIA", "key": "bongo-1402", "id": "1402", "fipe_name": "Bongo K-3500K-3600110 3.6 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "CADENZA EX 3.5 V6 24V 290cv Aut.", "marca": "KIA", "key": "cadenza-5417", "id": "5417", "fipe_name": "CADENZA EX 3.5 V6 24V 290cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Carens EX 2.0 16V  Aut", "marca": "KIA", "key": "carens-4684", "id": "4684", "fipe_name": "Carens EX 2.0 16V  Aut"
+}
+, {"fipe_marca": "Kia Motors", "name": "Carens LS 1.8 16V 130cv Aut.", "marca": "KIA", "key": "carens-1403", "id": "1403", "fipe_name": "Carens LS 1.8 16V 130cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Carens LS 1.8 16V 130cv Mec.", "marca": "KIA", "key": "carens-1404", "id": "1404", "fipe_name": "Carens LS 1.8 16V 130cv Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Carnival 2.5 V6", "marca": "KIA", "key": "carnival-1405", "id": "1405", "fipe_name": "Carnival 2.5 V6"
+}
+, {"fipe_marca": "Kia Motors", "name": "Carnival EX 3.5 V6 24V 276cv Aut.", "marca": "KIA", "key": "carnival-5580", "id": "5580", "fipe_name": "Carnival EX 3.5 V6 24V 276cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Carnival EX 3.8 V6 24V 242cv Aut.", "marca": "KIA", "key": "carnival-4119", "id": "4119", "fipe_name": "Carnival EX 3.8 V6 24V 242cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Carnival GS 2.9 TDI 16V 125cv Diesel", "marca": "KIA", "key": "carnival-1406", "id": "1406", "fipe_name": "Carnival GS 2.9 TDI 16V 125cv Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato 1.6 16 V Flex Mec.", "marca": "KIA", "key": "cerato-6441", "id": "6441", "fipe_name": "Cerato 1.6 16 V Flex Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato 1.6 16V  Flex  Aut.", "marca": "KIA", "key": "cerato-6442", "id": "6442", "fipe_name": "Cerato 1.6 16V  Flex  Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato 1.6 16V Aut.", "marca": "KIA", "key": "cerato-4440", "id": "4440", "fipe_name": "Cerato 1.6 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato 1.6 16V Mec.", "marca": "KIA", "key": "cerato-3936", "id": "3936", "fipe_name": "Cerato 1.6 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato 2.0 16V Aut.", "marca": "KIA", "key": "cerato-3937", "id": "3937", "fipe_name": "Cerato 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Cerato KOUP 2.0 16V Aut.", "marca": "KIA", "key": "cerato-5581", "id": "5581", "fipe_name": "Cerato KOUP 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Ceres Pick-Up 2.2 Diesel", "marca": "KIA", "key": "ceres-1407", "id": "1407", "fipe_name": "Ceres Pick-Up 2.2 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Clarus GLX 2.0 16V Aut.", "marca": "KIA", "key": "clarus-1408", "id": "1408", "fipe_name": "Clarus GLX 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Clarus GLX 2.0 16V Mec", "marca": "KIA", "key": "clarus-1409", "id": "1409", "fipe_name": "Clarus GLX 2.0 16V Mec"
+}
+, {"fipe_marca": "Kia Motors", "name": "Clarus Wagon GLX 2.0 16V Aut.", "marca": "KIA", "key": "clarus-1410", "id": "1410", "fipe_name": "Clarus Wagon GLX 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Clarus Wagon GLX 2.0 16V Mec.", "marca": "KIA", "key": "clarus-1411", "id": "1411", "fipe_name": "Clarus Wagon GLX 2.0 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Magentis EX 2.0 16V Aut.", "marca": "KIA", "key": "magentis-4121", "id": "4121", "fipe_name": "Magentis EX 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Magentis LX 2.0 16V Aut", "marca": "KIA", "key": "magentis-4425", "id": "4425", "fipe_name": "Magentis LX 2.0 16V Aut"
+}
+, {"fipe_marca": "Kia Motors", "name": "MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.", "marca": "KIA", "key": "mohave-4891", "id": "4891", "fipe_name": "MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut.", "marca": "KIA", "key": "mohave-4863", "id": "4863", "fipe_name": "MOHAVE EX 3.8 V6 24V 275cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.", "marca": "KIA", "key": "mohave-4999", "id": "4999", "fipe_name": "MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Opirus GL 3.5 V6 24V 202cv Aut.", "marca": "KIA", "key": "opirus-1412", "id": "1412", "fipe_name": "Opirus GL 3.5 V6 24V 202cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Opirus GL 3.8 V6 24V 267cv Aut.", "marca": "KIA", "key": "opirus-4441", "id": "4441", "fipe_name": "Opirus GL 3.8 V6 24V 267cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "OPTIMA 2.0 16V 165cv Aut.", "marca": "KIA", "key": "optima-6891", "id": "6891", "fipe_name": "OPTIMA 2.0 16V 165cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "OPTIMA 2.4 16V 180cv Aut.", "marca": "KIA", "key": "optima-5934", "id": "5934", "fipe_name": "OPTIMA 2.4 16V 180cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Picanto EX 1.1 1.0 1.0 Flex Aut", "marca": "KIA", "key": "picanto-4141", "id": "4141", "fipe_name": "Picanto EX 1.1 1.0 1.0 Flex Aut"
+}
+, {"fipe_marca": "Kia Motors", "name": "Picanto EX 1.1 1.0 1.0 Flex Mec", "marca": "KIA", "key": "picanto-4142", "id": "4142", "fipe_name": "Picanto EX 1.1 1.0 1.0 Flex Mec"
+}
+, {"fipe_marca": "Kia Motors", "name": "QUORIS EX 3.8 V6 24V 294cv Aut.", "marca": "KIA", "key": "quoris-7073", "id": "7073", "fipe_name": "QUORIS EX 3.8 V6 24V 294cv Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sephia GTX 1.5 16V", "marca": "KIA", "key": "sephia-1413", "id": "1413", "fipe_name": "Sephia GTX 1.5 16V"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sephia GTX 1.6", "marca": "KIA", "key": "sephia-1414", "id": "1414", "fipe_name": "Sephia GTX 1.6"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sephia LS 1.5 16V Aut.", "marca": "KIA", "key": "sephia-1415", "id": "1415", "fipe_name": "Sephia LS 1.5 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sephia LS 1.5 16V Mec.", "marca": "KIA", "key": "sephia-1416", "id": "1416", "fipe_name": "Sephia LS 1.5 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sephia SLX", "marca": "KIA", "key": "sephia-1417", "id": "1417", "fipe_name": "Sephia SLX"
+}
+, {"fipe_marca": "Kia Motors", "name": "Shuma LS 1.5 16V Aut.", "marca": "KIA", "key": "shuma-1418", "id": "1418", "fipe_name": "Shuma LS 1.5 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Shuma LS 1.5 16V Mec.", "marca": "KIA", "key": "shuma-1419", "id": "1419", "fipe_name": "Shuma LS 1.5 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento 2.4 16V 174cv 4x2 Aut.", "marca": "KIA", "key": "sorento-5249", "id": "5249", "fipe_name": "Sorento 2.4 16V 174cv 4x2 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento 2.4 16V 174cv 4x4 Aut.", "marca": "KIA", "key": "sorento-5250", "id": "5250", "fipe_name": "Sorento 2.4 16V 174cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento 3.5 V6 24V 278cv 4x2 Aut.", "marca": "KIA", "key": "sorento-5251", "id": "5251", "fipe_name": "Sorento 3.5 V6 24V 278cv 4x2 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento 3.5 V6 24V 278cv 4x4 Aut.", "marca": "KIA", "key": "sorento-5252", "id": "5252", "fipe_name": "Sorento 3.5 V6 24V 278cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento EX 2.5 140170cv 4x4 Aut.Diesel", "marca": "KIA", "key": "sorento-1420", "id": "1420", "fipe_name": "Sorento EX 2.5 140170cv 4x4 Aut.Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento EX 2.5 16V 4x4 Mec. Diesel", "marca": "KIA", "key": "sorento-3970", "id": "3970", "fipe_name": "Sorento EX 2.5 16V 4x4 Mec. Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento EX 3.5 V6 24V 197cv 4x4 Aut.", "marca": "KIA", "key": "sorento-1421", "id": "1421", "fipe_name": "Sorento EX 3.5 V6 24V 197cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento EX 3.8 V6 24V 267cv 4x4 Aut.", "marca": "KIA", "key": "sorento-4293", "id": "4293", "fipe_name": "Sorento EX 3.8 V6 24V 267cv 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento LX 2.5 16V 140cv 4x4 Aut. Diesel", "marca": "KIA", "key": "sorento-1422", "id": "1422", "fipe_name": "Sorento LX 2.5 16V 140cv 4x4 Aut. Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sorento LX 2.5 16V 140cv 4x4 Mec. Diesel", "marca": "KIA", "key": "sorento-1423", "id": "1423", "fipe_name": "Sorento LX 2.5 16V 140cv 4x4 Mec. Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "SOUL 1.6 1.6 16V FLEX Aut.", "marca": "KIA", "key": "soul-4977", "id": "4977", "fipe_name": "SOUL 1.6 1.6 16V FLEX Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "SOUL 1.6 1.6 16V FLEX Mec.", "marca": "KIA", "key": "soul-4978", "id": "4978", "fipe_name": "SOUL 1.6 1.6 16V FLEX Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage 2.0 16V Aut", "marca": "KIA", "key": "sportage-1424", "id": "1424", "fipe_name": "Sportage 2.0 16V Aut"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage 2.0 8V TB-IC Diesel", "marca": "KIA", "key": "sportage-1425", "id": "1425", "fipe_name": "Sportage 2.0 8V TB-IC Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage DLX 2.0 16V Aut.", "marca": "KIA", "key": "sportage-1426", "id": "1426", "fipe_name": "Sportage DLX 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage DLX 2.0 16V Mec.", "marca": "KIA", "key": "sportage-1427", "id": "1427", "fipe_name": "Sportage DLX 2.0 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage DLX 2.2 Diesel Mec", "marca": "KIA", "key": "sportage-1428", "id": "1428", "fipe_name": "Sportage DLX 2.2 Diesel Mec"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage EX 2.0 16V Mec.", "marca": "KIA", "key": "sportage-4477", "id": "4477", "fipe_name": "Sportage EX 2.0 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage EX 2.0 16V 2.0 16V Flex Aut.", "marca": "KIA", "key": "sportage-5418", "id": "5418", "fipe_name": "Sportage EX 2.0 16V 2.0 16V Flex Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage EX 2.7 V6 4x4 Aut.", "marca": "KIA", "key": "sportage-1429", "id": "1429", "fipe_name": "Sportage EX 2.7 V6 4x4 Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage Grand 2.0 16V Aut.", "marca": "KIA", "key": "sportage-1430", "id": "1430", "fipe_name": "Sportage Grand 2.0 16V Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage Grand 2.0 16V Mec.", "marca": "KIA", "key": "sportage-1431", "id": "1431", "fipe_name": "Sportage Grand 2.0 16V Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage Grand 2.0 8V TB-IC Diesel", "marca": "KIA", "key": "sportage-1432", "id": "1432", "fipe_name": "Sportage Grand 2.0 8V TB-IC Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage GTE 2.2 4x4 Diesel", "marca": "KIA", "key": "sportage-1433", "id": "1433", "fipe_name": "Sportage GTE 2.2 4x4 Diesel"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage LX 2.0 16V 142cv 5p", "marca": "KIA", "key": "sportage-1434", "id": "1434", "fipe_name": "Sportage LX 2.0 16V 142cv 5p"
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage LX 2.0 16V 2.0 16V Flex  Aut.", "marca": "KIA", "key": "sportage-5419", "id": "5419", "fipe_name": "Sportage LX 2.0 16V 2.0 16V Flex  Aut."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage LX 2.0 16V 2.0 16V Flex Mec.", "marca": "KIA", "key": "sportage-5420", "id": "5420", "fipe_name": "Sportage LX 2.0 16V 2.0 16V Flex Mec."
+}
+, {"fipe_marca": "Kia Motors", "name": "Sportage Targa 2.0 16V", "marca": "KIA", "key": "sportage-1435", "id": "1435", "fipe_name": "Sportage Targa 2.0 16V"
+}
+]

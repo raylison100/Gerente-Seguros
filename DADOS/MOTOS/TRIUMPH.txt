@@ -1,0 +1,96 @@
+{"contador" = "47"}
+[{"fipe_marca": "TRIUMPH", "fipe_name": "ADVENTURER 900", "marca": "TRIUMPH", "key": "adventurer-3033", "id": "3033", "name": "ADVENTURER 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "BONNEVILLE 750cc 790cc  865cc", "marca": "TRIUMPH", "key": "bonneville-3034", "id": "3034", "name": "BONNEVILLE 750cc 790cc  865cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "BONNEVILLE T 100 865cc", "marca": "TRIUMPH", "key": "bonneville-3035", "id": "3035", "name": "BONNEVILLE T 100 865cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA 1200", "marca": "TRIUMPH", "key": "daytona-3036", "id": "3036", "name": "DAYTONA 1200"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA 675i", "marca": "TRIUMPH", "key": "daytona-4129", "id": "4129", "name": "DAYTONA 675i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA 675R", "marca": "TRIUMPH", "key": "daytona-6504", "id": "6504", "name": "DAYTONA 675R"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA 900", "marca": "TRIUMPH", "key": "daytona-3037", "id": "3037", "name": "DAYTONA 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA 955i", "marca": "TRIUMPH", "key": "daytona-3038", "id": "3038", "name": "DAYTONA 955i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA SUPER III", "marca": "TRIUMPH", "key": "daytona-3039", "id": "3039", "name": "DAYTONA SUPER III"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "DAYTONA T-955", "marca": "TRIUMPH", "key": "daytona-3040", "id": "3040", "name": "DAYTONA T-955"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "LEGEND 900", "marca": "TRIUMPH", "key": "legend-3041", "id": "3041", "name": "LEGEND 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "ROCKET III 2300cc", "marca": "TRIUMPH", "key": "rocket-3042", "id": "3042", "name": "ROCKET III 2300cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "ROCKET III CLASSIC 2300cc", "marca": "TRIUMPH", "key": "rocket-4130", "id": "4130", "name": "ROCKET III CLASSIC 2300cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "ROCKET III ROADSTER 2300cc", "marca": "TRIUMPH", "key": "rocket-6338", "id": "6338", "name": "ROCKET III ROADSTER 2300cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SCRAMBLER 900cc", "marca": "TRIUMPH", "key": "scrambler-4131", "id": "4131", "name": "SCRAMBLER 900cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPEED TRIPLE 1050i", "marca": "TRIUMPH", "key": "speed-3942", "id": "3942", "name": "SPEED TRIPLE 1050i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPEED TRIPLE 900", "marca": "TRIUMPH", "key": "speed-3043", "id": "3043", "name": "SPEED TRIPLE 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPEED TRIPLE 955i", "marca": "TRIUMPH", "key": "speed-3044", "id": "3044", "name": "SPEED TRIPLE 955i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPEED TRIPLE T-509 900cc", "marca": "TRIUMPH", "key": "speed-3045", "id": "3045", "name": "SPEED TRIPLE T-509 900cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPRINT 900", "marca": "TRIUMPH", "key": "sprint-3046", "id": "3046", "name": "SPRINT 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPRINT RS 955", "marca": "TRIUMPH", "key": "sprint-3047", "id": "3047", "name": "SPRINT RS 955"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPRINT ST 1050i", "marca": "TRIUMPH", "key": "sprint-3048", "id": "3048", "name": "SPRINT ST 1050i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "SPRINT ST 955", "marca": "TRIUMPH", "key": "sprint-3049", "id": "3049", "name": "SPRINT ST 955"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "STREET TRIPLE 675", "marca": "TRIUMPH", "key": "street-5018", "id": "5018", "name": "STREET TRIPLE 675"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "STREET TRIPLE 675R", "marca": "TRIUMPH", "key": "street-6620", "id": "6620", "name": "STREET TRIPLE 675R"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "THRUXTON 900cc", "marca": "TRIUMPH", "key": "thruxton-4132", "id": "4132", "name": "THRUXTON 900cc"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "THUNDERBIRD 1700 COMMANDER", "marca": "TRIUMPH", "key": "thunderbird-6879", "id": "6879", "name": "THUNDERBIRD 1700 COMMANDER"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "THUNDERBIRD 1700 STORM", "marca": "TRIUMPH", "key": "thunderbird-6283", "id": "6283", "name": "THUNDERBIRD 1700 STORM"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "THUNDERBIRD 900", "marca": "TRIUMPH", "key": "thunderbird-3050", "id": "3050", "name": "THUNDERBIRD 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "THUNDERBIRD 900 SPORT", "marca": "TRIUMPH", "key": "thunderbird-3051", "id": "3051", "name": "THUNDERBIRD 900 SPORT"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 1050", "marca": "TRIUMPH", "key": "tiger-4741", "id": "4741", "name": "TIGER 1050"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 1050 SPORT", "marca": "TRIUMPH", "key": "tiger-6979", "id": "6979", "name": "TIGER 1050 SPORT"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 1200 EXPLORER", "marca": "TRIUMPH", "key": "tiger-6284", "id": "6284", "name": "TIGER 1200 EXPLORER"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 1200XC EXPLORER", "marca": "TRIUMPH", "key": "tiger-6657", "id": "6657", "name": "TIGER 1200XC EXPLORER"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 750", "marca": "TRIUMPH", "key": "tiger-3052", "id": "3052", "name": "TIGER 750"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 800", "marca": "TRIUMPH", "key": "tiger-6658", "id": "6658", "name": "TIGER 800"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 800 XC", "marca": "TRIUMPH", "key": "tiger-6285", "id": "6285", "name": "TIGER 800 XC"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 800 XCx", "marca": "TRIUMPH", "key": "tiger-7175", "id": "7175", "name": "TIGER 800 XCx"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 800 XRx", "marca": "TRIUMPH", "key": "tiger-7176", "id": "7176", "name": "TIGER 800 XRx"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 900", "marca": "TRIUMPH", "key": "tiger-3053", "id": "3053", "name": "TIGER 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TIGER 955i", "marca": "TRIUMPH", "key": "tiger-3054", "id": "3054", "name": "TIGER 955i"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TRIDENT 750", "marca": "TRIUMPH", "key": "trident-3055", "id": "3055", "name": "TRIDENT 750"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TRIDENT 900", "marca": "TRIUMPH", "key": "trident-3056", "id": "3056", "name": "TRIDENT 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TROPHY 1200", "marca": "TRIUMPH", "key": "trophy-3057", "id": "3057", "name": "TROPHY 1200"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TROPHY 900", "marca": "TRIUMPH", "key": "trophy-3058", "id": "3058", "name": "TROPHY 900"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TROPHY SE 1200", "marca": "TRIUMPH", "key": "trophy-6659", "id": "6659", "name": "TROPHY SE 1200"
+}
+, {"fipe_marca": "TRIUMPH", "fipe_name": "TT 600", "marca": "TRIUMPH", "key": "tt-3059", "id": "3059", "name": "TT 600"
+}
+]

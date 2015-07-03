@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "BMW", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "BMW", "key": "1998-1998-1", "veiculo": "318iSISA 1.9 16V", "id": "1998-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "BMW", "key": "1997-1997-1", "veiculo": "318iSISA 1.9 16V", "id": "1997-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "BMW", "key": "1996-1996-1", "veiculo": "318iSISA 1.9 16V", "id": "1996-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "BMW", "key": "1995-1995-1", "veiculo": "318iSISA 1.9 16V", "id": "1995-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "BMW", "key": "1994-1994-1", "veiculo": "318iSISA 1.9 16V", "id": "1994-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "BMW", "key": "1993-1993-1", "veiculo": "318iSISA 1.9 16V", "id": "1993-1"
+}
+]

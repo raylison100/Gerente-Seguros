@@ -1,0 +1,26 @@
+{"contador" = "12"}
+[{"fipe_marca": "MOTORINO", "fipe_name": "Bacio 125cc", "marca": "MOTORINO", "key": "bacio-6822", "id": "6822", "name": "Bacio 125cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Bellavita 150cc", "marca": "MOTORINO", "key": "bellavita-6823", "id": "6823", "name": "Bellavita 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Cappuccino150cc", "marca": "MOTORINO", "key": "cappuccino150cc-6824", "id": "6824", "name": "Cappuccino150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Custom 150cc", "marca": "MOTORINO", "key": "custom-6825", "id": "6825", "name": "Custom 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Custom S 150cc", "marca": "MOTORINO", "key": "custom-6826", "id": "6826", "name": "Custom S 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Star 150cc", "marca": "MOTORINO", "key": "star-6827", "id": "6827", "name": "Star 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Star 200cc", "marca": "MOTORINO", "key": "star-6828", "id": "6828", "name": "Star 200cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Star automatic 125cc", "marca": "MOTORINO", "key": "star-6829", "id": "6829", "name": "Star automatic 125cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Velocette 150cc", "marca": "MOTORINO", "key": "velocette-6830", "id": "6830", "name": "Velocette 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Velvet 150cc", "marca": "MOTORINO", "key": "velvet-6831", "id": "6831", "name": "Velvet 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Vitesse 150cc", "marca": "MOTORINO", "key": "vitesse-7248", "id": "7248", "name": "Vitesse 150cc"
+}
+, {"fipe_marca": "MOTORINO", "fipe_name": "Volti 3000w", "marca": "MOTORINO", "key": "volti-6832", "id": "6832", "name": "Volti 3000w"
+}
+]

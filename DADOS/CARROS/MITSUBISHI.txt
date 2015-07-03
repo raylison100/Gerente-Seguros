@@ -1,0 +1,270 @@
+{"contador" = "134"}
+[{"fipe_marca": "Mitsubishi", "name": "3000 GT SL 3.0", "marca": "MITSUBISHI", "key": "3000-1697", "id": "1697", "fipe_name": "3000 GT SL 3.0"
+}
+, {"fipe_marca": "Mitsubishi", "name": "3000 GT VR-4", "marca": "MITSUBISHI", "key": "3000-1698", "id": "1698", "fipe_name": "3000 GT VR-4"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Airtrek 2.0 16V TB-IC 202cv 4x4 5p", "marca": "MITSUBISHI", "key": "airtrek-4251", "id": "4251", "fipe_name": "Airtrek 2.0 16V TB-IC 202cv 4x4 5p"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Airtrek 2.4 16V 163cv 136cv 4x4 5p Aut.", "marca": "MITSUBISHI", "key": "airtrek-1699", "id": "1699", "fipe_name": "Airtrek 2.4 16V 163cv 136cv 4x4 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "ASX 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "asx-5424", "id": "5424", "fipe_name": "ASX 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "ASX 2.0 16V 160cv Mec.", "marca": "MITSUBISHI", "key": "asx-5425", "id": "5425", "fipe_name": "ASX 2.0 16V 160cv Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "ASX 2.0 16V 4x4 160cv Aut.", "marca": "MITSUBISHI", "key": "asx-5426", "id": "5426", "fipe_name": "ASX 2.0 16V 4x4 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Colt GLXi", "marca": "MITSUBISHI", "key": "colt-1700", "id": "1700", "fipe_name": "Colt GLXi"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Colt GTi Mec", "marca": "MITSUBISHI", "key": "colt-1701", "id": "1701", "fipe_name": "Colt GTi Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Diamant  LS 3.0 V6", "marca": "MITSUBISHI", "key": "diamant-1702", "id": "1702", "fipe_name": "Diamant  LS 3.0 V6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Eclipse GS GS Turbo Mec", "marca": "MITSUBISHI", "key": "eclipse-1703", "id": "1703", "fipe_name": "Eclipse GS GS Turbo Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Eclipse GST 2.0 16V Turbo", "marca": "MITSUBISHI", "key": "eclipse-1704", "id": "1704", "fipe_name": "Eclipse GST 2.0 16V Turbo"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Eclipse GSX 2.0 V6 16V Turbo", "marca": "MITSUBISHI", "key": "eclipse-1705", "id": "1705", "fipe_name": "Eclipse GSX 2.0 V6 16V Turbo"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Eclipse GT 3.0 V6 24V", "marca": "MITSUBISHI", "key": "eclipse-1706", "id": "1706", "fipe_name": "Eclipse GT 3.0 V6 24V"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Eclipse GT 3.8 V6 267cv", "marca": "MITSUBISHI", "key": "eclipse-4192", "id": "4192", "fipe_name": "Eclipse GT 3.8 V6 267cv"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Expo LRV Sport 2.3 16V", "marca": "MITSUBISHI", "key": "expo-1707", "id": "1707", "fipe_name": "Expo LRV Sport 2.3 16V"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Expo SP Van 2.3 16V", "marca": "MITSUBISHI", "key": "expo-1708", "id": "1708", "fipe_name": "Expo SP Van 2.3 16V"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Galant 2.0", "marca": "MITSUBISHI", "key": "galant-1709", "id": "1709", "fipe_name": "Galant 2.0"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Galant 2.5 V6", "marca": "MITSUBISHI", "key": "galant-1710", "id": "1710", "fipe_name": "Galant 2.5 V6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Galant ES", "marca": "MITSUBISHI", "key": "galant-1711", "id": "1711", "fipe_name": "Galant ES"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Galant GS 2.0 V6", "marca": "MITSUBISHI", "key": "galant-1712", "id": "1712", "fipe_name": "Galant GS 2.0 V6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "GRANDIS 2.4 16V 163cv 5p Aut.", "marca": "MITSUBISHI", "key": "grandis-1713", "id": "1713", "fipe_name": "GRANDIS 2.4 16V 163cv 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 2.5 4x2 CD Turbo Diesel", "marca": "MITSUBISHI", "key": "l200-1714", "id": "1714", "fipe_name": "L200 2.5 4x2 CD Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 2.5 4x2 Turbo Diesel", "marca": "MITSUBISHI", "key": "l200-1715", "id": "1715", "fipe_name": "L200 2.5 4x2 Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 2.5 4x4 CD Turbo Diesel", "marca": "MITSUBISHI", "key": "l200-1716", "id": "1716", "fipe_name": "L200 2.5 4x4 CD Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Evolution 3.2 4x4 TB Int. Diesel", "marca": "MITSUBISHI", "key": "l200-1717", "id": "1717", "fipe_name": "L200 Evolution 3.2 4x4 TB Int. Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 GL 2.5 4X4 CD Diesel", "marca": "MITSUBISHI", "key": "l200-1718", "id": "1718", "fipe_name": "L200 GL 2.5 4X4 CD Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 GLS 2.5 4X4 CD Diesel", "marca": "MITSUBISHI", "key": "l200-1719", "id": "1719", "fipe_name": "L200 GLS 2.5 4X4 CD Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies", "marca": "MITSUBISHI", "key": "l200-1720", "id": "1720", "fipe_name": "L200 GLS Sport 2.5 4x4 121cv CD DTI Dies"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 HPE 2.5 8v 95118cv TB-IC Diesel", "marca": "MITSUBISHI", "key": "l200-1721", "id": "1721", "fipe_name": "L200 HPE 2.5 8v 95118cv TB-IC Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 L 2.5 4X4 CD Turbo Diesel", "marca": "MITSUBISHI", "key": "l200-1722", "id": "1722", "fipe_name": "L200 L 2.5 4X4 CD Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel", "marca": "MITSUBISHI", "key": "l200-4122", "id": "4122", "fipe_name": "L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 OUTDOOR HPE 2.5 4x4 CD T.Diesel Aut", "marca": "MITSUBISHI", "key": "l200-4124", "id": "4124", "fipe_name": "L200 OUTDOOR HPE 2.5 4x4 CD T.Diesel Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 OUTDOOR HPE 2.5 4x4 CD T.Diesel Mec", "marca": "MITSUBISHI", "key": "l200-4123", "id": "4123", "fipe_name": "L200 OUTDOOR HPE 2.5 4x4 CD T.Diesel Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 RI RII RIII CD 2.5 TB Int. Diesel", "marca": "MITSUBISHI", "key": "l200-1723", "id": "1723", "fipe_name": "L200 RI RII RIII CD 2.5 TB Int. Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Savana 2.5 4x4 121cv CD DTI  Dies.", "marca": "MITSUBISHI", "key": "l200-1724", "id": "1724", "fipe_name": "L200 Savana 2.5 4x4 121cv CD DTI  Dies."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Sport 2.5 4x4 CD Turbo Diesel", "marca": "MITSUBISHI", "key": "l200-1725", "id": "1725", "fipe_name": "L200 Sport 2.5 4x4 CD Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Aut.", "marca": "MITSUBISHI", "key": "l200-1726", "id": "1726", "fipe_name": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec.", "marca": "MITSUBISHI", "key": "l200-1727", "id": "1727", "fipe_name": "L200 Sport HPE 2.5 4x4 CD DTI Dies. Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Sport RS 2.5 CD DTI (passeio) Dies.", "marca": "MITSUBISHI", "key": "l200-1728", "id": "1728", "fipe_name": "L200 Sport RS 2.5 CD DTI (passeio) Dies."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton GLS 3.2 CD TB Int.Diesel Mec", "marca": "MITSUBISHI", "key": "l200-5936", "id": "5936", "fipe_name": "L200 Triton GLS 3.2 CD TB Int.Diesel Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton GLX 3.2 CD TB Int.Diesel Mec", "marca": "MITSUBISHI", "key": "l200-5937", "id": "5937", "fipe_name": "L200 Triton GLX 3.2 CD TB Int.Diesel Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton HLS 2.4 Flex 16V CD Mec.", "marca": "MITSUBISHI", "key": "l200-6544", "id": "6544", "fipe_name": "L200 Triton HLS 2.4 Flex 16V CD Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton HPE 3.2 CD TB Int.Diesel Aut", "marca": "MITSUBISHI", "key": "l200-4478", "id": "4478", "fipe_name": "L200 Triton HPE 3.2 CD TB Int.Diesel Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton HPE 3.2 CD TB Int.Diesel Mec", "marca": "MITSUBISHI", "key": "l200-4503", "id": "4503", "fipe_name": "L200 Triton HPE 3.2 CD TB Int.Diesel Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton HPE 3.5 CD V6 24V Flex Aut.", "marca": "MITSUBISHI", "key": "l200-4479", "id": "4479", "fipe_name": "L200 Triton HPE 3.5 CD V6 24V Flex Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton Savana 3.2 CD TBI Dies. Mec.", "marca": "MITSUBISHI", "key": "l200-6240", "id": "6240", "fipe_name": "L200 Triton Savana 3.2 CD TBI Dies. Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton Savanaoff 3.2 CD TBI Die.Mec", "marca": "MITSUBISHI", "key": "l200-7230", "id": "7230", "fipe_name": "L200 Triton Savanaoff 3.2 CD TBI Die.Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L200 Triton XB 3.2 CD TB Int.Diesel Mec.", "marca": "MITSUBISHI", "key": "l200-5560", "id": "5560", "fipe_name": "L200 Triton XB 3.2 CD TB Int.Diesel Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "L300 BaseDXCanter 2.5 Diesel", "marca": "MITSUBISHI", "key": "l300-1729", "id": "1729", "fipe_name": "L300 BaseDXCanter 2.5 Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "L300 TopLuxo 2.5 Diesel", "marca": "MITSUBISHI", "key": "l300-1730", "id": "1730", "fipe_name": "L300 TopLuxo 2.5 Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "lancer-5733", "id": "5733", "fipe_name": "Lancer 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer 2.0 16V 160cv Mec.", "marca": "MITSUBISHI", "key": "lancer-5734", "id": "5734", "fipe_name": "Lancer 2.0 16V 160cv Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evol. 2.0 Turbo", "marca": "MITSUBISHI", "key": "lancer-1731", "id": "1731", "fipe_name": "Lancer Evol. 2.0 Turbo"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evol. VI 2.0 Turbo 4p", "marca": "MITSUBISHI", "key": "lancer-1732", "id": "1732", "fipe_name": "Lancer Evol. VI 2.0 Turbo 4p"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evol. X J. Easton 2.0 16V TB Int.", "marca": "MITSUBISHI", "key": "lancer-7142", "id": "7142", "fipe_name": "Lancer Evol. X J. Easton 2.0 16V TB Int."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evolut. IX MR 2.0 290cv TB-IC", "marca": "MITSUBISHI", "key": "lancer-4143", "id": "4143", "fipe_name": "Lancer Evolut. IX MR 2.0 290cv TB-IC"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evolut. VII VIII IX 2.0 280cv T", "marca": "MITSUBISHI", "key": "lancer-1733", "id": "1733", "fipe_name": "Lancer Evolut. VII VIII IX 2.0 280cv T"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Evolution X 2.0 16V 295cv TB Int.", "marca": "MITSUBISHI", "key": "lancer-5381", "id": "5381", "fipe_name": "Lancer Evolution X 2.0 16V 295cv TB Int."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer GLX", "marca": "MITSUBISHI", "key": "lancer-1734", "id": "1734", "fipe_name": "Lancer GLX"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer GT 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "lancer-5689", "id": "5689", "fipe_name": "Lancer GT 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer GT 2.0 16V 4X4 160cv Aut.", "marca": "MITSUBISHI", "key": "lancer-6301", "id": "6301", "fipe_name": "Lancer GT 2.0 16V 4X4 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer GTi Mec", "marca": "MITSUBISHI", "key": "lancer-1735", "id": "1735", "fipe_name": "Lancer GTi Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer HL 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "lancer-7263", "id": "7263", "fipe_name": "Lancer HL 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer HLE 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "lancer-7264", "id": "7264", "fipe_name": "Lancer HLE 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer LS 1.8", "marca": "MITSUBISHI", "key": "lancer-1736", "id": "1736", "fipe_name": "Lancer LS 1.8"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Lancer Sport Ralliart 2.0 16V TB Int. 5p", "marca": "MITSUBISHI", "key": "lancer-5690", "id": "5690", "fipe_name": "Lancer Sport Ralliart 2.0 16V TB Int. 5p"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Mirage ES", "marca": "MITSUBISHI", "key": "mirage-1737", "id": "1737", "fipe_name": "Mirage ES"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Mirage GS 16V GLSi1.6", "marca": "MITSUBISHI", "key": "mirage-1738", "id": "1738", "fipe_name": "Mirage GS 16V GLSi1.6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Mirage LS", "marca": "MITSUBISHI", "key": "mirage-1739", "id": "1739", "fipe_name": "Mirage LS"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Montero 2.8 Diesel", "marca": "MITSUBISHI", "key": "montero-1740", "id": "1740", "fipe_name": "Montero 2.8 Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "OUTLANDER 2.0 16V 160cv Aut.", "marca": "MITSUBISHI", "key": "outlander-5503", "id": "5503", "fipe_name": "OUTLANDER 2.0 16V 160cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "OUTLANDER 2.2 165cv Diesel Aut.", "marca": "MITSUBISHI", "key": "outlander-7265", "id": "7265", "fipe_name": "OUTLANDER 2.2 165cv Diesel Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "OUTLANDER 2.4 16V 170cv Aut.", "marca": "MITSUBISHI", "key": "outlander-4813", "id": "4813", "fipe_name": "OUTLANDER 2.4 16V 170cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "OUTLANDER 3.0 GT 3.0 V6 Aut.", "marca": "MITSUBISHI", "key": "outlander-4411", "id": "4411", "fipe_name": "OUTLANDER 3.0 GT 3.0 V6 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "OUTLANDER PHEV (Hybrid) 2.0 16V 4x4 Aut.", "marca": "MITSUBISHI", "key": "outlander-7231", "id": "7231", "fipe_name": "OUTLANDER PHEV (Hybrid) 2.0 16V 4x4 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero 3.2 4x4 T.I. Dies. 5p Aut", "marca": "MITSUBISHI", "key": "pajero-7198", "id": "7198", "fipe_name": "Pajero 3.2 4x4 T.I. Dies. 5p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-4979", "id": "4979", "fipe_name": "Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec.", "marca": "MITSUBISHI", "key": "pajero-4980", "id": "4980", "fipe_name": "Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut", "marca": "MITSUBISHI", "key": "pajero-6071", "id": "6071", "fipe_name": "Pajero DAKAR HPE 3.2 4x4 T.I Dies 5p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero DAKARHPE 3.5 4x4 Flex 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-5583", "id": "5583", "fipe_name": "Pajero DAKARHPE 3.5 4x4 Flex 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Evolution 4x4 3.5 V6", "marca": "MITSUBISHI", "key": "pajero-1741", "id": "1741", "fipe_name": "Pajero Evolution 4x4 3.5 V6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Full GLSGLSPKHPE 3.2 Dies.TI 5p", "marca": "MITSUBISHI", "key": "pajero-4802", "id": "4802", "fipe_name": "Pajero Full GLSGLSPKHPE 3.2 Dies.TI 5p"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 2.8 Diesel Turbo Aut.", "marca": "MITSUBISHI", "key": "pajero-1742", "id": "1742", "fipe_name": "Pajero GLS 2.8 Diesel Turbo Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 2.8 Diesel Turbo Mec.", "marca": "MITSUBISHI", "key": "pajero-1743", "id": "1743", "fipe_name": "Pajero GLS 2.8 Diesel Turbo Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.0 V6 2p Aut.", "marca": "MITSUBISHI", "key": "pajero-1744", "id": "1744", "fipe_name": "Pajero GLS 3.0 V6 2p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.0 V6 2p Mec.", "marca": "MITSUBISHI", "key": "pajero-1745", "id": "1745", "fipe_name": "Pajero GLS 3.0 V6 2p Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.0 V6 4p Aut.", "marca": "MITSUBISHI", "key": "pajero-1746", "id": "1746", "fipe_name": "Pajero GLS 3.0 V6 4p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.0 V6 4p Mec.", "marca": "MITSUBISHI", "key": "pajero-1747", "id": "1747", "fipe_name": "Pajero GLS 3.0 V6 4p Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 2p Aut", "marca": "MITSUBISHI", "key": "pajero-1748", "id": "1748", "fipe_name": "Pajero GLS 3.5 V6 2p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 2p Mec.", "marca": "MITSUBISHI", "key": "pajero-1749", "id": "1749", "fipe_name": "Pajero GLS 3.5 V6 2p Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 4p Aut.", "marca": "MITSUBISHI", "key": "pajero-1750", "id": "1750", "fipe_name": "Pajero GLS 3.5 V6 4p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 4p Mec.", "marca": "MITSUBISHI", "key": "pajero-1751", "id": "1751", "fipe_name": "Pajero GLS 3.5 V6 4p Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 Top 2p Aut", "marca": "MITSUBISHI", "key": "pajero-1752", "id": "1752", "fipe_name": "Pajero GLS 3.5 V6 Top 2p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS 3.5 V6 Top 4p Aut", "marca": "MITSUBISHI", "key": "pajero-1753", "id": "1753", "fipe_name": "Pajero GLS 3.5 V6 Top 4p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS Full 3.8 V6 250cv 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-4333", "id": "4333", "fipe_name": "Pajero GLS Full 3.8 V6 250cv 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS HPEHPE Full 3.8 233cv 3p Aut", "marca": "MITSUBISHI", "key": "pajero-1754", "id": "1754", "fipe_name": "Pajero GLS HPEHPE Full 3.8 233cv 3p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLS HPEHPE Full 3.8 233cv 5p Aut", "marca": "MITSUBISHI", "key": "pajero-1755", "id": "1755", "fipe_name": "Pajero GLS HPEHPE Full 3.8 233cv 5p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLX 2.8 Diesel 4p Mec", "marca": "MITSUBISHI", "key": "pajero-1757", "id": "1757", "fipe_name": "Pajero GLX 2.8 Diesel 4p Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLX 3.0 V6 4p Mec", "marca": "MITSUBISHI", "key": "pajero-1758", "id": "1758", "fipe_name": "Pajero GLX 3.0 V6 4p Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLZ 2.8 4x4 Turbo Diesel", "marca": "MITSUBISHI", "key": "pajero-1759", "id": "1759", "fipe_name": "Pajero GLZ 2.8 4x4 Turbo Diesel"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero GLZ 3.0 4x4 V6", "marca": "MITSUBISHI", "key": "pajero-1760", "id": "1760", "fipe_name": "Pajero GLZ 3.0 4x4 V6"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-7199", "id": "7199", "fipe_name": "Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE 3.5 4x4 Flex 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-7200", "id": "7200", "fipe_name": "Pajero HPE 3.5 4x4 Flex 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut", "marca": "MITSUBISHI", "key": "pajero-4803", "id": "4803", "fipe_name": "Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut.", "marca": "MITSUBISHI", "key": "pajero-3972", "id": "3972", "fipe_name": "Pajero HPE Full 3.2 4x4 T.I.Dies.3p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE Full 3.8 V6 250cv 3p Aut.", "marca": "MITSUBISHI", "key": "pajero-4334", "id": "4334", "fipe_name": "Pajero HPE Full 3.8 V6 250cv 3p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero HPE Full 3.8 V6 250cv 5p Aut.", "marca": "MITSUBISHI", "key": "pajero-4335", "id": "4335", "fipe_name": "Pajero HPE Full 3.8 V6 250cv 5p Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero iO Aut", "marca": "MITSUBISHI", "key": "pajero-1761", "id": "1761", "fipe_name": "Pajero iO Aut"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero iO Mec", "marca": "MITSUBISHI", "key": "pajero-1762", "id": "1762", "fipe_name": "Pajero iO Mec"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero iO SE 1.8 16V Aut.", "marca": "MITSUBISHI", "key": "pajero-1763", "id": "1763", "fipe_name": "Pajero iO SE 1.8 16V Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero iO SE 1.8 16V Mec.", "marca": "MITSUBISHI", "key": "pajero-1764", "id": "1764", "fipe_name": "Pajero iO SE 1.8 16V Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport 2.8 4x4 Diesel Aut.", "marca": "MITSUBISHI", "key": "pajero-1765", "id": "1765", "fipe_name": "Pajero Sport 2.8 4x4 Diesel Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport 2.8 4x4 Diesel Mec.", "marca": "MITSUBISHI", "key": "pajero-1766", "id": "1766", "fipe_name": "Pajero Sport 2.8 4x4 Diesel Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport 3.0 4x2 V6 Mec.Aut.", "marca": "MITSUBISHI", "key": "pajero-1767", "id": "1767", "fipe_name": "Pajero Sport 3.0 4x2 V6 Mec.Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport 3.0 4x4 V6 Mec.Aut.", "marca": "MITSUBISHI", "key": "pajero-1768", "id": "1768", "fipe_name": "Pajero Sport 3.0 4x4 V6 Mec.Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport 3.5 V6 Flex 4x4 Aut.", "marca": "MITSUBISHI", "key": "pajero-4981", "id": "4981", "fipe_name": "Pajero Sport 3.5 V6 Flex 4x4 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport HPE 2.5 4x4 Diesel Aut.", "marca": "MITSUBISHI", "key": "pajero-4065", "id": "4065", "fipe_name": "Pajero Sport HPE 2.5 4x4 Diesel Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport HPE 2.5 4x4 Diesel Mec.", "marca": "MITSUBISHI", "key": "pajero-4066", "id": "4066", "fipe_name": "Pajero Sport HPE 2.5 4x4 Diesel Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport HPE 3.5 4x4 200cv Aut.", "marca": "MITSUBISHI", "key": "pajero-3973", "id": "3973", "fipe_name": "Pajero Sport HPE 3.5 4x4 200cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport SE 3.0 4x2 V6 177cv Aut.", "marca": "MITSUBISHI", "key": "pajero-1769", "id": "1769", "fipe_name": "Pajero Sport SE 3.0 4x2 V6 177cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport SE HPE 2.8 4x4 Diesel Aut.", "marca": "MITSUBISHI", "key": "pajero-1770", "id": "1770", "fipe_name": "Pajero Sport SE HPE 2.8 4x4 Diesel Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero Sport SE HPE 3.0 4x4 177cv Aut.", "marca": "MITSUBISHI", "key": "pajero-1771", "id": "1771", "fipe_name": "Pajero Sport SE HPE 3.0 4x4 177cv Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 Blind. 16V 131cv 4x4 Aut.", "marca": "MITSUBISHI", "key": "pajero-1774", "id": "1774", "fipe_name": "Pajero TR4 2.0 Blind. 16V 131cv 4x4 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 Blind. 16V 131cv 4x4 Mec.", "marca": "MITSUBISHI", "key": "pajero-1775", "id": "1775", "fipe_name": "Pajero TR4 2.0 Blind. 16V 131cv 4x4 Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 Flex 16V 4X2 Aut.", "marca": "MITSUBISHI", "key": "pajero-5735", "id": "5735", "fipe_name": "Pajero TR4 2.0 Flex 16V 4X2 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 Flex 16V 4X2 Mec.", "marca": "MITSUBISHI", "key": "pajero-5736", "id": "5736", "fipe_name": "Pajero TR4 2.0 Flex 16V 4X2 Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 2.0 Flex 16V 4x4 Aut.", "marca": "MITSUBISHI", "key": "pajero-1772", "id": "1772", "fipe_name": "Pajero TR4 2.0 2.0 Flex 16V 4x4 Aut."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 2.0 2.0 Flex 16V 4x4 Mec.", "marca": "MITSUBISHI", "key": "pajero-1773", "id": "1773", "fipe_name": "Pajero TR4 2.0 2.0 Flex 16V 4x4 Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec.", "marca": "MITSUBISHI", "key": "pajero-4642", "id": "4642", "fipe_name": "Pajero TR4 GLS 2.0 Flex 16V 4x4 Mec."
+}
+, {"fipe_marca": "Mitsubishi", "name": "Space Wagon GLS 2.0", "marca": "MITSUBISHI", "key": "space-1776", "id": "1776", "fipe_name": "Space Wagon GLS 2.0"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Space Wagon GLS 2.4", "marca": "MITSUBISHI", "key": "space-1777", "id": "1777", "fipe_name": "Space Wagon GLS 2.4"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Space Wagon GLXi 2.4 ( Nova Série )", "marca": "MITSUBISHI", "key": "space-1778", "id": "1778", "fipe_name": "Space Wagon GLXi 2.4 ( Nova Série )"
+}
+, {"fipe_marca": "Mitsubishi", "name": "Space Wagon Glxi 2.4", "marca": "MITSUBISHI", "key": "space-1779", "id": "1779", "fipe_name": "Space Wagon Glxi 2.4"
+}
+]

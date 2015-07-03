@@ -1,0 +1,78 @@
+{"contador" = "38"}
+[{"fipe_marca": "Jeep", "fipe_name": "Cherokee Country 4.0 V6 4x4", "marca": "JEEP", "key": "cherokee-1371", "id": "1371", "name": "Cherokee Country 4.0 V6 4x4"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Limited 3.2 4x4 V6 Aut.", "marca": "JEEP", "key": "cherokee-6961", "id": "6961", "name": "Cherokee Limited 3.2 4x4 V6 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Limited 3.7 4x4 V6 12V Aut.", "marca": "JEEP", "key": "cherokee-5248", "id": "5248", "name": "Cherokee Limited 3.7 4x4 V6 12V Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Longitude 3.2 4x4 V6 Aut.", "marca": "JEEP", "key": "cherokee-7137", "id": "7137", "name": "Cherokee Longitude 3.2 4x4 V6 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Rubicon 4.0 V6 4x4", "marca": "JEEP", "key": "cherokee-1372", "id": "1372", "name": "Cherokee Rubicon 4.0 V6 4x4"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Sport  4.0 Mec.Aut.", "marca": "JEEP", "key": "cherokee-1373", "id": "1373", "name": "Cherokee Sport  4.0 Mec.Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Sport 2.5 4x4 Diesel", "marca": "JEEP", "key": "cherokee-1374", "id": "1374", "name": "Cherokee Sport 2.5 4x4 Diesel"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Sport 3.7 4x4 V6 12V Aut.", "marca": "JEEP", "key": "cherokee-1375", "id": "1375", "name": "Cherokee Sport 3.7 4x4 V6 12V Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Cherokee Traihawk 3.2 4x4 V6 Aut.", "marca": "JEEP", "key": "cherokee-7185", "id": "7185", "name": "Cherokee Traihawk 3.2 4x4 V6 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Commander Limited 5.7 326cv 5p", "marca": "JEEP", "key": "commander-4139", "id": "4139", "name": "Commander Limited 5.7 326cv 5p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "COMPASS SPORT 2.0 16V 156cv 5p", "marca": "JEEP", "key": "compass-5743", "id": "5743", "name": "COMPASS SPORT 2.0 16V 156cv 5p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Laredo 2.7 I-5 TB Dies.", "marca": "JEEP", "key": "grand-1376", "id": "1376", "name": "Grand Cherokee Laredo 2.7 I-5 TB Dies."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Laredo 3.1 TB Diesel Aut", "marca": "JEEP", "key": "grand-1377", "id": "1377", "name": "Grand Cherokee Laredo 3.1 TB Diesel Aut"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Laredo 3.6 4x4 V6 Aut.", "marca": "JEEP", "key": "grand-5454", "id": "5454", "name": "Grand Cherokee Laredo 3.6 4x4 V6 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Laredo 4.0 Aut.", "marca": "JEEP", "key": "grand-1378", "id": "1378", "name": "Grand Cherokee Laredo 4.0 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limit.4.7 Quad.Drive Aut.", "marca": "JEEP", "key": "grand-1379", "id": "1379", "name": "Grand Cherokee Limit.4.7 Quad.Drive Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited 3.0 TB Dies. Aut", "marca": "JEEP", "key": "grand-4830", "id": "4830", "name": "Grand Cherokee Limited 3.0 TB Dies. Aut"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited 3.6 4x4 V6 Aut.", "marca": "JEEP", "key": "grand-5455", "id": "5455", "name": "Grand Cherokee Limited 3.6 4x4 V6 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited 4.7", "marca": "JEEP", "key": "grand-1380", "id": "1380", "name": "Grand Cherokee Limited 4.7"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited 5.2 Aut.", "marca": "JEEP", "key": "grand-1381", "id": "1381", "name": "Grand Cherokee Limited 5.2 Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited 5.7 326cv", "marca": "JEEP", "key": "grand-3891", "id": "3891", "name": "Grand Cherokee Limited 5.7 326cv"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Limited LX 5.9", "marca": "JEEP", "key": "grand-1382", "id": "1382", "name": "Grand Cherokee Limited LX 5.9"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Nova Limited 4.7", "marca": "JEEP", "key": "grand-1383", "id": "1383", "name": "Grand Cherokee Nova Limited 4.7"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee Overland 5.7 326cv", "marca": "JEEP", "key": "grand-4200", "id": "4200", "name": "Grand Cherokee Overland 5.7 326cv"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Grand Cherokee SRT8 6.1 V8 16V 432cv Aut", "marca": "JEEP", "key": "grand-4190", "id": "4190", "name": "Grand Cherokee SRT8 6.1 V8 16V 432cv Aut"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Longitude 1.8 4x2 Flex 16V Aut.", "marca": "JEEP", "key": "renegade-7186", "id": "7186", "name": "Renegade Longitude 1.8 4x2 Flex 16V Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Longitude 2.0 4x4 TB Diesel Aut", "marca": "JEEP", "key": "renegade-7187", "id": "7187", "name": "Renegade Longitude 2.0 4x4 TB Diesel Aut"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Sport 1.8 4x2 Flex 16V Aut.", "marca": "JEEP", "key": "renegade-7188", "id": "7188", "name": "Renegade Sport 1.8 4x2 Flex 16V Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Sport 1.8 4x2 Flex 16V Mec.", "marca": "JEEP", "key": "renegade-7189", "id": "7189", "name": "Renegade Sport 1.8 4x2 Flex 16V Mec."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Sport 2.0 4x4 TB Diesel Aut.", "marca": "JEEP", "key": "renegade-7190", "id": "7190", "name": "Renegade Sport 2.0 4x4 TB Diesel Aut."
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Renegade Trailhawk 2.0 4x4 TB Diesel Aut", "marca": "JEEP", "key": "renegade-7191", "id": "7191", "name": "Renegade Trailhawk 2.0 4x4 TB Diesel Aut"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler 4.0Sport 4.0", "marca": "JEEP", "key": "wrangler-1384", "id": "1384", "name": "Wrangler 4.0Sport 4.0"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler SAHARA 3.8 V6 199cv 2p", "marca": "JEEP", "key": "wrangler-5728", "id": "5728", "name": "Wrangler SAHARA 3.8 V6 199cv 2p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler Sport 3.6 V6 284cv 2p", "marca": "JEEP", "key": "wrangler-5897", "id": "5897", "name": "Wrangler Sport 3.6 V6 284cv 2p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler Sport 3.8 V6 199cv", "marca": "JEEP", "key": "wrangler-4439", "id": "4439", "name": "Wrangler Sport 3.8 V6 199cv"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler Unlimited SAHARA 3.8 V6  4p", "marca": "JEEP", "key": "wrangler-5729", "id": "5729", "name": "Wrangler Unlimited SAHARA 3.8 V6  4p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler Unlimited Sport 3.6 V6 284cv 4p", "marca": "JEEP", "key": "wrangler-5898", "id": "5898", "name": "Wrangler Unlimited Sport 3.6 V6 284cv 4p"
+}
+, {"fipe_marca": "Jeep", "fipe_name": "Wrangler Unlimited Sport 3.8 V6 199cv", "marca": "JEEP", "key": "wrangler-5306", "id": "5306", "name": "Wrangler Unlimited Sport 3.8 V6 199cv"
+}
+]

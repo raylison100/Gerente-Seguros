@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "L'AQUILA", "fipe_name": "AKROS 50", "marca": "L'AQUILA", "key": "akros-2930", "id": "2930", "name": "AKROS 50"
+}
+, {"fipe_marca": "L'AQUILA", "fipe_name": "AKROS 90", "marca": "L'AQUILA", "key": "akros-2931", "id": "2931", "name": "AKROS 90"
+}
+, {"fipe_marca": "L'AQUILA", "fipe_name": "ERGON 50", "marca": "L'AQUILA", "key": "ergon-2932", "id": "2932", "name": "ERGON 50"
+}
+, {"fipe_marca": "L'AQUILA", "fipe_name": "NIX 50", "marca": "L'AQUILA", "key": "nix-2933", "id": "2933", "name": "NIX 50"
+}
+, {"fipe_marca": "L'AQUILA", "fipe_name": "PALIO 50", "marca": "L'AQUILA", "key": "palio-2934", "id": "2934", "name": "PALIO 50"
+}
+]

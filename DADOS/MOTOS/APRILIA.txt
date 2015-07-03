@@ -1,0 +1,34 @@
+{"contador" = "16"}
+[{"fipe_marca": "APRILIA", "fipe_name": "AREA-51 50cc", "marca": "APRILIA", "key": "area-51-2598", "id": "2598", "name": "AREA-51 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "CLASSIC 50cc", "marca": "APRILIA", "key": "classic-2599", "id": "2599", "name": "CLASSIC 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "LEONARDO 150cc", "marca": "APRILIA", "key": "leonardo-2600", "id": "2600", "name": "LEONARDO 150cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "MOTO 650cc", "marca": "APRILIA", "key": "moto-2601", "id": "2601", "name": "MOTO 650cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "PEGASO 650cc", "marca": "APRILIA", "key": "pegaso-2602", "id": "2602", "name": "PEGASO 650cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "RALLY 50cc", "marca": "APRILIA", "key": "rally-2603", "id": "2603", "name": "RALLY 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "RS 250cc", "marca": "APRILIA", "key": "rs-2604", "id": "2604", "name": "RS 250cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "RS 50cc", "marca": "APRILIA", "key": "rs-2605", "id": "2605", "name": "RS 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "RSV MILLE 1000cc", "marca": "APRILIA", "key": "rsv-2606", "id": "2606", "name": "RSV MILLE 1000cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "RX 50cc", "marca": "APRILIA", "key": "rx-2607", "id": "2607", "name": "RX 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SCARABEO BRIGTH 50cc", "marca": "APRILIA", "key": "scarabeo-2608", "id": "2608", "name": "SCARABEO BRIGTH 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SCARABEO CLASSIC 50cc", "marca": "APRILIA", "key": "scarabeo-2609", "id": "2609", "name": "SCARABEO CLASSIC 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SCARABEO DE LUXE 50cc", "marca": "APRILIA", "key": "scarabeo-2610", "id": "2610", "name": "SCARABEO DE LUXE 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SONIC 50cc", "marca": "APRILIA", "key": "sonic-2611", "id": "2611", "name": "SONIC 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SR RACING 50cc", "marca": "APRILIA", "key": "sr-2612", "id": "2612", "name": "SR RACING 50cc"
+}
+, {"fipe_marca": "APRILIA", "fipe_name": "SR WWW 50cc", "marca": "APRILIA", "key": "sr-2613", "id": "2613", "name": "SR WWW 50cc"
+}
+]

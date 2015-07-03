@@ -1,0 +1,32 @@
+{"contador" = "15"}
+[{"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 1078RR", "marca": "MV AGUSTA", "key": "brutale-5052", "id": "5052", "name": "BRUTALE 1078RR"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 1090R", "marca": "MV AGUSTA", "key": "brutale-5714", "id": "5714", "name": "BRUTALE 1090R"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 1090RR", "marca": "MV AGUSTA", "key": "brutale-5715", "id": "5715", "name": "BRUTALE 1090RR"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 800", "marca": "MV AGUSTA", "key": "brutale-6902", "id": "6902", "name": "BRUTALE 800"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 910R", "marca": "MV AGUSTA", "key": "brutale-4788", "id": "4788", "name": "BRUTALE 910R"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 910S", "marca": "MV AGUSTA", "key": "brutale-4681", "id": "4681", "name": "BRUTALE 910S"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "BRUTALE 989R", "marca": "MV AGUSTA", "key": "brutale-5053", "id": "5053", "name": "BRUTALE 989R"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F3 800", "marca": "MV AGUSTA", "key": "f3-6946", "id": "6946", "name": "F3 800"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4 1078RR 312", "marca": "MV AGUSTA", "key": "f4-5054", "id": "5054", "name": "F4 1078RR 312"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4 750 (Ouro)", "marca": "MV AGUSTA", "key": "f4-2942", "id": "2942", "name": "F4 750 (Ouro)"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4 750s (Prata)", "marca": "MV AGUSTA", "key": "f4-2943", "id": "2943", "name": "F4 750s (Prata)"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4- R312", "marca": "MV AGUSTA", "key": "f4-4806", "id": "4806", "name": "F4- R312"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4-1000", "marca": "MV AGUSTA", "key": "f4-1000-5713", "id": "5713", "name": "F4-1000"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "F4-1000 RR", "marca": "MV AGUSTA", "key": "f4-1000-4740", "id": "4740", "name": "F4-1000 RR"
+}
+, {"fipe_marca": "MV AGUSTA", "fipe_name": "RIVALE 800", "marca": "MV AGUSTA", "key": "rivale-7060", "id": "7060", "name": "RIVALE 800"
+}
+]

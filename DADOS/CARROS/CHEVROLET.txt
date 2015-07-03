@@ -1,0 +1,900 @@
+{"contador" = "449"}
+[{"fipe_marca": "GM - Chevrolet", "name": "A-10 2.54.1", "marca": "CHEVROLET", "key": "a-10-926", "id": "926", "fipe_name": "A-10 2.54.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "A-10 De Luxe 2.54.1", "marca": "CHEVROLET", "key": "a-10-927", "id": "927", "fipe_name": "A-10 De Luxe 2.54.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "A-20 Custom Std. CD De Luxe CD", "marca": "CHEVROLET", "key": "a-20-928", "id": "928", "fipe_name": "A-20 Custom Std. CD De Luxe CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "A-20 Custom C-20 Luxe 4.1", "marca": "CHEVROLET", "key": "a-20-929", "id": "929", "fipe_name": "A-20 Custom C-20 Luxe 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "A-20 Custom C-20 S 4.1", "marca": "CHEVROLET", "key": "a-20-930", "id": "930", "fipe_name": "A-20 Custom C-20 S 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LT 1.4 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "agile-5069", "id": "5069", "fipe_name": "AGILE LT 1.4 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LTZ 1.4 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "agile-5070", "id": "5070", "fipe_name": "AGILE LTZ 1.4 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LTZ EASYTRONIC 1.4 8V FlexPower 5p", "marca": "CHEVROLET", "key": "agile-6265", "id": "6265", "fipe_name": "AGILE LTZ EASYTRONIC 1.4 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LTZ EFFECT 1.4 8V FlexPower 5p Mec", "marca": "CHEVROLET", "key": "agile-6638", "id": "6638", "fipe_name": "AGILE LTZ EFFECT 1.4 8V FlexPower 5p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LTZ EFFECT EASYTR.1.4 8V FlexP. 5p", "marca": "CHEVROLET", "key": "agile-6639", "id": "6639", "fipe_name": "AGILE LTZ EFFECT EASYTR.1.4 8V FlexP. 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "AGILE LTZ WI-FI 1.4 8V FlexPower 5p", "marca": "CHEVROLET", "key": "agile-5722", "id": "5722", "fipe_name": "AGILE LTZ WI-FI 1.4 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 2.0 8V CD 2.0 8V Hatchback 5p Aut", "marca": "CHEVROLET", "key": "astra-931", "id": "931", "fipe_name": "Astra 2.0 8V CD 2.0 8V Hatchback 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 2.0 8V CD 2.0 8V Hatchback 5p Mec", "marca": "CHEVROLET", "key": "astra-932", "id": "932", "fipe_name": "Astra 2.0 8V CD 2.0 8V Hatchback 5p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 2.0 CD 2.0 8V 3p Aut.", "marca": "CHEVROLET", "key": "astra-933", "id": "933", "fipe_name": "Astra 2.0 CD 2.0 8V 3p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 2.0 CD GLS 2.0 MPFI 16V 3p", "marca": "CHEVROLET", "key": "astra-934", "id": "934", "fipe_name": "Astra 2.0 CD GLS 2.0 MPFI 16V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 2.0 CD Sunny GLS 2.0 8V 3p", "marca": "CHEVROLET", "key": "astra-935", "id": "935", "fipe_name": "Astra 2.0 CD Sunny GLS 2.0 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra 500 Sedan 2.0 MPFI 16V 4p", "marca": "CHEVROLET", "key": "astra-936", "id": "936", "fipe_name": "Astra 500 Sedan 2.0 MPFI 16V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.", "marca": "CHEVROLET", "key": "astra-4137", "id": "4137", "fipe_name": "Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Advantage 2.0 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "astra-3968", "id": "3968", "fipe_name": "Astra Advantage 2.0 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Advantage 2.0 MPFI FlexPower 8V 3p", "marca": "CHEVROLET", "key": "astra-937", "id": "937", "fipe_name": "Astra Advantage 2.0 MPFI FlexPower 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Comfort 2.0 MPFI FlexPower 8V 3p", "marca": "CHEVROLET", "key": "astra-938", "id": "938", "fipe_name": "Astra Comfort 2.0 MPFI FlexPower 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Comfort 2.0 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "astra-939", "id": "939", "fipe_name": "Astra Comfort 2.0 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut", "marca": "CHEVROLET", "key": "astra-940", "id": "940", "fipe_name": "Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Elegance 2.0 MPFI FlexPower 8V 3p", "marca": "CHEVROLET", "key": "astra-941", "id": "941", "fipe_name": "Astra Elegance 2.0 MPFI FlexPower 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Elegance 2.0 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "astra-942", "id": "942", "fipe_name": "Astra Elegance 2.0 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Elite 2.0 MPFI Flex Pow. 8V 5p Aut", "marca": "CHEVROLET", "key": "astra-943", "id": "943", "fipe_name": "Astra Elite 2.0 MPFI Flex Pow. 8V 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Elite 2.0 MPFI FlexPower 8V 5p Mec", "marca": "CHEVROLET", "key": "astra-944", "id": "944", "fipe_name": "Astra Elite 2.0 MPFI FlexPower 8V 5p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra GL 1.8 MPFI 3p", "marca": "CHEVROLET", "key": "astra-945", "id": "945", "fipe_name": "Astra GL 1.8 MPFI 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra GL Milenium 1.8 MPFI 4p", "marca": "CHEVROLET", "key": "astra-946", "id": "946", "fipe_name": "Astra GL Milenium 1.8 MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra GLS 2.0 MPFI", "marca": "CHEVROLET", "key": "astra-947", "id": "947", "fipe_name": "Astra GLS 2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra GLS 2.0 MPFI SW", "marca": "CHEVROLET", "key": "astra-948", "id": "948", "fipe_name": "Astra GLS 2.0 MPFI SW"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra GSi 2.0 16v 136cv Hatchback 5p", "marca": "CHEVROLET", "key": "astra-949", "id": "949", "fipe_name": "Astra GSi 2.0 16v 136cv Hatchback 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra S.Sport 2.0 F.Pow. 5pSport 2.0 3p", "marca": "CHEVROLET", "key": "astra-963", "id": "963", "fipe_name": "Astra S.Sport 2.0 F.Pow. 5pSport 2.0 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p", "marca": "CHEVROLET", "key": "astra-3969", "id": "3969", "fipe_name": "Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Advant. 2.0 8V MPFI FlexP. Aut", "marca": "CHEVROLET", "key": "astra-4138", "id": "4138", "fipe_name": "Astra Sed.Advant. 2.0 8V MPFI FlexP. Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Comf. 2.0 MPFI FlexPower 8V 4p", "marca": "CHEVROLET", "key": "astra-950", "id": "950", "fipe_name": "Astra Sed.Comf. 2.0 MPFI FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Comf.2.0 MPFI MultiPower 8V 4p", "marca": "CHEVROLET", "key": "astra-951", "id": "951", "fipe_name": "Astra Sed.Comf.2.0 MPFI MultiPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Eleg. 2.0 MPFI FlexP.8V 4p Aut", "marca": "CHEVROLET", "key": "astra-952", "id": "952", "fipe_name": "Astra Sed.Eleg. 2.0 MPFI FlexP.8V 4p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Eleg.2.0 MPFI FlexPower 8V 4p", "marca": "CHEVROLET", "key": "astra-953", "id": "953", "fipe_name": "Astra Sed.Eleg.2.0 MPFI FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Eleg.2.0 MPFI MultiPower 8V 4p", "marca": "CHEVROLET", "key": "astra-954", "id": "954", "fipe_name": "Astra Sed.Eleg.2.0 MPFI MultiPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Elite 2.0 MPFI FlexP.8V 4p Aut", "marca": "CHEVROLET", "key": "astra-955", "id": "955", "fipe_name": "Astra Sed.Elite 2.0 MPFI FlexP.8V 4p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sed.Elite 2.0 MPFI FlexPower 8V 4p", "marca": "CHEVROLET", "key": "astra-956", "id": "956", "fipe_name": "Astra Sed.Elite 2.0 MPFI FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan 1.8 MPFI 8V 4p (taxi)", "marca": "CHEVROLET", "key": "astra-957", "id": "957", "fipe_name": "Astra Sedan 1.8 MPFI 8V 4p (taxi)"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan 2.0 CD 2.0 MPFI 8V 4p Aut.", "marca": "CHEVROLET", "key": "astra-958", "id": "958", "fipe_name": "Astra Sedan 2.0 CD 2.0 MPFI 8V 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan 2.0CD Expres.GLS 2.0 8V 4p", "marca": "CHEVROLET", "key": "astra-959", "id": "959", "fipe_name": "Astra Sedan 2.0CD Expres.GLS 2.0 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan 2.0CD GLS Adv. 2.0 16V 4p", "marca": "CHEVROLET", "key": "astra-960", "id": "960", "fipe_name": "Astra Sedan 2.0CD GLS Adv. 2.0 16V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan Comfort 1.8 MPFI 8V 4p", "marca": "CHEVROLET", "key": "astra-961", "id": "961", "fipe_name": "Astra Sedan Comfort 1.8 MPFI 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Astra Sedan Astra GL Sedan 1.8 MPFI 4p", "marca": "CHEVROLET", "key": "astra-962", "id": "962", "fipe_name": "Astra Sedan Astra GL Sedan 1.8 MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Blazer Jimmy 4.3 V6", "marca": "CHEVROLET", "key": "blazer-964", "id": "964", "fipe_name": "Blazer Jimmy 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Blazer S-10 4.3 V6", "marca": "CHEVROLET", "key": "blazer-965", "id": "965", "fipe_name": "Blazer S-10 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Blazer SS-10 4.3 V6", "marca": "CHEVROLET", "key": "blazer-966", "id": "966", "fipe_name": "Blazer SS-10 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Bonanza S  Luxe 4.0 Diesel Turbo", "marca": "CHEVROLET", "key": "bonanza-967", "id": "967", "fipe_name": "Bonanza S  Luxe 4.0 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Bonanza S  Luxe 4.1", "marca": "CHEVROLET", "key": "bonanza-968", "id": "968", "fipe_name": "Bonanza S  Luxe 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Brasinca Blazer CD 4.0 Diesel", "marca": "CHEVROLET", "key": "brasinca-969", "id": "969", "fipe_name": "Brasinca Blazer CD 4.0 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Brasinca Blazer CD 4.1", "marca": "CHEVROLET", "key": "brasinca-970", "id": "970", "fipe_name": "Brasinca Blazer CD 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-10 2.54.1", "marca": "CHEVROLET", "key": "c-10-971", "id": "971", "fipe_name": "C-10 2.54.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-10 CD 2.5 4.1", "marca": "CHEVROLET", "key": "c-10-972", "id": "972", "fipe_name": "C-10 CD 2.5 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-10 De Luxe 2.54.1", "marca": "CHEVROLET", "key": "c-10-973", "id": "973", "fipe_name": "C-10 De Luxe 2.54.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-10 De Luxe CD 2.5 4.1", "marca": "CHEVROLET", "key": "c-10-974", "id": "974", "fipe_name": "C-10 De Luxe CD 2.5 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-20 Custom De Luxe 4.1", "marca": "CHEVROLET", "key": "c-20-975", "id": "975", "fipe_name": "C-20 Custom De Luxe 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-20 Custom De Luxe CD 4.1", "marca": "CHEVROLET", "key": "c-20-976", "id": "976", "fipe_name": "C-20 Custom De Luxe CD 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-20 Custom Std. 4.1", "marca": "CHEVROLET", "key": "c-20-977", "id": "977", "fipe_name": "C-20 Custom Std. 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "C-20 Custom Std. CD 4.1", "marca": "CHEVROLET", "key": "c-20-978", "id": "978", "fipe_name": "C-20 Custom Std. CD 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Calibra 16V", "marca": "CHEVROLET", "key": "calibra-979", "id": "979", "fipe_name": "Calibra 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Camaro RS 5.0 V8", "marca": "CHEVROLET", "key": "camaro-980", "id": "980", "fipe_name": "Camaro RS 5.0 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Camaro Sport 5.0 Conv.", "marca": "CHEVROLET", "key": "camaro-981", "id": "981", "fipe_name": "Camaro Sport 5.0 Conv."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Camaro SS 6.2 V8 16V 406cv", "marca": "CHEVROLET", "key": "camaro-5415", "id": "5415", "fipe_name": "Camaro SS 6.2 V8 16V 406cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Camaro SS Conversível 6.2 V8 16V 406cv", "marca": "CHEVROLET", "key": "camaro-6887", "id": "6887", "fipe_name": "Camaro SS Conversível 6.2 V8 16V 406cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Camaro Z-28 TargaConv. 5.7", "marca": "CHEVROLET", "key": "camaro-982", "id": "982", "fipe_name": "Camaro Z-28 TargaConv. 5.7"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caprice 4.3 V8", "marca": "CHEVROLET", "key": "caprice-983", "id": "983", "fipe_name": "Caprice 4.3 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caprice SW 4.3 V8", "marca": "CHEVROLET", "key": "caprice-984", "id": "984", "fipe_name": "Caprice SW 4.3 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caprice Victoria", "marca": "CHEVROLET", "key": "caprice-985", "id": "985", "fipe_name": "Caprice Victoria"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv", "marca": "CHEVROLET", "key": "captiva-5466", "id": "5466", "fipe_name": "CAPTIVA SPORT AWD 3.0 V6 24V 268cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CAPTIVA SPORT AWD 3.6 V6 24V 261cv 4x4", "marca": "CHEVROLET", "key": "captiva-4734", "id": "4734", "fipe_name": "CAPTIVA SPORT AWD 3.6 V6 24V 261cv 4x4"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CAPTIVA SPORT FWD 2.4 16V 171185cv", "marca": "CHEVROLET", "key": "captiva-4841", "id": "4841", "fipe_name": "CAPTIVA SPORT FWD 2.4 16V 171185cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CAPTIVA SPORT FWD 3.0 V6 24V 268cv 4x2", "marca": "CHEVROLET", "key": "captiva-5467", "id": "5467", "fipe_name": "CAPTIVA SPORT FWD 3.0 V6 24V 268cv 4x2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2", "marca": "CHEVROLET", "key": "captiva-4735", "id": "4735", "fipe_name": "CAPTIVA SPORT FWD 3.6 V6 24V 261cv 4x2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caravan Comodoro 4.1  2.5", "marca": "CHEVROLET", "key": "caravan-986", "id": "986", "fipe_name": "Caravan Comodoro 4.1  2.5"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caravan Diplomata 4.1  2.5", "marca": "CHEVROLET", "key": "caravan-987", "id": "987", "fipe_name": "Caravan Diplomata 4.1  2.5"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Caravan LSLSSS 2.54.14.2", "marca": "CHEVROLET", "key": "caravan-988", "id": "988", "fipe_name": "Caravan LSLSSS 2.54.14.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Cavalier 3.1 Conv.", "marca": "CHEVROLET", "key": "cavalier-989", "id": "989", "fipe_name": "Cavalier 3.1 Conv."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Cavalier L 2.0", "marca": "CHEVROLET", "key": "cavalier-990", "id": "990", "fipe_name": "Cavalier L 2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta 1.0 Super 1.0 MPFI VHC 8v 5p", "marca": "CHEVROLET", "key": "celta-991", "id": "991", "fipe_name": "Celta 1.0 Super 1.0 MPFI VHC 8v 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta 1.0SuperN.Piq.1.0 MPFi VHC 8V 3p", "marca": "CHEVROLET", "key": "celta-992", "id": "992", "fipe_name": "Celta 1.0SuperN.Piq.1.0 MPFi VHC 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta 1.4 Super Energy 1.4 8V 85cv 3p", "marca": "CHEVROLET", "key": "celta-993", "id": "993", "fipe_name": "Celta 1.4 Super Energy 1.4 8V 85cv 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta 1.4 Super Energy 1.4 8V 85cv 5p", "marca": "CHEVROLET", "key": "celta-994", "id": "994", "fipe_name": "Celta 1.4 Super Energy 1.4 8V 85cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta ADVANTAGE 1.0 8v FlexPower 5p", "marca": "CHEVROLET", "key": "celta-6611", "id": "6611", "fipe_name": "Celta ADVANTAGE 1.0 8v FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life 1.0 MPFI VHC 8V 3p", "marca": "CHEVROLET", "key": "celta-997", "id": "997", "fipe_name": "Celta Life 1.0 MPFI VHC 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life 1.0 MPFI VHC 8V 5p", "marca": "CHEVROLET", "key": "celta-998", "id": "998", "fipe_name": "Celta Life 1.0 MPFI VHC 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life 1.4 MPFI 8V 85cv 3p", "marca": "CHEVROLET", "key": "celta-999", "id": "999", "fipe_name": "Celta Life 1.4 MPFI 8V 85cv 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life 1.4 MPFI 8V 85cv 5p", "marca": "CHEVROLET", "key": "celta-1000", "id": "1000", "fipe_name": "Celta Life 1.4 MPFI 8V 85cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life LS 1.0 MPFI 8V FlexPower 3p", "marca": "CHEVROLET", "key": "celta-995", "id": "995", "fipe_name": "Celta Life LS 1.0 MPFI 8V FlexPower 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Life LS 1.0 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "celta-996", "id": "996", "fipe_name": "Celta Life LS 1.0 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit 1.0 MPFI 8V FlexPower 3p", "marca": "CHEVROLET", "key": "celta-1001", "id": "1001", "fipe_name": "Celta Spirit 1.0 MPFI 8V FlexPower 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit 1.0 MPFI VHC 8V 3p", "marca": "CHEVROLET", "key": "celta-1003", "id": "1003", "fipe_name": "Celta Spirit 1.0 MPFI VHC 8V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit 1.0 MPFI VHC 8V 5p", "marca": "CHEVROLET", "key": "celta-1004", "id": "1004", "fipe_name": "Celta Spirit 1.0 MPFI VHC 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit 1.4 MPFI 8V 85cv 3p", "marca": "CHEVROLET", "key": "celta-1005", "id": "1005", "fipe_name": "Celta Spirit 1.4 MPFI 8V 85cv 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit 1.4 MPFI 8V 85cv 5p", "marca": "CHEVROLET", "key": "celta-1006", "id": "1006", "fipe_name": "Celta Spirit 1.4 MPFI 8V 85cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Spirit LT 1.0 MPFI 8V FlexP. 5p", "marca": "CHEVROLET", "key": "celta-1002", "id": "1002", "fipe_name": "Celta Spirit LT 1.0 MPFI 8V FlexP. 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Super 1.0 MPFI 8V FlexPower 3p", "marca": "CHEVROLET", "key": "celta-1007", "id": "1007", "fipe_name": "Celta Super 1.0 MPFI 8V FlexPower 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Celta Super 1.0 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "celta-1008", "id": "1008", "fipe_name": "Celta Super 1.0 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Chevette Junior 1.0", "marca": "CHEVROLET", "key": "chevette-1009", "id": "1009", "fipe_name": "Chevette Junior 1.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Chevette L  SL  SLe  DL  SE 1.6", "marca": "CHEVROLET", "key": "chevette-1010", "id": "1010", "fipe_name": "Chevette L  SL  SLe  DL  SE 1.6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Chevy 500 DL  SL  SE Furgão 1.6", "marca": "CHEVROLET", "key": "chevy-1011", "id": "1011", "fipe_name": "Chevy 500 DL  SL  SE Furgão 1.6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Cheynne 4.3 V6", "marca": "CHEVROLET", "key": "cheynne-1012", "id": "1012", "fipe_name": "Cheynne 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Classic ADVANTAGE 1.0 VHC FlexPower 4p", "marca": "CHEVROLET", "key": "classic-6747", "id": "6747", "fipe_name": "Classic ADVANTAGE 1.0 VHC FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Classic Classic LS 1.0 VHC FlexPower 4p", "marca": "CHEVROLET", "key": "classic-4924", "id": "4924", "fipe_name": "Classic Classic LS 1.0 VHC FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT ADVANTAGE 1.4 MPFI 8V F.Power 4p", "marca": "CHEVROLET", "key": "cobalt-6584", "id": "6584", "fipe_name": "COBALT ADVANTAGE 1.4 MPFI 8V F.Power 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT ADVANTAGE 1.8 8V Eco.Flex 4p Aut.", "marca": "CHEVROLET", "key": "cobalt-6585", "id": "6585", "fipe_name": "COBALT ADVANTAGE 1.8 8V Eco.Flex 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT Graphite 1.8 8V Econo.Flex 4p Aut", "marca": "CHEVROLET", "key": "cobalt-7257", "id": "7257", "fipe_name": "COBALT Graphite 1.8 8V Econo.Flex 4p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT Graphite 1.8 8V Econo.Flex 4p Mec", "marca": "CHEVROLET", "key": "cobalt-7258", "id": "7258", "fipe_name": "COBALT Graphite 1.8 8V Econo.Flex 4p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LS 1.4 8V FlexPower 4p", "marca": "CHEVROLET", "key": "cobalt-5723", "id": "5723", "fipe_name": "COBALT LS 1.4 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LT 1.4 8V FlexPower 4p", "marca": "CHEVROLET", "key": "cobalt-5724", "id": "5724", "fipe_name": "COBALT LT 1.4 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LT 1.8 8V Econo.Flex 4p Aut.", "marca": "CHEVROLET", "key": "cobalt-6172", "id": "6172", "fipe_name": "COBALT LT 1.8 8V Econo.Flex 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LT 1.8 8V Econo.Flex 4p Mec.", "marca": "CHEVROLET", "key": "cobalt-6173", "id": "6173", "fipe_name": "COBALT LT 1.8 8V Econo.Flex 4p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LTZ 1.4 8V FlexPower 4p", "marca": "CHEVROLET", "key": "cobalt-5725", "id": "5725", "fipe_name": "COBALT LTZ 1.4 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LTZ 1.8 8V Econo.Flex 4p Aut.", "marca": "CHEVROLET", "key": "cobalt-6174", "id": "6174", "fipe_name": "COBALT LTZ 1.8 8V Econo.Flex 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "COBALT LTZ 1.8 8V Econo.Flex 4p Mec.", "marca": "CHEVROLET", "key": "cobalt-6175", "id": "6175", "fipe_name": "COBALT LTZ 1.8 8V Econo.Flex 4p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Furgão 1.6 MPFi Powertech 92cv", "marca": "CHEVROLET", "key": "corsa-1013", "id": "1013", "fipe_name": "Corsa Furgão 1.6 MPFi Powertech 92cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa GL 1.6 MPFI  1.4 EFI 2p e 4p", "marca": "CHEVROLET", "key": "corsa-1014", "id": "1014", "fipe_name": "Corsa GL 1.6 MPFI  1.4 EFI 2p e 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa GLS 1.6 MPFI 5p", "marca": "CHEVROLET", "key": "corsa-1015", "id": "1015", "fipe_name": "Corsa GLS 1.6 MPFI 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa GSi 16V", "marca": "CHEVROLET", "key": "corsa-1016", "id": "1016", "fipe_name": "Corsa GSi 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Joy 1.0 1.0 FlexPower 8V 5p", "marca": "CHEVROLET", "key": "corsa-1017", "id": "1017", "fipe_name": "Corsa Hat. Joy 1.0 1.0 FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Joy 1.8 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "corsa-1018", "id": "1018", "fipe_name": "Corsa Hat. Joy 1.8 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Maxx 1.0 1.0 FlexPower 8V 5p", "marca": "CHEVROLET", "key": "corsa-1019", "id": "1019", "fipe_name": "Corsa Hat. Maxx 1.0 1.0 FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Maxx 1.4 8V ECONOFLEX 5p", "marca": "CHEVROLET", "key": "corsa-4379", "id": "4379", "fipe_name": "Corsa Hat. Maxx 1.4 8V ECONOFLEX 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Maxx 1.8 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "corsa-1020", "id": "1020", "fipe_name": "Corsa Hat. Maxx 1.8 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Prem. 1.01.0 FlexPower 8V 5p", "marca": "CHEVROLET", "key": "corsa-1021", "id": "1021", "fipe_name": "Corsa Hat. Prem. 1.01.0 FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. Premium 1.4 8V ECONOFLEX 5p", "marca": "CHEVROLET", "key": "corsa-4380", "id": "4380", "fipe_name": "Corsa Hat. Premium 1.4 8V ECONOFLEX 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat. SS 1.8 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "corsa-3818", "id": "3818", "fipe_name": "Corsa Hat. SS 1.8 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hat.Premium 1.8 MPFI 8V F.Power 5p", "marca": "CHEVROLET", "key": "corsa-1022", "id": "1022", "fipe_name": "Corsa Hat.Premium 1.8 MPFI 8V F.Power 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hatchback 1.0 MPFI 8V 71cv 5p", "marca": "CHEVROLET", "key": "corsa-1023", "id": "1023", "fipe_name": "Corsa Hatchback 1.0 MPFI 8V 71cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hatchback 1.8 MPFI 8V 102cv 5p", "marca": "CHEVROLET", "key": "corsa-1024", "id": "1024", "fipe_name": "Corsa Hatchback 1.8 MPFI 8V 102cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Hatchback 1.8 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "corsa-1025", "id": "1025", "fipe_name": "Corsa Hatchback 1.8 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Pick-Up GL Champ 1.6 MPFI  EFI", "marca": "CHEVROLET", "key": "corsa-1026", "id": "1026", "fipe_name": "Corsa Pick-Up GL Champ 1.6 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Pick-Up Sport 1.6 MPFI", "marca": "CHEVROLET", "key": "corsa-1027", "id": "1027", "fipe_name": "Corsa Pick-Up Sport 1.6 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Pick-Up STD Rodeio 1.6 MPFI", "marca": "CHEVROLET", "key": "corsa-1028", "id": "1028", "fipe_name": "Corsa Pick-Up STD Rodeio 1.6 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Clas.Spirit 1.6MPFI VHC 8V Aut", "marca": "CHEVROLET", "key": "corsa-1029", "id": "1029", "fipe_name": "Corsa Sed Clas.Spirit 1.6MPFI VHC 8V Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Clas.Super 1.6MPFI VHC 8V Aut", "marca": "CHEVROLET", "key": "corsa-1030", "id": "1030", "fipe_name": "Corsa Sed Clas.Super 1.6MPFI VHC 8V Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Class.Life 1.01.0 FlexPower", "marca": "CHEVROLET", "key": "corsa-1031", "id": "1031", "fipe_name": "Corsa Sed Class.Life 1.01.0 FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Class.Spirit 1.01.0 FlexPower", "marca": "CHEVROLET", "key": "corsa-1033", "id": "1033", "fipe_name": "Corsa Sed Class.Spirit 1.01.0 FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Class.Super 1.01.0 FlexPower", "marca": "CHEVROLET", "key": "corsa-1035", "id": "1035", "fipe_name": "Corsa Sed Class.Super 1.01.0 FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Classic Life 1.6 MPFI VHC 8V", "marca": "CHEVROLET", "key": "corsa-1032", "id": "1032", "fipe_name": "Corsa Sed Classic Life 1.6 MPFI VHC 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Classic Spirit 1.6 MPFI VHC 8V", "marca": "CHEVROLET", "key": "corsa-1034", "id": "1034", "fipe_name": "Corsa Sed Classic Spirit 1.6 MPFI VHC 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed Classic Super 1.6 MPFI VHC 8V", "marca": "CHEVROLET", "key": "corsa-1036", "id": "1036", "fipe_name": "Corsa Sed Classic Super 1.6 MPFI VHC 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Joy 1.0 1.0 FlexPower 8V 4p", "marca": "CHEVROLET", "key": "corsa-1037", "id": "1037", "fipe_name": "Corsa Sed. Joy 1.0 1.0 FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Joy 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "corsa-1038", "id": "1038", "fipe_name": "Corsa Sed. Joy 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Maxx 1.0 1.0 FlexPower 8V 4p", "marca": "CHEVROLET", "key": "corsa-1039", "id": "1039", "fipe_name": "Corsa Sed. Maxx 1.0 1.0 FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Maxx 1.4 8V ECONOFLEX 4p", "marca": "CHEVROLET", "key": "corsa-4381", "id": "4381", "fipe_name": "Corsa Sed. Maxx 1.4 8V ECONOFLEX 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Maxx 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "corsa-1040", "id": "1040", "fipe_name": "Corsa Sed. Maxx 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Premium 1.4 8V ECONOFLEX 4p", "marca": "CHEVROLET", "key": "corsa-4382", "id": "4382", "fipe_name": "Corsa Sed. Premium 1.4 8V ECONOFLEX 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed. Premium 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "corsa-1042", "id": "1042", "fipe_name": "Corsa Sed. Premium 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed.Prem. 1.0 1.0 FlexPower 8V 4p", "marca": "CHEVROLET", "key": "corsa-1041", "id": "1041", "fipe_name": "Corsa Sed.Prem. 1.0 1.0 FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sed.Wind 1.0MilleniumClassic VHC", "marca": "CHEVROLET", "key": "corsa-1043", "id": "1043", "fipe_name": "Corsa Sed.Wind 1.0MilleniumClassic VHC"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan 1.0 MPFI 8V 71cv 4p", "marca": "CHEVROLET", "key": "corsa-1044", "id": "1044", "fipe_name": "Corsa Sedan 1.0 MPFI 8V 71cv 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan 1.8 MPFI 8V  102cv 4p", "marca": "CHEVROLET", "key": "corsa-1045", "id": "1045", "fipe_name": "Corsa Sedan 1.8 MPFI 8V  102cv 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan 1.8 MPFI FlexPower 8V 4p", "marca": "CHEVROLET", "key": "corsa-1046", "id": "1046", "fipe_name": "Corsa Sedan 1.8 MPFI FlexPower 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan GL 1.6  MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1047", "id": "1047", "fipe_name": "Corsa Sedan GL 1.6  MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan GLS 1.6 16V MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1048", "id": "1048", "fipe_name": "Corsa Sedan GLS 1.6 16V MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan GLS 1.6 MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1049", "id": "1049", "fipe_name": "Corsa Sedan GLS 1.6 MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan Super 1.0 MPFI 16V 4p", "marca": "CHEVROLET", "key": "corsa-1050", "id": "1050", "fipe_name": "Corsa Sedan Super 1.0 MPFI 16V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan Super 1.0 MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1051", "id": "1051", "fipe_name": "Corsa Sedan Super 1.0 MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan Super Milenium 1.0 MPFI 16V", "marca": "CHEVROLET", "key": "corsa-1052", "id": "1052", "fipe_name": "Corsa Sedan Super Milenium 1.0 MPFI 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Sedan Super Classic 1.6 MPFI 8v 4", "marca": "CHEVROLET", "key": "corsa-1053", "id": "1053", "fipe_name": "Corsa Sedan Super Classic 1.6 MPFI 8v 4"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Super 1.0 MPFI  2p e 4p", "marca": "CHEVROLET", "key": "corsa-1054", "id": "1054", "fipe_name": "Corsa Super 1.0 MPFI  2p e 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Super 1.0 MPFI 16V 3p", "marca": "CHEVROLET", "key": "corsa-1055", "id": "1055", "fipe_name": "Corsa Super 1.0 MPFI 16V 3p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Super 1.0 MPFI 16V 5p", "marca": "CHEVROLET", "key": "corsa-1056", "id": "1056", "fipe_name": "Corsa Super 1.0 MPFI 16V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Super 1.6 MPFI 8v 5p", "marca": "CHEVROLET", "key": "corsa-1057", "id": "1057", "fipe_name": "Corsa Super 1.6 MPFI 8v 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wagon GL 1.6 MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1058", "id": "1058", "fipe_name": "Corsa Wagon GL 1.6 MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wagon GLS 1.6 16V MPFI 4p", "marca": "CHEVROLET", "key": "corsa-1059", "id": "1059", "fipe_name": "Corsa Wagon GLS 1.6 16V MPFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wagon GLS 1.6 8V 4p", "marca": "CHEVROLET", "key": "corsa-1060", "id": "1060", "fipe_name": "Corsa Wagon GLS 1.6 8V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wagon Super 1.0 MPFI 16V", "marca": "CHEVROLET", "key": "corsa-1061", "id": "1061", "fipe_name": "Corsa Wagon Super 1.0 MPFI 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wagon Super 1.6 MPFI 8v", "marca": "CHEVROLET", "key": "corsa-1062", "id": "1062", "fipe_name": "Corsa Wagon Super 1.6 MPFI 8v"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wind 1.0 MPFMilleniumI EFI 4p", "marca": "CHEVROLET", "key": "corsa-1063", "id": "1063", "fipe_name": "Corsa Wind 1.0 MPFMilleniumI EFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wind 1.0 MPFI  EFI  2p", "marca": "CHEVROLET", "key": "corsa-1064", "id": "1064", "fipe_name": "Corsa Wind 1.0 MPFI  EFI  2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wind 1.6 MPFi 2p", "marca": "CHEVROLET", "key": "corsa-1065", "id": "1065", "fipe_name": "Corsa Wind 1.6 MPFi 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wind 1.6 MPFi 4p", "marca": "CHEVROLET", "key": "corsa-1066", "id": "1066", "fipe_name": "Corsa Wind 1.6 MPFi 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corsa Wind Piquet Champ 1.0 MPFI 2p", "marca": "CHEVROLET", "key": "corsa-1067", "id": "1067", "fipe_name": "Corsa Wind Piquet Champ 1.0 MPFI 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corvette 5.7 6.0, 6.2 Conv.Stingray", "marca": "CHEVROLET", "key": "corvette-1068", "id": "1068", "fipe_name": "Corvette 5.7 6.0, 6.2 Conv.Stingray"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Corvette 5.7 6.0, 6.2 TargaStingray", "marca": "CHEVROLET", "key": "corvette-1069", "id": "1069", "fipe_name": "Corvette 5.7 6.0, 6.2 TargaStingray"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut", "marca": "CHEVROLET", "key": "cruze-5975", "id": "5975", "fipe_name": "CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE HB Sport LT 1.8 16V FlexP. 5p Mec", "marca": "CHEVROLET", "key": "cruze-5976", "id": "5976", "fipe_name": "CRUZE HB Sport LT 1.8 16V FlexP. 5p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Aut", "marca": "CHEVROLET", "key": "cruze-5977", "id": "5977", "fipe_name": "CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Mec", "marca": "CHEVROLET", "key": "cruze-5978", "id": "5978", "fipe_name": "CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE LT 1.8 16V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "cruze-5635", "id": "5635", "fipe_name": "CRUZE LT 1.8 16V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE LT 1.8 16V FlexPower 4p Mec.", "marca": "CHEVROLET", "key": "cruze-5636", "id": "5636", "fipe_name": "CRUZE LT 1.8 16V FlexPower 4p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "CRUZE LTZ 1.8 16V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "cruze-5637", "id": "5637", "fipe_name": "CRUZE LTZ 1.8 16V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-10 CD Diesel", "marca": "CHEVROLET", "key": "d-10-1070", "id": "1070", "fipe_name": "D-10 CD Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-10 Diesel", "marca": "CHEVROLET", "key": "d-10-1071", "id": "1071", "fipe_name": "D-10 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 4.0 ChampConquestEl Caminho Dies.", "marca": "CHEVROLET", "key": "d-20-1072", "id": "1072", "fipe_name": "D-20 4.0 ChampConquestEl Caminho Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 CD Lx S4TTro.PlusLx 3.94.0 TDies", "marca": "CHEVROLET", "key": "d-20-1073", "id": "1073", "fipe_name": "D-20 CD Lx S4TTro.PlusLx 3.94.0 TDies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 S  El Caminho 3.94.0 CD T.Dies", "marca": "CHEVROLET", "key": "d-20-1076", "id": "1076", "fipe_name": "D-20 S  El Caminho 3.94.0 CD T.Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 S  Luxe 3.94.0 Diesel", "marca": "CHEVROLET", "key": "d-20-1074", "id": "1074", "fipe_name": "D-20 S  Luxe 3.94.0 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 S  Luxe 3.94.0 T.Diesel", "marca": "CHEVROLET", "key": "d-20-1075", "id": "1075", "fipe_name": "D-20 S  Luxe 3.94.0 T.Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "D-20 S 3.94.0 Turbo Diesel", "marca": "CHEVROLET", "key": "d-20-1077", "id": "1077", "fipe_name": "D-20 S 3.94.0 Turbo Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Ipanema GL 1.8 MPFI  EFI SL 4p", "marca": "CHEVROLET", "key": "ipanema-1078", "id": "1078", "fipe_name": "Ipanema GL 1.8 MPFI  EFI SL 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Ipanema GL Flair 2.0 MPFI  EFI 4p", "marca": "CHEVROLET", "key": "ipanema-1079", "id": "1079", "fipe_name": "Ipanema GL Flair 2.0 MPFI  EFI 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Ipanema GLSSLE 2.0EFI SLe1.8SolWave", "marca": "CHEVROLET", "key": "ipanema-1080", "id": "1080", "fipe_name": "Ipanema GLSSLE 2.0EFI SLe1.8SolWave"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GL 2.0 MPFI  EFI", "marca": "CHEVROLET", "key": "kadett-1081", "id": "1081", "fipe_name": "Kadett GL 2.0 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GLSLLiteTurim 1.8", "marca": "CHEVROLET", "key": "kadett-1082", "id": "1082", "fipe_name": "Kadett GLSLLiteTurim 1.8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GLS 1.8 EFI  SLe 1.8", "marca": "CHEVROLET", "key": "kadett-1083", "id": "1083", "fipe_name": "Kadett GLS 1.8 EFI  SLe 1.8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GLS 2.0 MPFI", "marca": "CHEVROLET", "key": "kadett-1084", "id": "1084", "fipe_name": "Kadett GLS 2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GSi  GS 2.0", "marca": "CHEVROLET", "key": "kadett-1085", "id": "1085", "fipe_name": "Kadett GSi  GS 2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett GSi 2.0 Conversível", "marca": "CHEVROLET", "key": "kadett-1086", "id": "1086", "fipe_name": "Kadett GSi 2.0 Conversível"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Kadett Sport 2.0 MPFI  EFI", "marca": "CHEVROLET", "key": "kadett-1087", "id": "1087", "fipe_name": "Kadett Sport 2.0 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Lumina", "marca": "CHEVROLET", "key": "lumina-1088", "id": "1088", "fipe_name": "Lumina"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MALIBU LTZ 2.4 16V 171cv 4p", "marca": "CHEVROLET", "key": "malibu-5276", "id": "5276", "fipe_name": "MALIBU LTZ 2.4 16V 171cv 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Marajo SLSLeSe", "marca": "CHEVROLET", "key": "marajo-1089", "id": "1089", "fipe_name": "Marajo SLSLeSe"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva 1.8 CD 1.8 MPFI 16V 122cv 5p", "marca": "CHEVROLET", "key": "meriva-1090", "id": "1090", "fipe_name": "Meriva 1.8 CD 1.8 MPFI 16V 122cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva 1.8 CD 1.8 MPFI 8V 102cv 5p", "marca": "CHEVROLET", "key": "meriva-1091", "id": "1091", "fipe_name": "Meriva 1.8 CD 1.8 MPFI 8V 102cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva 1.8 CD 1.8 MPFI FlexPower 8V", "marca": "CHEVROLET", "key": "meriva-1092", "id": "1092", "fipe_name": "Meriva 1.8 CD 1.8 MPFI FlexPower 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva COLLECTION 1.4 8V ECONOFLEX 5p", "marca": "CHEVROLET", "key": "meriva-6058", "id": "6058", "fipe_name": "Meriva COLLECTION 1.4 8V ECONOFLEX 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Expres.EASYTRONIC 1.8 FlexPower", "marca": "CHEVROLET", "key": "meriva-4767", "id": "4767", "fipe_name": "Meriva Expres.EASYTRONIC 1.8 FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Joy 1.4 MPFI 8V ECONOFLEX 5p", "marca": "CHEVROLET", "key": "meriva-4768", "id": "4768", "fipe_name": "Meriva Joy 1.4 MPFI 8V ECONOFLEX 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Joy 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "meriva-1093", "id": "1093", "fipe_name": "Meriva Joy 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Maxx 1.4 MPFI 8V ECONOFLEX 5p", "marca": "CHEVROLET", "key": "meriva-4769", "id": "4769", "fipe_name": "Meriva Maxx 1.4 MPFI 8V ECONOFLEX 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Maxx 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "meriva-1094", "id": "1094", "fipe_name": "Meriva Maxx 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Prem.EASYTRONIC 1.8 FlexPower 5p", "marca": "CHEVROLET", "key": "meriva-4475", "id": "4475", "fipe_name": "Meriva Prem.EASYTRONIC 1.8 FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva Premium 1.8 MPFI 8V FlexPower", "marca": "CHEVROLET", "key": "meriva-1095", "id": "1095", "fipe_name": "Meriva Premium 1.8 MPFI 8V FlexPower"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva SS 1.8 MPFI 8V FlexPower 5p", "marca": "CHEVROLET", "key": "meriva-3819", "id": "3819", "fipe_name": "Meriva SS 1.8 MPFI 8V FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Meriva SS EASYTRONIC 1.8 FlexPower 5p", "marca": "CHEVROLET", "key": "meriva-4770", "id": "4770", "fipe_name": "Meriva SS EASYTRONIC 1.8 FlexPower 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA  Sport 1.8 MPFI FlexPower 8V", "marca": "CHEVROLET", "key": "montana-1096", "id": "1096", "fipe_name": "MONTANA  Sport 1.8 MPFI FlexPower 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA 1.4 8V Conquest ECONOFLEX  2p", "marca": "CHEVROLET", "key": "montana-4383", "id": "4383", "fipe_name": "MONTANA 1.4 8V Conquest ECONOFLEX  2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA 1.8 1.8 Conquest FlexPower 8V", "marca": "CHEVROLET", "key": "montana-1097", "id": "1097", "fipe_name": "MONTANA 1.8 1.8 Conquest FlexPower 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA ARENA 1.4 ECONOFLEX  8V 2p", "marca": "CHEVROLET", "key": "montana-5107", "id": "5107", "fipe_name": "MONTANA ARENA 1.4 ECONOFLEX  8V 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA COMBO 1.4 8V ECONOFLEX", "marca": "CHEVROLET", "key": "montana-5030", "id": "5030", "fipe_name": "MONTANA COMBO 1.4 8V ECONOFLEX"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA LS 1.4 ECONOFLEX 8V 2p", "marca": "CHEVROLET", "key": "montana-5416", "id": "5416", "fipe_name": "MONTANA LS 1.4 ECONOFLEX 8V 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA LS COMBO 1.4 8V ECONOFLEX 2p", "marca": "CHEVROLET", "key": "montana-6204", "id": "6204", "fipe_name": "MONTANA LS COMBO 1.4 8V ECONOFLEX 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA Off Road 1.8 MPFI FlexPower 8V", "marca": "CHEVROLET", "key": "montana-1098", "id": "1098", "fipe_name": "MONTANA Off Road 1.8 MPFI FlexPower 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "MONTANA Sport 1.4 ECONOFLEX 8V 2p", "marca": "CHEVROLET", "key": "montana-5108", "id": "5108", "fipe_name": "MONTANA Sport 1.4 ECONOFLEX 8V 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza 1.6i 1.8i  (restante)", "marca": "CHEVROLET", "key": "monza-1099", "id": "1099", "fipe_name": "Monza 1.6i 1.8i  (restante)"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza Class 1.8 2.0", "marca": "CHEVROLET", "key": "monza-1100", "id": "1100", "fipe_name": "Monza Class 1.8 2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza Classic SE 2.0 MPFI e EFI 2p e 4p", "marca": "CHEVROLET", "key": "monza-1101", "id": "1101", "fipe_name": "Monza Classic SE 2.0 MPFI e EFI 2p e 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza Classic SLeSR 1.8", "marca": "CHEVROLET", "key": "monza-1102", "id": "1102", "fipe_name": "Monza Classic SLeSR 1.8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza GL 1.8 EFI SL L 650Barc. 2e4p", "marca": "CHEVROLET", "key": "monza-1103", "id": "1103", "fipe_name": "Monza GL 1.8 EFI SL L 650Barc. 2e4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza GL 2.0 EFISLL650ClubBarc.2e4p", "marca": "CHEVROLET", "key": "monza-1104", "id": "1104", "fipe_name": "Monza GL 2.0 EFISLL650ClubBarc.2e4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza GLS Hi-Tech 2.0 EFI 2p e 4p", "marca": "CHEVROLET", "key": "monza-1105", "id": "1105", "fipe_name": "Monza GLS Hi-Tech 2.0 EFI 2p e 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Monza SLe SR 2.0", "marca": "CHEVROLET", "key": "monza-1106", "id": "1106", "fipe_name": "Monza SLe SR 2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega CD 3.8 V6", "marca": "CHEVROLET", "key": "omega-1108", "id": "1108", "fipe_name": "Omega CD 3.8 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega CD 4.1  3.0", "marca": "CHEVROLET", "key": "omega-1109", "id": "1109", "fipe_name": "Omega CD 4.1  3.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega CD FITTIPALDI 3.6 V6 24V 4p", "marca": "CHEVROLET", "key": "omega-1107", "id": "1107", "fipe_name": "Omega CD FITTIPALDI 3.6 V6 24V 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega Diamond", "marca": "CHEVROLET", "key": "omega-1110", "id": "1110", "fipe_name": "Omega Diamond"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega GL 2.0 2.2", "marca": "CHEVROLET", "key": "omega-1111", "id": "1111", "fipe_name": "Omega GL 2.0 2.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega GLS 2.2  2.0", "marca": "CHEVROLET", "key": "omega-1112", "id": "1112", "fipe_name": "Omega GLS 2.2  2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Omega GLS 4.1", "marca": "CHEVROLET", "key": "omega-1113", "id": "1113", "fipe_name": "Omega GLS 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX  Lollapalooza 1.0 F.Power 5p Mec.", "marca": "CHEVROLET", "key": "onix-6748", "id": "6748", "fipe_name": "ONIX  Lollapalooza 1.0 F.Power 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH EFFECT 1.4 8V F.Power 5p Mec.", "marca": "CHEVROLET", "key": "onix-7120", "id": "7120", "fipe_name": "ONIX HATCH EFFECT 1.4 8V F.Power 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LS 1.0 8V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "onix-6231", "id": "6231", "fipe_name": "ONIX HATCH LS 1.0 8V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LT 1.0 8V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "onix-6232", "id": "6232", "fipe_name": "ONIX HATCH LT 1.0 8V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LT 1.4 8V FlexPower 5p Aut.", "marca": "CHEVROLET", "key": "onix-6530", "id": "6530", "fipe_name": "ONIX HATCH LT 1.4 8V FlexPower 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LT 1.4 8V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "onix-6233", "id": "6233", "fipe_name": "ONIX HATCH LT 1.4 8V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Aut.", "marca": "CHEVROLET", "key": "onix-6531", "id": "6531", "fipe_name": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "onix-6234", "id": "6234", "fipe_name": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "ONIX HATCH SELEÇÃO 1.0 8V Flex 5p Mec.", "marca": "CHEVROLET", "key": "onix-7259", "id": "7259", "fipe_name": "ONIX HATCH SELEÇÃO 1.0 8V Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Opala Comodoro Comod. SLE  4.1  2.5", "marca": "CHEVROLET", "key": "opala-1114", "id": "1114", "fipe_name": "Opala Comodoro Comod. SLE  4.1  2.5"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Opala Diplomata Diplom. SLE 4.1  2.5", "marca": "CHEVROLET", "key": "opala-1115", "id": "1115", "fipe_name": "Opala Diplomata Diplom. SLE 4.1  2.5"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Opala LSLSS 2.54.1", "marca": "CHEVROLET", "key": "opala-1116", "id": "1116", "fipe_name": "Opala LSLSS 2.54.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA  Sed. Maxx LT 1.4 8V ECONOF. 4p", "marca": "CHEVROLET", "key": "prisma-4188", "id": "4188", "fipe_name": "PRISMA  Sed. Maxx LT 1.4 8V ECONOF. 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. ADVANT. 1.0 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-6866", "id": "6866", "fipe_name": "PRISMA Sed. ADVANT. 1.0 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. Joy 1.4 8V ECONOFLEX 4p", "marca": "CHEVROLET", "key": "prisma-4189", "id": "4189", "fipe_name": "PRISMA Sed. Joy 1.4 8V ECONOFLEX 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. Joy LS 1.0 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-4849", "id": "4849", "fipe_name": "PRISMA Sed. Joy LS 1.0 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. LT 1.0 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-6349", "id": "6349", "fipe_name": "PRISMA Sed. LT 1.0 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. LT 1.4 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-6350", "id": "6350", "fipe_name": "PRISMA Sed. LT 1.4 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. LT 1.4 8V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "prisma-6532", "id": "6532", "fipe_name": "PRISMA Sed. LT 1.4 8V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. LTZ 1.4 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-6351", "id": "6351", "fipe_name": "PRISMA Sed. LTZ 1.4 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. LTZ 1.4 8V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "prisma-6533", "id": "6533", "fipe_name": "PRISMA Sed. LTZ 1.4 8V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "PRISMA Sed. Maxx 1.0 8V FlexPower 4p", "marca": "CHEVROLET", "key": "prisma-4850", "id": "4850", "fipe_name": "PRISMA Sed. Maxx 1.0 8V FlexPower 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer  DTi 2.8 4x2 Turbo Diesel", "marca": "CHEVROLET", "key": "s10-1117", "id": "1117", "fipe_name": "S10 Blazer  DTi 2.8 4x2 Turbo Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer 2.4 MPFI 8v 128cv 4p", "marca": "CHEVROLET", "key": "s10-1118", "id": "1118", "fipe_name": "S10 Blazer 2.4 MPFI 8v 128cv 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer 4.3 V6", "marca": "CHEVROLET", "key": "s10-1119", "id": "1119", "fipe_name": "S10 Blazer 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Advant. 2.42.4 MPFI F.Power", "marca": "CHEVROLET", "key": "s10-1120", "id": "1120", "fipe_name": "S10 Blazer Advant. 2.42.4 MPFI F.Power"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Colina 2.42.4 MPFI F.Power", "marca": "CHEVROLET", "key": "s10-1121", "id": "1121", "fipe_name": "S10 Blazer Colina 2.42.4 MPFI F.Power"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Colina 2.8 TDI 4x4 Diesel", "marca": "CHEVROLET", "key": "s10-1122", "id": "1122", "fipe_name": "S10 Blazer Colina 2.8 TDI 4x4 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer DLX 2.2 MPFI  EFI", "marca": "CHEVROLET", "key": "s10-1123", "id": "1123", "fipe_name": "S10 Blazer DLX 2.2 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer DLX 2.4 MPFI 128cv 4p", "marca": "CHEVROLET", "key": "s10-1124", "id": "1124", "fipe_name": "S10 Blazer DLX 2.4 MPFI 128cv 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer DLX 2.5 Diesel Turbo", "marca": "CHEVROLET", "key": "s10-1125", "id": "1125", "fipe_name": "S10 Blazer DLX 2.5 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer DLX 2.8 4x4 TB Interc. Diesel", "marca": "CHEVROLET", "key": "s10-1126", "id": "1126", "fipe_name": "S10 Blazer DLX 2.8 4x4 TB Interc. Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer DLX 4.3 V6", "marca": "CHEVROLET", "key": "s10-1127", "id": "1127", "fipe_name": "S10 Blazer DLX 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Executive 2.8 4x4 TDI Diesel", "marca": "CHEVROLET", "key": "s10-1128", "id": "1128", "fipe_name": "S10 Blazer Executive 2.8 4x4 TDI Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Executive 4.3 V6", "marca": "CHEVROLET", "key": "s10-1129", "id": "1129", "fipe_name": "S10 Blazer Executive 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Std. 2.2 MPFI  EFI", "marca": "CHEVROLET", "key": "s10-1130", "id": "1130", "fipe_name": "S10 Blazer Std. 2.2 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Std. 2.5 Diesel Turbo", "marca": "CHEVROLET", "key": "s10-1131", "id": "1131", "fipe_name": "S10 Blazer Std. 2.5 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Blazer Tornado 2.4 MPFI 8V 128cv", "marca": "CHEVROLET", "key": "s10-1132", "id": "1132", "fipe_name": "S10 Blazer Tornado 2.4 MPFI 8V 128cv"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 2.4 MPFI 8v 128cv CD 4p", "marca": "CHEVROLET", "key": "s10-1133", "id": "1133", "fipe_name": "S10 Pick-Up 2.4 MPFI 8v 128cv CD 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 2.4 MPFI 8v 128cv Rodeio", "marca": "CHEVROLET", "key": "s10-1134", "id": "1134", "fipe_name": "S10 Pick-Up 2.4 MPFI 8v 128cv Rodeio"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 2.5 4x2 CD TB Max HST Dies", "marca": "CHEVROLET", "key": "s10-1135", "id": "1135", "fipe_name": "S10 Pick-Up 2.5 4x2 CD TB Max HST Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 2.5 4x4 CD TB Max HST Dies.", "marca": "CHEVROLET", "key": "s10-1136", "id": "1136", "fipe_name": "S10 Pick-Up 2.5 4x4 CD TB Max HST Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 2.8 4x2 Turbo Interc. Dies.", "marca": "CHEVROLET", "key": "s10-1137", "id": "1137", "fipe_name": "S10 Pick-Up 2.8 4x2 Turbo Interc. Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up 4.3 V6", "marca": "CHEVROLET", "key": "s10-1138", "id": "1138", "fipe_name": "S10 Pick-Up 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Barretos 2.2 MPFI 2p", "marca": "CHEVROLET", "key": "s10-1139", "id": "1139", "fipe_name": "S10 Pick-Up Barretos 2.2 MPFI 2p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Champ 4.3 V6", "marca": "CHEVROLET", "key": "s10-1140", "id": "1140", "fipe_name": "S10 Pick-Up Champ 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up DLX 2.4 MPFI 128cv CD 4p", "marca": "CHEVROLET", "key": "s10-1144", "id": "1144", "fipe_name": "S10 Pick-Up DLX 2.4 MPFI 128cv CD 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Exec. 2.8 4x2 CD TB Int.Dies", "marca": "CHEVROLET", "key": "s10-1145", "id": "1145", "fipe_name": "S10 Pick-Up Exec. 2.8 4x2 CD TB Int.Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies", "marca": "CHEVROLET", "key": "s10-1146", "id": "1146", "fipe_name": "S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Executive CD 4.3", "marca": "CHEVROLET", "key": "s10-1147", "id": "1147", "fipe_name": "S10 Pick-Up Executive CD 4.3"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Executive CD 4.3 4x4", "marca": "CHEVROLET", "key": "s10-1148", "id": "1148", "fipe_name": "S10 Pick-Up Executive CD 4.3 4x4"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.4 F.Power 4x2 CD", "marca": "CHEVROLET", "key": "s10-5885", "id": "5885", "fipe_name": "S10 Pick-Up LS 2.4 F.Power 4x2 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.4 F.Power 4x2 CS", "marca": "CHEVROLET", "key": "s10-5886", "id": "5886", "fipe_name": "S10 Pick-Up LS 2.4 F.Power 4x2 CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.8 TDI 4x2 CD Dies. Mec.", "marca": "CHEVROLET", "key": "s10-6099", "id": "6099", "fipe_name": "S10 Pick-Up LS 2.8 TDI 4x2 CD Dies. Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.8 TDI 4x2 CS Dies. Mec.", "marca": "CHEVROLET", "key": "s10-6100", "id": "6100", "fipe_name": "S10 Pick-Up LS 2.8 TDI 4x2 CS Dies. Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.", "marca": "CHEVROLET", "key": "s10-6101", "id": "6101", "fipe_name": "S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel", "marca": "CHEVROLET", "key": "s10-5887", "id": "5887", "fipe_name": "S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.4 F.Power 4x2 CD", "marca": "CHEVROLET", "key": "s10-5888", "id": "5888", "fipe_name": "S10 Pick-Up LT 2.4 F.Power 4x2 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.4 F.Power 4x2 CS", "marca": "CHEVROLET", "key": "s10-5889", "id": "5889", "fipe_name": "S10 Pick-Up LT 2.4 F.Power 4x2 CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.5 Flex 4x2 CD", "marca": "CHEVROLET", "key": "s10-7032", "id": "7032", "fipe_name": "S10 Pick-Up LT 2.5 Flex 4x2 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.5 Flex 4x4 CD", "marca": "CHEVROLET", "key": "s10-7033", "id": "7033", "fipe_name": "S10 Pick-Up LT 2.5 Flex 4x4 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel", "marca": "CHEVROLET", "key": "s10-5890", "id": "5890", "fipe_name": "S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel Aut", "marca": "CHEVROLET", "key": "s10-5891", "id": "5891", "fipe_name": "S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel", "marca": "CHEVROLET", "key": "s10-5892", "id": "5892", "fipe_name": "S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut", "marca": "CHEVROLET", "key": "s10-5893", "id": "5893", "fipe_name": "S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.4 F.Power 4x2 CD", "marca": "CHEVROLET", "key": "s10-5894", "id": "5894", "fipe_name": "S10 Pick-Up LTZ 2.4 F.Power 4x2 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.5 Flex 4x2 CD", "marca": "CHEVROLET", "key": "s10-7034", "id": "7034", "fipe_name": "S10 Pick-Up LTZ 2.5 Flex 4x2 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.5 Flex 4x4 CD", "marca": "CHEVROLET", "key": "s10-7035", "id": "7035", "fipe_name": "S10 Pick-Up LTZ 2.5 Flex 4x4 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies. Mec", "marca": "CHEVROLET", "key": "s10-6102", "id": "6102", "fipe_name": "S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies. Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies.Aut", "marca": "CHEVROLET", "key": "s10-5895", "id": "5895", "fipe_name": "S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies.Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut", "marca": "CHEVROLET", "key": "s10-5896", "id": "5896", "fipe_name": "S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.2 EFI CD", "marca": "CHEVROLET", "key": "s10-1149", "id": "1149", "fipe_name": "S10 Pick-Up Luxe 2.2 EFI CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.2 MPFI  EFI", "marca": "CHEVROLET", "key": "s10-1150", "id": "1150", "fipe_name": "S10 Pick-Up Luxe 2.2 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.2 MPFIEFI CE", "marca": "CHEVROLET", "key": "s10-1151", "id": "1151", "fipe_name": "S10 Pick-Up Luxe 2.2 MPFIEFI CE"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.5 CE TB Diesel", "marca": "CHEVROLET", "key": "s10-1152", "id": "1152", "fipe_name": "S10 Pick-Up Luxe 2.5 CE TB Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.5 Diesel Turbo", "marca": "CHEVROLET", "key": "s10-1153", "id": "1153", "fipe_name": "S10 Pick-Up Luxe 2.5 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 2.8 4x2 CD TB Int.Dies.", "marca": "CHEVROLET", "key": "s10-1154", "id": "1154", "fipe_name": "S10 Pick-Up Luxe 2.8 4x2 CD TB Int.Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 4.3 V6", "marca": "CHEVROLET", "key": "s10-1155", "id": "1155", "fipe_name": "S10 Pick-Up Luxe 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 4.3 V6 CD", "marca": "CHEVROLET", "key": "s10-1156", "id": "1156", "fipe_name": "S10 Pick-Up Luxe 4.3 V6 CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Luxe 4.3 V6 CE", "marca": "CHEVROLET", "key": "s10-1157", "id": "1157", "fipe_name": "S10 Pick-Up Luxe 4.3 V6 CE"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up RODEIO 2.4 MPFI F.Power CD", "marca": "CHEVROLET", "key": "s10-5369", "id": "5369", "fipe_name": "S10 Pick-Up RODEIO 2.4 MPFI F.Power CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up RODEIO 2.8 TDI 4x2 CD Dies.", "marca": "CHEVROLET", "key": "s10-5370", "id": "5370", "fipe_name": "S10 Pick-Up RODEIO 2.8 TDI 4x2 CD Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up RODEIO 2.8 TDI 4x4 CD Dies.", "marca": "CHEVROLET", "key": "s10-5371", "id": "5371", "fipe_name": "S10 Pick-Up RODEIO 2.8 TDI 4x4 CD Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Std 2.8 4x2 CD TB Int.Dies.", "marca": "CHEVROLET", "key": "s10-1158", "id": "1158", "fipe_name": "S10 Pick-Up Std 2.8 4x2 CD TB Int.Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Std 2.8 4x4 CD TB Int.Dies.", "marca": "CHEVROLET", "key": "s10-1159", "id": "1159", "fipe_name": "S10 Pick-Up Std 2.8 4x4 CD TB Int.Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Std. 2.2 MPFI  EFI", "marca": "CHEVROLET", "key": "s10-1160", "id": "1160", "fipe_name": "S10 Pick-Up Std. 2.2 MPFI  EFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Std. 2.2 MPFI CD", "marca": "CHEVROLET", "key": "s10-1161", "id": "1161", "fipe_name": "S10 Pick-Up Std. 2.2 MPFI CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Std. 2.5 Diesel Turbo", "marca": "CHEVROLET", "key": "s10-1162", "id": "1162", "fipe_name": "S10 Pick-Up Std. 2.5 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 Pick-Up Tornado 2.4 MPFI 128cv CD 4p", "marca": "CHEVROLET", "key": "s10-1163", "id": "1163", "fipe_name": "S10 Pick-Up Tornado 2.4 MPFI 128cv CD 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up 2.8Sert. 2.8 4x4 TB Int. Dies.", "marca": "CHEVROLET", "key": "s10-1164", "id": "1164", "fipe_name": "S10 P-Up 2.8Sert. 2.8 4x4 TB Int. Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Advant. 2.42.4 MPFI F.Power CD", "marca": "CHEVROLET", "key": "s10-1165", "id": "1165", "fipe_name": "S10 P-Up Advant. 2.42.4 MPFI F.Power CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Advantage 2.4 MPFI F.Power CS", "marca": "CHEVROLET", "key": "s10-4675", "id": "4675", "fipe_name": "S10 P-Up Advantage 2.4 MPFI F.Power CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Colina 2.4 MPFI 128cv CD 4p", "marca": "CHEVROLET", "key": "s10-1142", "id": "1142", "fipe_name": "S10 P-Up Colina 2.4 MPFI 128cv CD 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Colina 2.42.4 MPFI F.Power CS", "marca": "CHEVROLET", "key": "s10-1141", "id": "1141", "fipe_name": "S10 P-Up Colina 2.42.4 MPFI F.Power CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Colina 2.8 TDI 4x24x4 CD Dies.", "marca": "CHEVROLET", "key": "s10-1166", "id": "1166", "fipe_name": "S10 P-Up Colina 2.8 TDI 4x24x4 CD Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Colina 2.8 TDI 4x24x4 CS Dies.", "marca": "CHEVROLET", "key": "s10-1143", "id": "1143", "fipe_name": "S10 P-Up Colina 2.8 TDI 4x24x4 CS Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Executive 2.4 MPFI F.Power CD", "marca": "CHEVROLET", "key": "s10-4676", "id": "4676", "fipe_name": "S10 P-Up Executive 2.4 MPFI F.Power CD"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies", "marca": "CHEVROLET", "key": "s10-1167", "id": "1167", "fipe_name": "S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies", "marca": "CHEVROLET", "key": "s10-1168", "id": "1168", "fipe_name": "S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up LxSertRod 2.8 4x4 CD TDI Dies", "marca": "CHEVROLET", "key": "s10-1169", "id": "1169", "fipe_name": "S10 P-Up LxSertRod 2.8 4x4 CD TDI Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "S10 P-Up Tornado 2.8 TDI 4x24x4 CD Dies", "marca": "CHEVROLET", "key": "s10-1170", "id": "1170", "fipe_name": "S10 P-Up Tornado 2.8 TDI 4x24x4 CD Dies"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Saturn SL", "marca": "CHEVROLET", "key": "saturn-1171", "id": "1171", "fipe_name": "Saturn SL"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Sierra CE 5.7 V8", "marca": "CHEVROLET", "key": "sierra-1172", "id": "1172", "fipe_name": "Sierra CE 5.7 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Sierra Sport 5.0 V8", "marca": "CHEVROLET", "key": "sierra-1173", "id": "1173", "fipe_name": "Sierra Sport 5.0 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado", "marca": "CHEVROLET", "key": "silverado-1174", "id": "1174", "fipe_name": "Silverado"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado 4.1", "marca": "CHEVROLET", "key": "silverado-1175", "id": "1175", "fipe_name": "Silverado 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado 4.1 Diesel", "marca": "CHEVROLET", "key": "silverado-1176", "id": "1176", "fipe_name": "Silverado 4.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado 4.2 Turbo Diesel", "marca": "CHEVROLET", "key": "silverado-1177", "id": "1177", "fipe_name": "Silverado 4.2 Turbo Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Conquest 4.1 Diesel", "marca": "CHEVROLET", "key": "silverado-1178", "id": "1178", "fipe_name": "Silverado Conquest 4.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Conquest 4.2 Diesel Turbo", "marca": "CHEVROLET", "key": "silverado-1179", "id": "1179", "fipe_name": "Silverado Conquest 4.2 Diesel Turbo"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado D20 Rodeio 4.2 TB Diesel", "marca": "CHEVROLET", "key": "silverado-1180", "id": "1180", "fipe_name": "Silverado D20 Rodeio 4.2 TB Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado DLX 4.1", "marca": "CHEVROLET", "key": "silverado-1181", "id": "1181", "fipe_name": "Silverado DLX 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado DLX 4.2 Conquest HD Diesel", "marca": "CHEVROLET", "key": "silverado-1182", "id": "1182", "fipe_name": "Silverado DLX 4.2 Conquest HD Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado DLX 4.2 Diesel", "marca": "CHEVROLET", "key": "silverado-1183", "id": "1183", "fipe_name": "Silverado DLX 4.2 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado G. Blazer DLX Std 4.2 Dies.TB", "marca": "CHEVROLET", "key": "silverado-1184", "id": "1184", "fipe_name": "Silverado G. Blazer DLX Std 4.2 Dies.TB"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Grand Blazer DLX 4.1 mpfi", "marca": "CHEVROLET", "key": "silverado-1185", "id": "1185", "fipe_name": "Silverado Grand Blazer DLX 4.1 mpfi"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Sport Fleet Side 5.7 CS", "marca": "CHEVROLET", "key": "silverado-1186", "id": "1186", "fipe_name": "Silverado Sport Fleet Side 5.7 CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado SportFleet Side 6.5 Dies. CS", "marca": "CHEVROLET", "key": "silverado-1187", "id": "1187", "fipe_name": "Silverado SportFleet Side 6.5 Dies. CS"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Trop. SL Van T.Diesel (todas)", "marca": "CHEVROLET", "key": "silverado-1188", "id": "1188", "fipe_name": "Silverado Trop. SL Van T.Diesel (todas)"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Tropical CD 4.1 Diesel", "marca": "CHEVROLET", "key": "silverado-1189", "id": "1189", "fipe_name": "Silverado Tropical CD 4.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Tropical CD 4.1 MPFI", "marca": "CHEVROLET", "key": "silverado-1190", "id": "1190", "fipe_name": "Silverado Tropical CD 4.1 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Silverado Tropical CD 4.2 Diesel", "marca": "CHEVROLET", "key": "silverado-1191", "id": "1191", "fipe_name": "Silverado Tropical CD 4.2 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC HB LT 1.6 16V FlexPower 5p Aut.", "marca": "CHEVROLET", "key": "sonic-6266", "id": "6266", "fipe_name": "SONIC HB LT 1.6 16V FlexPower 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC HB LT 1.6 16V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "sonic-6059", "id": "6059", "fipe_name": "SONIC HB LT 1.6 16V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC HB LTZ 1.6 16V FlexPower 5p Aut.", "marca": "CHEVROLET", "key": "sonic-6060", "id": "6060", "fipe_name": "SONIC HB LTZ 1.6 16V FlexPower 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC HB LTZ 1.6 16V FlexPower 5p Mec.", "marca": "CHEVROLET", "key": "sonic-6061", "id": "6061", "fipe_name": "SONIC HB LTZ 1.6 16V FlexPower 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC HB LTZ EFFECT 1.6 16V FlexP 5p Aut", "marca": "CHEVROLET", "key": "sonic-6640", "id": "6640", "fipe_name": "SONIC HB LTZ EFFECT 1.6 16V FlexP 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC Sed. LT 1.6 16V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "sonic-6267", "id": "6267", "fipe_name": "SONIC Sed. LT 1.6 16V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC Sed. LT 1.6 16V FlexPower 4p Mec.", "marca": "CHEVROLET", "key": "sonic-6062", "id": "6062", "fipe_name": "SONIC Sed. LT 1.6 16V FlexPower 4p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC Sed. LTZ 1.6 16V FlexPower 4p Aut.", "marca": "CHEVROLET", "key": "sonic-6063", "id": "6063", "fipe_name": "SONIC Sed. LTZ 1.6 16V FlexPower 4p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SONIC Sed. LTZ 1.6 16V FlexPower 4p Mec.", "marca": "CHEVROLET", "key": "sonic-6064", "id": "6064", "fipe_name": "SONIC Sed. LTZ 1.6 16V FlexPower 4p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Sonoma CE 4.3 V6", "marca": "CHEVROLET", "key": "sonoma-1192", "id": "1192", "fipe_name": "Sonoma CE 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SpaceVan Furgão 2.1 Diesel", "marca": "CHEVROLET", "key": "spacevan-1193", "id": "1193", "fipe_name": "SpaceVan Furgão 2.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SpaceVan Furgão 2.2", "marca": "CHEVROLET", "key": "spacevan-1194", "id": "1194", "fipe_name": "SpaceVan Furgão 2.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SpaceVan Passageiro 2.1Diesel", "marca": "CHEVROLET", "key": "spacevan-1195", "id": "1195", "fipe_name": "SpaceVan Passageiro 2.1Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SpaceVan Passageiro 2.2", "marca": "CHEVROLET", "key": "spacevan-1196", "id": "1196", "fipe_name": "SpaceVan Passageiro 2.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.", "marca": "CHEVROLET", "key": "spin-7098", "id": "7098", "fipe_name": "SPIN ACTIV 1.8 8V Econo. Flex 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN ACTIV 1.8 8V Econo. Flex 5p Mec.", "marca": "CHEVROLET", "key": "spin-7099", "id": "7099", "fipe_name": "SPIN ACTIV 1.8 8V Econo. Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.", "marca": "CHEVROLET", "key": "spin-6586", "id": "6586", "fipe_name": "SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Mec.", "marca": "CHEVROLET", "key": "spin-6587", "id": "6587", "fipe_name": "SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN LS 1.8 8V Econo.Flex 5p Mec.", "marca": "CHEVROLET", "key": "spin-6490", "id": "6490", "fipe_name": "SPIN LS 1.8 8V Econo.Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN LT 1.8 8V Econo.Flex 5p Aut.", "marca": "CHEVROLET", "key": "spin-6103", "id": "6103", "fipe_name": "SPIN LT 1.8 8V Econo.Flex 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN LT 1.8 8V Econo.Flex 5p Mec.", "marca": "CHEVROLET", "key": "spin-6104", "id": "6104", "fipe_name": "SPIN LT 1.8 8V Econo.Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN LTZ 1.8 8V Econo.Flex 5p Aut.", "marca": "CHEVROLET", "key": "spin-6105", "id": "6105", "fipe_name": "SPIN LTZ 1.8 8V Econo.Flex 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SPIN LTZ 1.8 8V Econo.Flex 5p Mec.", "marca": "CHEVROLET", "key": "spin-6106", "id": "6106", "fipe_name": "SPIN LTZ 1.8 8V Econo.Flex 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "SS10 Pick-Up 4.3 V6", "marca": "CHEVROLET", "key": "ss10-1197", "id": "1197", "fipe_name": "SS10 Pick-Up 4.3 V6"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suburban 5.7 6.5 V8 5.3 V8", "marca": "CHEVROLET", "key": "suburban-1198", "id": "1198", "fipe_name": "Suburban 5.7 6.5 V8 5.3 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suprema CD 4.1  3.0", "marca": "CHEVROLET", "key": "suprema-1199", "id": "1199", "fipe_name": "Suprema CD 4.1  3.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suprema Diamond", "marca": "CHEVROLET", "key": "suprema-1200", "id": "1200", "fipe_name": "Suprema Diamond"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suprema GL 2.0", "marca": "CHEVROLET", "key": "suprema-1201", "id": "1201", "fipe_name": "Suprema GL 2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suprema GLS 2.2  2.0", "marca": "CHEVROLET", "key": "suprema-1202", "id": "1202", "fipe_name": "Suprema GLS 2.2  2.0"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Suprema GLS 4.1", "marca": "CHEVROLET", "key": "suprema-1203", "id": "1203", "fipe_name": "Suprema GLS 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Syclone 5.7 V8", "marca": "CHEVROLET", "key": "syclone-1204", "id": "1204", "fipe_name": "Syclone 5.7 V8"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Tigra 1.6 16V", "marca": "CHEVROLET", "key": "tigra-1205", "id": "1205", "fipe_name": "Tigra 1.6 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Tigra Power Tech Coupe 1.6 SFI", "marca": "CHEVROLET", "key": "tigra-1206", "id": "1206", "fipe_name": "Tigra Power Tech Coupe 1.6 SFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRACKER 2.0 16v 128cv MPFI 4x4 5p", "marca": "CHEVROLET", "key": "tracker-4240", "id": "4240", "fipe_name": "TRACKER 2.0 16v 128cv MPFI 4x4 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRACKER 2.0 4x4 TB Int. Diesel 4p", "marca": "CHEVROLET", "key": "tracker-1207", "id": "1207", "fipe_name": "TRACKER 2.0 4x4 TB Int. Diesel 4p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRACKER Freeride 1.8 16V Flex 4x2 Mec.", "marca": "CHEVROLET", "key": "tracker-6664", "id": "6664", "fipe_name": "TRACKER Freeride 1.8 16V Flex 4x2 Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRACKER LTZ 1.8 16V Flex 4x2 Aut.", "marca": "CHEVROLET", "key": "tracker-6612", "id": "6612", "fipe_name": "TRACKER LTZ 1.8 16V Flex 4x2 Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Trafic Chassi Longo Diesel", "marca": "CHEVROLET", "key": "trafic-1208", "id": "1208", "fipe_name": "Trafic Chassi Longo Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Trafic Furgão Carga 2.1 Diesel", "marca": "CHEVROLET", "key": "trafic-1209", "id": "1209", "fipe_name": "Trafic Furgão Carga 2.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Trafic Furgao Carga 2.2", "marca": "CHEVROLET", "key": "trafic-1210", "id": "1210", "fipe_name": "Trafic Furgao Carga 2.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Trafic Passageiros 2.1 Diesel", "marca": "CHEVROLET", "key": "trafic-1211", "id": "1211", "fipe_name": "Trafic Passageiros 2.1 Diesel"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Trafic Passageiros 2.2", "marca": "CHEVROLET", "key": "trafic-1212", "id": "1212", "fipe_name": "Trafic Passageiros 2.2"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRAILBLAZER LTZ 2.8 CTDI Diesel Aut.", "marca": "CHEVROLET", "key": "trailblazer-6268", "id": "6268", "fipe_name": "TRAILBLAZER LTZ 2.8 CTDI Diesel Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "TRAILBLAZER LTZ 3.6 V6 VVT Aut.", "marca": "CHEVROLET", "key": "trailblazer-6269", "id": "6269", "fipe_name": "TRAILBLAZER LTZ 3.6 V6 VVT Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra CD 2.0 (modelo antigo)", "marca": "CHEVROLET", "key": "vectra-1213", "id": "1213", "fipe_name": "Vectra CD 2.0 (modelo antigo)"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra CD 2.2 16V  2.0 16V Mec.Aut.", "marca": "CHEVROLET", "key": "vectra-1214", "id": "1214", "fipe_name": "Vectra CD 2.2 16V  2.0 16V Mec.Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra COLLECTION 2.0 FlexPower 8V Aut.", "marca": "CHEVROLET", "key": "vectra-5554", "id": "5554", "fipe_name": "Vectra COLLECTION 2.0 FlexPower 8V Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Comfort 2.0 MPFI", "marca": "CHEVROLET", "key": "vectra-1215", "id": "1215", "fipe_name": "Vectra Comfort 2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elegan. 2.0 MPFI 8V FlexPower Aut", "marca": "CHEVROLET", "key": "vectra-3820", "id": "3820", "fipe_name": "Vectra Elegan. 2.0 MPFI 8V FlexPower Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elegan. 2.0 MPFI 8V FlexPower Mec", "marca": "CHEVROLET", "key": "vectra-3821", "id": "3821", "fipe_name": "Vectra Elegan. 2.0 MPFI 8V FlexPower Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elegance 2.0 MPFI", "marca": "CHEVROLET", "key": "vectra-1216", "id": "1216", "fipe_name": "Vectra Elegance 2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elegance 2.2 MPFI 16V Aut.", "marca": "CHEVROLET", "key": "vectra-1217", "id": "1217", "fipe_name": "Vectra Elegance 2.2 MPFI 16V Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elite 2.0 MPFI", "marca": "CHEVROLET", "key": "vectra-1218", "id": "1218", "fipe_name": "Vectra Elite 2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elite 2.0 MPFI 8V FlexPower Aut.", "marca": "CHEVROLET", "key": "vectra-4576", "id": "4576", "fipe_name": "Vectra Elite 2.0 MPFI 8V FlexPower Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elite 2.2 MPFI 16V Aut.", "marca": "CHEVROLET", "key": "vectra-1219", "id": "1219", "fipe_name": "Vectra Elite 2.2 MPFI 16V Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Elite 2.4 MPFI 16V FlexPower Aut.", "marca": "CHEVROLET", "key": "vectra-3822", "id": "3822", "fipe_name": "Vectra Elite 2.4 MPFI 16V FlexPower Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra Expres. Collection  2.0 MPFI 8V", "marca": "CHEVROLET", "key": "vectra-1220", "id": "1220", "fipe_name": "Vectra Expres. Collection  2.0 MPFI 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra EXPRESSION 2.0 MPFI FlexPower Aut", "marca": "CHEVROLET", "key": "vectra-4273", "id": "4273", "fipe_name": "Vectra EXPRESSION 2.0 MPFI FlexPower Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra EXPRESSION 2.0 MPFI FlexPower Mec", "marca": "CHEVROLET", "key": "vectra-4274", "id": "4274", "fipe_name": "Vectra EXPRESSION 2.0 MPFI FlexPower Mec"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GL 2.2  2.0 MPFI", "marca": "CHEVROLET", "key": "vectra-1221", "id": "1221", "fipe_name": "Vectra GL 2.2  2.0 MPFI"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GL 2.2 MPFI Milenium", "marca": "CHEVROLET", "key": "vectra-1222", "id": "1222", "fipe_name": "Vectra GL 2.2 MPFI Milenium"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GLS Challenge 2.2 MPFI 16V", "marca": "CHEVROLET", "key": "vectra-1223", "id": "1223", "fipe_name": "Vectra GLS Challenge 2.2 MPFI 16V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GLSExpres.2.2 2.0 e 2.0 CD 8V", "marca": "CHEVROLET", "key": "vectra-1224", "id": "1224", "fipe_name": "Vectra GLSExpres.2.2 2.0 e 2.0 CD 8V"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GSi 2.0 16V (modelo antigo)", "marca": "CHEVROLET", "key": "vectra-1225", "id": "1225", "fipe_name": "Vectra GSi 2.0 16V (modelo antigo)"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GT 2.0 MPFI 8V FlexPower Aut.", "marca": "CHEVROLET", "key": "vectra-4433", "id": "4433", "fipe_name": "Vectra GT 2.0 MPFI 8V FlexPower Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GT 2.0 MPFI 8V FlexPower Mec.", "marca": "CHEVROLET", "key": "vectra-4434", "id": "4434", "fipe_name": "Vectra GT 2.0 MPFI 8V FlexPower Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GT-X 2.0 MPFI 8V FlexPower Aut.", "marca": "CHEVROLET", "key": "vectra-4435", "id": "4435", "fipe_name": "Vectra GT-X 2.0 MPFI 8V FlexPower Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Vectra GT-X 2.0 MPFI 8V FlexPower Mec.", "marca": "CHEVROLET", "key": "vectra-4436", "id": "4436", "fipe_name": "Vectra GT-X 2.0 MPFI 8V FlexPower Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Veraneio S  Luxe 4.1", "marca": "CHEVROLET", "key": "veraneio-1226", "id": "1226", "fipe_name": "Veraneio S  Luxe 4.1"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Veraneio S Luxe 4.0 Dies.TB Dies.", "marca": "CHEVROLET", "key": "veraneio-1227", "id": "1227", "fipe_name": "Veraneio S Luxe 4.0 Dies.TB Dies."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira 2.0 CD 2.0  8V  MPFI 5p Mec.", "marca": "CHEVROLET", "key": "zafira-1228", "id": "1228", "fipe_name": "Zafira 2.0 CD 2.0  8V  MPFI 5p Mec."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira 2.0 CD 2.0 16V  MPFI 5p", "marca": "CHEVROLET", "key": "zafira-1229", "id": "1229", "fipe_name": "Zafira 2.0 CD 2.0 16V  MPFI 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira 2.0 CD 2.0 8V MPFI 5p Aut.", "marca": "CHEVROLET", "key": "zafira-1230", "id": "1230", "fipe_name": "Zafira 2.0 CD 2.0 8V MPFI 5p Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira COLLECTION 2.0 FlexPower 8V Aut.", "marca": "CHEVROLET", "key": "zafira-6065", "id": "6065", "fipe_name": "Zafira COLLECTION 2.0 FlexPower 8V Aut."
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Comfort 2.0 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "zafira-1231", "id": "1231", "fipe_name": "Zafira Comfort 2.0 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Eleg.2.0 MPFI FlexPower 8V 5p Aut", "marca": "CHEVROLET", "key": "zafira-1232", "id": "1232", "fipe_name": "Zafira Eleg.2.0 MPFI FlexPower 8V 5p Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Elegance 2.0 MPFI 16v 136cv 5p", "marca": "CHEVROLET", "key": "zafira-1233", "id": "1233", "fipe_name": "Zafira Elegance 2.0 MPFI 16v 136cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Elegance 2.0 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "zafira-1234", "id": "1234", "fipe_name": "Zafira Elegance 2.0 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Elite 2.0 MPFI 16v 136cv 5p", "marca": "CHEVROLET", "key": "zafira-1235", "id": "1235", "fipe_name": "Zafira Elite 2.0 MPFI 16v 136cv 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Elite 2.0 MPFI FlexPower 8V  Aut", "marca": "CHEVROLET", "key": "zafira-1236", "id": "1236", "fipe_name": "Zafira Elite 2.0 MPFI FlexPower 8V  Aut"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Elite 2.0 MPFI FlexPower 8V 5p", "marca": "CHEVROLET", "key": "zafira-1237", "id": "1237", "fipe_name": "Zafira Elite 2.0 MPFI FlexPower 8V 5p"
+}
+, {"fipe_marca": "GM - Chevrolet", "name": "Zafira Expres. 2.0 MPFI FlexPower 5p Aut", "marca": "CHEVROLET", "key": "zafira-4259", "id": "4259", "fipe_name": "Zafira Expres. 2.0 MPFI FlexPower 5p Aut"
+}
+]

@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BMW", "fipe_codigo": "32000-3", "name": "Zero KM Diesel", "marca": "BMW", "key": "32000-32000-3", "veiculo": "X5 XDRIVE M50d 3.0 381cv Diesel", "id": "32000-3"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2015-3", "name": "2015 Diesel", "marca": "BMW", "key": "2015-2015-3", "veiculo": "X5 XDRIVE M50d 3.0 381cv Diesel", "id": "2015-3"
+}
+]

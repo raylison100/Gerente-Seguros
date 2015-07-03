@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "JPX", "fipe_name": "Jipe Montez 4x4 CD Teto de Lona Diesel", "marca": "JPX", "key": "jipe-1385", "id": "1385", "name": "Jipe Montez 4x4 CD Teto de Lona Diesel"
+}
+, {"fipe_marca": "JPX", "fipe_name": "Jipe Montez 4x4 CD Teto Rígido Diesel", "marca": "JPX", "key": "jipe-1386", "id": "1386", "name": "Jipe Montez 4x4 CD Teto Rígido Diesel"
+}
+, {"fipe_marca": "JPX", "fipe_name": "Jipe Montez Std 4x4 Teto de Lona Diesel", "marca": "JPX", "key": "jipe-1387", "id": "1387", "name": "Jipe Montez Std 4x4 Teto de Lona Diesel"
+}
+, {"fipe_marca": "JPX", "fipe_name": "Jipe Montez Std 4x4 Teto Rígido Diesel", "marca": "JPX", "key": "jipe-1388", "id": "1388", "name": "Jipe Montez Std 4x4 Teto Rígido Diesel"
+}
+, {"fipe_marca": "JPX", "fipe_name": "Picape Montez 1.9 4x4 Diesel", "marca": "JPX", "key": "picape-1389", "id": "1389", "name": "Picape Montez 1.9 4x4 Diesel"
+}
+]

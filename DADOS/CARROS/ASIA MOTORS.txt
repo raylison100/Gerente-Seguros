@@ -1,0 +1,40 @@
+{"contador" = "19"}
+[{"fipe_marca": "Asia Motors", "name": "AM-825 Luxo 4.0 Diesel", "marca": "ASIA MOTORS", "key": "am-825-24", "id": "24", "fipe_name": "AM-825 Luxo 4.0 Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "AM-825 Super Luxo 4.0 Diesel", "marca": "ASIA MOTORS", "key": "am-825-25", "id": "25", "fipe_name": "AM-825 Super Luxo 4.0 Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Hi-Topic SLXSDXDLX Full Diesel", "marca": "ASIA MOTORS", "key": "hi-topic-26", "id": "26", "fipe_name": "Hi-Topic SLXSDXDLX Full Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Hi-Topic STD Diesel", "marca": "ASIA MOTORS", "key": "hi-topic-27", "id": "27", "fipe_name": "Hi-Topic STD Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Hi-Topic Van 2.7 Diesel (furgão)", "marca": "ASIA MOTORS", "key": "hi-topic-28", "id": "28", "fipe_name": "Hi-Topic Van 2.7 Diesel (furgão)"
+}
+, {"fipe_marca": "Asia Motors", "name": "Jipe Rocsta GT 4x4 2.2 Diesel", "marca": "ASIA MOTORS", "key": "jipe-29", "id": "29", "fipe_name": "Jipe Rocsta GT 4x4 2.2 Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Topic Carga 2.7 Diesel (furgão)", "marca": "ASIA MOTORS", "key": "topic-30", "id": "30", "fipe_name": "Topic Carga 2.7 Diesel (furgão)"
+}
+, {"fipe_marca": "Asia Motors", "name": "Topic Luxo Diesel", "marca": "ASIA MOTORS", "key": "topic-31", "id": "31", "fipe_name": "Topic Luxo Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Topic Super Luxo Diesel", "marca": "ASIA MOTORS", "key": "topic-32", "id": "32", "fipe_name": "Topic Super Luxo Diesel"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Coach Full", "marca": "ASIA MOTORS", "key": "towner-33", "id": "33", "fipe_name": "Towner Coach Full"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Furgão", "marca": "ASIA MOTORS", "key": "towner-34", "id": "34", "fipe_name": "Towner Furgão"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Glass Van", "marca": "ASIA MOTORS", "key": "towner-35", "id": "35", "fipe_name": "Towner Glass Van"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Luxo", "marca": "ASIA MOTORS", "key": "towner-36", "id": "36", "fipe_name": "Towner Luxo"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Multiuso 5p", "marca": "ASIA MOTORS", "key": "towner-37", "id": "37", "fipe_name": "Towner Multiuso 5p"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Panel Van", "marca": "ASIA MOTORS", "key": "towner-38", "id": "38", "fipe_name": "Towner Panel Van"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Pick-Up", "marca": "ASIA MOTORS", "key": "towner-39", "id": "39", "fipe_name": "Towner Pick-Up"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner SDX  DLX Std.", "marca": "ASIA MOTORS", "key": "towner-40", "id": "40", "fipe_name": "Towner SDX  DLX Std."
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Super Luxo", "marca": "ASIA MOTORS", "key": "towner-41", "id": "41", "fipe_name": "Towner Super Luxo"
+}
+, {"fipe_marca": "Asia Motors", "name": "Towner Truck", "marca": "ASIA MOTORS", "key": "towner-42", "id": "42", "fipe_name": "Towner Truck"
+}
+]

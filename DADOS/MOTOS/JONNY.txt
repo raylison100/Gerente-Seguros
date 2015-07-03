@@ -1,0 +1,30 @@
+{"contador" = "14"}
+[{"fipe_marca": "JONNY", "fipe_name": "ATLANTIC 150cc", "marca": "JONNY", "key": "atlantic-4710", "id": "4710", "name": "ATLANTIC 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "ATLANTIC 250cc", "marca": "JONNY", "key": "atlantic-4711", "id": "4711", "name": "ATLANTIC 250cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "HYPE 110cc", "marca": "JONNY", "key": "hype-4712", "id": "4712", "name": "HYPE 110cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "HYPE 125cc", "marca": "JONNY", "key": "hype-6136", "id": "6136", "name": "HYPE 125cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "HYPE 50cc", "marca": "JONNY", "key": "hype-5096", "id": "5096", "name": "HYPE 50cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "JONNY 50 49cc", "marca": "JONNY", "key": "jonny-4713", "id": "4713", "name": "JONNY 50 49cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "Meet 50cc", "marca": "JONNY", "key": "meet-6603", "id": "6603", "name": "Meet 50cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "Naked 150cc", "marca": "JONNY", "key": "naked-6137", "id": "6137", "name": "Naked 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "Orbit 150cc", "marca": "JONNY", "key": "orbit-4714", "id": "4714", "name": "Orbit 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "PEGASUS 150cc", "marca": "JONNY", "key": "pegasus-4715", "id": "4715", "name": "PEGASUS 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "QUICK 150cc", "marca": "JONNY", "key": "quick-5563", "id": "5563", "name": "QUICK 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "RACER 150cc", "marca": "JONNY", "key": "racer-6138", "id": "6138", "name": "RACER 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "Texas 150cc", "marca": "JONNY", "key": "texas-6139", "id": "6139", "name": "Texas 150cc"
+}
+, {"fipe_marca": "JONNY", "fipe_name": "TR 150cc", "marca": "JONNY", "key": "tr-4716", "id": "4716", "name": "TR 150cc"
+}
+]

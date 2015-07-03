@@ -1,0 +1,150 @@
+{"contador" = "74"}
+[{"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "BLACKLINE FXS", "marca": "HARLEY-DAVIDSON", "key": "blackline-5758", "id": "5758", "name": "BLACKLINE FXS"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "CVO BREAKOUT FXSBSE", "marca": "HARLEY-DAVIDSON", "key": "cvo-6900", "id": "6900", "name": "CVO BREAKOUT FXSBSE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "CVO LIMITED FLHTKSE", "marca": "HARLEY-DAVIDSON", "key": "cvo-6901", "id": "6901", "name": "CVO LIMITED FLHTKSE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "CVO STREET GLIDE FLHXSE", "marca": "HARLEY-DAVIDSON", "key": "cvo-7053", "id": "7053", "name": "CVO STREET GLIDE FLHXSE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "CVO ULTRA CLAS. ELECTRA GLIDE FLHTCUSE7", "marca": "HARLEY-DAVIDSON", "key": "cvo-5755", "id": "5755", "name": "CVO ULTRA CLAS. ELECTRA GLIDE FLHTCUSE7"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DEUCE", "marca": "HARLEY-DAVIDSON", "key": "deuce-2717", "id": "2717", "name": "DEUCE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA CONVERTIBLE", "marca": "HARLEY-DAVIDSON", "key": "dyna-2718", "id": "2718", "name": "DYNA CONVERTIBLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA LOW RIDER", "marca": "HARLEY-DAVIDSON", "key": "dyna-2719", "id": "2719", "name": "DYNA LOW RIDER"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA LOW RIDER CONVERTIBLE", "marca": "HARLEY-DAVIDSON", "key": "dyna-2720", "id": "2720", "name": "DYNA LOW RIDER CONVERTIBLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA SUPER GLIDE", "marca": "HARLEY-DAVIDSON", "key": "dyna-2721", "id": "2721", "name": "DYNA SUPER GLIDE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA SUPER GLIDE CUSTOM", "marca": "HARLEY-DAVIDSON", "key": "dyna-4652", "id": "4652", "name": "DYNA SUPER GLIDE CUSTOM"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA SUPER GLIDE CUSTOM 110 th Edition", "marca": "HARLEY-DAVIDSON", "key": "dyna-6408", "id": "6408", "name": "DYNA SUPER GLIDE CUSTOM 110 th Edition"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "DYNA WIDE GLIDE", "marca": "HARLEY-DAVIDSON", "key": "dyna-2722", "id": "2722", "name": "DYNA WIDE GLIDE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "EG ROAD KING FUEL INJECTION", "marca": "HARLEY-DAVIDSON", "key": "eg-2723", "id": "2723", "name": "EG ROAD KING FUEL INJECTION"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE Classic FLHTC FLHTCI", "marca": "HARLEY-DAVIDSON", "key": "electra-2724", "id": "2724", "name": "ELECTRA GLIDE Classic FLHTC FLHTCI"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE FLHT", "marca": "HARLEY-DAVIDSON", "key": "electra-2725", "id": "2725", "name": "ELECTRA GLIDE FLHT"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE Screaming' EAGLE", "marca": "HARLEY-DAVIDSON", "key": "electra-2726", "id": "2726", "name": "ELECTRA GLIDE Screaming' EAGLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE SPECIAL 1450cc", "marca": "HARLEY-DAVIDSON", "key": "electra-2727", "id": "2727", "name": "ELECTRA GLIDE SPECIAL 1450cc"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU", "marca": "HARLEY-DAVIDSON", "key": "electra-4555", "id": "4555", "name": "ELECTRA GLIDE ULTRA CLAS. S.EAGLE FLHTCU"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE ULTRA Classic", "marca": "HARLEY-DAVIDSON", "key": "electra-2729", "id": "2729", "name": "ELECTRA GLIDE ULTRA Classic"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE ULTRA FUEL INJECTION", "marca": "HARLEY-DAVIDSON", "key": "electra-2728", "id": "2728", "name": "ELECTRA GLIDE ULTRA FUEL INJECTION"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE ULTRA LIMIT. 110th Edition", "marca": "HARLEY-DAVIDSON", "key": "electra-6409", "id": "6409", "name": "ELECTRA GLIDE ULTRA LIMIT. 110th Edition"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ELECTRA GLIDE ULTRA LIMITED FLHTK", "marca": "HARLEY-DAVIDSON", "key": "electra-5761", "id": "5761", "name": "ELECTRA GLIDE ULTRA LIMITED FLHTK"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FAT BOB FXDF", "marca": "HARLEY-DAVIDSON", "key": "fat-5756", "id": "5756", "name": "FAT BOB FXDF"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FAT BOY FLSTF", "marca": "HARLEY-DAVIDSON", "key": "fat-2730", "id": "2730", "name": "FAT BOY FLSTF"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FAT BOY Low SPECIAL FLSTFB", "marca": "HARLEY-DAVIDSON", "key": "fat-5288", "id": "5288", "name": "FAT BOY Low SPECIAL FLSTFB"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FAT BOY Screaming' EAGLE", "marca": "HARLEY-DAVIDSON", "key": "fat-2731", "id": "2731", "name": "FAT BOY Screaming' EAGLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FAT BOY SPECIAL 110th Edition", "marca": "HARLEY-DAVIDSON", "key": "fat-6410", "id": "6410", "name": "FAT BOY SPECIAL 110th Edition"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FLHTCU ULTRA GLIDE", "marca": "HARLEY-DAVIDSON", "key": "flhtcu-2732", "id": "2732", "name": "FLHTCU ULTRA GLIDE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "FLHTCUI ULTRA Classic", "marca": "HARLEY-DAVIDSON", "key": "flhtcui-2733", "id": "2733", "name": "FLHTCUI ULTRA Classic"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "HERITAGE CUSTOM 1450 1600cc", "marca": "HARLEY-DAVIDSON", "key": "heritage-3940", "id": "3940", "name": "HERITAGE CUSTOM 1450 1600cc"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "HERITAGE SOFTAIL Classic 110 th Edition", "marca": "HARLEY-DAVIDSON", "key": "heritage-6411", "id": "6411", "name": "HERITAGE SOFTAIL Classic 110 th Edition"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "HERITAGE SOFTAIL Classic FLSTC", "marca": "HARLEY-DAVIDSON", "key": "heritage-2734", "id": "2734", "name": "HERITAGE SOFTAIL Classic FLSTC"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "HERITAGE SPRINGER", "marca": "HARLEY-DAVIDSON", "key": "heritage-2735", "id": "2735", "name": "HERITAGE SPRINGER"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "LOW RIDER FXDL", "marca": "HARLEY-DAVIDSON", "key": "low-7054", "id": "7054", "name": "LOW RIDER FXDL"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "NIGHT ROD SPECIAL 1250 VRSCDX", "marca": "HARLEY-DAVIDSON", "key": "night-4556", "id": "4556", "name": "NIGHT ROD SPECIAL 1250 VRSCDX"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "NIGHT TRAIN", "marca": "HARLEY-DAVIDSON", "key": "night-2736", "id": "2736", "name": "NIGHT TRAIN"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ROAD KING", "marca": "HARLEY-DAVIDSON", "key": "road-2737", "id": "2737", "name": "ROAD KING"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ROAD KING Classic FLHRC Custom FLHRSI", "marca": "HARLEY-DAVIDSON", "key": "road-2738", "id": "2738", "name": "ROAD KING Classic FLHRC Custom FLHRSI"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "ROAD KING Screaming EAGLE FLHR SE", "marca": "HARLEY-DAVIDSON", "key": "road-4557", "id": "4557", "name": "ROAD KING Screaming EAGLE FLHR SE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL BREAKOUT FXSB", "marca": "HARLEY-DAVIDSON", "key": "softail-7055", "id": "7055", "name": "SOFTAIL BREAKOUT FXSB"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL Classic", "marca": "HARLEY-DAVIDSON", "key": "softail-2739", "id": "2739", "name": "SOFTAIL Classic"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL Custom", "marca": "HARLEY-DAVIDSON", "key": "softail-2740", "id": "2740", "name": "SOFTAIL Custom"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL DeLuxe FLSTN", "marca": "HARLEY-DAVIDSON", "key": "softail-2741", "id": "2741", "name": "SOFTAIL DeLuxe FLSTN"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL ROCKER ROCKER C 1584cc", "marca": "HARLEY-DAVIDSON", "key": "softail-4692", "id": "4692", "name": "SOFTAIL ROCKER ROCKER C 1584cc"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL SPECIAL", "marca": "HARLEY-DAVIDSON", "key": "softail-2742", "id": "2742", "name": "SOFTAIL SPECIAL"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL SPRINGER", "marca": "HARLEY-DAVIDSON", "key": "softail-2743", "id": "2743", "name": "SOFTAIL SPRINGER"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SOFTAIL STD FX", "marca": "HARLEY-DAVIDSON", "key": "softail-2744", "id": "2744", "name": "SOFTAIL STD FX"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SPORTSTER 1200", "marca": "HARLEY-DAVIDSON", "key": "sportster-2745", "id": "2745", "name": "SPORTSTER 1200"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SPRINGER Screaming' EAGLE", "marca": "HARLEY-DAVIDSON", "key": "springer-4558", "id": "4558", "name": "SPRINGER Screaming' EAGLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "STREET BOB FXDB", "marca": "HARLEY-DAVIDSON", "key": "street-7056", "id": "7056", "name": "STREET BOB FXDB"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "STREET GLIDE FLHX", "marca": "HARLEY-DAVIDSON", "key": "street-5760", "id": "5760", "name": "STREET GLIDE FLHX"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "STREET GLIDE SPECIAL FLHXS", "marca": "HARLEY-DAVIDSON", "key": "street-7057", "id": "7057", "name": "STREET GLIDE SPECIAL FLHXS"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "STREET ROD 1130cc", "marca": "HARLEY-DAVIDSON", "key": "street-2746", "id": "2746", "name": "STREET ROD 1130cc"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "SWITCHBACK FLD", "marca": "HARLEY-DAVIDSON", "key": "switchback-5757", "id": "5757", "name": "SWITCHBACK FLD"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "V-ROD 10th ANNIVERSARY EDITION VRSCDX", "marca": "HARLEY-DAVIDSON", "key": "v-rod-5759", "id": "5759", "name": "V-ROD 10th ANNIVERSARY EDITION VRSCDX"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "V-ROD 1130cc Sport VRSCB", "marca": "HARLEY-DAVIDSON", "key": "v-rod-2747", "id": "2747", "name": "V-ROD 1130cc Sport VRSCB"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "V-ROD 1130cc VRSCA 1250 VRSCAW", "marca": "HARLEY-DAVIDSON", "key": "v-rod-2748", "id": "2748", "name": "V-ROD 1130cc VRSCA 1250 VRSCAW"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "V-ROD 1250cc Muscle VRSCF", "marca": "HARLEY-DAVIDSON", "key": "v-rod-4938", "id": "4938", "name": "V-ROD 1250cc Muscle VRSCF"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "V-ROD Screaming' EAGLE", "marca": "HARLEY-DAVIDSON", "key": "v-rod-2749", "id": "2749", "name": "V-ROD Screaming' EAGLE"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200", "marca": "HARLEY-DAVIDSON", "key": "xl-2750", "id": "2750", "name": "XL 1200"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200 C-SPORTSTER Custom", "marca": "HARLEY-DAVIDSON", "key": "xl-2751", "id": "2751", "name": "XL 1200 C-SPORTSTER Custom"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200 Custom", "marca": "HARLEY-DAVIDSON", "key": "xl-2752", "id": "2752", "name": "XL 1200 Custom"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200 Custom Limited CACB", "marca": "HARLEY-DAVIDSON", "key": "xl-6820", "id": "6820", "name": "XL 1200 Custom Limited CACB"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200 Sport", "marca": "HARLEY-DAVIDSON", "key": "xl-2753", "id": "2753", "name": "XL 1200 Sport"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200N Sportster Nightster", "marca": "HARLEY-DAVIDSON", "key": "xl-4912", "id": "4912", "name": "XL 1200N Sportster Nightster"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 1200X FORTY EIGHT Sportster", "marca": "HARLEY-DAVIDSON", "key": "xl-6719", "id": "6719", "name": "XL 1200X FORTY EIGHT Sportster"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 883 Custom", "marca": "HARLEY-DAVIDSON", "key": "xl-2754", "id": "2754", "name": "XL 883 Custom"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 883 Hugger", "marca": "HARLEY-DAVIDSON", "key": "xl-2755", "id": "2755", "name": "XL 883 Hugger"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 883 R", "marca": "HARLEY-DAVIDSON", "key": "xl-2756", "id": "2756", "name": "XL 883 R"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 883 Std Low", "marca": "HARLEY-DAVIDSON", "key": "xl-2757", "id": "2757", "name": "XL 883 Std Low"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XL 883N Iron", "marca": "HARLEY-DAVIDSON", "key": "xl-5223", "id": "5223", "name": "XL 883N Iron"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XR 1200 Sportster", "marca": "HARLEY-DAVIDSON", "key": "xr-4993", "id": "4993", "name": "XR 1200 Sportster"
+}
+, {"fipe_marca": "HARLEY-DAVIDSON", "fipe_name": "XR 1200X Sportster", "marca": "HARLEY-DAVIDSON", "key": "xr-5316", "id": "5316", "name": "XR 1200X Sportster"
+}
+]

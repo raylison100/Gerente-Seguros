@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2010-1", "name": "2010 Gasolina", "marca": "BMW", "key": "2010-2010-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2010-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "BMW", "key": "2009-2009-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2009-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "BMW", "key": "2008-2008-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2008-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "BMW", "key": "2007-2007-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2007-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "BMW", "key": "2002-2002-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2002-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "BMW", "key": "2001-2001-1", "veiculo": "325iA Coup\u00e9 2.5 24V 2p", "id": "2001-1"
+}
+]

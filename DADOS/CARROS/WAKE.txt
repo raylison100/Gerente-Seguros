@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Wake", "fipe_name": "Way 1.6 Total Flex 8V Mec.", "marca": "WAKE", "key": "way-5088", "id": "5088", "name": "Way 1.6 Total Flex 8V Mec."
+}
+, {"fipe_marca": "Wake", "fipe_name": "Way 1.8 Total Flex 8V Mec.", "marca": "WAKE", "key": "way-5089", "id": "5089", "name": "Way 1.8 Total Flex 8V Mec."
+}
+]

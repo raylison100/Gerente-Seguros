@@ -1,0 +1,36 @@
+{"contador" = "17"}
+[{"fipe_marca": "AGRALE", "fipe_name": "CITY 50", "marca": "AGRALE", "key": "city-2581", "id": "2581", "name": "CITY 50"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "CITY 90", "marca": "AGRALE", "key": "city-2582", "id": "2582", "name": "CITY 90"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "DAKAR 30.0 190cc", "marca": "AGRALE", "key": "dakar-2583", "id": "2583", "name": "DAKAR 30.0 190cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "DAKAR 50", "marca": "AGRALE", "key": "dakar-2584", "id": "2584", "name": "DAKAR 50"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "ELEFANT 16.5 125cc", "marca": "AGRALE", "key": "elefant-2585", "id": "2585", "name": "ELEFANT 16.5 125cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "ELEFANT 27.5 190cc", "marca": "AGRALE", "key": "elefant-2586", "id": "2586", "name": "ELEFANT 27.5 190cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "ELEFANTRE 16.5 ES 125cc", "marca": "AGRALE", "key": "elefantre-2587", "id": "2587", "name": "ELEFANTRE 16.5 ES 125cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "ELEFANTRE 30.0 ES 190cc", "marca": "AGRALE", "key": "elefantre-2588", "id": "2588", "name": "ELEFANTRE 30.0 ES 190cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "FORCE 50", "marca": "AGRALE", "key": "force-2589", "id": "2589", "name": "FORCE 50"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "FORCE 90", "marca": "AGRALE", "key": "force-2590", "id": "2590", "name": "FORCE 90"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "JUNIOR 50", "marca": "AGRALE", "key": "junior-2591", "id": "2591", "name": "JUNIOR 50"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "SST 13.5 125cc", "marca": "AGRALE", "key": "sst-2592", "id": "2592", "name": "SST 13.5 125cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "SUPER CITY 125", "marca": "AGRALE", "key": "super-2593", "id": "2593", "name": "SUPER CITY 125"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "SUPER CITY 150", "marca": "AGRALE", "key": "super-2594", "id": "2594", "name": "SUPER CITY 150"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "SXT 27.5 E 190cc", "marca": "AGRALE", "key": "sxt-2595", "id": "2595", "name": "SXT 27.5 E 190cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "SXT 27.5 EX 190cc", "marca": "AGRALE", "key": "sxt-2596", "id": "2596", "name": "SXT 27.5 EX 190cc"
+}
+, {"fipe_marca": "AGRALE", "fipe_name": "TCHAU 50", "marca": "AGRALE", "key": "tchau-2597", "id": "2597", "name": "TCHAU 50"
+}
+]

@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CITROEN", "key": "2005-2005-1", "veiculo": "C3 Ocimar Versolato 1.6 16V 110cv 5p", "id": "2005-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "CITROEN", "key": "2004-2004-1", "veiculo": "C3 Ocimar Versolato 1.6 16V 110cv 5p", "id": "2004-1"
+}
+]

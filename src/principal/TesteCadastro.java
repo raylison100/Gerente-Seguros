@@ -3,6 +3,7 @@ package principal;
 import java.io.IOException;
 import java.util.Scanner;
 
+import com.poo.execoes.CPFCadastradoExeception;
 import com.poo.execoes.CPFInvalidoExeception;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
@@ -17,7 +18,7 @@ public class TesteCadastro {
 
 	public static void main(String[] agrs) throws IOException,
 			ProcuraPessoaInexistenteExeception,
-			CadatroPessoaExistenteExeception {
+			CadatroPessoaExistenteExeception, CPFCadastradoExeception {
 
 		int escolha;
 		int cont = 0;

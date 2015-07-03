@@ -1,0 +1,76 @@
+{"contador" = "37"}
+[{"fipe_marca": "KTM", "fipe_name": "1190 RC8", "marca": "KTM", "key": "1190-5225", "id": "5225", "name": "1190 RC8"
+}
+, {"fipe_marca": "KTM", "fipe_name": "1190 RC8 R", "marca": "KTM", "key": "1190-5517", "id": "5517", "name": "1190 RC8 R"
+}
+, {"fipe_marca": "KTM", "fipe_name": "690 Enduro  Enduro R", "marca": "KTM", "key": "690-5201", "id": "5201", "name": "690 Enduro  Enduro R"
+}
+, {"fipe_marca": "KTM", "fipe_name": "ADVENTURE 1190cc", "marca": "KTM", "key": "adventure-7144", "id": "7144", "name": "ADVENTURE 1190cc"
+}
+, {"fipe_marca": "KTM", "fipe_name": "ADVENTURE 640 ST", "marca": "KTM", "key": "adventure-2910", "id": "2910", "name": "ADVENTURE 640 ST"
+}
+, {"fipe_marca": "KTM", "fipe_name": "ADVENTURE 950cc", "marca": "KTM", "key": "adventure-2911", "id": "2911", "name": "ADVENTURE 950cc"
+}
+, {"fipe_marca": "KTM", "fipe_name": "ADVENTURE 990cc", "marca": "KTM", "key": "adventure-4208", "id": "4208", "name": "ADVENTURE 990cc"
+}
+, {"fipe_marca": "KTM", "fipe_name": "ADVENTURE R  DAKAR 990cc", "marca": "KTM", "key": "adventure-5518", "id": "5518", "name": "ADVENTURE R  DAKAR 990cc"
+}
+, {"fipe_marca": "KTM", "fipe_name": "DUKE 640 DUKE II 640", "marca": "KTM", "key": "duke-2912", "id": "2912", "name": "DUKE 640 DUKE II 640"
+}
+, {"fipe_marca": "KTM", "fipe_name": "DUKE 690", "marca": "KTM", "key": "duke-5351", "id": "5351", "name": "DUKE 690"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 125", "marca": "KTM", "key": "exc-2913", "id": "2913", "name": "EXC 125"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 200", "marca": "KTM", "key": "exc-2914", "id": "2914", "name": "EXC 200"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 250", "marca": "KTM", "key": "exc-2915", "id": "2915", "name": "EXC 250"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 300", "marca": "KTM", "key": "exc-2916", "id": "2916", "name": "EXC 300"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 380", "marca": "KTM", "key": "exc-2917", "id": "2917", "name": "EXC 380"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 400", "marca": "KTM", "key": "exc-2918", "id": "2918", "name": "EXC 400"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 450", "marca": "KTM", "key": "exc-3862", "id": "3862", "name": "EXC 450"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 520", "marca": "KTM", "key": "exc-2919", "id": "2919", "name": "EXC 520"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC 525", "marca": "KTM", "key": "exc-4077", "id": "4077", "name": "EXC 525"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC-F 250", "marca": "KTM", "key": "exc-f-7242", "id": "7242", "name": "EXC-F 250"
+}
+, {"fipe_marca": "KTM", "fipe_name": "EXC-F 350", "marca": "KTM", "key": "exc-f-7243", "id": "7243", "name": "EXC-F 350"
+}
+, {"fipe_marca": "KTM", "fipe_name": "LC4 640 TRAIL", "marca": "KTM", "key": "lc4-2920", "id": "2920", "name": "LC4 640 TRAIL"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SC 620", "marca": "KTM", "key": "sc-2921", "id": "2921", "name": "SC 620"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SUPERDUKE 1290 R", "marca": "KTM", "key": "superduke-7244", "id": "7244", "name": "SUPERDUKE 1290 R"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SUPERDUKE 990", "marca": "KTM", "key": "superduke-4078", "id": "4078", "name": "SUPERDUKE 990"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SUPERMOTO 690", "marca": "KTM", "key": "supermoto-4512", "id": "4512", "name": "SUPERMOTO 690"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SUPERMOTO 990 R", "marca": "KTM", "key": "supermoto-5519", "id": "5519", "name": "SUPERMOTO 990 R"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SUPERMOTO 990 T", "marca": "KTM", "key": "supermoto-5263", "id": "5263", "name": "SUPERMOTO 990 T"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 125", "marca": "KTM", "key": "sx-2922", "id": "2922", "name": "SX 125"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 250 SX 250 F", "marca": "KTM", "key": "sx-2923", "id": "2923", "name": "SX 250 SX 250 F"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 350  350 F", "marca": "KTM", "key": "sx-5520", "id": "5520", "name": "SX 350  350 F"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 450 SX 450F", "marca": "KTM", "key": "sx-2924", "id": "2924", "name": "SX 450 SX 450F"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 50", "marca": "KTM", "key": "sx-2925", "id": "2925", "name": "SX 50"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 65", "marca": "KTM", "key": "sx-2926", "id": "2926", "name": "SX 65"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SX 85", "marca": "KTM", "key": "sx-2927", "id": "2927", "name": "SX 85"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SXC 520 540", "marca": "KTM", "key": "sxc-2928", "id": "2928", "name": "SXC 520 540"
+}
+, {"fipe_marca": "KTM", "fipe_name": "SXC 625", "marca": "KTM", "key": "sxc-2929", "id": "2929", "name": "SXC 625"
+}
+]

@@ -1,0 +1,46 @@
+{"contador" = "22"}
+[{"fipe_marca": "SHINERAY", "fipe_name": "SUN 150", "marca": "SHINERAY", "key": "sun-6861", "id": "6861", "name": "SUN 150"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 110V Wave", "marca": "SHINERAY", "key": "xy-4370", "id": "4370", "name": "XY 110V Wave"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 125 JET", "marca": "SHINERAY", "key": "xy-6703", "id": "6703", "name": "XY 125 JET"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 125 New Wave", "marca": "SHINERAY", "key": "xy-6078", "id": "6078", "name": "XY 125 New Wave"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 125-14 ESD", "marca": "SHINERAY", "key": "xy-4371", "id": "4371", "name": "XY 125-14 ESD"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 150 ZH", "marca": "SHINERAY", "key": "xy-4372", "id": "4372", "name": "XY 150 ZH"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 150-5 FireMaxi Fire", "marca": "SHINERAY", "key": "xy-6862", "id": "6862", "name": "XY 150-5 FireMaxi Fire"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 150-5 MAX", "marca": "SHINERAY", "key": "xy-5521", "id": "5521", "name": "XY 150-5 MAX"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 150-5 Speed", "marca": "SHINERAY", "key": "xy-4373", "id": "4373", "name": "XY 150-5 Speed"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 150-GY", "marca": "SHINERAY", "key": "xy-4807", "id": "4807", "name": "XY 150-GY"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 200-5 A RACING", "marca": "SHINERAY", "key": "xy-5601", "id": "5601", "name": "XY 200-5 A RACING"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 200-5 ROAD WIND NAKED", "marca": "SHINERAY", "key": "xy-5602", "id": "5602", "name": "XY 200-5 ROAD WIND NAKED"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 200-5 Speed XY 200-5", "marca": "SHINERAY", "key": "xy-4374", "id": "4374", "name": "XY 200-5 Speed XY 200-5"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 200-III", "marca": "SHINERAY", "key": "xy-4375", "id": "4375", "name": "XY 200-III"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 250-5", "marca": "SHINERAY", "key": "xy-4461", "id": "4461", "name": "XY 250-5"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 250-6B DISCOVER", "marca": "SHINERAY", "key": "xy-6729", "id": "6729", "name": "XY 250-6B DISCOVER"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50-Q", "marca": "SHINERAY", "key": "xy-4376", "id": "4376", "name": "XY 50-Q"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50-Q Cross", "marca": "SHINERAY", "key": "xy-6903", "id": "6903", "name": "XY 50-Q Cross"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50-Q Phoenix", "marca": "SHINERAY", "key": "xy-5547", "id": "5547", "name": "XY 50-Q Phoenix"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50Q VMV", "marca": "SHINERAY", "key": "xy-6366", "id": "6366", "name": "XY 50Q VMV"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50-Q2 RETROJETBIKE", "marca": "SHINERAY", "key": "xy-6367", "id": "6367", "name": "XY 50-Q2 RETROJETBIKE"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "XY 50Q-2 VENICE", "marca": "SHINERAY", "key": "xy-7061", "id": "7061", "name": "XY 50Q-2 VENICE"
+}
+]

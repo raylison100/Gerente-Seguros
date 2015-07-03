@@ -1,0 +1,24 @@
+{"contador" = "11"}
+[{"fipe_marca": "ASTON MARTIN", "name": "DB9 Coupe 6.0 V12 510cv", "marca": "ASTON MARTIN", "key": "db9-6906", "id": "6906", "fipe_name": "DB9 Coupe 6.0 V12 510cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "DB9 Volante 6.0 V12 470cv", "marca": "ASTON MARTIN", "key": "db9-6340", "id": "6340", "fipe_name": "DB9 Volante 6.0 V12 470cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Rapide 6.0 V12 477cv", "marca": "ASTON MARTIN", "key": "rapide-6341", "id": "6341", "fipe_name": "Rapide 6.0 V12 477cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Rapide S 6.0 V12 550cv", "marca": "ASTON MARTIN", "key": "rapide-6907", "id": "6907", "fipe_name": "Rapide S 6.0 V12 550cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vanquish V12 6.0 565cv", "marca": "ASTON MARTIN", "key": "vanquish-6909", "id": "6909", "fipe_name": "Vanquish V12 6.0 565cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vantage 6.0 V12 510cv", "marca": "ASTON MARTIN", "key": "vantage-6342", "id": "6342", "fipe_name": "Vantage 6.0 V12 510cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vantage Coupe 4.7 V8 425cv", "marca": "ASTON MARTIN", "key": "vantage-6343", "id": "6343", "fipe_name": "Vantage Coupe 4.7 V8 425cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vantage Roadster 4.7 V8 420cv", "marca": "ASTON MARTIN", "key": "vantage-6344", "id": "6344", "fipe_name": "Vantage Roadster 4.7 V8 420cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vantage S 6.0 V12 565cv", "marca": "ASTON MARTIN", "key": "vantage-6908", "id": "6908", "fipe_name": "Vantage S 6.0 V12 565cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Vantage S Coupe 4.7 V8 430cv", "marca": "ASTON MARTIN", "key": "vantage-6345", "id": "6345", "fipe_name": "Vantage S Coupe 4.7 V8 430cv"
+}
+, {"fipe_marca": "ASTON MARTIN", "name": "Virage Coupe 6.0 V12 490cv", "marca": "ASTON MARTIN", "key": "virage-6346", "id": "6346", "fipe_name": "Virage Coupe 6.0 V12 490cv"
+}
+]

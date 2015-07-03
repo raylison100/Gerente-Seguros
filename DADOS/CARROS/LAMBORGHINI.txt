@@ -1,0 +1,22 @@
+{"contador" = "10"}
+[{"fipe_marca": "LAMBORGHINI", "fipe_name": "AVENTADOR LP 700-4", "marca": "LAMBORGHINI", "key": "aventador-6110", "id": "6110", "name": "AVENTADOR LP 700-4"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "AVENTADOR LP 700-4 ROADSTER", "marca": "LAMBORGHINI", "key": "aventador-6922", "id": "6922", "name": "AVENTADOR LP 700-4 ROADSTER"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Coupe LP550-2 Bicolore", "marca": "LAMBORGHINI", "key": "gallardo-6112", "id": "6112", "name": "Gallardo Coupe LP550-2 Bicolore"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Coupe LP560-4", "marca": "LAMBORGHINI", "key": "gallardo-5375", "id": "5375", "name": "Gallardo Coupe LP560-4"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Coupe LP570-4 Sup.Trof.Stradale", "marca": "LAMBORGHINI", "key": "gallardo-6114", "id": "6114", "name": "Gallardo Coupe LP570-4 Sup.Trof.Stradale"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Coupe Superleggera LP570-4", "marca": "LAMBORGHINI", "key": "gallardo-5376", "id": "5376", "name": "Gallardo Coupe Superleggera LP570-4"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Coupe Valentino Balboni LP550-2", "marca": "LAMBORGHINI", "key": "gallardo-5377", "id": "5377", "name": "Gallardo Coupe Valentino Balboni LP550-2"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Spider LP560-4", "marca": "LAMBORGHINI", "key": "gallardo-5378", "id": "5378", "name": "Gallardo Spider LP560-4"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "Gallardo Spyder Performante LP570-4", "marca": "LAMBORGHINI", "key": "gallardo-5744", "id": "5744", "name": "Gallardo Spyder Performante LP570-4"
+}
+, {"fipe_marca": "LAMBORGHINI", "fipe_name": "HURACAN Coupe LP 610-4", "marca": "LAMBORGHINI", "key": "huracan-7138", "id": "7138", "name": "HURACAN Coupe LP 610-4"
+}
+]

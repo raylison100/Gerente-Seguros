@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "1993-1", "name": "1993 Gasolina", "marca": "CITROEN", "key": "1993-1993-1", "veiculo": "BX 1.6S 16V", "id": "1993-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "1992-1", "name": "1992 Gasolina", "marca": "CITROEN", "key": "1992-1992-1", "veiculo": "BX 1.6S 16V", "id": "1992-1"
+}
+]

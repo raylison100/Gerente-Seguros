@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "MG", "fipe_name": "550 1.8 16V Turbo 170cv Aut.", "marca": "MG", "key": "550-5310", "id": "5310", "name": "550 1.8 16V Turbo 170cv Aut."
+}
+, {"fipe_marca": "MG", "fipe_name": "MG6 1.8 16V Turbo 170cv Aut.", "marca": "MG", "key": "mg6-5582", "id": "5582", "name": "MG6 1.8 16V Turbo 170cv Aut."
+}
+]

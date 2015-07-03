@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "MAGRÃO TRICICLOS", "fipe_name": "MT7 CHOPPER 1.6 Pop", "marca": "MAGRÃO TRICICLOS", "key": "mt7-6218", "id": "6218", "name": "MT7 CHOPPER 1.6 Pop"
+}
+, {"fipe_marca": "MAGRÃO TRICICLOS", "fipe_name": "MT7 CHOPPER 1.6 Std.", "marca": "MAGRÃO TRICICLOS", "key": "mt7-5438", "id": "5438", "name": "MT7 CHOPPER 1.6 Std."
+}
+, {"fipe_marca": "MAGRÃO TRICICLOS", "fipe_name": "MT7 CHOPPER 1.6 Top.", "marca": "MAGRÃO TRICICLOS", "key": "mt7-5439", "id": "5439", "name": "MT7 CHOPPER 1.6 Top."
+}
+]

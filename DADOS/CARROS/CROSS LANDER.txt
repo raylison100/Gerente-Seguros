@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Cross Lander", "fipe_name": "CL-244 2.8 132cv 4x4 TB Int. Diesel", "marca": "CROSS LANDER", "key": "cl-244-357", "id": "357", "name": "CL-244 2.8 132cv 4x4 TB Int. Diesel"
+}
+, {"fipe_marca": "Cross Lander", "fipe_name": "CL-330 2.8 132cv 4x4 TB Int. Diesel", "marca": "CROSS LANDER", "key": "cl-330-3964", "id": "3964", "name": "CL-330 2.8 132cv 4x4 TB Int. Diesel"
+}
+]

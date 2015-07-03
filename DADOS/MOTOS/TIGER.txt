@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "TIGER", "fipe_name": "Trciclo TC Cargo Chassi", "marca": "TIGER", "key": "trciclo-6336", "id": "6336", "name": "Trciclo TC Cargo Chassi"
+}
+, {"fipe_marca": "TIGER", "fipe_name": "Triciclo TB Cargo Bau", "marca": "TIGER", "key": "triciclo-6337", "id": "6337", "name": "Triciclo TB Cargo Bau"
+}
+, {"fipe_marca": "TIGER", "fipe_name": "Triciclo TC Cargo Carroceria", "marca": "TIGER", "key": "triciclo-6312", "id": "6312", "name": "Triciclo TC Cargo Carroceria"
+}
+, {"fipe_marca": "TIGER", "fipe_name": "Triciclo TC Cargo Plataforma", "marca": "TIGER", "key": "triciclo-6313", "id": "6313", "name": "Triciclo TC Cargo Plataforma"
+}
+]

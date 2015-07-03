@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "CITROEN", "key": "2007-2007-1", "veiculo": "Berlingo MultSpace GLX 1.6 16V 110cv 4p", "id": "2007-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "CITROEN", "key": "2006-2006-1", "veiculo": "Berlingo MultSpace GLX 1.6 16V 110cv 4p", "id": "2006-1"
+}
+, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "CITROEN", "key": "2005-2005-1", "veiculo": "Berlingo MultSpace GLX 1.6 16V 110cv 4p", "id": "2005-1"
+}
+]

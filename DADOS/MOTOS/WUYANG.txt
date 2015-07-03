@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "WUYANG", "fipe_name": "WY 125-ESD", "marca": "WUYANG", "key": "wy-4377", "id": "4377", "name": "WY 125-ESD"
+}
+, {"fipe_marca": "WUYANG", "fipe_name": "WY 125-ESD PLUS", "marca": "WUYANG", "key": "wy-4820", "id": "4820", "name": "WY 125-ESD PLUS"
+}
+, {"fipe_marca": "WUYANG", "fipe_name": "WY 150-EX", "marca": "WUYANG", "key": "wy-4462", "id": "4462", "name": "WY 150-EX"
+}
+, {"fipe_marca": "WUYANG", "fipe_name": "WY 200 ZH", "marca": "WUYANG", "key": "wy-5495", "id": "5495", "name": "WY 200 ZH"
+}
+, {"fipe_marca": "WUYANG", "fipe_name": "WY 48Q-2 LIBERTY 50", "marca": "WUYANG", "key": "wy-7063", "id": "7063", "name": "WY 48Q-2 LIBERTY 50"
+}
+]

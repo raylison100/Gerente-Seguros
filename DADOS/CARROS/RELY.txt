@@ -1,0 +1,12 @@
+{"contador" = "5"}
+[{"fipe_marca": "RELY", "fipe_name": "LINK 1.3 16V 5p", "marca": "RELY", "key": "link-6596", "id": "6596", "name": "LINK 1.3 16V 5p"
+}
+, {"fipe_marca": "RELY", "fipe_name": "PICK-UP Q22B CS 1.0 2p", "marca": "RELY", "key": "pick-up-6307", "id": "6307", "name": "PICK-UP Q22B CS 1.0 2p"
+}
+, {"fipe_marca": "RELY", "fipe_name": "PICK-UP Q22D CS 1.0 2p", "marca": "RELY", "key": "pick-up-6648", "id": "6648", "name": "PICK-UP Q22D CS 1.0 2p"
+}
+, {"fipe_marca": "RELY", "fipe_name": "PICK-UP Q22E CD 1.0 4p", "marca": "RELY", "key": "pick-up-6647", "id": "6647", "name": "PICK-UP Q22E CD 1.0 4p"
+}
+, {"fipe_marca": "RELY", "fipe_name": "VAN Q22 1.0 5p", "marca": "RELY", "key": "van-6469", "id": "6469", "name": "VAN Q22 1.0 5p"
+}
+]

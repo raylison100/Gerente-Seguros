@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "BMW", "key": "2008-2008-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2008-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "BMW", "key": "2007-2007-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2007-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "BMW", "key": "2006-2006-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2006-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "BMW", "key": "2005-2005-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2005-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "BMW", "key": "2004-2004-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2004-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "BMW", "key": "2003-2003-1", "veiculo": "Z4 Roadster 3.0 V6 24V Aut.", "id": "2003-1"
+}
+]

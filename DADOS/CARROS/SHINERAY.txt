@@ -1,0 +1,16 @@
+{"contador" = "7"}
+[{"fipe_marca": "SHINERAY", "fipe_name": "SY1020 T 20 TRUCKS BAU", "marca": "SHINERAY", "key": "sy1020-6308", "id": "6308", "name": "SY1020 T 20 TRUCKS BAU"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "SY1020 T 22 TRUCKS CD", "marca": "SHINERAY", "key": "sy1020-6309", "id": "6309", "name": "SY1020 T 22 TRUCKS CD"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "SY1020 T20 TRUCKS", "marca": "SHINERAY", "key": "sy1020-5980", "id": "5980", "name": "SY1020 T20 TRUCKS"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "SY6370 A7 PVAN", "marca": "SHINERAY", "key": "sy6370-6714", "id": "6714", "name": "SY6370 A7 PVAN"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "SY6390 A9 CARGOV", "marca": "SHINERAY", "key": "sy6390-5981", "id": "5981", "name": "SY6390 A9 CARGOV"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "SY6390 A9 PVANS", "marca": "SHINERAY", "key": "sy6390-5982", "id": "5982", "name": "SY6390 A9 PVANS"
+}
+, {"fipe_marca": "SHINERAY", "fipe_name": "X30 VAN 1.3 16V Mec.", "marca": "SHINERAY", "key": "x30-6975", "id": "6975", "name": "X30 VAN 1.3 16V Mec."
+}
+]

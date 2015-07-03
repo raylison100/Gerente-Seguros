@@ -1,0 +1,14 @@
+{"contador" = "6"}
+[{"fipe_marca": "Audi", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "AUDI", "key": "2001-2001-1", "veiculo": "A4 1.8 Avant Mec.", "id": "2001-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "AUDI", "key": "2000-2000-1", "veiculo": "A4 1.8 Avant Mec.", "id": "2000-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "AUDI", "key": "1999-1999-1", "veiculo": "A4 1.8 Avant Mec.", "id": "1999-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "AUDI", "key": "1998-1998-1", "veiculo": "A4 1.8 Avant Mec.", "id": "1998-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "AUDI", "key": "1997-1997-1", "veiculo": "A4 1.8 Avant Mec.", "id": "1997-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "AUDI", "key": "1996-1996-1", "veiculo": "A4 1.8 Avant Mec.", "id": "1996-1"
+}
+]

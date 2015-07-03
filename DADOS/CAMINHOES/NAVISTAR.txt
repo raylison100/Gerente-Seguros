@@ -1,0 +1,36 @@
+{"contador" = "17"}
+[{"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 4x2 2p (diesel)", "marca": "NAVISTAR", "key": "durastar-5683", "id": "5683", "name": "DURASTAR 4400 4x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 4x2 2p (diesel)(E5)", "marca": "NAVISTAR", "key": "durastar-6371", "id": "6371", "name": "DURASTAR 4400 4x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 6x2 2p (diesel)", "marca": "NAVISTAR", "key": "durastar-5684", "id": "5684", "name": "DURASTAR 4400 6x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 6x2 2p (diesel)(E5)", "marca": "NAVISTAR", "key": "durastar-6372", "id": "6372", "name": "DURASTAR 4400 6x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 6x4 2p (diesel)", "marca": "NAVISTAR", "key": "durastar-5685", "id": "5685", "name": "DURASTAR 4400 6x4 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "DURASTAR 4400 6x4 2p (diesel)(E5)", "marca": "NAVISTAR", "key": "durastar-6373", "id": "6373", "name": "DURASTAR 4400 6x4 2p (diesel)(E5)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 4700 2p (diesel)", "marca": "NAVISTAR", "key": "international-3486", "id": "3486", "name": "INTERNATIONAL 4700 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 4700 3-Eixos 2p (diesel)", "marca": "NAVISTAR", "key": "international-3487", "id": "3487", "name": "INTERNATIONAL 4700 3-Eixos 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 4900 4x2 2p (diesel)", "marca": "NAVISTAR", "key": "international-3488", "id": "3488", "name": "INTERNATIONAL 4900 4x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 4900 6x4 2p (diesel)", "marca": "NAVISTAR", "key": "international-3483", "id": "3483", "name": "INTERNATIONAL 4900 6x4 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 9200 4x2 2p (diesel)", "marca": "NAVISTAR", "key": "international-3489", "id": "3489", "name": "INTERNATIONAL 9200 4x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 9200 6x4 2p (diesel)", "marca": "NAVISTAR", "key": "international-3490", "id": "3490", "name": "INTERNATIONAL 9200 6x4 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 9800 4x2 2p (diesel)", "marca": "NAVISTAR", "key": "international-3484", "id": "3484", "name": "INTERNATIONAL 9800 4x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 98009800i 6x2 2p (diesel)", "marca": "NAVISTAR", "key": "international-5524", "id": "5524", "name": "INTERNATIONAL 98009800i 6x2 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 98009800i 6x4 2p (diesel)", "marca": "NAVISTAR", "key": "international-3485", "id": "3485", "name": "INTERNATIONAL 98009800i 6x4 2p (diesel)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 9800i 6x2 2p (diesel)(E5)", "marca": "NAVISTAR", "key": "international-6374", "id": "6374", "name": "INTERNATIONAL 9800i 6x2 2p (diesel)(E5)"
+}
+, {"fipe_marca": "NAVISTAR", "fipe_name": "INTERNATIONAL 9800i 6x4 2p (diesel)(E5)", "marca": "NAVISTAR", "key": "international-6375", "id": "6375", "name": "INTERNATIONAL 9800i 6x4 2p (diesel)(E5)"
+}
+]

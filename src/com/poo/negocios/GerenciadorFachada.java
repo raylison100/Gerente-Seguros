@@ -4,6 +4,7 @@ import com.poo.execoes.CPFInvalidoExeception;
 
 import java.io.IOException;
 
+import com.poo.execoes.CPFCadastradoExeception;
 import com.poo.execoes.CadatroAutoExistenteExeception;
 import com.poo.execoes.CadatroContraExistenteExeception;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
@@ -48,7 +49,7 @@ public class GerenciadorFachada implements IGerenciador {
 			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
 			String numero, String complemento, String cidade, String estado) throws IOException,
 			CadatroPessoaExistenteExeception,
-			CPFInvalidoExeception {
+			CPFInvalidoExeception, CPFCadastradoExeception {
             
                 Endereco endereco = new Endereco(logradouro, bairro, cep, numero, complemento, cidade, estado);
                 Pessoa c =  new Cliente(nome, cpf, rg, datEmissao, orgaoEmissao, sexo, telefone, estadoCivil, endereco, cnh, datPrimeiraHab, vencHab, profissao, escolaridade);

@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "AMAZONAS", "fipe_name": "AME-110 MIX", "marca": "AMAZONAS", "key": "ame-110-4360", "id": "4360", "name": "AME-110 MIX"
+}
+, {"fipe_marca": "AMAZONAS", "fipe_name": "AME-150 TC SC", "marca": "AMAZONAS", "key": "ame-150-4361", "id": "4361", "name": "AME-150 TC SC"
+}
+, {"fipe_marca": "AMAZONAS", "fipe_name": "AME-250 C1", "marca": "AMAZONAS", "key": "ame-250-4362", "id": "4362", "name": "AME-250 C1"
+}
+, {"fipe_marca": "AMAZONAS", "fipe_name": "AME-LX 12526", "marca": "AMAZONAS", "key": "ame-lx-4363", "id": "4363", "name": "AME-LX 12526"
+}
+]

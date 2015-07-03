@@ -1,8 +1,10 @@
 package com.poo.negocios;
 
 import com.poo.execoes.CPFInvalidoExeception;
+
 import java.io.IOException;
 
+import com.poo.execoes.CPFCadastradoExeception;
 import com.poo.execoes.CadatroAutoExistenteExeception;
 import com.poo.execoes.CadatroContraExistenteExeception;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
@@ -25,7 +27,7 @@ public interface IGerenciador {
 			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
 			String numero, String complemento, String cidade, String estado) throws IOException,
 			CadatroPessoaExistenteExeception,
-			CPFInvalidoExeception;
+			CPFInvalidoExeception, CPFCadastradoExeception;
 
 	public Pessoa[] exibiCliente() throws IOException;
 

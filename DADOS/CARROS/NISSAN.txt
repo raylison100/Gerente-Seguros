@@ -1,0 +1,264 @@
+{"contador" = "131"}
+[{"fipe_marca": "Nissan", "name": "350Z 3.5 V6 280cv 312cv 2p", "marca": "NISSAN", "key": "350z-1781", "id": "1781", "fipe_name": "350Z 3.5 V6 280cv 312cv 2p"
+}
+, {"fipe_marca": "Nissan", "name": "Altima GXE 2.4 16V", "marca": "NISSAN", "key": "altima-1782", "id": "1782", "fipe_name": "Altima GXE 2.4 16V"
+}
+, {"fipe_marca": "Nissan", "name": "Altima SE 2.4 16V", "marca": "NISSAN", "key": "altima-1783", "id": "1783", "fipe_name": "Altima SE 2.4 16V"
+}
+, {"fipe_marca": "Nissan", "name": "ALTIMA SL 2.5 16V 4p Aut.", "marca": "NISSAN", "key": "altima-6644", "id": "6644", "fipe_name": "ALTIMA SL 2.5 16V 4p Aut."
+}
+, {"fipe_marca": "Nissan", "name": "AX 6.5D Turbo Diesel", "marca": "NISSAN", "key": "ax-1784", "id": "1784", "fipe_name": "AX 6.5D Turbo Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "D-21 Pick-Up CD 4x24x4 2.7 Diesel", "marca": "NISSAN", "key": "d-21-1785", "id": "1785", "fipe_name": "D-21 Pick-Up CD 4x24x4 2.7 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "D-21 Pick-Up CS 4x24x4 2.7 Diesel", "marca": "NISSAN", "key": "d-21-1786", "id": "1786", "fipe_name": "D-21 Pick-Up CS 4x24x4 2.7 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier AX 3.2 CD Diesel", "marca": "NISSAN", "key": "frontier-1787", "id": "1787", "fipe_name": "Frontier AX 3.2 CD Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier AX CD 4x4 2.5 TB Interc. Diesel", "marca": "NISSAN", "key": "frontier-1788", "id": "1788", "fipe_name": "Frontier AX CD 4x4 2.5 TB Interc. Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier DX 3.2 CD Diesel", "marca": "NISSAN", "key": "frontier-1789", "id": "1789", "fipe_name": "Frontier DX 3.2 CD Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier LE ATTACK CD 4x4 2.5 TB Die.Aut", "marca": "NISSAN", "key": "frontier-5626", "id": "5626", "fipe_name": "Frontier LE ATTACK CD 4x4 2.5 TB Die.Aut"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier LE CD 4x4 2.5 TB dies.(Import.)", "marca": "NISSAN", "key": "frontier-4262", "id": "4262", "fipe_name": "Frontier LE CD 4x4 2.5 TB dies.(Import.)"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier LE CD 4x4 2.5 TB Diesel Aut.", "marca": "NISSAN", "key": "frontier-4775", "id": "4775", "fipe_name": "Frontier LE CD 4x4 2.5 TB Diesel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier LE CD 4x4 2.5 TB Diesel Mec.", "marca": "NISSAN", "key": "frontier-4776", "id": "4776", "fipe_name": "Frontier LE CD 4x4 2.5 TB Diesel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier PLATINUM CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-6756", "id": "6756", "fipe_name": "Frontier PLATINUM CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier S CD 4x2 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-6394", "id": "6394", "fipe_name": "Frontier S CD 4x2 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier S CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-6395", "id": "6395", "fipe_name": "Frontier S CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SE ATTACK CD 4x2 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-5627", "id": "5627", "fipe_name": "Frontier SE ATTACK CD 4x2 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SE ATTACK CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-5628", "id": "5628", "fipe_name": "Frontier SE ATTACK CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SE Serrana CD 4x4 2.8 TB Dies", "marca": "NISSAN", "key": "frontier-1790", "id": "1790", "fipe_name": "Frontier SE Serrana CD 4x4 2.8 TB Dies"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SE Vibe CD 2.8 TDI Dies.", "marca": "NISSAN", "key": "frontier-4408", "id": "4408", "fipe_name": "Frontier SE Vibe CD 2.8 TDI Dies."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SE SE ONE CD 4x2 2.8 TDI Dies", "marca": "NISSAN", "key": "frontier-1792", "id": "1792", "fipe_name": "Frontier SE SE ONE CD 4x2 2.8 TDI Dies"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SESE Strik CD 4x2 2.5 TB Dies.", "marca": "NISSAN", "key": "frontier-4777", "id": "4777", "fipe_name": "Frontier SESE Strik CD 4x2 2.5 TB Dies."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SESE Strik CD 4x4 2.5 TB Dies.", "marca": "NISSAN", "key": "frontier-4778", "id": "4778", "fipe_name": "Frontier SESE Strik CD 4x4 2.5 TB Dies."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SESE StrikONE CD 4x4 2.8 Dies", "marca": "NISSAN", "key": "frontier-1791", "id": "1791", "fipe_name": "Frontier SESE StrikONE CD 4x4 2.8 Dies"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SEL CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-4519", "id": "4519", "fipe_name": "Frontier SEL CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SEL CD 4x4 2.5 TB Diesel Aut.", "marca": "NISSAN", "key": "frontier-4520", "id": "4520", "fipe_name": "Frontier SEL CD 4x4 2.5 TB Diesel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SL CD 4x4 2.5TB Diesel Aut", "marca": "NISSAN", "key": "frontier-6241", "id": "6241", "fipe_name": "Frontier SL CD 4x4 2.5TB Diesel Aut"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SV AT. CD 4x4 2.5 TB Dies. Aut.", "marca": "NISSAN", "key": "frontier-6967", "id": "6967", "fipe_name": "Frontier SV AT. CD 4x4 2.5 TB Dies. Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SV ATTACK CD 4x2 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-6242", "id": "6242", "fipe_name": "Frontier SV ATTACK CD 4x2 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier SV ATTACK CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-6243", "id": "6243", "fipe_name": "Frontier SV ATTACK CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE  CD 4x4 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-5135", "id": "5135", "fipe_name": "Frontier XE  CD 4x4 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE ATTACK CD 2.8 TDI Diesel", "marca": "NISSAN", "key": "frontier-1793", "id": "1793", "fipe_name": "Frontier XE ATTACK CD 2.8 TDI Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE CD 4x2 2.5 TB Diesel", "marca": "NISSAN", "key": "frontier-4779", "id": "4779", "fipe_name": "Frontier XE CD 4x2 2.5 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE CS 4x2 2.8 TB Interc. Dies.", "marca": "NISSAN", "key": "frontier-1794", "id": "1794", "fipe_name": "Frontier XE CS 4x2 2.8 TB Interc. Dies."
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE XE TIT. CD 4x2 2.8 TDI Dies", "marca": "NISSAN", "key": "frontier-1795", "id": "1795", "fipe_name": "Frontier XE XE TIT. CD 4x2 2.8 TDI Dies"
+}
+, {"fipe_marca": "Nissan", "name": "Frontier XE XE TIT. CD 4x4 2.8 TDI Dies", "marca": "NISSAN", "key": "frontier-1796", "id": "1796", "fipe_name": "Frontier XE XE TIT. CD 4x4 2.8 TDI Dies"
+}
+, {"fipe_marca": "Nissan", "name": "Infinit 3.0", "marca": "NISSAN", "key": "infinit-1797", "id": "1797", "fipe_name": "Infinit 3.0"
+}
+, {"fipe_marca": "Nissan", "name": "King-Cab SE 4x4 3.0 V6", "marca": "NISSAN", "key": "king-cab-1798", "id": "1798", "fipe_name": "King-Cab SE 4x4 3.0 V6"
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA 1.6 16V Flex Fuel 5p", "marca": "NISSAN", "key": "livina-4864", "id": "4864", "fipe_name": "LIVINA 1.6 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-4866", "id": "4866", "fipe_name": "LIVINA 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-4982", "id": "4982", "fipe_name": "LIVINA GRAND 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND 1.8 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-4983", "id": "4983", "fipe_name": "LIVINA GRAND 1.8 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND S 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-5253", "id": "5253", "fipe_name": "LIVINA GRAND S 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND S 1.8 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-5254", "id": "5254", "fipe_name": "LIVINA GRAND S 1.8 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND SL 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-4984", "id": "4984", "fipe_name": "LIVINA GRAND SL 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA GRAND SL 1.8 16V Flex Fuel Mec", "marca": "NISSAN", "key": "livina-4985", "id": "4985", "fipe_name": "LIVINA GRAND SL 1.8 16V Flex Fuel Mec"
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA NIGHT&DAY 1.6 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-5474", "id": "5474", "fipe_name": "LIVINA NIGHT&DAY 1.6 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA S 1.6 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-5255", "id": "5255", "fipe_name": "LIVINA S 1.6 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA S 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-5256", "id": "5256", "fipe_name": "LIVINA S 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA SL 1.6 16V Flex Fuel 5p", "marca": "NISSAN", "key": "livina-4865", "id": "4865", "fipe_name": "LIVINA SL 1.6 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA SL 1.8 16V Flex Fuel Aut.", "marca": "NISSAN", "key": "livina-4867", "id": "4867", "fipe_name": "LIVINA SL 1.8 16V Flex Fuel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA X-GEAR 1.6 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-5036", "id": "5036", "fipe_name": "LIVINA X-GEAR 1.6 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA X-GEAR S 1.6 16V Flex Fuel", "marca": "NISSAN", "key": "livina-5257", "id": "5257", "fipe_name": "LIVINA X-GEAR S 1.6 16V Flex Fuel"
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA X-GEAR SL 1.6 16V Flex Fuel Mec.", "marca": "NISSAN", "key": "livina-5037", "id": "5037", "fipe_name": "LIVINA X-GEAR SL 1.6 16V Flex Fuel Mec."
+}
+, {"fipe_marca": "Nissan", "name": "LIVINA X-GEAR SLX-GEAR 1.8 Flex F. Aut.", "marca": "NISSAN", "key": "livina-5038", "id": "5038", "fipe_name": "LIVINA X-GEAR SLX-GEAR 1.8 Flex F. Aut."
+}
+, {"fipe_marca": "Nissan", "name": "MARCH 1.0 12V Flex 5p", "marca": "NISSAN", "key": "march-7266", "id": "7266", "fipe_name": "MARCH 1.0 12V Flex 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH 1.0 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-5643", "id": "5643", "fipe_name": "MARCH 1.0 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH Rio2016 1.0 Flex Fuel 5p", "marca": "NISSAN", "key": "march-6302", "id": "6302", "fipe_name": "MARCH Rio2016 1.0 Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH Rio2016 1.6 Flex Fuel 5p", "marca": "NISSAN", "key": "march-6303", "id": "6303", "fipe_name": "MARCH Rio2016 1.6 Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH S 1.0 12V Flex 5p", "marca": "NISSAN", "key": "march-7164", "id": "7164", "fipe_name": "MARCH S 1.0 12V Flex 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH S 1.0 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-5644", "id": "5644", "fipe_name": "MARCH S 1.0 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH S 1.6 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-5691", "id": "5691", "fipe_name": "MARCH S 1.6 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH SL 1.6 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-6841", "id": "6841", "fipe_name": "MARCH SL 1.6 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH SR 1.6 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-5693", "id": "5693", "fipe_name": "MARCH SR 1.6 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH SV 1.0 12V Flex 5p", "marca": "NISSAN", "key": "march-7165", "id": "7165", "fipe_name": "MARCH SV 1.0 12V Flex 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH SV 1.0 16V Flex Fuel 5p", "marca": "NISSAN", "key": "march-6842", "id": "6842", "fipe_name": "MARCH SV 1.0 16V Flex Fuel 5p"
+}
+, {"fipe_marca": "Nissan", "name": "MARCH SV 1.6 16V Flex Fuel", "marca": "NISSAN", "key": "march-5692", "id": "5692", "fipe_name": "MARCH SV 1.6 16V Flex Fuel"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima 30G GLE 3.0 V6 24V", "marca": "NISSAN", "key": "maxima-1799", "id": "1799", "fipe_name": "Maxima 30G GLE 3.0 V6 24V"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima 30GV  Limited 3.0 V6 24V", "marca": "NISSAN", "key": "maxima-1800", "id": "1800", "fipe_name": "Maxima 30GV  Limited 3.0 V6 24V"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima 30GV30GV Aero GV 3.0 V6 24V", "marca": "NISSAN", "key": "maxima-1801", "id": "1801", "fipe_name": "Maxima 30GV30GV Aero GV 3.0 V6 24V"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima 30J", "marca": "NISSAN", "key": "maxima-1802", "id": "1802", "fipe_name": "Maxima 30J"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima GXE 3.0", "marca": "NISSAN", "key": "maxima-1803", "id": "1803", "fipe_name": "Maxima GXE 3.0"
+}
+, {"fipe_marca": "Nissan", "name": "Maxima SE 3.0 V6", "marca": "NISSAN", "key": "maxima-1804", "id": "1804", "fipe_name": "Maxima SE 3.0 V6"
+}
+, {"fipe_marca": "Nissan", "name": "Micra 1.0 V6", "marca": "NISSAN", "key": "micra-1805", "id": "1805", "fipe_name": "Micra 1.0 V6"
+}
+, {"fipe_marca": "Nissan", "name": "MURANO SE 3.5 V6 24V 231cv Aut", "marca": "NISSAN", "key": "murano-4193", "id": "4193", "fipe_name": "MURANO SE 3.5 V6 24V 231cv Aut"
+}
+, {"fipe_marca": "Nissan", "name": "NX 2000", "marca": "NISSAN", "key": "nx-1806", "id": "1806", "fipe_name": "NX 2000"
+}
+, {"fipe_marca": "Nissan", "name": "NX 2000 Targa 2.0", "marca": "NISSAN", "key": "nx-1807", "id": "1807", "fipe_name": "NX 2000 Targa 2.0"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder LE 2.5 16V TDI Diesel Aut", "marca": "NISSAN", "key": "pathfinder-1808", "id": "1808", "fipe_name": "Pathfinder LE 2.5 16V TDI Diesel Aut"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder LE 4.0 V6 24V 266cv Aut", "marca": "NISSAN", "key": "pathfinder-1809", "id": "1809", "fipe_name": "Pathfinder LE 4.0 V6 24V 266cv Aut"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE 2.5 16V TDI Diesel Aut.", "marca": "NISSAN", "key": "pathfinder-4577", "id": "4577", "fipe_name": "Pathfinder SE 2.5 16V TDI Diesel Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE 3.3 V6 12V", "marca": "NISSAN", "key": "pathfinder-1810", "id": "1810", "fipe_name": "Pathfinder SE 3.3 V6 12V"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE 4.0 V6 24V 266cv Aut.", "marca": "NISSAN", "key": "pathfinder-4578", "id": "4578", "fipe_name": "Pathfinder SE 4.0 V6 24V 266cv Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE 4x4 3.0 12V Aut.Mec.", "marca": "NISSAN", "key": "pathfinder-1811", "id": "1811", "fipe_name": "Pathfinder SE 4x4 3.0 12V Aut.Mec."
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE Luxo 3.3 V6 12V", "marca": "NISSAN", "key": "pathfinder-1812", "id": "1812", "fipe_name": "Pathfinder SE Luxo 3.3 V6 12V"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE Luxo 3.5 V6 24V 243cv", "marca": "NISSAN", "key": "pathfinder-1813", "id": "1813", "fipe_name": "Pathfinder SE Luxo 3.5 V6 24V 243cv"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder SE Titanium 3.3 V6 12V", "marca": "NISSAN", "key": "pathfinder-1814", "id": "1814", "fipe_name": "Pathfinder SE Titanium 3.3 V6 12V"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder XE 2.7 TB Diesel", "marca": "NISSAN", "key": "pathfinder-1815", "id": "1815", "fipe_name": "Pathfinder XE 2.7 TB Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Pathfinder XE 4x4", "marca": "NISSAN", "key": "pathfinder-1816", "id": "1816", "fipe_name": "Pathfinder XE 4x4"
+}
+, {"fipe_marca": "Nissan", "name": "Pick-Up CD AX DX 4x4 Diesel", "marca": "NISSAN", "key": "pick-up-1817", "id": "1817", "fipe_name": "Pick-Up CD AX DX 4x4 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Pick-Up CS DX 4x4 Diesel", "marca": "NISSAN", "key": "pick-up-1818", "id": "1818", "fipe_name": "Pick-Up CS DX 4x4 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Pick-Up King Cab DX 2.7 4x2 Diesel", "marca": "NISSAN", "key": "pick-up-1819", "id": "1819", "fipe_name": "Pick-Up King Cab DX 2.7 4x2 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Primera GXE 2.0 16V", "marca": "NISSAN", "key": "primera-1820", "id": "1820", "fipe_name": "Primera GXE 2.0 16V"
+}
+, {"fipe_marca": "Nissan", "name": "Quest GXE GLE SER", "marca": "NISSAN", "key": "quest-1821", "id": "1821", "fipe_name": "Quest GXE GLE SER"
+}
+, {"fipe_marca": "Nissan", "name": "Quest XE 3.0 V6", "marca": "NISSAN", "key": "quest-1822", "id": "1822", "fipe_name": "Quest XE 3.0 V6"
+}
+, {"fipe_marca": "Nissan", "name": "Sentra 2.0 2.0 Flex Fuel 16V Aut.", "marca": "NISSAN", "key": "sentra-4294", "id": "4294", "fipe_name": "Sentra 2.0 2.0 Flex Fuel 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra 2.0 2.0 Flex Fuel 16V Mec.", "marca": "NISSAN", "key": "sentra-4295", "id": "4295", "fipe_name": "Sentra 2.0 2.0 Flex Fuel 16V Mec."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra GLE", "marca": "NISSAN", "key": "sentra-1823", "id": "1823", "fipe_name": "Sentra GLE"
+}
+, {"fipe_marca": "Nissan", "name": "Sentra GSX EX", "marca": "NISSAN", "key": "sentra-1824", "id": "1824", "fipe_name": "Sentra GSX EX"
+}
+, {"fipe_marca": "Nissan", "name": "Sentra GXE SER", "marca": "NISSAN", "key": "sentra-1825", "id": "1825", "fipe_name": "Sentra GXE SER"
+}
+, {"fipe_marca": "Nissan", "name": "Sentra S 2.0 2.0 Flex Fuel 16V Aut.", "marca": "NISSAN", "key": "sentra-4296", "id": "4296", "fipe_name": "Sentra S 2.0 2.0 Flex Fuel 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra S 2.0 2.0 Flex Fuel 16V Mec.", "marca": "NISSAN", "key": "sentra-4297", "id": "4297", "fipe_name": "Sentra S 2.0 2.0 Flex Fuel 16V Mec."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra SE 2.0 Flex 16V Aut.", "marca": "NISSAN", "key": "sentra-6212", "id": "6212", "fipe_name": "Sentra SE 2.0 Flex 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra SL 2.0 2.0 Flex Fuel 16V Aut.", "marca": "NISSAN", "key": "sentra-4298", "id": "4298", "fipe_name": "Sentra SL 2.0 2.0 Flex Fuel 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra SR 2.0 Flex Fuel 16V Aut.", "marca": "NISSAN", "key": "sentra-5645", "id": "5645", "fipe_name": "Sentra SR 2.0 Flex Fuel 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra SR 2.0 Flex Fuel 16V Mec.", "marca": "NISSAN", "key": "sentra-5646", "id": "5646", "fipe_name": "Sentra SR 2.0 Flex Fuel 16V Mec."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra SV 2.0 Flex 16V Aut.", "marca": "NISSAN", "key": "sentra-6616", "id": "6616", "fipe_name": "Sentra SV 2.0 Flex 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Sentra UNIQUE 2.0 Flex Fuel 16V Aut.", "marca": "NISSAN", "key": "sentra-5647", "id": "5647", "fipe_name": "Sentra UNIQUE 2.0 Flex Fuel 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "Stanza XE 2.4 12V", "marca": "NISSAN", "key": "stanza-1826", "id": "1826", "fipe_name": "Stanza XE 2.4 12V"
+}
+, {"fipe_marca": "Nissan", "name": "SX 240 2.4", "marca": "NISSAN", "key": "sx-1827", "id": "1827", "fipe_name": "SX 240 2.4"
+}
+, {"fipe_marca": "Nissan", "name": "Terrano II SE 2.7 Diesel", "marca": "NISSAN", "key": "terrano-1828", "id": "1828", "fipe_name": "Terrano II SE 2.7 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "Terrano II SLX 2.7 Diesel", "marca": "NISSAN", "key": "terrano-1829", "id": "1829", "fipe_name": "Terrano II SLX 2.7 Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA S 1.81.8 Flex 16V  Mec.", "marca": "NISSAN", "key": "tiida-4404", "id": "4404", "fipe_name": "TIIDA S 1.81.8 Flex 16V  Mec."
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA S 1.81.8 Flex 16V Aut.", "marca": "NISSAN", "key": "tiida-4405", "id": "4405", "fipe_name": "TIIDA S 1.81.8 Flex 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA Sedan 1.8 16V Flex Fuel 4p", "marca": "NISSAN", "key": "tiida-5311", "id": "5311", "fipe_name": "TIIDA Sedan 1.8 16V Flex Fuel 4p"
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA Sedan 1.8 16V Flex Fuel 4p Aut.", "marca": "NISSAN", "key": "tiida-6188", "id": "6188", "fipe_name": "TIIDA Sedan 1.8 16V Flex Fuel 4p Aut."
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA SL 1.81.8 Flex 16V  Mec.", "marca": "NISSAN", "key": "tiida-4406", "id": "4406", "fipe_name": "TIIDA SL 1.81.8 Flex 16V  Mec."
+}
+, {"fipe_marca": "Nissan", "name": "TIIDA SL 1.81.8 Flex 16V Aut.", "marca": "NISSAN", "key": "tiida-4407", "id": "4407", "fipe_name": "TIIDA SL 1.81.8 Flex 16V Aut."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA 1.0 12V Flex 4p Mec.", "marca": "NISSAN", "key": "versa-7166", "id": "7166", "fipe_name": "VERSA 1.0 12V Flex 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA S 1.0 12V Flex 4p Mec.", "marca": "NISSAN", "key": "versa-7167", "id": "7167", "fipe_name": "VERSA S 1.0 12V Flex 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA S 1.6 16V Flex Fuel 4p Mec.", "marca": "NISSAN", "key": "versa-5708", "id": "5708", "fipe_name": "VERSA S 1.6 16V Flex Fuel 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA SL 1.6 16V Flex Fuel 4p Mec.", "marca": "NISSAN", "key": "versa-5709", "id": "5709", "fipe_name": "VERSA SL 1.6 16V Flex Fuel 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA SV 1.6 16V Flex Fuel 4p Mec.", "marca": "NISSAN", "key": "versa-5710", "id": "5710", "fipe_name": "VERSA SV 1.6 16V Flex Fuel 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "VERSA UNIQUE 1.6 16V Flex 4p Mec.", "marca": "NISSAN", "key": "versa-7168", "id": "7168", "fipe_name": "VERSA UNIQUE 1.6 16V Flex 4p Mec."
+}
+, {"fipe_marca": "Nissan", "name": "XTerra ECOTRIP 4x4 140cv 2.8 TB Int.Dies", "marca": "NISSAN", "key": "xterra-4120", "id": "4120", "fipe_name": "XTerra ECOTRIP 4x4 140cv 2.8 TB Int.Dies"
+}
+, {"fipe_marca": "Nissan", "name": "XTerra SE 4x4 2.8 132140cv TB Int.Dies.", "marca": "NISSAN", "key": "xterra-1830", "id": "1830", "fipe_name": "XTerra SE 4x4 2.8 132140cv TB Int.Dies."
+}
+, {"fipe_marca": "Nissan", "name": "XTerra XE 4x4 2.8 132cv TB Int. Diesel", "marca": "NISSAN", "key": "xterra-1831", "id": "1831", "fipe_name": "XTerra XE 4x4 2.8 132cv TB Int. Diesel"
+}
+, {"fipe_marca": "Nissan", "name": "X-TRAIL GX 2.5 16V 180cv 5p", "marca": "NISSAN", "key": "x-trail-1832", "id": "1832", "fipe_name": "X-TRAIL GX 2.5 16V 180cv 5p"
+}
+, {"fipe_marca": "Nissan", "name": "X-TRAIL LE 2.0 16V 138cv Aut.", "marca": "NISSAN", "key": "x-trail-4736", "id": "4736", "fipe_name": "X-TRAIL LE 2.0 16V 138cv Aut."
+}
+, {"fipe_marca": "Nissan", "name": "X-TRAIL SE 2.0 16V 138cv Aut.", "marca": "NISSAN", "key": "x-trail-4737", "id": "4737", "fipe_name": "X-TRAIL SE 2.0 16V 138cv Aut."
+}
+, {"fipe_marca": "Nissan", "name": "ZX 300 3.0 BI-Turbo", "marca": "NISSAN", "key": "zx-1833", "id": "1833", "fipe_name": "ZX 300 3.0 BI-Turbo"
+}
+]

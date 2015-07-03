@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "MOTOCAR", "fipe_name": "MCA-200", "marca": "MOTOCAR", "key": "mca-200-7245", "id": "7245", "name": "MCA-200"
+}
+, {"fipe_marca": "MOTOCAR", "fipe_name": "MCF-200", "marca": "MOTOCAR", "key": "mcf-200-7246", "id": "7246", "name": "MCF-200"
+}
+, {"fipe_marca": "MOTOCAR", "fipe_name": "MTX-150", "marca": "MOTOCAR", "key": "mtx-150-7247", "id": "7247", "name": "MTX-150"
+}
+]

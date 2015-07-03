@@ -1,0 +1,86 @@
+{"contador" = "42"}
+[{"fipe_marca": "Jaguar", "fipe_name": "Daimler LWB 4.0", "marca": "JAGUAR", "key": "daimler-1351", "id": "1351", "name": "Daimler LWB 4.0"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type R Supercharged Coupe 5.0 V8", "marca": "JAGUAR", "key": "f-type-6888", "id": "6888", "name": "F-Type R Supercharged Coupe 5.0 V8"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type S Supercharged Conversivel 3.0 V6", "marca": "JAGUAR", "key": "f-type-6588", "id": "6588", "name": "F-Type S Supercharged Conversivel 3.0 V6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type S Supercharged Conversivel 5.0 V8", "marca": "JAGUAR", "key": "f-type-6589", "id": "6589", "name": "F-Type S Supercharged Conversivel 5.0 V8"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type S Supercharged Coupe 3.0 V6", "marca": "JAGUAR", "key": "f-type-6889", "id": "6889", "name": "F-Type S Supercharged Coupe 3.0 V6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type Supercharged Conversivel 3.0 V6", "marca": "JAGUAR", "key": "f-type-6590", "id": "6590", "name": "F-Type Supercharged Conversivel 3.0 V6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "F-Type Supercharged Coupe 3.0 V6", "marca": "JAGUAR", "key": "f-type-6890", "id": "6890", "name": "F-Type Supercharged Coupe 3.0 V6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "S-Type 3.0 3.0 SE V6", "marca": "JAGUAR", "key": "s-type-1352", "id": "1352", "name": "S-Type 3.0 3.0 SE V6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "S-Type 4.2 4.2 SE 4.0 V8 32V", "marca": "JAGUAR", "key": "s-type-1353", "id": "1353", "name": "S-Type 4.2 4.2 SE 4.0 V8 32V"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "S-Type R 4.2 V8 32V 400cv", "marca": "JAGUAR", "key": "s-type-1354", "id": "1354", "name": "S-Type R 4.2 V8 32V 400cv"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 2.0 GTDI SPORT LUXURY 240cv Aut.", "marca": "JAGUAR", "key": "xf-7071", "id": "7071", "name": "XF 2.0 GTDI SPORT LUXURY 240cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 2.0 GTDI SPORT PREMIUM TECH 240cv Aut", "marca": "JAGUAR", "key": "xf-7072", "id": "7072", "name": "XF 2.0 GTDI SPORT PREMIUM TECH 240cv Aut"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 2.0 Turbo 16V 240cv Aut.", "marca": "JAGUAR", "key": "xf-6465", "id": "6465", "name": "XF 2.0 Turbo 16V 240cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 3.0 Portfolio Supercharged V6 Aut.", "marca": "JAGUAR", "key": "xf-6536", "id": "6536", "name": "XF 3.0 Portfolio Supercharged V6 Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 3.0 V6 24V 240cv Aut.", "marca": "JAGUAR", "key": "xf-4704", "id": "4704", "name": "XF 3.0 V6 24V 240cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 4.2 V8 32V 300cv Aut.", "marca": "JAGUAR", "key": "xf-4705", "id": "4705", "name": "XF 4.2 V8 32V 300cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF 5.0 32V V8 385cv Aut.", "marca": "JAGUAR", "key": "xf-5305", "id": "5305", "name": "XF 5.0 32V V8 385cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XF SV8 4.2 V8 32V 420cv Aut.", "marca": "JAGUAR", "key": "xf-4706", "id": "4706", "name": "XF SV8 4.2 V8 32V 420cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XFR Supercharged 5.0 V8 510cv Aut", "marca": "JAGUAR", "key": "xfr-5130", "id": "5130", "name": "XFR Supercharged 5.0 V8 510cv Aut"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XFR-S Supercharged 5.0 V8 550cv Aut.", "marca": "JAGUAR", "key": "xfr-s-6750", "id": "6750", "name": "XFR-S Supercharged 5.0 V8 550cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ 2.0 Turbo 16V 240cv Aut.", "marca": "JAGUAR", "key": "xj-6751", "id": "6751", "name": "XJ 2.0 Turbo 16V 240cv Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ 3.0 Portfolio Supercharged V6 Aut.", "marca": "JAGUAR", "key": "xj-6752", "id": "6752", "name": "XJ 3.0 Portfolio Supercharged V6 Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ S.Sport Supercharged 5.0 V8 32V Aut.", "marca": "JAGUAR", "key": "xj-5453", "id": "5453", "name": "XJ S.Sport Supercharged 5.0 V8 32V Aut."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ Super 4.2 V8 32V 400cv 4p", "marca": "JAGUAR", "key": "xj-1355", "id": "1355", "name": "XJ Super 4.2 V8 32V 400cv 4p"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-12", "marca": "JAGUAR", "key": "xj-12-1356", "id": "1356", "name": "XJ-12"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-12 Conv.", "marca": "JAGUAR", "key": "xj-12-1357", "id": "1357", "name": "XJ-12 Conv."
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-6", "marca": "JAGUAR", "key": "xj-6-1358", "id": "1358", "name": "XJ-6"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-8 Daimler", "marca": "JAGUAR", "key": "xj-8-1359", "id": "1359", "name": "XJ-8 Daimler"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-8 Executive Centenary 4.0", "marca": "JAGUAR", "key": "xj-8-1360", "id": "1360", "name": "XJ-8 Executive Centenary 4.0"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-8 Executive SE 4.2 V8 32V 300cv 4p", "marca": "JAGUAR", "key": "xj-8-1361", "id": "1361", "name": "XJ-8 Executive SE 4.2 V8 32V 300cv 4p"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJ-8 Sovereign LWB 4.0", "marca": "JAGUAR", "key": "xj-8-1362", "id": "1362", "name": "XJ-8 Sovereign LWB 4.0"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJR 4.2 V8 32V 400cv 4p", "marca": "JAGUAR", "key": "xjr-1363", "id": "1363", "name": "XJR 4.2 V8 32V 400cv 4p"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJS 4.0 24V", "marca": "JAGUAR", "key": "xjs-1364", "id": "1364", "name": "XJS 4.0 24V"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XJS-C 6.0 V12", "marca": "JAGUAR", "key": "xjs-c-1365", "id": "1365", "name": "XJS-C 6.0 V12"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XK-8 BR Conversível  XK-8 Conversível", "marca": "JAGUAR", "key": "xk-8-1366", "id": "1366", "name": "XK-8 BR Conversível  XK-8 Conversível"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XK-8 BR Coupê XK-8 Coupê", "marca": "JAGUAR", "key": "xk-8-1367", "id": "1367", "name": "XK-8 BR Coupê XK-8 Coupê"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XKR Conversível 4.2  5.0 32V", "marca": "JAGUAR", "key": "xkr-4437", "id": "4437", "name": "XKR Conversível 4.2  5.0 32V"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XKR Coupê  4.2  5.0 32V", "marca": "JAGUAR", "key": "xkr-4438", "id": "4438", "name": "XKR Coupê  4.2  5.0 32V"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "XKR-S Coupé Supercharged 5.0 32V", "marca": "JAGUAR", "key": "xkr-s-6753", "id": "6753", "name": "XKR-S Coupé Supercharged 5.0 32V"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "X-Type ESTATE 3.0 24V 230cv", "marca": "JAGUAR", "key": "x-type-1368", "id": "1368", "name": "X-Type ESTATE 3.0 24V 230cv"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "X-Type SE 2.5 V6 194cv", "marca": "JAGUAR", "key": "x-type-1369", "id": "1369", "name": "X-Type SE 2.5 V6 194cv"
+}
+, {"fipe_marca": "Jaguar", "fipe_name": "X-Type SE 3.0 V6 231cv", "marca": "JAGUAR", "key": "x-type-1370", "id": "1370", "name": "X-Type SE 3.0 V6 231cv"
+}
+]

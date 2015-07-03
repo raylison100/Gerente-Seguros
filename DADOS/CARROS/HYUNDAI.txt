@@ -1,0 +1,238 @@
+{"contador" = "118"}
+[{"fipe_marca": "Hyundai", "name": "Accent GLS 1.5 1216V Aut.", "marca": "HYUNDAI", "key": "accent-1286", "id": "1286", "fipe_name": "Accent GLS 1.5 1216V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Accent GLS 1.5 1216V Mec.", "marca": "HYUNDAI", "key": "accent-1287", "id": "1287", "fipe_name": "Accent GLS 1.5 1216V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Accent GS 3p Mec", "marca": "HYUNDAI", "key": "accent-1288", "id": "1288", "fipe_name": "Accent GS 3p Mec"
+}
+, {"fipe_marca": "Hyundai", "name": "Accent L LR 1.5 24p", "marca": "HYUNDAI", "key": "accent-1289", "id": "1289", "fipe_name": "Accent L LR 1.5 24p"
+}
+, {"fipe_marca": "Hyundai", "name": "Accent LS 4p", "marca": "HYUNDAI", "key": "accent-1290", "id": "1290", "fipe_name": "Accent LS 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "Atos Prime GL 1.0 Mec", "marca": "HYUNDAI", "key": "atos-1291", "id": "1291", "fipe_name": "Atos Prime GL 1.0 Mec"
+}
+, {"fipe_marca": "Hyundai", "name": "Atos Prime GLS 1.0 Aut.", "marca": "HYUNDAI", "key": "atos-1292", "id": "1292", "fipe_name": "Atos Prime GLS 1.0 Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Atos Prime GLS 1.0 Mec.", "marca": "HYUNDAI", "key": "atos-1293", "id": "1293", "fipe_name": "Atos Prime GLS 1.0 Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Atos Prime GLS 1.0 Semi-Aut.", "marca": "HYUNDAI", "key": "atos-1294", "id": "1294", "fipe_name": "Atos Prime GLS 1.0 Semi-Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "AZERA 3.0 V6 24V 4p Aut.", "marca": "HYUNDAI", "key": "azera-5726", "id": "5726", "fipe_name": "AZERA 3.0 V6 24V 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "AZERA GLS 3.3 V6 24V 4p Aut.", "marca": "HYUNDAI", "key": "azera-4403", "id": "4403", "fipe_name": "AZERA GLS 3.3 V6 24V 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Coupê FX 2.0 Aut.", "marca": "HYUNDAI", "key": "coupe-1295", "id": "1295", "fipe_name": "Coupê FX 2.0 Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Coupê FX 2.0 Mec.", "marca": "HYUNDAI", "key": "coupe-1296", "id": "1296", "fipe_name": "Coupê FX 2.0 Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Coupe FX 2.7 V6 24V 180cv Aut.", "marca": "HYUNDAI", "key": "coupe-1297", "id": "1297", "fipe_name": "Coupe FX 2.7 V6 24V 180cv Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Coupe FX 2.7 V6 24V 180cv Mec.", "marca": "HYUNDAI", "key": "coupe-1298", "id": "1298", "fipe_name": "Coupe FX 2.7 V6 24V 180cv Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Cupê 2.0", "marca": "HYUNDAI", "key": "cupe-1299", "id": "1299", "fipe_name": "Cupê 2.0"
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GL", "marca": "HYUNDAI", "key": "elantra-1300", "id": "1300", "fipe_name": "Elantra GL"
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GLS 1.6", "marca": "HYUNDAI", "key": "elantra-1301", "id": "1301", "fipe_name": "Elantra GLS 1.6"
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GLS 1.8 16V", "marca": "HYUNDAI", "key": "elantra-1302", "id": "1302", "fipe_name": "Elantra GLS 1.8 16V"
+}
+, {"fipe_marca": "Hyundai", "name": "ELANTRA GLS 1.8 16V Aut.", "marca": "HYUNDAI", "key": "elantra-5638", "id": "5638", "fipe_name": "ELANTRA GLS 1.8 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "ELANTRA GLS 1.8 16V Mec.", "marca": "HYUNDAI", "key": "elantra-5639", "id": "5639", "fipe_name": "ELANTRA GLS 1.8 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GLS 2.0 16V Aut", "marca": "HYUNDAI", "key": "elantra-1303", "id": "1303", "fipe_name": "Elantra GLS 2.0 16V Aut"
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GLS 2.0 16V Flex Aut.", "marca": "HYUNDAI", "key": "elantra-6433", "id": "6433", "fipe_name": "Elantra GLS 2.0 16V Flex Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra GLS 2.0 16V Mec", "marca": "HYUNDAI", "key": "elantra-1304", "id": "1304", "fipe_name": "Elantra GLS 2.0 16V Mec"
+}
+, {"fipe_marca": "Hyundai", "name": "Elantra Wagon 1.8 16V", "marca": "HYUNDAI", "key": "elantra-1305", "id": "1305", "fipe_name": "Elantra Wagon 1.8 16V"
+}
+, {"fipe_marca": "Hyundai", "name": "EQUUS 4.6 V8 32V 366cv 4p Aut.", "marca": "HYUNDAI", "key": "equus-6176", "id": "6176", "fipe_name": "EQUUS 4.6 V8 32V 366cv 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Excel GLS", "marca": "HYUNDAI", "key": "excel-1306", "id": "1306", "fipe_name": "Excel GLS"
+}
+, {"fipe_marca": "Hyundai", "name": "Excel GS", "marca": "HYUNDAI", "key": "excel-1307", "id": "1307", "fipe_name": "Excel GS"
+}
+, {"fipe_marca": "Hyundai", "name": "Excel L", "marca": "HYUNDAI", "key": "excel-1308", "id": "1308", "fipe_name": "Excel L"
+}
+, {"fipe_marca": "Hyundai", "name": "Excel LS GL", "marca": "HYUNDAI", "key": "excel-1309", "id": "1309", "fipe_name": "Excel LS GL"
+}
+, {"fipe_marca": "Hyundai", "name": "Galloper 2.5 Luxo Turbo Diesel", "marca": "HYUNDAI", "key": "galloper-1310", "id": "1310", "fipe_name": "Galloper 2.5 Luxo Turbo Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "Galloper 2.5 Super Luxo Turbo Diesel", "marca": "HYUNDAI", "key": "galloper-1311", "id": "1311", "fipe_name": "Galloper 2.5 Super Luxo Turbo Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "Galloper 3.0 V6 Luxo", "marca": "HYUNDAI", "key": "galloper-1312", "id": "1312", "fipe_name": "Galloper 3.0 V6 Luxo"
+}
+, {"fipe_marca": "Hyundai", "name": "Galloper 3.0 V6 Super Luxo Aut", "marca": "HYUNDAI", "key": "galloper-1313", "id": "1313", "fipe_name": "Galloper 3.0 V6 Super Luxo Aut"
+}
+, {"fipe_marca": "Hyundai", "name": "Galloper 3.0 V6 Super Luxo Mec", "marca": "HYUNDAI", "key": "galloper-1314", "id": "1314", "fipe_name": "Galloper 3.0 V6 Super Luxo Mec"
+}
+, {"fipe_marca": "Hyundai", "name": "GENESIS 3.8 V6 24V 290cv 4p Aut.", "marca": "HYUNDAI", "key": "genesis-5930", "id": "5930", "fipe_name": "GENESIS 3.8 V6 24V 290cv 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Grand Santa Fé  3.3 V6 4X4 Tiptronic", "marca": "HYUNDAI", "key": "grand-6694", "id": "6694", "fipe_name": "Grand Santa Fé  3.3 V6 4X4 Tiptronic"
+}
+, {"fipe_marca": "Hyundai", "name": "H1 Starex HSV 2.4 16V 137cv  Aut.", "marca": "HYUNDAI", "key": "h1-1315", "id": "1315", "fipe_name": "H1 Starex HSV 2.4 16V 137cv  Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "H1 Starex HSV 2.5 Diesel", "marca": "HYUNDAI", "key": "h1-1316", "id": "1316", "fipe_name": "H1 Starex HSV 2.5 Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H1 Starex SVX 2.4 16V", "marca": "HYUNDAI", "key": "h1-4801", "id": "4801", "fipe_name": "H1 Starex SVX 2.4 16V"
+}
+, {"fipe_marca": "Hyundai", "name": "H1 Starex SVX 2.5 TDI 100cv Diesel", "marca": "HYUNDAI", "key": "h1-3957", "id": "3957", "fipe_name": "H1 Starex SVX 2.5 TDI 100cv Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H1 Starex SVX 2.6 85cv Diesel", "marca": "HYUNDAI", "key": "h1-1317", "id": "1317", "fipe_name": "H1 Starex SVX 2.6 85cv Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 DLX Furgão Diesel", "marca": "HYUNDAI", "key": "h100-1318", "id": "1318", "fipe_name": "H100 DLX Furgão Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 DLX Panel Diesel", "marca": "HYUNDAI", "key": "h100-1319", "id": "1319", "fipe_name": "H100 DLX Panel Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 GL Diesel", "marca": "HYUNDAI", "key": "h100-1320", "id": "1320", "fipe_name": "H100 GL Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 GL Furgão Extra-Longo Diesel", "marca": "HYUNDAI", "key": "h100-1321", "id": "1321", "fipe_name": "H100 GL Furgão Extra-Longo Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 GLS Diesel", "marca": "HYUNDAI", "key": "h100-1322", "id": "1322", "fipe_name": "H100 GLS Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 GS (12 lugares)", "marca": "HYUNDAI", "key": "h100-1323", "id": "1323", "fipe_name": "H100 GS (12 lugares)"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 GS Diesel (12 lugares)", "marca": "HYUNDAI", "key": "h100-1324", "id": "1324", "fipe_name": "H100 GS Diesel (12 lugares)"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 Porter Truck Diesel", "marca": "HYUNDAI", "key": "h100-1325", "id": "1325", "fipe_name": "H100 Porter Truck Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 SPR Diesel (15 lugares)", "marca": "HYUNDAI", "key": "h100-1326", "id": "1326", "fipe_name": "H100 SPR Diesel (15 lugares)"
+}
+, {"fipe_marca": "Hyundai", "name": "H100 Top Diesel", "marca": "HYUNDAI", "key": "h100-1327", "id": "1327", "fipe_name": "H100 Top Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 C.C.PlusC.Style 1.6 Flex 16V Mec.", "marca": "HYUNDAI", "key": "hb20-6207", "id": "6207", "fipe_name": "HB20 C.C.PlusC.Style 1.6 Flex 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 C.StyleC.Plus 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20-6206", "id": "6206", "fipe_name": "HB20 C.StyleC.Plus 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Comf.C.PlusC.Style 1.0 Flex 12V", "marca": "HYUNDAI", "key": "hb20-6205", "id": "6205", "fipe_name": "HB20 Comf.C.PlusC.Style 1.0 Flex 12V"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Copa do Mundo 1.0 FLEX 12V Mec.", "marca": "HYUNDAI", "key": "hb20-6739", "id": "6739", "fipe_name": "HB20 Copa do Mundo 1.0 FLEX 12V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Copa do Mundo 1.6 FLEX 16V Aut.", "marca": "HYUNDAI", "key": "hb20-6741", "id": "6741", "fipe_name": "HB20 Copa do Mundo 1.6 FLEX 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Copa do Mundo 1.6 FLEX 16V Mec.", "marca": "HYUNDAI", "key": "hb20-6740", "id": "6740", "fipe_name": "HB20 Copa do Mundo 1.6 FLEX 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 For You 1.0 Flex 12V 5p", "marca": "HYUNDAI", "key": "hb20-6959", "id": "6959", "fipe_name": "HB20 For You 1.0 Flex 12V 5p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Premium 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20-6208", "id": "6208", "fipe_name": "HB20 Premium 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Premium 1.6 Flex 16V Mec.", "marca": "HYUNDAI", "key": "hb20-6209", "id": "6209", "fipe_name": "HB20 Premium 1.6 Flex 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 S For You 1.0 Flex 12V 4p", "marca": "HYUNDAI", "key": "hb20-6960", "id": "6960", "fipe_name": "HB20 S For You 1.0 Flex 12V 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Spicy 1.0 Flex 12V Mec.", "marca": "HYUNDAI", "key": "hb20-7154", "id": "7154", "fipe_name": "HB20 Spicy 1.0 Flex 12V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Spicy 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20-7155", "id": "7155", "fipe_name": "HB20 Spicy 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20 Spicy 1.6 Flex 16V Mec.", "marca": "HYUNDAI", "key": "hb20-7156", "id": "7156", "fipe_name": "HB20 Spicy 1.6 Flex 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S  Impress 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20s-7260", "id": "7260", "fipe_name": "HB20S  Impress 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S  Impress 1.6 Flex 16v Mec.", "marca": "HYUNDAI", "key": "hb20s-7261", "id": "7261", "fipe_name": "HB20S  Impress 1.6 Flex 16v Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S C.PlusC.Style 1.6 Flex 16V Mec.4p", "marca": "HYUNDAI", "key": "hb20s-6436", "id": "6436", "fipe_name": "HB20S C.PlusC.Style 1.6 Flex 16V Mec.4p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S C.PlusC.Style1.0 Flex 12V Mec. 4P", "marca": "HYUNDAI", "key": "hb20s-6434", "id": "6434", "fipe_name": "HB20S C.PlusC.Style1.0 Flex 12V Mec. 4P"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S C.StyleC.Plus1.6 Flex 16V Aut. 4p", "marca": "HYUNDAI", "key": "hb20s-6435", "id": "6435", "fipe_name": "HB20S C.StyleC.Plus1.6 Flex 16V Aut. 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S Copa do Mundo 1.0 FLEX 12V Mec.", "marca": "HYUNDAI", "key": "hb20s-6742", "id": "6742", "fipe_name": "HB20S Copa do Mundo 1.0 FLEX 12V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S Copa do Mundo 1.6 FLEX 16V Aut.", "marca": "HYUNDAI", "key": "hb20s-6744", "id": "6744", "fipe_name": "HB20S Copa do Mundo 1.6 FLEX 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S Copa do Mundo 1.6 FLEX 16V Mec.", "marca": "HYUNDAI", "key": "hb20s-6743", "id": "6743", "fipe_name": "HB20S Copa do Mundo 1.6 FLEX 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S Premium 1.6 Flex 16V Aut. 4p", "marca": "HYUNDAI", "key": "hb20s-6437", "id": "6437", "fipe_name": "HB20S Premium 1.6 Flex 16V Aut. 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20S Premium 1.6 Flex 16V Mec. 4p", "marca": "HYUNDAI", "key": "hb20s-6438", "id": "6438", "fipe_name": "HB20S Premium 1.6 Flex 16V Mec. 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "HB20X Premium 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20x-6352", "id": "6352", "fipe_name": "HB20X Premium 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20X Premium 1.6 Flex 16V Mec.", "marca": "HYUNDAI", "key": "hb20x-6353", "id": "6353", "fipe_name": "HB20X Premium 1.6 Flex 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20X Style 1.6 Flex 16V Aut.", "marca": "HYUNDAI", "key": "hb20x-6354", "id": "6354", "fipe_name": "HB20X Style 1.6 Flex 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "HB20X Style 1.6 Flex 16v Mec.", "marca": "HYUNDAI", "key": "hb20x-6355", "id": "6355", "fipe_name": "HB20X Style 1.6 Flex 16v Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "HR 2.5 TCI Diesel (RSRD)", "marca": "HYUNDAI", "key": "hr-1328", "id": "1328", "fipe_name": "HR 2.5 TCI Diesel (RSRD)"
+}
+, {"fipe_marca": "Hyundai", "name": "i30 1.6 16V Flex 5p Aut.", "marca": "HYUNDAI", "key": "i30-6356", "id": "6356", "fipe_name": "i30 1.6 16V Flex 5p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "i30 1.8 16V 148cv Aut. 5p", "marca": "HYUNDAI", "key": "i30-6695", "id": "6695", "fipe_name": "i30 1.8 16V 148cv Aut. 5p"
+}
+, {"fipe_marca": "Hyundai", "name": "i30 2.0 16V 145cv 5p Aut.", "marca": "HYUNDAI", "key": "i30-4925", "id": "4925", "fipe_name": "i30 2.0 16V 145cv 5p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "i30 2.0 16V 145cv 5p Mec.", "marca": "HYUNDAI", "key": "i30-5071", "id": "5071", "fipe_name": "i30 2.0 16V 145cv 5p Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "i30cw 2.0 16V 145cv Aut. 5p", "marca": "HYUNDAI", "key": "i30cw-5303", "id": "5303", "fipe_name": "i30cw 2.0 16V 145cv Aut. 5p"
+}
+, {"fipe_marca": "Hyundai", "name": "i30cw 2.0 16V 145cv Mec. 5p", "marca": "HYUNDAI", "key": "i30cw-5304", "id": "5304", "fipe_name": "i30cw 2.0 16V 145cv Mec. 5p"
+}
+, {"fipe_marca": "Hyundai", "name": "ix35 2.0 16V 170cv 2WD4WD Aut.", "marca": "HYUNDAI", "key": "ix35-5280", "id": "5280", "fipe_name": "ix35 2.0 16V 170cv 2WD4WD Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "ix35 2.0 16V 170cv 2WD4WD Mec.", "marca": "HYUNDAI", "key": "ix35-5279", "id": "5279", "fipe_name": "ix35 2.0 16V 170cv 2WD4WD Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "ix35 2.0 16V 2WD Flex Aut.", "marca": "HYUNDAI", "key": "ix35-5931", "id": "5931", "fipe_name": "ix35 2.0 16V 2WD Flex Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "ix35 2.0 16V 2WD Flex Mec.", "marca": "HYUNDAI", "key": "ix35-5932", "id": "5932", "fipe_name": "ix35 2.0 16V 2WD Flex Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Matrix GLS 1.8 16V 123cv Aut.", "marca": "HYUNDAI", "key": "matrix-1329", "id": "1329", "fipe_name": "Matrix GLS 1.8 16V 123cv Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Matrix GLS 1.8 16V 123cv Mec.", "marca": "HYUNDAI", "key": "matrix-1330", "id": "1330", "fipe_name": "Matrix GLS 1.8 16V 123cv Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Porter GL 4x2 CurtoLongo Diesel", "marca": "HYUNDAI", "key": "porter-1331", "id": "1331", "fipe_name": "Porter GL 4x2 CurtoLongo Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "Porter GLS CD 4x2 2.6 8V Diesel", "marca": "HYUNDAI", "key": "porter-1332", "id": "1332", "fipe_name": "Porter GLS CD 4x2 2.6 8V Diesel"
+}
+, {"fipe_marca": "Hyundai", "name": "Santa Fé GLS 3.3 V6 4X4 Tiptronic", "marca": "HYUNDAI", "key": "santa-6439", "id": "6439", "fipe_name": "Santa Fé GLS 3.3 V6 4X4 Tiptronic"
+}
+, {"fipe_marca": "Hyundai", "name": "Santa Fe GLS 2.4 Tiptronic", "marca": "HYUNDAI", "key": "santa-5727", "id": "5727", "fipe_name": "Santa Fe GLS 2.4 Tiptronic"
+}
+, {"fipe_marca": "Hyundai", "name": "Santa Fe GLS 2.7 V6 4x4TipTronic", "marca": "HYUNDAI", "key": "santa-1333", "id": "1333", "fipe_name": "Santa Fe GLS 2.7 V6 4x4TipTronic"
+}
+, {"fipe_marca": "Hyundai", "name": "Santa Fe GLS 3.5 V6 4x4 Tiptronic", "marca": "HYUNDAI", "key": "santa-5212", "id": "5212", "fipe_name": "Santa Fe GLS 3.5 V6 4x4 Tiptronic"
+}
+, {"fipe_marca": "Hyundai", "name": "Scoupe", "marca": "HYUNDAI", "key": "scoupe-1334", "id": "1334", "fipe_name": "Scoupe"
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata 2.4 16V 182cv 4p Aut.", "marca": "HYUNDAI", "key": "sonata-5398", "id": "5398", "fipe_name": "Sonata 2.4 16V 182cv 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GL 2.0 4p", "marca": "HYUNDAI", "key": "sonata-1335", "id": "1335", "fipe_name": "Sonata GL 2.0 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GLS 2.0 4p", "marca": "HYUNDAI", "key": "sonata-1336", "id": "1336", "fipe_name": "Sonata GLS 2.0 4p"
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GLS 2.5 Aut.", "marca": "HYUNDAI", "key": "sonata-1337", "id": "1337", "fipe_name": "Sonata GLS 2.5 Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GLS 2.7 V6 24V 179cv 4p Aut.", "marca": "HYUNDAI", "key": "sonata-1338", "id": "1338", "fipe_name": "Sonata GLS 2.7 V6 24V 179cv 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GLS 3.0 4p Aut", "marca": "HYUNDAI", "key": "sonata-1339", "id": "1339", "fipe_name": "Sonata GLS 3.0 4p Aut"
+}
+, {"fipe_marca": "Hyundai", "name": "Sonata GLS 3.3 V6 24V 235cv 4p Aut.", "marca": "HYUNDAI", "key": "sonata-3890", "id": "3890", "fipe_name": "Sonata GLS 3.3 V6 24V 235cv 4p Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Terracan 2.5 8V 100cv TB Diesel Aut.", "marca": "HYUNDAI", "key": "terracan-1340", "id": "1340", "fipe_name": "Terracan 2.5 8V 100cv TB Diesel Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Terracan 2.5 8V 100cv TB Diesel Mec.", "marca": "HYUNDAI", "key": "terracan-1341", "id": "1341", "fipe_name": "Terracan 2.5 8V 100cv TB Diesel Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Terracan 2.9 CRDI 8V 163cv Diesel Aut.", "marca": "HYUNDAI", "key": "terracan-1342", "id": "1342", "fipe_name": "Terracan 2.9 CRDI 8V 163cv Diesel Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Trajet GLS 2.7 V6 24v 179cv Aut.", "marca": "HYUNDAI", "key": "trajet-1343", "id": "1343", "fipe_name": "Trajet GLS 2.7 V6 24v 179cv Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.0 16V Aut.", "marca": "HYUNDAI", "key": "tucson-1344", "id": "1344", "fipe_name": "Tucson 2.0 16V Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.0 16V Flex Aut.", "marca": "HYUNDAI", "key": "tucson-6327", "id": "6327", "fipe_name": "Tucson 2.0 16V Flex Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.0 16V Flex Mec.", "marca": "HYUNDAI", "key": "tucson-6696", "id": "6696", "fipe_name": "Tucson 2.0 16V Flex Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.0 16V Mec.", "marca": "HYUNDAI", "key": "tucson-1345", "id": "1345", "fipe_name": "Tucson 2.0 16V Mec."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.0 CRDi 16V 112cv Diesel Aut.", "marca": "HYUNDAI", "key": "tucson-1346", "id": "1346", "fipe_name": "Tucson 2.0 CRDi 16V 112cv Diesel Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Tucson 2.7 MPFI 24V 175cv Aut.", "marca": "HYUNDAI", "key": "tucson-1347", "id": "1347", "fipe_name": "Tucson 2.7 MPFI 24V 175cv Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "Veloster 1.6 16V  140cv Aut.", "marca": "HYUNDAI", "key": "veloster-5640", "id": "5640", "fipe_name": "Veloster 1.6 16V  140cv Aut."
+}
+, {"fipe_marca": "Hyundai", "name": "VERACRUZ GLS 3.8 4WD Aut.", "marca": "HYUNDAI", "key": "veracruz-4384", "id": "4384", "fipe_name": "VERACRUZ GLS 3.8 4WD Aut."
+}
+]

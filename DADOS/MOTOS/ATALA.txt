@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "ATALA", "fipe_name": "CALIFFONE 50cc", "marca": "ATALA", "key": "califfone-2614", "id": "2614", "name": "CALIFFONE 50cc"
+}
+, {"fipe_marca": "ATALA", "fipe_name": "MASTER 50cc", "marca": "ATALA", "key": "master-2615", "id": "2615", "name": "MASTER 50cc"
+}
+, {"fipe_marca": "ATALA", "fipe_name": "SKEGIA 50cc", "marca": "ATALA", "key": "skegia-2616", "id": "2616", "name": "SKEGIA 50cc"
+}
+]

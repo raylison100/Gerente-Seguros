@@ -1,0 +1,10 @@
+{"contador" = "4"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2005-1", "name": "2005 Gasolina", "marca": "BMW", "key": "2005-2005-1", "veiculo": "745iA 4.4 V8 32V 333cv", "id": "2005-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2004-1", "name": "2004 Gasolina", "marca": "BMW", "key": "2004-2004-1", "veiculo": "745iA 4.4 V8 32V 333cv", "id": "2004-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "BMW", "key": "2003-2003-1", "veiculo": "745iA 4.4 V8 32V 333cv", "id": "2003-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "BMW", "key": "2002-2002-1", "veiculo": "745iA 4.4 V8 32V 333cv", "id": "2002-1"
+}
+]

@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BMW", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "BMW", "key": "1995-1995-1", "veiculo": "318i Cabrio 1.8 16V", "id": "1995-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "1994-1", "name": "1994 Gasolina", "marca": "BMW", "key": "1994-1994-1", "veiculo": "318i Cabrio 1.8 16V", "id": "1994-1"
+}
+]

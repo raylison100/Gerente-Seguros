@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "BMW", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "BMW", "key": "2013-2013-1", "veiculo": "328iA LuxuryModern 2.0 TB 16V 4p", "id": "2013-1"
+}
+, {"fipe_marca": "BMW", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "BMW", "key": "2012-2012-1", "veiculo": "328iA LuxuryModern 2.0 TB 16V 4p", "id": "2012-1"
+}
+]

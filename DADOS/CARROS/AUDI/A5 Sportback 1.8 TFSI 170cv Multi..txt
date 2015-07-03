@@ -1,0 +1,6 @@
+{"contador" = "2"}
+[{"fipe_marca": "Audi", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "AUDI", "key": "32000-32000-1", "veiculo": "A5 Sportback 1.8 TFSI 170cv Multi.", "id": "32000-1"
+}
+, {"fipe_marca": "Audi", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "AUDI", "key": "2015-2015-1", "veiculo": "A5 Sportback 1.8 TFSI 170cv Multi.", "id": "2015-1"
+}
+]

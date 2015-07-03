@@ -1,0 +1,24 @@
+{"contador" = "11"}
+[{"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 GRAN LUXO 1.6", "marca": "RIGUETE", "key": "trc-01-6721", "id": "6721", "name": "TRC-01 GRAN LUXO 1.6"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 GRAN LUXO 1.8", "marca": "RIGUETE", "key": "trc-01-6761", "id": "6761", "name": "TRC-01 GRAN LUXO 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 JUNIOR 1.8", "marca": "RIGUETE", "key": "trc-01-6722", "id": "6722", "name": "TRC-01 JUNIOR 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 JUNIOR SE 1.8", "marca": "RIGUETE", "key": "trc-01-6723", "id": "6723", "name": "TRC-01 JUNIOR SE 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 LUXO 1.6", "marca": "RIGUETE", "key": "trc-01-6724", "id": "6724", "name": "TRC-01 LUXO 1.6"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 SUPER LUXO 1.6", "marca": "RIGUETE", "key": "trc-01-6725", "id": "6725", "name": "TRC-01 SUPER LUXO 1.6"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 SUPER LUXO 1.8", "marca": "RIGUETE", "key": "trc-01-6762", "id": "6762", "name": "TRC-01 SUPER LUXO 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 SUPER LUXO SE 1.6", "marca": "RIGUETE", "key": "trc-01-6726", "id": "6726", "name": "TRC-01 SUPER LUXO SE 1.6"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 SUPER LUXO SE 1.8", "marca": "RIGUETE", "key": "trc-01-6763", "id": "6763", "name": "TRC-01 SUPER LUXO SE 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 VERSÃO 1 1.8", "marca": "RIGUETE", "key": "trc-01-6727", "id": "6727", "name": "TRC-01 VERSÃO 1 1.8"
+}
+, {"fipe_marca": "RIGUETE", "fipe_name": "TRC-01 VERSÃO 2 1.8", "marca": "RIGUETE", "key": "trc-01-6728", "id": "6728", "name": "TRC-01 VERSÃO 2 1.8"
+}
+]

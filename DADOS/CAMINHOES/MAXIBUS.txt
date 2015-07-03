@@ -1,0 +1,8 @@
+{"contador" = "3"}
+[{"fipe_marca": "MAXIBUS", "fipe_name": "ASTOR ESCOLAR (diesel)(E5)", "marca": "MAXIBUS", "key": "astor-6556", "id": "6556", "name": "ASTOR ESCOLAR (diesel)(E5)"
+}
+, {"fipe_marca": "MAXIBUS", "fipe_name": "ASTOR TURISMO (diesel)(E5)", "marca": "MAXIBUS", "key": "astor-6557", "id": "6557", "name": "ASTOR TURISMO (diesel)(E5)"
+}
+, {"fipe_marca": "MAXIBUS", "fipe_name": "ASTOR URBANO (diesel)(E5)", "marca": "MAXIBUS", "key": "astor-6558", "id": "6558", "name": "ASTOR URBANO (diesel)(E5)"
+}
+]

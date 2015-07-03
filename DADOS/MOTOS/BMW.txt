@@ -1,0 +1,116 @@
+{"contador" = "57"}
+[{"fipe_marca": "BMW", "fipe_name": "C 600 Sport", "marca": "BMW", "key": "c-6760", "id": "6760", "name": "C 600 Sport"
+}
+, {"fipe_marca": "BMW", "fipe_name": "C 650 GT", "marca": "BMW", "key": "c-7219", "id": "7219", "name": "C 650 GT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 650", "marca": "BMW", "key": "f-2624", "id": "2624", "name": "F 650"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 650 CS", "marca": "BMW", "key": "f-2625", "id": "2625", "name": "F 650 CS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 650 GSDAKAR", "marca": "BMW", "key": "f-2626", "id": "2626", "name": "F 650 GSDAKAR"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 800 GS 798cc", "marca": "BMW", "key": "f-4805", "id": "4805", "name": "F 800 GS 798cc"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 800 GS Adventure", "marca": "BMW", "key": "f-6653", "id": "6653", "name": "F 800 GS Adventure"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 800 GS TRIPLE BLACK TROPHY", "marca": "BMW", "key": "f-6362", "id": "6362", "name": "F 800 GS TRIPLE BLACK TROPHY"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 800 R", "marca": "BMW", "key": "f-5048", "id": "5048", "name": "F 800 R"
+}
+, {"fipe_marca": "BMW", "fipe_name": "F 800 S 798cc", "marca": "BMW", "key": "f-4252", "id": "4252", "name": "F 800 S 798cc"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 450 X", "marca": "BMW", "key": "g-4817", "id": "4817", "name": "G 450 X"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 650 GS", "marca": "BMW", "key": "g-5196", "id": "5196", "name": "G 650 GS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 650 GS SERTÃO", "marca": "BMW", "key": "g-5985", "id": "5985", "name": "G 650 GS SERTÃO"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 650 X Challenge", "marca": "BMW", "key": "g-4443", "id": "4443", "name": "G 650 X Challenge"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 650 X Country", "marca": "BMW", "key": "g-4650", "id": "4650", "name": "G 650 X Country"
+}
+, {"fipe_marca": "BMW", "fipe_name": "G 650 X Moto", "marca": "BMW", "key": "g-4444", "id": "4444", "name": "G 650 X Moto"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1100 LT", "marca": "BMW", "key": "k-2627", "id": "2627", "name": "K 1100 LT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1100 RS", "marca": "BMW", "key": "k-2628", "id": "2628", "name": "K 1100 RS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1200 GT", "marca": "BMW", "key": "k-2629", "id": "2629", "name": "K 1200 GT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1200 LT", "marca": "BMW", "key": "k-2630", "id": "2630", "name": "K 1200 LT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1200 R", "marca": "BMW", "key": "k-3836", "id": "3836", "name": "K 1200 R"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1200 RS", "marca": "BMW", "key": "k-2631", "id": "2631", "name": "K 1200 RS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1200 S", "marca": "BMW", "key": "k-2632", "id": "2632", "name": "K 1200 S"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1300 GT", "marca": "BMW", "key": "k-4870", "id": "4870", "name": "K 1300 GT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1300 R", "marca": "BMW", "key": "k-4871", "id": "4871", "name": "K 1300 R"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1300 S", "marca": "BMW", "key": "k-4872", "id": "4872", "name": "K 1300 S"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1600 GT", "marca": "BMW", "key": "k-5631", "id": "5631", "name": "K 1600 GT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1600 GTL", "marca": "BMW", "key": "k-5630", "id": "5630", "name": "K 1600 GTL"
+}
+, {"fipe_marca": "BMW", "fipe_name": "K 1600 GTL Exclusive", "marca": "BMW", "key": "k-6847", "id": "6847", "name": "K 1600 GTL Exclusive"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 GS", "marca": "BMW", "key": "r-2633", "id": "2633", "name": "R 1100 GS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 GS-75", "marca": "BMW", "key": "r-2634", "id": "2634", "name": "R 1100 GS-75"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 R", "marca": "BMW", "key": "r-2635", "id": "2635", "name": "R 1100 R"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 RS", "marca": "BMW", "key": "r-2636", "id": "2636", "name": "R 1100 RS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 RT", "marca": "BMW", "key": "r-2637", "id": "2637", "name": "R 1100 RT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1100 S", "marca": "BMW", "key": "r-2638", "id": "2638", "name": "R 1100 S"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1150 GS", "marca": "BMW", "key": "r-2639", "id": "2639", "name": "R 1150 GS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1150 GS Adventure", "marca": "BMW", "key": "r-2640", "id": "2640", "name": "R 1150 GS Adventure"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1150 R R 1150 R Rockster", "marca": "BMW", "key": "r-2641", "id": "2641", "name": "R 1150 R R 1150 R Rockster"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1150 RS", "marca": "BMW", "key": "r-2642", "id": "2642", "name": "R 1150 RS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1150 RT", "marca": "BMW", "key": "r-2643", "id": "2643", "name": "R 1150 RT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 C AVANTGARD", "marca": "BMW", "key": "r-2644", "id": "2644", "name": "R 1200 C AVANTGARD"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 C Classic", "marca": "BMW", "key": "r-2645", "id": "2645", "name": "R 1200 C Classic"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 C Independent", "marca": "BMW", "key": "r-2646", "id": "2646", "name": "R 1200 C Independent"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 CL", "marca": "BMW", "key": "r-2647", "id": "2647", "name": "R 1200 CL"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS", "marca": "BMW", "key": "r-2648", "id": "2648", "name": "R 1200 GS"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS Adventure", "marca": "BMW", "key": "r-4150", "id": "4150", "name": "R 1200 GS Adventure"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS Adventure Triple Black", "marca": "BMW", "key": "r-6333", "id": "6333", "name": "R 1200 GS Adventure Triple Black"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS HP2", "marca": "BMW", "key": "r-4069", "id": "4069", "name": "R 1200 GS HP2"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS RALLYE", "marca": "BMW", "key": "r-6334", "id": "6334", "name": "R 1200 GS RALLYE"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 GS TRIPLE BLACK", "marca": "BMW", "key": "r-6363", "id": "6363", "name": "R 1200 GS TRIPLE BLACK"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 Nine T", "marca": "BMW", "key": "r-6848", "id": "6848", "name": "R 1200 Nine T"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 R R Classic", "marca": "BMW", "key": "r-5712", "id": "5712", "name": "R 1200 R R Classic"
+}
+, {"fipe_marca": "BMW", "fipe_name": "R 1200 RT", "marca": "BMW", "key": "r-2649", "id": "2649", "name": "R 1200 RT"
+}
+, {"fipe_marca": "BMW", "fipe_name": "S 1000 R", "marca": "BMW", "key": "s-6874", "id": "6874", "name": "S 1000 R"
+}
+, {"fipe_marca": "BMW", "fipe_name": "S 1000 RR", "marca": "BMW", "key": "s-5286", "id": "5286", "name": "S 1000 RR"
+}
+, {"fipe_marca": "BMW", "fipe_name": "S1000 RR HP4 COMPETITION", "marca": "BMW", "key": "s1000-6335", "id": "6335", "name": "S1000 RR HP4 COMPETITION"
+}
+, {"fipe_marca": "BMW", "fipe_name": "S1000 RR HP4 STREET", "marca": "BMW", "key": "s1000-6654", "id": "6654", "name": "S1000 RR HP4 STREET"
+}
+]

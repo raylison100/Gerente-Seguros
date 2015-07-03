@@ -1,0 +1,24 @@
+{"contador" = "11"}
+[{"fipe_marca": "GARINNI", "fipe_name": "GR08T4", "marca": "GARINNI", "key": "gr08t4-4548", "id": "4548", "name": "GR08T4"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR125S", "marca": "GARINNI", "key": "gr125s-5287", "id": "5287", "name": "GR125S"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR125ST", "marca": "GARINNI", "key": "gr125st-4738", "id": "4738", "name": "GR125ST"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR125T3", "marca": "GARINNI", "key": "gr125t3-4549", "id": "4549", "name": "GR125T3"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR125U", "marca": "GARINNI", "key": "gr125u-4550", "id": "4550", "name": "GR125U"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR125Z", "marca": "GARINNI", "key": "gr125z-4551", "id": "4551", "name": "GR125Z"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR150P GR150PI", "marca": "GARINNI", "key": "gr150p-4552", "id": "4552", "name": "GR150P GR150PI"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR150ST", "marca": "GARINNI", "key": "gr150st-4739", "id": "4739", "name": "GR150ST"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR150T3 GR150TI", "marca": "GARINNI", "key": "gr150t3-4553", "id": "4553", "name": "GR150T3 GR150TI"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR150U", "marca": "GARINNI", "key": "gr150u-4554", "id": "4554", "name": "GR150U"
+}
+, {"fipe_marca": "GARINNI", "fipe_name": "GR250T3", "marca": "GARINNI", "key": "gr250t3-4787", "id": "4787", "name": "GR250T3"
+}
+]
