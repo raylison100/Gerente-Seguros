@@ -11,17 +11,17 @@ public class Funcionario extends Pessoa implements Serializable{
 	private String cargo;
 	private static int numeroFuncionarios = 0;
 	private char[] senha;
-	private int nivel;
+	
 	
 
 	// construtor
 
-	public Funcionario(String cargo, char[] senha, int nivel) {
+	public Funcionario(String cargo, char[] senha) {
 		
 		this.setCargo(cargo);
 		numeroFuncionarios = numeroFuncionarios + 1;
 		this.setSenha(senha);
-		this.setNivel(nivel);
+		
 		
 	}
 	
@@ -60,17 +60,5 @@ public class Funcionario extends Pessoa implements Serializable{
 		if(senha != null && senha.length < 8 && senha.length >= 5)
 		this.senha = senha;
 	}
-
-
-	public int getNivel() {
-		return nivel;
-	}
-
-
-	public void setNivel(int nivel) {
-		this.nivel = nivel;
-	}
-
-	
 
 }

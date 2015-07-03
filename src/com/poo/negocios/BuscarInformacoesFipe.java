@@ -30,7 +30,7 @@ import java.net.URLDecoder;
 import java.util.ArrayList;
 
 
-public class BuscarInformacoesProfessor{
+public class BuscarInformacoesFipe{
 		static Cliente prof;
 		
 	public static void main(String[] args) throws IOException {
