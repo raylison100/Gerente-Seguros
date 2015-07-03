@@ -1,5 +1,6 @@
 package com.poo.dados;
 
+import com.poo.execoes.CPFCadastradoExeception;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -110,14 +111,18 @@ public class RepositorioPessoa implements IRepositorioPessoa, Serializable{
 	}
 
 	public void cadastra(Pessoa c) throws IOException,
-			CadatroPessoaExistenteExeception, ProcuraPessoaInexistenteExeception {
+			CadatroPessoaExistenteExeception, CPFCadastradoExeception{
 
 	    	if (c != null)
 				if (this.existe(c.getNome())) {
-					throw new CadatroPessoaExistenteExeception(
+				throw new CadatroPessoaExistenteExeception(
 							c.getNome());
 					
-				} else {
+				}else if(this.existe(c.getCpf())){
+                                    
+                                    throw  new CPFCadastradoExeception();
+                                    
+                                }else{
 					this.pessoa[proxima] = (Pessoa) c;
 					this.proxima = this.proxima + 1;
 				}
@@ -137,12 +142,16 @@ public class RepositorioPessoa implements IRepositorioPessoa, Serializable{
 			resultado = this.pessoa[i];
 		else throw new ProcuraPessoaInexistenteExeception(); 
 		
+		
+		
 
-		return resultado;
+		return  resultado;
 
 	}
+	
 
-	public boolean existe(String nome) throws ProcuraPessoaInexistenteExeception {
+
+	public boolean existe(String nome) {
 
 		boolean existe = false;
 		int indice = this.procurarIndice(nome);
@@ -174,7 +183,7 @@ public class RepositorioPessoa implements IRepositorioPessoa, Serializable{
 		boolean achou = false;
 
 		while ((!achou) && (i < this.proxima)) {
-			if (nome.equals(this.pessoa[i].getNome())) {
+			if (nome.equals(this.pessoa[i].getNome()) || nome.equals(this.pessoa[i].getCpf())) {
 
 				achou = true;
 

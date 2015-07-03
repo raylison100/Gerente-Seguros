@@ -7,6 +7,7 @@ import com.poo.dados.RepositorioPessoa;
 import com.poo.execoes.CadatroPessoaExistenteExeception;
 import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.execoes.SenhaIncorretaExeception;
+import com.poo.negocios.beans.Cliente;
 import com.poo.negocios.beans.Funcionario;
 import com.poo.negocios.beans.Pessoa;
 
@@ -26,8 +27,7 @@ public class CadastroPessoa {
 	}
 
 	public void cadatrar(Pessoa c) throws IOException,
-			CadatroPessoaExistenteExeception,
-			ProcuraPessoaInexistenteExeception {
+			CadatroPessoaExistenteExeception{
 		this.repositorio.cadastra(c);
 
 	}
@@ -55,6 +55,8 @@ public class CadastroPessoa {
 		Pessoa p = this.repositorio.procurar(nome);
 		return p;
 	}
+	
+
 	
 	
 

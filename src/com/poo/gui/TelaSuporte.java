@@ -203,10 +203,13 @@ public class TelaSuporte extends javax.swing.JFrame {
 			}catch(ProcuraPessoaInexistenteExeception ppi){
 				
 				JOptionPane.showMessageDialog(null, ppi.getMessage());
+                                jTextFieldNome.setText("");
+                                jPasswordField1.setText("");
 			
 			} catch (SenhaIncorretaExeception sie) {
 			
 				JOptionPane.showMessageDialog(null, sie.getMessage());
+                                jPasswordField1.setText("");
 			}
     }//GEN-LAST:event_jButtonLoginActionPerformed
 

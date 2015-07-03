@@ -201,5 +201,11 @@ public class RepositorioAutomovel implements IRepositorioAutomovel,
 
 		return auto;
 	}
+        
+         public Automovel ultimoAuto(){
+            
+             return auto[auto.length-1];
+            
+        }
 
 }

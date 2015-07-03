@@ -52,4 +52,9 @@ public class CadastroAuto {
 		Automovel a = this.repositorio.procurar(placa);
 		return a;
 	}
+        
+        public Automovel ultimoAuto(){
+            
+            return repositorio.ultimoAuto();
+        }
 }

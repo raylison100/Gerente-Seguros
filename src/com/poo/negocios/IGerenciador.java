@@ -1,5 +1,6 @@
 package com.poo.negocios;
 
+import com.poo.execoes.CPFInvalidoExeception;
 import java.io.IOException;
 
 import com.poo.execoes.CadatroAutoExistenteExeception;
@@ -18,9 +19,13 @@ import com.poo.negocios.beans.Sinistro;
 
 public interface IGerenciador {
 
-	public void cadatrarCliente(Pessoa c) throws IOException,
+	public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
+			String orgaoEmissao, String sexo, String telefone,
+			String estadoCivil,String cnh, String datPrimeiraHab,
+			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
+			String numero, String complemento, String cidade, String estado) throws IOException,
 			CadatroPessoaExistenteExeception,
-			ProcuraPessoaInexistenteExeception;
+			CPFInvalidoExeception;
 
 	public Pessoa[] exibiCliente() throws IOException;
 
@@ -38,7 +43,7 @@ public interface IGerenciador {
 	public boolean validarSenhaS(String nome, char[] senha)
 			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
 
-	public void cadatrarAuto(Automovel a) throws IOException,
+	public void cadatrarAuto(String marca, String modelo, String versao,String placa) throws IOException,
 			CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception;
 
 	public Automovel[] exibiAuto() throws IOException;
@@ -71,5 +76,7 @@ public interface IGerenciador {
 
 	public Contrato pesquisarContrato(int numero)
 			throws ProcuraContraInexistenteExeception;
+
+    public Automovel lastAutomovel();
 
 }

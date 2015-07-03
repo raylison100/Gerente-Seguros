@@ -137,12 +137,12 @@
           <Layout>
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="jTabbedPane1" alignment="0" pref="807" max="32767" attributes="0"/>
+                  <Component id="jTabbedPane1" alignment="0" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Component id="jTabbedPane1" alignment="0" pref="439" max="32767" attributes="0"/>
+                  <Component id="jTabbedPane1" alignment="0" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
           </Layout>
@@ -163,12 +163,12 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane2" alignment="0" pref="802" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane2" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane2" alignment="0" pref="411" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane2" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
@@ -248,11 +248,11 @@
                                                                       <Component id="jTextField1CidadeCadastroCliente" min="-2" pref="136" max="-2" attributes="0"/>
                                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                                                       <Component id="Estado" min="-2" max="-2" attributes="0"/>
-                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                                      <Component id="jTextField1EstadoCadastroCliente" min="-2" pref="40" max="-2" attributes="0"/>
+                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                      <Component id="jComboBoxEstados" min="-2" pref="46" max="-2" attributes="0"/>
                                                                   </Group>
                                                               </Group>
-                                                              <EmptySpace max="32767" attributes="0"/>
+                                                              <EmptySpace pref="243" max="32767" attributes="0"/>
                                                           </Group>
                                                       </Group>
                                                   </Group>
@@ -379,7 +379,7 @@
                                                   <Component id="Cidade" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="jTextField1BairroCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Estado" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1EstadoCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBoxEstados" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
@@ -399,7 +399,7 @@
                                                   <Component id="jButtonSalvarCadastroClientes" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
-                                              <EmptySpace pref="40" max="32767" attributes="0"/>
+                                              <EmptySpace pref="26" max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -544,8 +544,6 @@
                                         <Property name="text" type="java.lang.String" value="Estado"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1EstadoCadastroCliente">
-                                    </Component>
                                     <Component class="javax.swing.JLabel" name="Numero_Cnh">
                                       <Properties>
                                         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
@@ -634,6 +632,41 @@
                                         <Property name="text" type="java.lang.String" value="Cancelar"/>
                                       </Properties>
                                     </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxEstados">
+                                      <Properties>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="27">
+                                            <StringItem index="0" value="AC&#x9; "/>
+                                            <StringItem index="1" value="AL&#x9; "/>
+                                            <StringItem index="2" value="AP&#x9; "/>
+                                            <StringItem index="3" value="AM&#x9; "/>
+                                            <StringItem index="4" value="BA&#x9; "/>
+                                            <StringItem index="5" value="CE&#x9; "/>
+                                            <StringItem index="6" value="DF&#x9; "/>
+                                            <StringItem index="7" value="ES&#x9; "/>
+                                            <StringItem index="8" value="GO&#x9; "/>
+                                            <StringItem index="9" value="MA&#x9; "/>
+                                            <StringItem index="10" value="MT&#x9; "/>
+                                            <StringItem index="11" value="MS&#x9; "/>
+                                            <StringItem index="12" value="MG&#x9; "/>
+                                            <StringItem index="13" value="PA&#x9; "/>
+                                            <StringItem index="14" value="PB&#x9; "/>
+                                            <StringItem index="15" value="PR&#x9; "/>
+                                            <StringItem index="16" value="PE&#x9; "/>
+                                            <StringItem index="17" value="PI&#x9; "/>
+                                            <StringItem index="18" value="RJ&#x9; "/>
+                                            <StringItem index="19" value="RN&#x9; "/>
+                                            <StringItem index="20" value="RS&#x9; "/>
+                                            <StringItem index="21" value="RO&#x9; "/>
+                                            <StringItem index="22" value="RR&#x9; "/>
+                                            <StringItem index="23" value="SC&#x9; "/>
+                                            <StringItem index="24" value="SP&#x9; "/>
+                                            <StringItem index="25" value="SE&#x9; "/>
+                                            <StringItem index="26" value="TO"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
                                   </SubComponents>
                                 </Container>
                               </SubComponents>
@@ -681,9 +714,9 @@
                                                   <Group type="102" alignment="0" attributes="0">
                                                       <Component id="CpfBucaCadastroCliente1" min="-2" max="-2" attributes="0"/>
                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                      <Component id="jTextField1CpfBuscaCadastroCliente1" min="-2" pref="142" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldNomeCpfBuscaBuscaCliente" min="-2" pref="142" max="-2" attributes="0"/>
                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                      <Component id="jButton1OkBuscaCadastroCliente1" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jButtonOkBuscaCadastroCliente" min="-2" max="-2" attributes="0"/>
                                                   </Group>
                                                   <Group type="102" alignment="0" attributes="0">
                                                       <Group type="103" groupAlignment="0" attributes="0">
@@ -693,36 +726,36 @@
                                                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Group type="102" alignment="0" attributes="0">
-                                                              <Component id="jTextFieldEnderecoCadastroCliente2" min="-2" pref="233" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldEnderecoBuscaCliente" min="-2" pref="233" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Component id="Numero2" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace max="-2" attributes="0"/>
-                                                              <Component id="jTextField1NumeroCadastroCliente8" min="-2" pref="57" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNumeroBuscaCliente" min="-2" pref="57" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Component id="Complemento2" min="-2" max="-2" attributes="0"/>
                                                           </Group>
-                                                          <Component id="jTextFieldEstadoCivilCadastroCliente5" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                                          <Component id="jTextFieldEstadoCivilBuscaCliente" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
                                                           <Group type="102" alignment="0" attributes="0">
-                                                              <Component id="jTextField1BairroCadastroCliente2" min="-2" pref="104" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldBairroBuscaCliente" min="-2" pref="104" max="-2" attributes="0"/>
                                                               <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
                                                               <Component id="Cidade2" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
-                                                              <Component id="jTextField1CidadeCadastroCliente2" min="-2" pref="136" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1CidadeBuscaCliente" min="-2" pref="136" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Component id="Estado2" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                              <Component id="jTextField1EstadoCadastroCliente2" min="-2" pref="40" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1EstadoBuscaCliente" min="-2" pref="40" max="-2" attributes="0"/>
                                                           </Group>
                                                       </Group>
                                                   </Group>
                                                   <Group type="102" alignment="0" attributes="0">
                                                       <Component id="Profissão2" min="-2" max="-2" attributes="0"/>
                                                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                                                      <Component id="jTextField1ProfissaoCadastroCliente2" min="-2" pref="117" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldProfissaoBuscaCliente" min="-2" pref="117" max="-2" attributes="0"/>
                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                                       <Component id="Escolaridade2" min="-2" max="-2" attributes="0"/>
                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                      <Component id="jComboBox1EscolaridadeCadastroCliente2" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jComboBoxEscolaridadeBuscaCliente" min="-2" max="-2" attributes="0"/>
                                                   </Group>
                                                   <Group type="103" alignment="0" groupAlignment="1" attributes="0">
                                                       <Group type="102" attributes="0">
@@ -733,47 +766,47 @@
                                                           <Component id="jButtonRemoverCadastroCliente" min="-2" max="-2" attributes="0"/>
                                                       </Group>
                                                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                                                          <Component id="jTextField1ComplementoCadastroCliente2" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
+                                                          <Component id="jTextFieldComplementoBuscaCliente" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
                                                           <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Group type="102" alignment="0" attributes="0">
                                                               <Component id="Numero_Cnh2" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                              <Component id="jTextField1NumeroCnhCadastroCliente2" min="-2" pref="120" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNumeroCnhBuscaCliente" min="-2" pref="120" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Component id="Data_PrimeiraHab2" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                              <Component id="jTextField1DataHabCadastroCliente2" min="-2" pref="89" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldDataHabBuscaCliente" min="-2" pref="89" max="-2" attributes="0"/>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Component id="Vencimento_Hab2" min="-2" max="-2" attributes="0"/>
-                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                              <Component id="jTextField1VencimentoHabCadastroCliente2" min="-2" pref="92" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldVencimentoHabBuscaCliente" min="-2" pref="92" max="-2" attributes="0"/>
                                                           </Group>
                                                           <Group type="102" alignment="0" attributes="0">
                                                               <Component id="Nome6" min="-2" max="-2" attributes="0"/>
                                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                                                              <Component id="jTextFieldNomeCadastroCliente6" max="32767" attributes="0"/>
+                                                              <Component id="jTextFieldNomeBuscarCliente" max="32767" attributes="0"/>
                                                           </Group>
                                                           <Group type="102" alignment="0" attributes="0">
                                                               <Group type="103" groupAlignment="1" max="-2" attributes="0">
                                                                   <Group type="102" alignment="1" attributes="0">
                                                                       <Component id="Sexo18" min="-2" max="-2" attributes="0"/>
                                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                                      <Component id="jComboBox1SexoCadastroCliente2" min="-2" pref="119" max="-2" attributes="0"/>
+                                                                      <Component id="jComboBoxSexoBuscaCliente" min="-2" pref="119" max="-2" attributes="0"/>
                                                                       <EmptySpace type="separate" max="-2" attributes="0"/>
                                                                       <Component id="Telefone6" min="-2" max="-2" attributes="0"/>
                                                                   </Group>
                                                                   <Group type="102" alignment="0" attributes="0">
                                                                       <Component id="Cpf6" min="-2" max="-2" attributes="0"/>
                                                                       <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
-                                                                      <Component id="jTextFieldCpfCadastroCliente6" min="-2" pref="148" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldCpfBuscaCliente" min="-2" pref="148" max="-2" attributes="0"/>
                                                                       <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
                                                                       <Component id="Rg6" min="-2" max="-2" attributes="0"/>
                                                                   </Group>
                                                               </Group>
                                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                                               <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="jTextFieldRgCadastroCliente5" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
-                                                                  <Component id="jTextFieldTelefoneCadastroCliente8" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldRgBuscaCliente" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldTelefoneBuscaCliente" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
                                                               </Group>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Group type="103" groupAlignment="0" attributes="0">
@@ -782,8 +815,8 @@
                                                               </Group>
                                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                                               <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="jTextFieldOrgaoEmisorCadastroCliente6" alignment="0" max="32767" attributes="0"/>
-                                                                  <Component id="jTextFieldDataEmisaoCadastroCliente6" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldOrgaoEmisorBuscaoCliente" alignment="0" max="32767" attributes="0"/>
+                                                                  <Component id="jTextFieldDataEmisaoBuscaCliente" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
                                                               </Group>
                                                           </Group>
                                                       </Group>
@@ -800,72 +833,72 @@
                                               <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="CpfBucaCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1CpfBuscaCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jButton1OkBuscaCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeCpfBuscaBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButtonOkBuscaCadastroCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                               <Component id="jSeparator3" min="-2" pref="10" max="-2" attributes="0"/>
                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Nome6" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldNomeCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeBuscarCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Cpf6" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Rg6" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldDataEmisaoCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataEmisaoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="DataEmisao6" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldRgCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldCpfCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldRgBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCpfBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="OrgãoEmisor6" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldOrgaoEmisorCadastroCliente6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldOrgaoEmisorBuscaoCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Sexo18" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Telefone6" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldTelefoneCadastroCliente8" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jComboBox1SexoCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldTelefoneBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBoxSexoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Sexo19" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldEstadoCivilCadastroCliente5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEstadoCivilBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Sexo20" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextFieldEnderecoCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEnderecoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Complemento2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1ComplementoCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldComplementoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Numero2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1NumeroCadastroCliente8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNumeroBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1CidadeCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1CidadeBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Cidade2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1BairroCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldBairroBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Estado2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1EstadoCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1EstadoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Numero_Cnh2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1NumeroCnhCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNumeroCnhBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Data_PrimeiraHab2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1DataHabCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataHabBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Vencimento_Hab2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1VencimentoHabCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldVencimentoHabBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
                                                   <Component id="Profissão2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jTextField1ProfissaoCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldProfissaoBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                                   <Component id="Escolaridade2" alignment="3" min="-2" max="-2" attributes="0"/>
-                                                  <Component id="jComboBox1EscolaridadeCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBoxEscolaridadeBuscaCliente" alignment="3" min="-2" max="-2" attributes="0"/>
                                               </Group>
                                               <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="3" attributes="0">
@@ -887,12 +920,15 @@
                                         <Property name="text" type="java.lang.String" value="CPF / Nome"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1CpfBuscaCadastroCliente1">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeCpfBuscaBuscaCliente">
                                     </Component>
-                                    <Component class="javax.swing.JButton" name="jButton1OkBuscaCadastroCliente1">
+                                    <Component class="javax.swing.JButton" name="jButtonOkBuscaCadastroCliente">
                                       <Properties>
                                         <Property name="text" type="java.lang.String" value="OK"/>
                                       </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonOkBuscaCadastroClienteActionPerformed"/>
+                                      </Events>
                                     </Component>
                                     <Component class="javax.swing.JSeparator" name="jSeparator3">
                                     </Component>
@@ -904,7 +940,10 @@
                                         <Property name="text" type="java.lang.String" value="Nome"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeCadastroCliente6">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeBuscarCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Cpf6">
                                       <Properties>
@@ -914,7 +953,10 @@
                                         <Property name="text" type="java.lang.String" value="CPF"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfCadastroCliente6">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Rg6">
                                       <Properties>
@@ -924,7 +966,10 @@
                                         <Property name="text" type="java.lang.String" value="RG"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldRgCadastroCliente5">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldRgBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="DataEmisao6">
                                       <Properties>
@@ -934,7 +979,10 @@
                                         <Property name="text" type="java.lang.String" value="Data de Emis&#xe3;o"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoCadastroCliente6">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Sexo18">
                                       <Properties>
@@ -944,7 +992,7 @@
                                         <Property name="text" type="java.lang.String" value="Sexo"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JComboBox" name="jComboBox1SexoCadastroCliente2">
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxSexoBuscaCliente">
                                       <Properties>
                                         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                                           <Font name="Tahoma" size="12" style="0"/>
@@ -955,6 +1003,7 @@
                                             <StringItem index="1" value="Feminino"/>
                                           </StringArray>
                                         </Property>
+                                        <Property name="enabled" type="boolean" value="false"/>
                                       </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Telefone6">
@@ -965,7 +1014,10 @@
                                         <Property name="text" type="java.lang.String" value="Telefone"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldTelefoneCadastroCliente8">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldTelefoneBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Org&#xe3;oEmisor6">
                                       <Properties>
@@ -975,7 +1027,10 @@
                                         <Property name="text" type="java.lang.String" value="Org&#xe3;o Emisor"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorCadastroCliente6">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorBuscaoCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Sexo19">
                                       <Properties>
@@ -985,7 +1040,10 @@
                                         <Property name="text" type="java.lang.String" value="Estado Civil"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldEstadoCivilCadastroCliente5">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEstadoCivilBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Sexo20">
                                       <Properties>
@@ -995,9 +1053,12 @@
                                         <Property name="text" type="java.lang.String" value="Endere&#xe7;o"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextFieldEnderecoCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEnderecoBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                       <Events>
-                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoCadastroCliente2jTextFieldEnderecoCadastroCliente2ActionPerformed"/>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoBuscaClientejTextFieldEnderecoCadastroCliente2ActionPerformed"/>
                                       </Events>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Numero2">
@@ -1008,7 +1069,10 @@
                                         <Property name="text" type="java.lang.String" value="N&#xba;"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCadastroCliente8">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNumeroBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Complemento2">
                                       <Properties>
@@ -1018,7 +1082,10 @@
                                         <Property name="text" type="java.lang.String" value="Complemento"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1ComplementoCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldComplementoBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="jLabel4">
                                       <Properties>
@@ -1028,7 +1095,10 @@
                                         <Property name="text" type="java.lang.String" value="Bairro"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1BairroCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldBairroBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Cidade2">
                                       <Properties>
@@ -1038,7 +1108,10 @@
                                         <Property name="text" type="java.lang.String" value="Cidade"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1CidadeCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextField1CidadeBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Estado2">
                                       <Properties>
@@ -1048,7 +1121,10 @@
                                         <Property name="text" type="java.lang.String" value="Estado"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1EstadoCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextField1EstadoBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Numero_Cnh2">
                                       <Properties>
@@ -1058,9 +1134,12 @@
                                         <Property name="text" type="java.lang.String" value="N&#xba; CNH"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCnhCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNumeroCnhBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                       <Events>
-                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1NumeroCnhCadastroCliente2ActionPerformed"/>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldNumeroCnhBuscaClienteActionPerformed"/>
                                       </Events>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Data_PrimeiraHab2">
@@ -1071,7 +1150,10 @@
                                         <Property name="text" type="java.lang.String" value="Data 1&#xba; Habilita&#xe7;&#xe3;o"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1DataHabCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataHabBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Vencimento_Hab2">
                                       <Properties>
@@ -1081,7 +1163,10 @@
                                         <Property name="text" type="java.lang.String" value="Vencimento Habilita&#xe7;&#xe3;o"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1VencimentoHabCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldVencimentoHabBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Profiss&#xe3;o2">
                                       <Properties>
@@ -1091,7 +1176,10 @@
                                         <Property name="text" type="java.lang.String" value="Profiss&#xe3;o"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JTextField" name="jTextField1ProfissaoCadastroCliente2">
+                                    <Component class="javax.swing.JTextField" name="jTextFieldProfissaoBuscaCliente">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
                                     </Component>
                                     <Component class="javax.swing.JLabel" name="Escolaridade2">
                                       <Properties>
@@ -1101,7 +1189,7 @@
                                         <Property name="text" type="java.lang.String" value="Escolaridade"/>
                                       </Properties>
                                     </Component>
-                                    <Component class="javax.swing.JComboBox" name="jComboBox1EscolaridadeCadastroCliente2">
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxEscolaridadeBuscaCliente">
                                       <Properties>
                                         <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
                                           <StringArray count="6">
@@ -1113,6 +1201,7 @@
                                             <StringItem index="5" value="Ensino Superior Completo"/>
                                           </StringArray>
                                         </Property>
+                                        <Property name="enabled" type="boolean" value="false"/>
                                       </Properties>
                                     </Component>
                                     <Component class="javax.swing.JButton" name="jButtonAlterarCadastroCliente">
@@ -1153,12 +1242,12 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane3" alignment="0" pref="802" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane3" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane3" alignment="0" pref="411" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane3" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
@@ -1653,12 +1742,12 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane5" alignment="0" pref="802" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane5" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane5" alignment="0" pref="411" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane5" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
@@ -2157,12 +2246,12 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane4" alignment="0" pref="802" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane4" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane4" alignment="0" pref="411" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane4" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>

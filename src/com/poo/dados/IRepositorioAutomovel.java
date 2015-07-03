@@ -14,6 +14,7 @@ public interface IRepositorioAutomovel {
 	public boolean existe(String placa) throws ProcuraAutoInexistenteExeception;
 	public void remover (String placa)  throws IOException, ProcuraAutoInexistenteExeception;
 	public Automovel[] imprimiAuto() throws IOException;
+        public Automovel ultimoAuto();
 
 
 }

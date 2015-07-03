@@ -56,9 +56,7 @@ public class TesteCadastro {
 
 		
 			
-                    Automovel automovel1 = new Automovel("HONDA","CIVIC","2014\\2015","CIVIC HATCH DX","qwe-1234");
-                    Automovel automovel2 = new Automovel("FIAT","UNO","2014\\2015","TURBO 1.4 IE2P","asd-4567");
-                    Automovel automovel3 = new Automovel("VOLKWAGEN","GOL","2014\\2015","1.0 PLUS 8V-4P","zxc-7809");
+                
                     
                     
 					cliente1 = new Cliente( "RAYLISON", "10103566406",
@@ -76,20 +74,21 @@ public class TesteCadastro {
 					
 					//contrato = new Cliente();
 
-					fachada.cadatrarCliente(cliente1);
-					fachada.cadatrarCliente(cliente2);
-					fachada.cadatrarCliente(cliente3);
+					fachada.cadatrarCliente("Jose antonio", "10103566406",
+							"8123321", "12\12\12", "SDS", "MASCULINO",
+							"8188458982", "SOLTEIRO","sao cristovao",
+									"torroes", "50440280", "242", "b", "recife",
+									"pernambuco","12345777", "12\12\12",
+									"13\12\15", "JOGADOR", "MEDIO COMPLETO");
+					
+					
 
 					System.out.println("CADASTRO COM SUCESSO");
 
 				} catch (CadatroPessoaExistenteExeception cpe) {
 
 					System.out.println(cpe.getMessage());
-				} catch (ProcuraPessoaInexistenteExeception ppi) {
-
-					ppi.getMessage();
-
-				} catch (CPFInvalidoExeception cpfi) {
+				}  catch (CPFInvalidoExeception cpfi) {
 					System.out.println(cpfi.getMessage());
 				}
 

@@ -1,5 +1,7 @@
 package com.poo.negocios;
 
+import com.poo.execoes.CPFInvalidoExeception;
+
 import java.io.IOException;
 
 import com.poo.execoes.CadatroAutoExistenteExeception;
@@ -12,7 +14,10 @@ import com.poo.execoes.ProcuraPessoaInexistenteExeception;
 import com.poo.execoes.ProcuraSiniInexistenteExeception;
 import com.poo.execoes.SenhaIncorretaExeception;
 import com.poo.negocios.beans.Automovel;
+import com.poo.negocios.beans.Cliente;
 import com.poo.negocios.beans.Contrato;
+import com.poo.negocios.beans.Endereco;
+import com.poo.negocios.beans.Funcionario;
 import com.poo.negocios.beans.Pessoa;
 import com.poo.negocios.beans.Sinistro;
 
@@ -24,6 +29,7 @@ public class GerenciadorFachada implements IGerenciador {
 	private CadastroSinistro sini = new CadastroSinistro();
 	private ValidarSenha vS = new ValidarSenha();
 	private static IGerenciador instance;
+       
 
 	private GerenciadorFachada() {
 
@@ -36,10 +42,17 @@ public class GerenciadorFachada implements IGerenciador {
 		return instance;
 	}
 
-	public void cadatrarCliente(Pessoa c) throws IOException,
+	public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
+			String orgaoEmissao, String sexo, String telefone,
+			String estadoCivil,String cnh, String datPrimeiraHab,
+			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
+			String numero, String complemento, String cidade, String estado) throws IOException,
 			CadatroPessoaExistenteExeception,
-			ProcuraPessoaInexistenteExeception {
-
+			CPFInvalidoExeception {
+            
+                Endereco endereco = new Endereco(logradouro, bairro, cep, numero, complemento, cidade, estado);
+                Pessoa c =  new Cliente(nome, cpf, rg, datEmissao, orgaoEmissao, sexo, telefone, estadoCivil, endereco, cnh, datPrimeiraHab, vencHab, profissao, escolaridade);
+                        
 		this.pessoa.cadatrar(c);
 
 	}
@@ -63,10 +76,12 @@ public class GerenciadorFachada implements IGerenciador {
 	public Pessoa pesquisarPessoa(String nome)
 			throws ProcuraPessoaInexistenteExeception {
 
-		Pessoa c = this.pessoa.acharPessoa(nome);
-		return c;
+		Pessoa p = this.pessoa.acharPessoa(nome);
+		return p;
 
 	}
+	
+
 
 	public boolean validarSenhaF(String nome, char[] senha)
 			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception {
@@ -86,9 +101,10 @@ public class GerenciadorFachada implements IGerenciador {
 		return confirmada;
 	}
 
-	public void cadatrarAuto(Automovel a) throws IOException,
+	public void cadatrarAuto(String marca, String modelo, String versao,String placa) throws IOException,
 			CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception {
 
+            Automovel a = new Automovel(marca, modelo,versao, placa);
 		this.auto.cadatrar(a);
 
 	}
@@ -164,5 +180,12 @@ public class GerenciadorFachada implements IGerenciador {
 		return c;
 
 	}
+        
+       public Automovel lastAutomovel(){
+           
+          return  auto.ultimoAuto();
+       }
+
+	
 
 }

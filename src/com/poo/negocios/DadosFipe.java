@@ -33,7 +33,7 @@ public class DadosFipe implements Serializable{
 	private int marcasCaminhoes;
 
 	//CONSTRUTOR DA CLASSE
-	public DadosFipe() throws IOException {
+	public DadosFipe(){
 		
 	}
 	//METODO CHAMA TODOS OS METODOS QUE BAIXAM DADOS
