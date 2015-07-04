@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "Isuzu", "fipe_name": "Amigo 2.3 4x24x4", "marca": "ISUZU", "key": "amigo-1348", "id": "1348", "name": "Amigo 2.3 4x24x4"
-}
-, {"fipe_marca": "Isuzu", "fipe_name": "Hombre 2 WD XS 2.2", "marca": "ISUZU", "key": "hombre-1349", "id": "1349", "name": "Hombre 2 WD XS 2.2"
-}
-, {"fipe_marca": "Isuzu", "fipe_name": "Rodeo 3.2 V6", "marca": "ISUZU", "key": "rodeo-1350", "id": "1350", "name": "Rodeo 3.2 V6"
-}
-]

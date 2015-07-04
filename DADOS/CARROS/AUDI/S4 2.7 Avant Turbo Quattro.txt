@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Audi", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "AUDI", "key": "2001-2001-1", "veiculo": "S4 2.7 Avant Turbo Quattro", "id": "2001-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "AUDI", "key": "2000-2000-1", "veiculo": "S4 2.7 Avant Turbo Quattro", "id": "2000-1"
-}
-]

@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "BMW", "fipe_codigo": "1998-1", "name": "1998 Gasolina", "marca": "BMW", "key": "1998-1998-1", "veiculo": "323i Sport", "id": "1998-1"
-}
-]

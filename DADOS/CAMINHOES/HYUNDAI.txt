@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "HYUNDAI", "fipe_name": "HD78 3.0 16V 155cv (Diesel) 2p", "marca": "HYUNDAI", "key": "hd78-5681", "id": "5681", "name": "HD78 3.0 16V 155cv (Diesel) 2p"
-}
-]

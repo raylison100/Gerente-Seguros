@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "Audi", "fipe_codigo": "2006-1", "name": "2006 Gasolina", "marca": "AUDI", "key": "2006-2006-1", "veiculo": "A6 4.2 Avant Quattro Tiptronic", "id": "2006-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "AUDI", "key": "2001-2001-1", "veiculo": "A6 4.2 Avant Quattro Tiptronic", "id": "2001-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "AUDI", "key": "2000-2000-1", "veiculo": "A6 4.2 Avant Quattro Tiptronic", "id": "2000-1"
-}
-]

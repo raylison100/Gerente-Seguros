@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "Audi", "fipe_codigo": "1997-1", "name": "1997 Gasolina", "marca": "AUDI", "key": "1997-1997-1", "veiculo": "A4 2.8 Avant V6 12V", "id": "1997-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "1996-1", "name": "1996 Gasolina", "marca": "AUDI", "key": "1996-1996-1", "veiculo": "A4 2.8 Avant V6 12V", "id": "1996-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "1995-1", "name": "1995 Gasolina", "marca": "AUDI", "key": "1995-1995-1", "veiculo": "A4 2.8 Avant V6 12V", "id": "1995-1"
-}
-]

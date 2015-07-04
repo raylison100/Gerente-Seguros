@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "RAM", "fipe_name": "2500 LARAMIE SLT 6.7 TDI  CD 4x4 Diesel", "marca": "RAM", "key": "2500-6305", "id": "6305", "name": "2500 LARAMIE SLT 6.7 TDI  CD 4x4 Diesel"
-}
-, {"fipe_marca": "RAM", "fipe_name": "2500 LARAMIE SLT TROPIV. 6.7 4x4 Diesel", "marca": "RAM", "key": "2500-6306", "id": "6306", "name": "2500 LARAMIE SLT TROPIV. 6.7 4x4 Diesel"
-}
-]

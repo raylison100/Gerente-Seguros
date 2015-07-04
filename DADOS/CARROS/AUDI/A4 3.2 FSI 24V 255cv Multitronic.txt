@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Audi", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "AUDI", "key": "2008-2008-1", "veiculo": "A4 3.2 FSI 24V 255cv Multitronic", "id": "2008-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "AUDI", "key": "2007-2007-1", "veiculo": "A4 3.2 FSI 24V 255cv Multitronic", "id": "2007-1"
-}
-]

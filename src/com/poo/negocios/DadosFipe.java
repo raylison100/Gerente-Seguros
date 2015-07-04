@@ -734,6 +734,7 @@ public class DadosFipe implements Serializable{
 			o.printStackTrace();
 		}
 		resultado = Integer.parseInt(aux);
+		resultado = (resultado/2)+1;
 		return resultado;
 	}
 	//RETORNA TOTAL DE MODELOS DE UMA MARCA (RECEBE COMO ENTRADA UM TIPO E UMA MARCA
@@ -763,6 +764,7 @@ public class DadosFipe implements Serializable{
 				o.printStackTrace();
 			}
 			contador = Integer.parseInt(aux);
+			contador = (contador/2)+1;
 			return contador;
 		}
 	//CONTA QUANTOS MODELOS EXISTEM DE DETERMINADA MARCA
@@ -990,6 +992,7 @@ public class DadosFipe implements Serializable{
 		}
 		if(!aux.equals(null)){
 			contador = Integer.parseInt(aux);
+			contador = (contador/2)+1;
 		}else{
 			contador = 0;
 		}
@@ -1104,6 +1107,8 @@ public class DadosFipe implements Serializable{
 		return preco;
 	}
 
-		
+	//DOWNLOADS LIMITADOS
+	//BAIXAR CERTA MARCA DE CERTO TIPO
+	
 	
 }

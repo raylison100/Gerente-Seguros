@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "BMW", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "BMW", "key": "2001-2001-1", "veiculo": "740iLA Protection", "id": "2001-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "BMW", "key": "2000-2000-1", "veiculo": "740iLA Protection", "id": "2000-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "1999-1", "name": "1999 Gasolina", "marca": "BMW", "key": "1999-1999-1", "veiculo": "740iLA Protection", "id": "1999-1"
-}
-]

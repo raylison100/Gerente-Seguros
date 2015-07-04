@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "BMW", "fipe_codigo": "2008-1", "name": "2008 Gasolina", "marca": "BMW", "key": "2008-2008-1", "veiculo": "Z4 Coup\u00e9 M 3.2 V6 24V 343cv", "id": "2008-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2007-1", "name": "2007 Gasolina", "marca": "BMW", "key": "2007-2007-1", "veiculo": "Z4 Coup\u00e9 M 3.2 V6 24V 343cv", "id": "2007-1"
-}
-]

@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Audi", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "AUDI", "key": "32000-32000-1", "veiculo": "A6 2.0 TFSI 252cv S tronic 4p", "id": "32000-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "AUDI", "key": "2015-2015-1", "veiculo": "A6 2.0 TFSI 252cv S tronic 4p", "id": "2015-1"
-}
-]

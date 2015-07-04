@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "EMME", "fipe_name": "MIRAGE 50cc", "marca": "EMME", "key": "mirage-2699", "id": "2699", "name": "MIRAGE 50cc"
-}
-, {"fipe_marca": "EMME", "fipe_name": "ONE 50cc", "marca": "EMME", "key": "one-2700", "id": "2700", "name": "ONE 50cc"
-}
-, {"fipe_marca": "EMME", "fipe_name": "ONE RACING 50cc", "marca": "EMME", "key": "one-2701", "id": "2701", "name": "ONE RACING 50cc"
-}
-]

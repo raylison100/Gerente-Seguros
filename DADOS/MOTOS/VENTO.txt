@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "VENTO", "fipe_name": "rebellian 250", "marca": "VENTO", "key": "rebellian-5603", "id": "5603", "name": "rebellian 250"
-}
-, {"fipe_marca": "VENTO", "fipe_name": "TRITON Li 150", "marca": "VENTO", "key": "triton-5604", "id": "5604", "name": "TRITON Li 150"
-}
-, {"fipe_marca": "VENTO", "fipe_name": "Vthunder 250", "marca": "VENTO", "key": "vthunder-5605", "id": "5605", "name": "Vthunder 250"
-}
-]

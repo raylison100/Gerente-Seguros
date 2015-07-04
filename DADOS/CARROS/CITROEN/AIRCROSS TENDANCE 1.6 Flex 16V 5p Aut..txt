@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Citro\u00ebn", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "CITROEN", "key": "32000-32000-1", "veiculo": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Aut.", "id": "32000-1"
-}
-, {"fipe_marca": "Citro\u00ebn", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "CITROEN", "key": "2015-2015-1", "veiculo": "AIRCROSS TENDANCE 1.6 Flex 16V 5p Aut.", "id": "2015-1"
-}
-]

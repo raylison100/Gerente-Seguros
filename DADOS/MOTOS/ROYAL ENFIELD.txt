@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "Royal Enfield", "fipe_name": "ClassicClassic Chrome 500cc", "marca": "ROYAL ENFIELD", "key": "classic-classic-6476", "id": "6476", "name": "ClassicClassic Chrome 500cc"
-}
-]

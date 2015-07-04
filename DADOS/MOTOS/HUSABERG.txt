@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "HUSABERG", "fipe_name": "FE 400 400cc", "marca": "HUSABERG", "key": "fe-2830", "id": "2830", "name": "FE 400 400cc"
-}
-, {"fipe_marca": "HUSABERG", "fipe_name": "FE 501 500cc", "marca": "HUSABERG", "key": "fe-2831", "id": "2831", "name": "FE 501 500cc"
-}
-, {"fipe_marca": "HUSABERG", "fipe_name": "FE 550 E", "marca": "HUSABERG", "key": "fe-4075", "id": "4075", "name": "FE 550 E"
-}
-]

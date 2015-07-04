@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "SANYANG", "fipe_name": "ENJOY 50", "marca": "SANYANG", "key": "enjoy-2972", "id": "2972", "name": "ENJOY 50"
-}
-, {"fipe_marca": "SANYANG", "fipe_name": "HUSKY 150", "marca": "SANYANG", "key": "husky-2973", "id": "2973", "name": "HUSKY 150"
-}
-, {"fipe_marca": "SANYANG", "fipe_name": "PASSING 110", "marca": "SANYANG", "key": "passing-2974", "id": "2974", "name": "PASSING 110"
-}
-]

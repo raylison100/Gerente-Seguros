@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Pontiac", "fipe_name": "Trans-AM 5.7 V8", "marca": "PONTIAC", "key": "trans-am-1952", "id": "1952", "name": "Trans-AM 5.7 V8"
-}
-, {"fipe_marca": "Pontiac", "fipe_name": "Trans-Sport SE 3.1", "marca": "PONTIAC", "key": "trans-sport-1953", "id": "1953", "name": "Trans-Sport SE 3.1"
-}
-]

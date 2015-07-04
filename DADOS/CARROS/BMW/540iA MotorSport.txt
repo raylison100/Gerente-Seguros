@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "BMW", "fipe_codigo": "2003-1", "name": "2003 Gasolina", "marca": "BMW", "key": "2003-2003-1", "veiculo": "540iA MotorSport", "id": "2003-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2002-1", "name": "2002 Gasolina", "marca": "BMW", "key": "2002-2002-1", "veiculo": "540iA MotorSport", "id": "2002-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2001-1", "name": "2001 Gasolina", "marca": "BMW", "key": "2001-2001-1", "veiculo": "540iA MotorSport", "id": "2001-1"
-}
-]

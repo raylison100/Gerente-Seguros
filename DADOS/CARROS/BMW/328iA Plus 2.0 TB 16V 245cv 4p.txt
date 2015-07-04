@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "BMW", "fipe_codigo": "2013-1", "name": "2013 Gasolina", "marca": "BMW", "key": "2013-2013-1", "veiculo": "328iA Plus 2.0 TB 16V 245cv 4p", "id": "2013-1"
-}
-]

@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "Audi", "fipe_codigo": "2009-1", "name": "2009 Gasolina", "marca": "AUDI", "key": "2009-2009-1", "veiculo": "A5 3.2 FSI 24V 269cv Multitronic", "id": "2009-1"
-}
-]

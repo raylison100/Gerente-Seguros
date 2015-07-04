@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "JIAPENG VOLCANO", "fipe_name": "JP 110", "marca": "JIAPENG VOLCANO", "key": "jp-4510", "id": "4510", "name": "JP 110"
-}
-, {"fipe_marca": "JIAPENG VOLCANO", "fipe_name": "JP 150", "marca": "JIAPENG VOLCANO", "key": "jp-4511", "id": "4511", "name": "JP 150"
-}
-]

@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "PEGASSI", "fipe_name": "BR III 150CC", "marca": "PEGASSI", "key": "br-5155", "id": "5155", "name": "BR III 150CC"
-}
-]

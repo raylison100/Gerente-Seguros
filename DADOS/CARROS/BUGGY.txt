@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Buggy", "name": "Buggy 1.6 2-Lug.", "marca": "BUGGY", "key": "buggy-256", "id": "256", "fipe_name": "Buggy 1.6 2-Lug."
-}
-, {"fipe_marca": "Buggy", "name": "Buggy 1.6 TST RS 1.6 4-Lug.", "marca": "BUGGY", "key": "buggy-257", "id": "257", "fipe_name": "Buggy 1.6 TST RS 1.6 4-Lug."
-}
-]

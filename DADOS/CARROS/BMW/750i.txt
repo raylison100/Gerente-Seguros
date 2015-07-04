@@ -1,3 +1,0 @@
-{"contador" = "0"}
-{"request": "http:fipeapi.appspot.comapi1carrosveiculo77.json", "error": "Could not complete your request", "details": ""
-}

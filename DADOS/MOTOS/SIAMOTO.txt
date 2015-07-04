@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "SIAMOTO", "fipe_name": "SCROSS 50cc", "marca": "SIAMOTO", "key": "scross-2975", "id": "2975", "name": "SCROSS 50cc"
-}
-]

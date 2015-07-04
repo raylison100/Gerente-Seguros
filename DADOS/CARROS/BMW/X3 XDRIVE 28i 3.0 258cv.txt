@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "BMW", "fipe_codigo": "2012-1", "name": "2012 Gasolina", "marca": "BMW", "key": "2012-2012-1", "veiculo": "X3 XDRIVE 28i 3.0 258cv", "id": "2012-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2011-1", "name": "2011 Gasolina", "marca": "BMW", "key": "2011-2011-1", "veiculo": "X3 XDRIVE 28i 3.0 258cv", "id": "2011-1"
-}
-]

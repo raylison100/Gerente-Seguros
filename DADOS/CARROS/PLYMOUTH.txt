@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Plymouth", "fipe_name": "Gran Voyager LE 2.5", "marca": "PLYMOUTH", "key": "gran-1950", "id": "1950", "name": "Gran Voyager LE 2.5"
-}
-, {"fipe_marca": "Plymouth", "fipe_name": "Sundance 2.5", "marca": "PLYMOUTH", "key": "sundance-1951", "id": "1951", "name": "Sundance 2.5"
-}
-]

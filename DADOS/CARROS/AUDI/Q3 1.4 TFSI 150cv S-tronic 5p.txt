@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Audi", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "AUDI", "key": "32000-32000-1", "veiculo": "Q3 1.4 TFSI 150cv S-tronic 5p", "id": "32000-1"
-}
-, {"fipe_marca": "Audi", "fipe_codigo": "2016-1", "name": "2016 Gasolina", "marca": "AUDI", "key": "2016-2016-1", "veiculo": "Q3 1.4 TFSI 150cv S-tronic 5p", "id": "2016-1"
-}
-]

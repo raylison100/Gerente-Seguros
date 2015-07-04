@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "Gurgel", "fipe_name": "BR-800 (todos) Supermini", "marca": "GURGEL", "key": "br-800-1238", "id": "1238", "name": "BR-800 (todos) Supermini"
-}
-, {"fipe_marca": "Gurgel", "fipe_name": "Carajas Diesel", "marca": "GURGEL", "key": "carajas-1239", "id": "1239", "name": "Carajas Diesel"
-}
-, {"fipe_marca": "Gurgel", "fipe_name": "Carajas Tocantis Xavante Vip", "marca": "GURGEL", "key": "carajas-1240", "id": "1240", "name": "Carajas Tocantis Xavante Vip"
-}
-]

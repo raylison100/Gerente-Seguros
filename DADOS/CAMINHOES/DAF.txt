@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "DAF", "fipe_name": "XF 105 FTS 410 6x2 (diesel)(E5)", "marca": "DAF", "key": "xf-6705", "id": "6705", "name": "XF 105 FTS 410 6x2 (diesel)(E5)"
-}
-, {"fipe_marca": "DAF", "fipe_name": "XF 105 FTS 460 6x2 (diesel)(E5)", "marca": "DAF", "key": "xf-6706", "id": "6706", "name": "XF 105 FTS 460 6x2 (diesel)(E5)"
-}
-, {"fipe_marca": "DAF", "fipe_name": "XF 105 FTT 460 6x4 (diesel)(E5)", "marca": "DAF", "key": "xf-6707", "id": "6707", "name": "XF 105 FTT 460 6x4 (diesel)(E5)"
-}
-]

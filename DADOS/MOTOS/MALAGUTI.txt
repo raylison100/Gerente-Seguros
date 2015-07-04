@@ -1,6 +1,0 @@
-{"contador" = "2"}
-[{"fipe_marca": "Malaguti", "fipe_name": "CIAK MASTER 200", "marca": "MALAGUTI", "key": "ciak-4634", "id": "4634", "name": "CIAK MASTER 200"
-}
-, {"fipe_marca": "Malaguti", "fipe_name": "SPIDER MAXGT 500", "marca": "MALAGUTI", "key": "spider-4635", "id": "4635", "name": "SPIDER MAXGT 500"
-}
-]

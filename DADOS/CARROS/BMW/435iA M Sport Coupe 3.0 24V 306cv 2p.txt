@@ -1,8 +1,0 @@
-{"contador" = "3"}
-[{"fipe_marca": "BMW", "fipe_codigo": "32000-1", "name": "Zero KM Gasolina", "marca": "BMW", "key": "32000-32000-1", "veiculo": "435iA M Sport Coupe 3.0 24V 306cv 2p", "id": "32000-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2015-1", "name": "2015 Gasolina", "marca": "BMW", "key": "2015-2015-1", "veiculo": "435iA M Sport Coupe 3.0 24V 306cv 2p", "id": "2015-1"
-}
-, {"fipe_marca": "BMW", "fipe_codigo": "2014-1", "name": "2014 Gasolina", "marca": "BMW", "key": "2014-2014-1", "veiculo": "435iA M Sport Coupe 3.0 24V 306cv 2p", "id": "2014-1"
-}
-]

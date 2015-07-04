@@ -1,4 +1,0 @@
-{"contador" = "1"}
-[{"fipe_marca": "Audi", "fipe_codigo": "2000-1", "name": "2000 Gasolina", "marca": "AUDI", "key": "2000-2000-1", "veiculo": "A6 2.7 30V Mec.", "id": "2000-1"
-}
-]
