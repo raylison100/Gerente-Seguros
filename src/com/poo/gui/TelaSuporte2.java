@@ -183,22 +183,22 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jPanel16 = new javax.swing.JPanel();
         jLabel38 = new javax.swing.JLabel();
         jTextFieldNomeCPFCadastroContra = new javax.swing.JTextField();
-        jButton14 = new javax.swing.JButton();
+        jButtonokCadastroContra = new javax.swing.JButton();
         jLabel39 = new javax.swing.JLabel();
-        jComboBox19 = new javax.swing.JComboBox();
+        jComboBoxPLacaCadastraContrato = new javax.swing.JComboBox();
         jTextField17 = new javax.swing.JTextField();
         jLabel40 = new javax.swing.JLabel();
         jSeparator8 = new javax.swing.JSeparator();
-        jButton15 = new javax.swing.JButton();
+        jButtonGerarContrato = new javax.swing.JButton();
         jLabel41 = new javax.swing.JLabel();
-        jComboBox13 = new javax.swing.JComboBox();
+        jComboBoxCategoriaCadastroContra = new javax.swing.JComboBox();
         jLabel42 = new javax.swing.JLabel();
-        jComboBox14 = new javax.swing.JComboBox();
+        jComboBoxDuracaoCadatroContra = new javax.swing.JComboBox();
         jLabel43 = new javax.swing.JLabel();
         jScrollPane4 = new javax.swing.JScrollPane();
         jTextAreaobservacaoCadastroContra = new javax.swing.JTextArea();
         jLabel44 = new javax.swing.JLabel();
-        jTextField18 = new javax.swing.JTextField();
+        jTextFieldValorContra = new javax.swing.JTextField();
         jButton17 = new javax.swing.JButton();
         jPanel18 = new javax.swing.JPanel();
         jLabel45 = new javax.swing.JLabel();
@@ -918,7 +918,6 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jLabel24.setText("Tipo");
 
         jComboBoxTiposCadastroAutomoveis.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Carros", "Motos", "Caminhoes" }));
-        jComboBoxTiposCadastroAutomoveis.setEnabled(false);
         jComboBoxTiposCadastroAutomoveis.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBoxTiposCadastroAutomoveisActionPerformed(evt);
@@ -1160,32 +1159,43 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jLabel38.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel38.setText("Nome/Cpf");
 
-        jButton14.setText("OK");
+        jTextFieldNomeCPFCadastroContra.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextFieldNomeCPFCadastroContraActionPerformed(evt);
+            }
+        });
+
+        jButtonokCadastroContra.setText("OK");
+        jButtonokCadastroContra.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButtonokCadastroContraActionPerformed(evt);
+            }
+        });
 
         jLabel39.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel39.setText("Placa");
 
-        jComboBox19.setModel(new javax.swing.DefaultComboBoxModel(new String[] { " ", " " }));
+        jComboBoxPLacaCadastraContrato.setModel(new javax.swing.DefaultComboBoxModel(new String[] { " ", " " }));
 
         jTextField17.setEnabled(false);
 
         jLabel40.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel40.setText("Num. Contrato");
 
-        jButton15.setText("Gerar Contrato");
-        jButton15.setEnabled(false);
+        jButtonGerarContrato.setText("Gerar Contrato");
+        jButtonGerarContrato.setEnabled(false);
 
         jLabel41.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel41.setText("Categorio");
 
-        jComboBox13.setModel(new javax.swing.DefaultComboBoxModel(new String[] { " ", "Premium", "Lite", "Basic" }));
-        jComboBox13.setEnabled(false);
+        jComboBoxCategoriaCadastroContra.setModel(new javax.swing.DefaultComboBoxModel(new String[] { " ", "Premium", "Lite", "Basic" }));
+        jComboBoxCategoriaCadastroContra.setEnabled(false);
 
         jLabel42.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel42.setText("Duração");
 
-        jComboBox14.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12" }));
-        jComboBox14.setEnabled(false);
+        jComboBoxDuracaoCadatroContra.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12" }));
+        jComboBoxDuracaoCadatroContra.setEnabled(false);
 
         jLabel43.setText("Observações");
 
@@ -1197,7 +1207,7 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         jLabel44.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel44.setText("valor");
 
-        jTextField18.setEnabled(false);
+        jTextFieldValorContra.setEnabled(false);
 
         jButton17.setText("Limpar");
 
@@ -1216,12 +1226,12 @@ public class TelaSuporte2 extends javax.swing.JFrame {
                         .addGap(57, 57, 57)
                         .addComponent(jLabel39)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jComboBox19, javax.swing.GroupLayout.PREFERRED_SIZE, 144, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(jComboBoxPLacaCadastraContrato, javax.swing.GroupLayout.PREFERRED_SIZE, 144, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(28, 28, 28)
-                        .addComponent(jButton14))
+                        .addComponent(jButtonokCadastroContra))
                     .addGroup(jPanel16Layout.createSequentialGroup()
                         .addGap(112, 112, 112)
-                        .addComponent(jButton15)
+                        .addComponent(jButtonGerarContrato)
                         .addGap(18, 18, 18)
                         .addComponent(jLabel40)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
@@ -1235,15 +1245,15 @@ public class TelaSuporte2 extends javax.swing.JFrame {
                                     .addGroup(jPanel16Layout.createSequentialGroup()
                                         .addComponent(jLabel44)
                                         .addGap(9, 9, 9)
-                                        .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, 74, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                        .addComponent(jTextFieldValorContra, javax.swing.GroupLayout.PREFERRED_SIZE, 74, javax.swing.GroupLayout.PREFERRED_SIZE))
                                     .addGroup(jPanel16Layout.createSequentialGroup()
                                         .addComponent(jLabel41)
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(jComboBox13, javax.swing.GroupLayout.PREFERRED_SIZE, 98, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(jComboBoxCategoriaCadastroContra, javax.swing.GroupLayout.PREFERRED_SIZE, 98, javax.swing.GroupLayout.PREFERRED_SIZE)
                                         .addGap(43, 43, 43)
                                         .addComponent(jLabel42)
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                        .addComponent(jComboBox14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(jComboBoxDuracaoCadatroContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                         .addGap(18, 18, 18)
                                         .addComponent(jLabel43)))
                                 .addGap(33, 33, 33)
@@ -1257,9 +1267,9 @@ public class TelaSuporte2 extends javax.swing.JFrame {
                 .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel38)
                     .addComponent(jTextFieldNomeCPFCadastroContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButton14)
+                    .addComponent(jButtonokCadastroContra)
                     .addComponent(jLabel39)
-                    .addComponent(jComboBox19, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(jComboBoxPLacaCadastraContrato, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jSeparator8, javax.swing.GroupLayout.PREFERRED_SIZE, 10, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
@@ -1267,20 +1277,20 @@ public class TelaSuporte2 extends javax.swing.JFrame {
                     .addGroup(jPanel16Layout.createSequentialGroup()
                         .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jLabel41, javax.swing.GroupLayout.PREFERRED_SIZE, 20, javax.swing.GroupLayout.PREFERRED_SIZE)
-                            .addComponent(jComboBox13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jComboBoxCategoriaCadastroContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jLabel42)
-                            .addComponent(jComboBox14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jComboBoxDuracaoCadatroContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                             .addComponent(jLabel43))
                         .addGap(32, 32, 32)
                         .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jLabel44)
-                            .addComponent(jTextField18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addComponent(jTextFieldValorContra, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                     .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 149, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 59, Short.MAX_VALUE)
                 .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jTextField17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jLabel40)
-                    .addComponent(jButton15))
+                    .addComponent(jButtonGerarContrato))
                 .addGap(44, 44, 44)
                 .addComponent(jButton17)
                 .addGap(24, 24, 24))
@@ -2067,6 +2077,45 @@ public class TelaSuporte2 extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_jButton8ActionPerformed
 
+    private void jTextFieldNomeCPFCadastroContraActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextFieldNomeCPFCadastroContraActionPerformed
+
+         try {
+            fachada.pesquisarPessoa(jTextFieldNomeCPFCadastroContra.getText());
+            for(int i = 0; i < ((Cliente) fachada.pesquisarPessoa(jTextFieldNomeCPFCadastroContra.getText())).getAutomovel().size();i++){
+                
+                jComboBoxPLacaCadastraContrato.addItem(((Cliente) fachada.pesquisarPessoa(jTextFieldNomeCPFCadastroContra.getText())).getAutomovel().get(i).getPlaca());
+            }
+        } catch (ProcuraPessoaInexistenteExeception ex) {
+            JOptionPane.showMessageDialog(null, ex.getMessage());
+        }
+    }//GEN-LAST:event_jTextFieldNomeCPFCadastroContraActionPerformed
+
+    private void jButtonokCadastroContraActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonokCadastroContraActionPerformed
+
+        
+        try {
+            
+            ((Cliente) fachada.pesquisarPessoa(jTextFieldNomeCPFCadastroContra.getText())).setContrato(null);
+            fachada.pesquisarAutomovel(jComboBoxPLacaCadastraContrato.getSelectedItem().toString());
+            
+             fachada.pesquisarContrato(numeroContra);
+            
+            jTextFieldMarcaBuscaAutomovel.setText(fachada.pesquisarAutomovel((jComboBoxPLacasBuscarAutomoveil.getSelectedItem()).toString()).getMarca());
+        
+        jTextFieldModeloBuscarAutomovel.setText(fachada.pesquisarAutomovel((jComboBoxPLacasBuscarAutomoveil.getSelectedItem()).toString()).getModelo());
+       
+        jTextFieldVerssaoBuscaAutomovel.setText(fachada.pesquisarAutomovel((jComboBoxPLacasBuscarAutomoveil.getSelectedItem()).toString()).getVercao());
+      
+        
+         jComboBoxCategoriaCadastroContra.setEnabled(true);
+        jComboBoxDuracaoCadatroContra.setEnabled(true);
+        jButtonGerarContrato.setEnabled(true);
+        } catch (ProcuraAutoInexistenteExeception ex) {
+            JOptionPane.showMessageDialog(null, ex.getMessage());
+        }
+      
+    }//GEN-LAST:event_jButtonokCadastroContraActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -2144,8 +2193,6 @@ public class TelaSuporte2 extends javax.swing.JFrame {
     private javax.swing.JButton jButton11;
     private javax.swing.JButton jButton12;
     private javax.swing.JButton jButton13;
-    private javax.swing.JButton jButton14;
-    private javax.swing.JButton jButton15;
     private javax.swing.JButton jButton16;
     private javax.swing.JButton jButton17;
     private javax.swing.JButton jButton18;
@@ -2158,21 +2205,23 @@ public class TelaSuporte2 extends javax.swing.JFrame {
     private javax.swing.JButton jButtonAlterarCadastroCliente;
     private javax.swing.JButton jButtonBuscarAutomovel;
     private javax.swing.JButton jButtonExcluirContrato;
+    private javax.swing.JButton jButtonGerarContrato;
     private javax.swing.JButton jButtonRemoverCadastroCliente;
     private javax.swing.JButton jButtonRenovar;
     private javax.swing.JButton jButtonSalvarBuscaCliente;
     private javax.swing.JButton jButtonSalvarCadastroClientes;
+    private javax.swing.JButton jButtonokCadastroContra;
     private javax.swing.JComboBox jComboBox1;
     private javax.swing.JComboBox jComboBox12;
-    private javax.swing.JComboBox jComboBox13;
-    private javax.swing.JComboBox jComboBox14;
-    private javax.swing.JComboBox jComboBox19;
     private javax.swing.JComboBox jComboBox1EscolaridadeCadastroCliente;
     private javax.swing.JComboBox jComboBox2;
     private javax.swing.JComboBox jComboBox3;
     private javax.swing.JComboBox jComboBox4;
+    private javax.swing.JComboBox jComboBoxCategoriaCadastroContra;
+    private javax.swing.JComboBox jComboBoxDuracaoCadatroContra;
     private javax.swing.JComboBox jComboBoxEstados;
     private javax.swing.JComboBox jComboBoxMarcasCadastroAutomovel;
+    private javax.swing.JComboBox jComboBoxPLacaCadastraContrato;
     private javax.swing.JComboBox jComboBoxPLacasBuscarAutomoveil;
     private javax.swing.JComboBox jComboBoxPlacaBuscaContrato;
     private javax.swing.JComboBox jComboBoxSexoCadastroCliente;
@@ -2276,7 +2325,6 @@ public class TelaSuporte2 extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField1;
     private javax.swing.JTextField jTextField10;
     private javax.swing.JTextField jTextField17;
-    private javax.swing.JTextField jTextField18;
     private javax.swing.JTextField jTextField1BairroCadastroCliente;
     private javax.swing.JTextField jTextField1CidadeCadastroCliente;
     private javax.swing.JTextField jTextField1ComplementoCadastroCliente;
@@ -2329,6 +2377,7 @@ public class TelaSuporte2 extends javax.swing.JFrame {
     private javax.swing.JTextField jTextFieldTelefoneBuscaCliente;
     private javax.swing.JTextField jTextFieldTelefoneCadastroCliente;
     private javax.swing.JTextField jTextFieldValorBuscaContrato;
+    private javax.swing.JTextField jTextFieldValorContra;
     private javax.swing.JTextField jTextFieldVencimentoHabBuscaCliente;
     private javax.swing.JTextField jTextFieldVerssaoBuscaAutomovel;
     // End of variables declaration//GEN-END:variables

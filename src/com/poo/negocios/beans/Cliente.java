@@ -15,7 +15,7 @@ public class Cliente extends Pessoa implements Serializable {
 	private String profissao;
 	private String escolaridade;
 	private ArrayList <Automovel> automovel;
-	private Contrato contrato;
+	private ArrayList <Contrato> contrato;
 	private static int numeroDeClientes = 1;
 
 	// construtor
@@ -35,13 +35,17 @@ public class Cliente extends Pessoa implements Serializable {
 		this.setProfissao(profissao);
 		this.setEscolaridade(escolaridade);
 		this.automovel =  new ArrayList<>();
+                contrato = new ArrayList<>();
 		numeroDeClientes = numeroDeClientes + 1;
 		numeroDeClientes = numeroDeClientes + 1;
 	}
 
 	// metodos
 
-	public String getCnh() {
+	
+        
+        
+        public String getCnh() {
 		return cnh;
 	}
 
@@ -92,13 +96,13 @@ public class Cliente extends Pessoa implements Serializable {
 		return numeroDeClientes;
 	}
 
-	public Contrato getContrato() {
+	public ArrayList<Contrato> getContrato() {
 		return contrato;
 	}
 
 	public void setContrato(Contrato contrato) {
 		if (contrato != null)
-			this.contrato = contrato;
+			this.contrato.add(contrato);
 	}
 
 	public ArrayList<Automovel> getAutomovel() {

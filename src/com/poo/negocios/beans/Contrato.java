@@ -31,12 +31,10 @@ public class Contrato implements Serializable {
 
 	// fazer o calculo da data final com base na data de inicio e na duracao
 	// *obs modificar depois
-	public Contrato(String duracao, String anotatoes, String categoria, int numeroCliente) {
+	public Contrato(String duracao, String categoria, int numeroCliente) {
 
 		
 		this.setDuracao(duracao);
-		
-		this.setAnotatoes(anotatoes);
 		this.setCategoria(categoria);
 		this.setNumeroContrato();
 		numContratosFeitos = numContratosFeitos + 1;
@@ -142,6 +140,9 @@ public class Contrato implements Serializable {
                     
             return contratoExpirado;        
         }
+        
+        
+        
 
 	
 	@Override
