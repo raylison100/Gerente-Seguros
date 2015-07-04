@@ -52,7 +52,6 @@ public class DadosFipe implements Serializable{
 			
 			String[] marcas = this.listarMarcas(tipo1);
 			for(int i = 0; i < marcas.length; i++){
-				System.out.println(marcas[i]);
 				String[] modelos = this.listarModelosPorMarcaETipo(tipo1, marcas[i]);
 				for(int j = 0; j< modelos.length; j++){
 					this.buscarModelos(tipo1, marcas[i]);
@@ -60,7 +59,6 @@ public class DadosFipe implements Serializable{
 			}
 			String[] marcas2 = this.listarMarcas(tipo2);
 			for(int i = 0; i < marcas2.length; i++){
-				System.out.println(marcas2[i]);
 				String[] modelos = this.listarModelosPorMarcaETipo(tipo2, marcas2[i]);
 				for(int j = 0; j< modelos.length; j++){
 					this.buscarModelos(tipo2, marcas2[i]);
@@ -68,7 +66,6 @@ public class DadosFipe implements Serializable{
 			}
 			String[] marcas3 = this.listarMarcas(tipo3);
 			for(int i = 0; i < marcas3.length; i++){
-				System.out.println(marcas3[i]);
 				String[] modelos = this.listarModelosPorMarcaETipo(tipo3, marcas3[i]);
 				for(int j = 0; j< modelos.length; j++){
 					this.buscarModelos(tipo3, marcas3[i]);
@@ -924,10 +921,8 @@ public class DadosFipe implements Serializable{
 						StringTokenizer st = new StringTokenizer(linha, "\": ");
 						while(st.hasMoreTokens()){
 							temp = st.nextToken();
-							System.out.println(temp);
 							if(temp.equals("id")){
 								aux = st.nextToken();
-								System.out.println(aux);
 							}
 						}
 					break;
