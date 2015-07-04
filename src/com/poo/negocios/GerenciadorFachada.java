@@ -24,169 +24,173 @@ import com.poo.negocios.beans.Sinistro;
 
 public class GerenciadorFachada implements IGerenciador {
 
-	private CadastroPessoa pessoa = new CadastroPessoa();
-	private CadastroAuto auto = new CadastroAuto();
-	private CadastroContrato contra = new CadastroContrato();
-	private CadastroSinistro sini = new CadastroSinistro();
-	private ValidarSenha vS = new ValidarSenha();
-	private static IGerenciador instance;
-       
+    private CadastroPessoa pessoa = new CadastroPessoa();
+    private CadastroAuto auto = new CadastroAuto();
+    private CadastroContrato contra = new CadastroContrato();
+    private CadastroSinistro sini = new CadastroSinistro();
+    private ValidarSenha vS = new ValidarSenha();
+    private GerarValorContratos gvc = new GerarValorContratos();
+    private static IGerenciador instance;
 
-	private GerenciadorFachada() {
+    private GerenciadorFachada() {
 
-	}
+    }
 
-	public static IGerenciador getInstance() {
-		if (instance == null) {
-			instance = new GerenciadorFachada();
-		}
-		return instance;
-	}
+    public static IGerenciador getInstance() {
+        if (instance == null) {
+            instance = new GerenciadorFachada();
+        }
+        return instance;
+    }
 
-	public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
-			String orgaoEmissao, String sexo, String telefone,
-			String estadoCivil,String cnh, String datPrimeiraHab,
-			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
-			String numero, String complemento, String cidade, String estado) throws IOException,
-			CadatroPessoaExistenteExeception,
-			CPFInvalidoExeception, CPFCadastradoExeception {
-            
-                Endereco endereco = new Endereco(logradouro, bairro, cep, numero, complemento, cidade, estado);
-                Pessoa c =  new Cliente(nome, cpf, rg, datEmissao, orgaoEmissao, sexo, telefone, estadoCivil, endereco, cnh, datPrimeiraHab, vencHab, profissao, escolaridade);
-                        
-		this.pessoa.cadatrar(c);
+    public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
+            String orgaoEmissao, String sexo, String telefone,
+            String estadoCivil, String cnh, String datPrimeiraHab,
+            String vencHab, String profissao, String escolaridade, String logradouro, String bairro, String cep,
+            String numero, String complemento, String cidade, String estado) throws IOException,
+            CadatroPessoaExistenteExeception,
+            CPFInvalidoExeception, CPFCadastradoExeception {
 
-	}
+        Endereco endereco = new Endereco(logradouro, bairro, cep, numero, complemento, cidade, estado);
+        Pessoa c = new Cliente(nome, cpf, rg, datEmissao, orgaoEmissao, sexo, telefone, estadoCivil, endereco, cnh, datPrimeiraHab, vencHab, profissao, escolaridade);
 
-	public Pessoa[] exibiCliente() throws IOException {
+        this.pessoa.cadatrar(c);
 
-		return this.pessoa.exibiClientes();
-	}
+    }
 
-	public Pessoa[] exibiFuncionario() throws IOException {
+    public Pessoa[] exibiCliente() throws IOException {
 
-		return this.pessoa.exibiFuncionarios();
-	}
+        return this.pessoa.exibiClientes();
+    }
 
-	public void excluirPessoa(String nome) throws IOException,
-			ProcuraPessoaInexistenteExeception {
+    public Pessoa[] exibiFuncionario() throws IOException {
 
-		this.pessoa.descadatrar(nome);
-	}
+        return this.pessoa.exibiFuncionarios();
+    }
 
-	public Pessoa pesquisarPessoa(String nome)
-			throws ProcuraPessoaInexistenteExeception {
+    public void excluirPessoa(String nome) throws IOException,
+            ProcuraPessoaInexistenteExeception {
 
-		Pessoa p = this.pessoa.acharPessoa(nome);
-		return p;
+        this.pessoa.descadatrar(nome);
+    }
 
-	}
-	
+    public Pessoa pesquisarPessoa(String nome)
+            throws ProcuraPessoaInexistenteExeception {
 
+        Pessoa p = this.pessoa.acharPessoa(nome);
+        return p;
 
-	public boolean validarSenhaF(String nome, char[] senha)
-			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception {
-		boolean confirmada = false;
+    }
 
-		confirmada = this.vS.checarSenhaF(nome, senha);
+    public boolean validarSenhaF(String nome, char[] senha)
+            throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception {
+        boolean confirmada = false;
 
-		return confirmada;
-	}
+        confirmada = this.vS.checarSenhaF(nome, senha);
 
-	public boolean validarSenhaS(String nome, char[] senha)
-			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception {
-		boolean confirmada = false;
+        return confirmada;
+    }
 
-		confirmada = this.vS.checarSenhaS(nome, senha);
+    public boolean validarSenhaS(String nome, char[] senha)
+            throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception {
+        boolean confirmada = false;
 
-		return confirmada;
-	}
+        confirmada = this.vS.checarSenhaS(nome, senha);
 
-	public void cadatrarAuto(String marca, String modelo, String versao,String placa) throws IOException,
-			CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception {
+        return confirmada;
+    }
 
-            Automovel a = new Automovel(marca, modelo,versao, placa);
-		this.auto.cadatrar(a);
+    public void cadatrarAuto(String marca, String modelo, String versao, String placa) throws IOException,
+            CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception {
 
-	}
+        Automovel a = new Automovel(marca, modelo, versao, placa);
+        this.auto.cadatrar(a);
 
-	public Automovel[] exibiAuto() throws IOException {
+    }
 
-		return this.auto.exibiAuto();
-	}
+    public Automovel[] exibiAuto() throws IOException {
 
-	public void excluirAuto(String placa) throws IOException,
-			ProcuraAutoInexistenteExeception {
+        return this.auto.exibiAuto();
+    }
 
-		this.auto.descadatrar(placa);
-	}
+    public void excluirAuto(String placa) throws IOException,
+            ProcuraAutoInexistenteExeception {
 
-	public Automovel pesquisarAutomovel(String placa)
-			throws ProcuraAutoInexistenteExeception {
+        this.auto.descadatrar(placa);
+    }
 
-		Automovel a = this.auto.acharAutomovel(placa);
-		return a;
+    public Automovel pesquisarAutomovel(String placa)
+            throws ProcuraAutoInexistenteExeception {
 
-	}
+        Automovel a = this.auto.acharAutomovel(placa);
+        return a;
 
-	public void cadatrarSini(Sinistro s) throws IOException,
-			CadatroSiniExistenteExeception, ProcuraSiniInexistenteExeception {
+    }
 
-		this.sini.cadatrar(s);
+    public void cadatrarSini(Sinistro s) throws IOException,
+            CadatroSiniExistenteExeception, ProcuraSiniInexistenteExeception {
 
-	}
+        this.sini.cadatrar(s);
 
-	public Sinistro[] exibiSini() throws IOException {
+    }
 
-		return this.sini.exibiSinistros();
-	}
+    public Sinistro[] exibiSini() throws IOException {
 
-	public void excluirSini(int numero) throws IOException,
-			ProcuraSiniInexistenteExeception {
+        return this.sini.exibiSinistros();
+    }
 
-		this.sini.descadatrar(numero);
-	}
+    public void excluirSini(int numero) throws IOException,
+            ProcuraSiniInexistenteExeception {
 
-	public Sinistro pesquisarSinistro(int numero)
-			throws ProcuraSiniInexistenteExeception {
+        this.sini.descadatrar(numero);
+    }
 
-		Sinistro s = this.sini.acharSinistro(numero);
-		return s;
+    public Sinistro pesquisarSinistro(int numero)
+            throws ProcuraSiniInexistenteExeception {
 
-	}
+        Sinistro s = this.sini.acharSinistro(numero);
+        return s;
 
-	public void cadatrarContra(Contrato c) throws IOException,
-			CadatroContraExistenteExeception,
-			ProcuraContraInexistenteExeception {
+    }
 
-		this.contra.cadatrar(c);
+    public void cadatrarContra(String duracao, String categoria) throws IOException,
+            CadatroContraExistenteExeception,
+            ProcuraContraInexistenteExeception {
 
-	}
+        Contrato c = new Contrato(duracao, categoria);
+        this.contra.cadatrar(c);
 
-	public Contrato[] exibiContra() throws IOException {
+    }
 
-		return this.contra.exibiContratos();
-	}
+    public Contrato[] exibiContra() throws IOException {
 
-	public void excluirContra(int numero) throws IOException,
-			ProcuraContraInexistenteExeception {
+        return this.contra.exibiContratos();
+    }
 
-		this.contra.descadatrar(numero);
-	}
+    public void excluirContra(int numero) throws IOException,
+            ProcuraContraInexistenteExeception {
 
-	public Contrato pesquisarContrato(int numero)
-			throws ProcuraContraInexistenteExeception {
+        this.contra.descadatrar(numero);
+    }
 
-		Contrato c = this.contra.acharContrato(numero);
-		return c;
+    public Contrato pesquisarContrato(int numero)
+            throws ProcuraContraInexistenteExeception {
 
-	}
-        
-       public Automovel lastAutomovel(){
-           
-          return  auto.ultimoAuto();
-       }
+        Contrato c = this.contra.acharContrato(numero);
+        return c;
 
-	
+    }
 
+    public Automovel lastAutomovel() {
+
+        return auto.ultimoAuto();
+    }
+
+    public Contrato lastContrato() {
+        return contra.ultimoContra();
+    }
+
+    public double gerarValor(String s){
+        return gvc.GerarValores(s);
+    }
 }

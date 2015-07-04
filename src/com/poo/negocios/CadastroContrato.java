@@ -55,5 +55,12 @@ public class CadastroContrato {
 		Contrato c = this.repositorio.procurar(num);
 		return c;
 	}
+        
+        public Contrato ultimoContra(){
+            
+           return this.repositorio.ultimoAuto();
+        }
+
+		
 
 }

@@ -96,8 +96,15 @@ public class Cliente extends Pessoa implements Serializable {
 		return numeroDeClientes;
 	}
 
-	public ArrayList<Contrato> getContrato() {
-		return contrato;
+	public Contrato getContrato(int nume) {
+	    int index = 0;
+            
+            for(int i = 0;i < contrato.size();i++){
+                if(nume == contrato.get(i).getNumeroContrato())
+                    index = i;
+            }
+            
+            return contrato.get(index);
 	}
 
 	public void setContrato(Contrato contrato) {

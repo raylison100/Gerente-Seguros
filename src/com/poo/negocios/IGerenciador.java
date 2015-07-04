@@ -21,64 +21,68 @@ import com.poo.negocios.beans.Sinistro;
 
 public interface IGerenciador {
 
-	public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
-			String orgaoEmissao, String sexo, String telefone,
-			String estadoCivil,String cnh, String datPrimeiraHab,
-			String vencHab, String profissao, String escolaridade,String logradouro, String bairro, String cep,
-			String numero, String complemento, String cidade, String estado) throws IOException,
-			CadatroPessoaExistenteExeception,
-			CPFInvalidoExeception, CPFCadastradoExeception;
+    public void cadatrarCliente(String nome, String cpf, String rg, String datEmissao,
+            String orgaoEmissao, String sexo, String telefone,
+            String estadoCivil, String cnh, String datPrimeiraHab,
+            String vencHab, String profissao, String escolaridade, String logradouro, String bairro, String cep,
+            String numero, String complemento, String cidade, String estado) throws IOException,
+            CadatroPessoaExistenteExeception,
+            CPFInvalidoExeception, CPFCadastradoExeception;
 
-	public Pessoa[] exibiCliente() throws IOException;
+    public Pessoa[] exibiCliente() throws IOException;
 
-	public Pessoa[] exibiFuncionario() throws IOException;
+    public Pessoa[] exibiFuncionario() throws IOException;
 
-	public void excluirPessoa(String nome) throws IOException,
-			ProcuraPessoaInexistenteExeception;
+    public void excluirPessoa(String nome) throws IOException,
+            ProcuraPessoaInexistenteExeception;
 
-	public Pessoa pesquisarPessoa(String nome)
-			throws ProcuraPessoaInexistenteExeception;
+    public Pessoa pesquisarPessoa(String nome)
+            throws ProcuraPessoaInexistenteExeception;
 
-	public boolean validarSenhaF(String nome, char[] senha)
-			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
+    public boolean validarSenhaF(String nome, char[] senha)
+            throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
 
-	public boolean validarSenhaS(String nome, char[] senha)
-			throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
+    public boolean validarSenhaS(String nome, char[] senha)
+            throws ProcuraPessoaInexistenteExeception, SenhaIncorretaExeception;
 
-	public void cadatrarAuto(String marca, String modelo, String versao,String placa) throws IOException,
-			CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception;
+    public void cadatrarAuto(String marca, String modelo, String versao, String placa) throws IOException,
+            CadatroAutoExistenteExeception, ProcuraAutoInexistenteExeception;
 
-	public Automovel[] exibiAuto() throws IOException;
+    public Automovel[] exibiAuto() throws IOException;
 
-	public void excluirAuto(String placa) throws IOException,
-			ProcuraAutoInexistenteExeception;
+    public void excluirAuto(String placa) throws IOException,
+            ProcuraAutoInexistenteExeception;
 
-	public Automovel pesquisarAutomovel(String placa)
-			throws ProcuraAutoInexistenteExeception;
+    public Automovel pesquisarAutomovel(String placa)
+            throws ProcuraAutoInexistenteExeception;
 
-	public void cadatrarSini(Sinistro s) throws IOException,
-			CadatroSiniExistenteExeception, ProcuraSiniInexistenteExeception;
+    public void cadatrarSini(Sinistro s) throws IOException,
+            CadatroSiniExistenteExeception, ProcuraSiniInexistenteExeception;
 
-	public Sinistro[] exibiSini() throws IOException;
+    public Sinistro[] exibiSini() throws IOException;
 
-	public void excluirSini(int numero) throws IOException,
-			ProcuraSiniInexistenteExeception;
+    public void excluirSini(int numero) throws IOException,
+            ProcuraSiniInexistenteExeception;
 
-	public Sinistro pesquisarSinistro(int numero)
-			throws ProcuraSiniInexistenteExeception;
+    public Sinistro pesquisarSinistro(int numero)
+            throws ProcuraSiniInexistenteExeception;
 
-	public void cadatrarContra(Contrato c) throws IOException,
-			CadatroContraExistenteExeception,
-			ProcuraContraInexistenteExeception;
+    public void cadatrarContra(String duracao, String categoria) throws IOException,
+            CadatroContraExistenteExeception,
+            ProcuraContraInexistenteExeception;
 
-	public Contrato[] exibiContra() throws IOException;
+    public Contrato[] exibiContra() throws IOException;
 
-	public void excluirContra(int numero) throws IOException,
-			ProcuraContraInexistenteExeception;
+    public void excluirContra(int numero) throws IOException,
+            ProcuraContraInexistenteExeception;
 
-	public Contrato pesquisarContrato(int numero)
-			throws ProcuraContraInexistenteExeception;
+    public Contrato pesquisarContrato(int numero)
+            throws ProcuraContraInexistenteExeception;
 
     public Automovel lastAutomovel();
+
+    Contrato lastContrato();
+    
+    public double gerarValor(String s);
 
 }

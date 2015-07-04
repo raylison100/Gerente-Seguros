@@ -15,6 +15,7 @@ public interface IRepositorioContrato {
 	public boolean existe(int numeroDoContrato) throws ProcuraContraInexistenteExeception;
 	public void remover (int numeroDoContrao)  throws IOException, ProcuraContraInexistenteExeception;
 	public Contrato[] imprimiAuto() throws IOException;
+        public Contrato ultimoAuto();
 
 
 }

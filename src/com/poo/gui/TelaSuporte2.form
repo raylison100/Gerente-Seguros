@@ -1263,19 +1263,1094 @@
                   <Layout>
                     <DimensionLayout dim="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane9" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                     <DimensionLayout dim="1">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jTabbedPane6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jTabbedPane9" alignment="0" max="32767" attributes="0"/>
                       </Group>
                     </DimensionLayout>
                   </Layout>
                   <SubComponents>
-                    <Container class="javax.swing.JTabbedPane" name="jTabbedPane6">
+                    <Container class="javax.swing.JTabbedPane" name="jTabbedPane9">
 
                       <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+                      <SubComponents>
+                        <Container class="javax.swing.JPanel" name="jPanel29">
+                          <Constraints>
+                            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                              <JTabbedPaneConstraints tabName="Novo Cadastro">
+                                <Property name="tabTitle" type="java.lang.String" value="Novo Cadastro"/>
+                              </JTabbedPaneConstraints>
+                            </Constraint>
+                          </Constraints>
+
+                          <Layout>
+                            <DimensionLayout dim="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane9" alignment="0" pref="800" max="32767" attributes="0"/>
+                              </Group>
+                            </DimensionLayout>
+                            <DimensionLayout dim="1">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane9" alignment="0" pref="383" max="32767" attributes="0"/>
+                              </Group>
+                            </DimensionLayout>
+                          </Layout>
+                          <SubComponents>
+                            <Container class="javax.swing.JScrollPane" name="jScrollPane9">
+                              <Properties>
+                                <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+                                <Property name="verticalScrollBarPolicy" type="int" value="22"/>
+                              </Properties>
+
+                              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                              <SubComponents>
+                                <Container class="javax.swing.JPanel" name="jPanel30">
+                                  <Properties>
+                                    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                                      <Dimension value="[797, 383]"/>
+                                    </Property>
+                                  </Properties>
+
+                                  <Layout>
+                                    <DimensionLayout dim="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                          <Component id="jTextField1ComplementoCadastroFuncionario" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="jLabel22" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jTextField1BairroCadastroClienteFuncionario" min="-2" pref="104" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="Cidade4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jTextField1CidadeCadastroClienteFuncionario" min="-2" pref="136" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="Estado4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jComboBoxEstadosFuncionario" min="-2" pref="46" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jLabel23" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldCEPCadastroFuncionario" min="-2" pref="167" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Numero_Cnh4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1NumeroCnhCadastroFuncionario" min="-2" pref="120" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Data_PrimeiraHab4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1DataHabCadastroFuncionario" min="-2" pref="89" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Vencimento_Hab4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1VencimentoHabCadastroFuncionario" min="-2" pref="92" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Nome8" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNomeCadastroFuncionario" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                                  <Group type="102" alignment="1" attributes="0">
+                                                                      <Component id="Sexo24" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jComboBoxSexoCadastroFuncionario" min="-2" pref="119" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Telefone8" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="Cpf8" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldCpfCadastroFuncionario" min="-2" pref="148" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                                                      <Component id="Rg8" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldRgCadastroFuncionario" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldTelefoneCadastroFuncionario" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="DataEmisao8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="OrgãoEmisor8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldOrgaoEmisorCadastroFuncionario" alignment="0" max="32767" attributes="0"/>
+                                                                  <Component id="jTextFieldDataEmisaoCadastroFuncionario" alignment="0" max="32767" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                      </Group>
+                                                      <EmptySpace pref="48" max="32767" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="Sexo25" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="Sexo26" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="jTextFieldEnderecoCadastroFuncionario" min="-2" pref="233" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Numero4" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                      <Component id="jTextField1NumeroCadastroFuncionario" min="-2" pref="57" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Complemento4" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Component id="jComboBoxestadoFuncionario" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Profissão4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jTextField1ProfissaoCadastroFuncionario" min="-2" pref="117" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Escolaridade4" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jComboBox1EscolaridadeCadastroFuncionario" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                                              <Component id="jButtonSalvarCadastroFuncionario" min="-2" pref="72" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jButtonFuncionario" min="-2" max="-2" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                    <DimensionLayout dim="1">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Nome8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Cpf8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Rg8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataEmisaoCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="DataEmisao8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldRgCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCpfCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="OrgãoEmisor8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldOrgaoEmisorCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Sexo24" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Telefone8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldTelefoneCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBoxSexoCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo25" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBoxestadoFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo26" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEnderecoCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Complemento4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1ComplementoCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Numero4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1NumeroCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="Cidade4" alignment="1" min="-2" pref="17" max="-2" attributes="0"/>
+                                                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                                      <Component id="jLabel22" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jTextField1BairroCadastroClienteFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="Estado4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jComboBoxEstadosFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jTextField1CidadeCadastroClienteFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jLabel23" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldCEPCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Numero_Cnh4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1NumeroCnhCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Data_PrimeiraHab4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1DataHabCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Vencimento_Hab4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1VencimentoHabCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Profissão4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextField1ProfissaoCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Escolaridade4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jComboBox1EscolaridadeCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButtonSalvarCadastroFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButtonFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace pref="26" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                  </Layout>
+                                  <SubComponents>
+                                    <Component class="javax.swing.JLabel" name="Nome8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Nome"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cpf8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="CPF"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Rg8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="RG"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="DataEmisao8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data de Emis&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldRgCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Org&#xe3;oEmisor8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Org&#xe3;o Emisor"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo24">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Sexo"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Telefone8">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Telefone"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldTelefoneCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo25">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado Civil"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo26">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Endere&#xe7;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEnderecoCadastroFuncionario">
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoCadastroFuncionariojTextFieldEnderecoCadastroCliente2ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Complemento4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Complemento"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1ComplementoCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel22">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Bairro"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1CidadeCadastroClienteFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cidade4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Cidade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1BairroCadastroClienteFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Estado4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero_Cnh4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba; CNH"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1NumeroCnhCadastroFuncionario">
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1NumeroCnhCadastroFuncionarioActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Data_PrimeiraHab4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data 1&#xba; Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1DataHabCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxSexoCadastroFuncionario">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="12" style="0"/>
+                                        </Property>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="2">
+                                            <StringItem index="0" value="Masculino"/>
+                                            <StringItem index="1" value="Feminino"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Vencimento_Hab4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Vencimento Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1VencimentoHabCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Profiss&#xe3;o4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Profiss&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextField1ProfissaoCadastroFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Escolaridade4">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Escolaridade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBox1EscolaridadeCadastroFuncionario">
+                                      <Properties>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="6">
+                                            <StringItem index="0" value="Ensino Fundamental Incompleto"/>
+                                            <StringItem index="1" value="Ensino Fundamental Completo"/>
+                                            <StringItem index="2" value="Ensino M&#xe9;dio Incompleto"/>
+                                            <StringItem index="3" value="Ensino M&#xe9;dio Completo"/>
+                                            <StringItem index="4" value="Ensino Superior Incompleto"/>
+                                            <StringItem index="5" value="Ensino Superior Completo"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButtonSalvarCadastroFuncionario">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="Salvar"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonSalvarCadastroFuncionarioActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButtonFuncionario">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="Cancelar"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxEstadosFuncionario">
+                                      <Properties>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="27">
+                                            <StringItem index="0" value="AC&#x9; "/>
+                                            <StringItem index="1" value="AL&#x9; "/>
+                                            <StringItem index="2" value="AP&#x9; "/>
+                                            <StringItem index="3" value="AM&#x9; "/>
+                                            <StringItem index="4" value="BA&#x9; "/>
+                                            <StringItem index="5" value="CE&#x9; "/>
+                                            <StringItem index="6" value="DF&#x9; "/>
+                                            <StringItem index="7" value="ES&#x9; "/>
+                                            <StringItem index="8" value="GO&#x9; "/>
+                                            <StringItem index="9" value="MA&#x9; "/>
+                                            <StringItem index="10" value="MT&#x9; "/>
+                                            <StringItem index="11" value="MS&#x9; "/>
+                                            <StringItem index="12" value="MG&#x9; "/>
+                                            <StringItem index="13" value="PA&#x9; "/>
+                                            <StringItem index="14" value="PB&#x9; "/>
+                                            <StringItem index="15" value="PR&#x9; "/>
+                                            <StringItem index="16" value="PE&#x9; "/>
+                                            <StringItem index="17" value="PI&#x9; "/>
+                                            <StringItem index="18" value="RJ&#x9; "/>
+                                            <StringItem index="19" value="RN&#x9; "/>
+                                            <StringItem index="20" value="RS&#x9; "/>
+                                            <StringItem index="21" value="RO&#x9; "/>
+                                            <StringItem index="22" value="RR&#x9; "/>
+                                            <StringItem index="23" value="SC&#x9; "/>
+                                            <StringItem index="24" value="SP&#x9; "/>
+                                            <StringItem index="25" value="SE&#x9; "/>
+                                            <StringItem index="26" value="TO"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JComboBox" name="jComboBoxestadoFuncionario">
+                                      <Properties>
+                                        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                                          <StringArray count="4">
+                                            <StringItem index="0" value="Solteiro"/>
+                                            <StringItem index="1" value="Casado"/>
+                                            <StringItem index="2" value="Divorciado"/>
+                                            <StringItem index="3" value="Vi&#xfa;vo"/>
+                                          </StringArray>
+                                        </Property>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel23">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="CEP"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCEPCadastroFuncionario">
+                                    </Component>
+                                  </SubComponents>
+                                </Container>
+                              </SubComponents>
+                            </Container>
+                          </SubComponents>
+                        </Container>
+                        <Container class="javax.swing.JPanel" name="jPanel8">
+                          <Constraints>
+                            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+                              <JTabbedPaneConstraints tabName="Buscar Funcionario">
+                                <Property name="tabTitle" type="java.lang.String" value="Buscar Funcionario"/>
+                              </JTabbedPaneConstraints>
+                            </Constraint>
+                          </Constraints>
+
+                          <Layout>
+                            <DimensionLayout dim="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane10" alignment="0" pref="800" max="32767" attributes="0"/>
+                              </Group>
+                            </DimensionLayout>
+                            <DimensionLayout dim="1">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane10" alignment="0" pref="383" max="32767" attributes="0"/>
+                              </Group>
+                            </DimensionLayout>
+                          </Layout>
+                          <SubComponents>
+                            <Container class="javax.swing.JScrollPane" name="jScrollPane10">
+                              <Properties>
+                                <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+                                <Property name="verticalScrollBarPolicy" type="int" value="22"/>
+                              </Properties>
+
+                              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                              <SubComponents>
+                                <Container class="javax.swing.JPanel" name="jPanel21">
+
+                                  <Layout>
+                                    <DimensionLayout dim="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="CpfBucaCadastroCliente2" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldCpfNomeBuscaFuncionario" min="-2" pref="142" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jButton1OkBuscaCadastroCliente2" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="Sexo28" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="Sexo29" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="jTextFieldEnderecoBuscaFuncionario" min="-2" pref="233" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Numero5" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNumeroBuscaFuncionario" min="-2" pref="57" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Complemento5" min="-2" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Component id="jTextFieldEstadoCivilBuscaFuncionario" alignment="0" min="-2" pref="130" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="jTextFieldBairroBuscaFuncionario" min="-2" pref="104" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                                              <Component id="Cidade5" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldCidadeBuscaFuncionario" min="-2" pref="136" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Estado5" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldEstadoBuscaFuncionario" min="-2" pref="40" max="-2" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                  </Group>
+                                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                                      <Group type="102" alignment="1" attributes="0">
+                                                          <Component id="jButtonAlterarCadastroCliente1" min="-2" pref="75" max="-2" attributes="0"/>
+                                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                          <Component id="jButtonSalvarBuscaCliente1" min="-2" max="-2" attributes="0"/>
+                                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                          <Component id="jButtonRemoverCadastroCliente1" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <Group type="103" alignment="1" groupAlignment="1" max="-2" attributes="0">
+                                                          <Component id="jTextFieldComplementoBuscaCFuncionario" alignment="1" min="-2" pref="177" max="-2" attributes="0"/>
+                                                          <Component id="jLabel28" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="Nome9" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldNomeBuscarFuncionario" max="32767" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                                  <Group type="102" alignment="1" attributes="0">
+                                                                      <Component id="Sexo27" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldSexoBuscaFuncionario" min="-2" pref="119" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Telefone9" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="Cpf9" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldCpfBuscarFuncionario" min="-2" pref="148" max="-2" attributes="0"/>
+                                                                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                                                      <Component id="Rg9" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldRgBuscaFuncionario" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                                  <Component id="jTextFieldTelefoneBuscFuncionario" alignment="0" min="-2" pref="162" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="DataEmisao9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="OrgãoEmisor9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="jTextFieldOrgaoEmisorBuscaFuncionario" alignment="0" max="32767" attributes="0"/>
+                                                                  <Component id="jTextFieldDataEmisaoBuscaFuncionario" alignment="0" min="-2" pref="177" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="Profissão5" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldProfissaoBuscaFuncionario" min="-2" pref="117" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Escolaridade5" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldEscolaridadeBuscaFuncionario" max="32767" attributes="0"/>
+                                                                  </Group>
+                                                                  <Group type="102" alignment="0" attributes="0">
+                                                                      <Component id="Numero_Cnh5" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldNumeroCnhBuscaFuncionario" min="-2" pref="120" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="Data_PrimeiraHab5" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                                      <Component id="jTextFieldDataHabBuscaFuncionario" min="-2" pref="89" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="Vencimento_Hab5" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                              <Component id="jTextFieldVencimentoHabBuscaFuncionario" min="-2" pref="92" max="-2" attributes="0"/>
+                                                          </Group>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                              <EmptySpace pref="48" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Component id="jSeparator5" alignment="1" max="32767" attributes="0"/>
+                                      </Group>
+                                    </DimensionLayout>
+                                    <DimensionLayout dim="1">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="CpfBucaCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCpfNomeBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButton1OkBuscaCadastroCliente2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="jSeparator5" min="-2" pref="10" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Nome9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNomeBuscarFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Cpf9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Rg9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataEmisaoBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="DataEmisao9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldRgBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCpfBuscarFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="OrgãoEmisor9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldOrgaoEmisorBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Sexo27" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Telefone9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldTelefoneBuscFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldSexoBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo28" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEstadoCivilBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Sexo29" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEnderecoBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Complemento5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldComplementoBuscaCFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Numero5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNumeroBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="jLabel28" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldCidadeBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Cidade5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldBairroBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Estado5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEstadoBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Numero_Cnh5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldNumeroCnhBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Data_PrimeiraHab5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldDataHabBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Vencimento_Hab5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldVencimentoHabBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="Profissão5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldProfissaoBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Escolaridade5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jTextFieldEscolaridadeBuscaFuncionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="3" attributes="0">
+                                                  <Component id="jButtonAlterarCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButtonRemoverCadastroCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="jButtonSalvarBuscaCliente1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                    </DimensionLayout>
+                                  </Layout>
+                                  <SubComponents>
+                                    <Component class="javax.swing.JLabel" name="CpfBucaCadastroCliente2">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="CPF / Nome"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfNomeBuscaFuncionario">
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButton1OkBuscaCadastroCliente2">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="OK"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1OkBuscaCadastroCliente2ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JSeparator" name="jSeparator5">
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Nome9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Nome"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNomeBuscarFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cpf9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="CPF"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCpfBuscarFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Rg9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="RG"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldRgBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="DataEmisao9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data de Emis&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataEmisaoBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo27">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Sexo"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Telefone9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Telefone"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldTelefoneBuscFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Org&#xe3;oEmisor9">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Org&#xe3;o Emisor"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldOrgaoEmisorBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo28">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado Civil"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEstadoCivilBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Sexo29">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Endere&#xe7;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEnderecoBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldEnderecoBuscaFuncionariojTextFieldEnderecoCadastroCliente2ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba;"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNumeroBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Complemento5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Complemento"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldComplementoBuscaCFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="jLabel28">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Bairro"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldBairroBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Cidade5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Cidade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldCidadeBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Estado5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Estado"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEstadoBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Numero_Cnh5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="N&#xba; CNH"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldNumeroCnhBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldNumeroCnhBuscaFuncionarioActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Data_PrimeiraHab5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Data 1&#xba; Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldDataHabBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Vencimento_Hab5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Vencimento Habilita&#xe7;&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldVencimentoHabBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Profiss&#xe3;o5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Profiss&#xe3;o"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldProfissaoBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JLabel" name="Escolaridade5">
+                                      <Properties>
+                                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                                          <Font name="Tahoma" size="14" style="1"/>
+                                        </Property>
+                                        <Property name="text" type="java.lang.String" value="Escolaridade"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButtonAlterarCadastroCliente1">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="Alterar"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonAlterarCadastroCliente1ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButtonRemoverCadastroCliente1">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="Remover"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonRemoverCadastroCliente1ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JButton" name="jButtonSalvarBuscaCliente1">
+                                      <Properties>
+                                        <Property name="text" type="java.lang.String" value="Salvar"/>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                      <Events>
+                                        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonSalvarBuscaCliente1ActionPerformed"/>
+                                      </Events>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldSexoBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                    <Component class="javax.swing.JTextField" name="jTextFieldEscolaridadeBuscaFuncionario">
+                                      <Properties>
+                                        <Property name="enabled" type="boolean" value="false"/>
+                                      </Properties>
+                                    </Component>
+                                  </SubComponents>
+                                </Container>
+                              </SubComponents>
+                            </Container>
+                          </SubComponents>
+                        </Container>
+                      </SubComponents>
                     </Container>
                   </SubComponents>
                 </Container>
@@ -1758,35 +2833,30 @@
                                               <EmptySpace type="separate" max="-2" attributes="0"/>
                                               <Component id="jLabel40" min="-2" max="-2" attributes="0"/>
                                               <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                                              <Component id="jTextField17" min="-2" pref="115" max="-2" attributes="0"/>
+                                              <Component id="jTextFieldNumContratoCadastroContra" min="-2" pref="245" max="-2" attributes="0"/>
                                           </Group>
                                           <Group type="102" alignment="0" attributes="0">
                                               <EmptySpace max="-2" attributes="0"/>
-                                              <Group type="103" groupAlignment="1" attributes="0">
-                                                  <Component id="jButton17" min="-2" max="-2" attributes="0"/>
-                                                  <Group type="102" attributes="0">
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Group type="102" alignment="0" attributes="0">
-                                                              <Component id="jLabel44" min="-2" max="-2" attributes="0"/>
-                                                              <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
-                                                              <Component id="jTextFieldValorContra" min="-2" pref="74" max="-2" attributes="0"/>
-                                                          </Group>
-                                                          <Group type="102" alignment="0" attributes="0">
-                                                              <Component id="jLabel41" min="-2" max="-2" attributes="0"/>
-                                                              <EmptySpace max="-2" attributes="0"/>
-                                                              <Component id="jComboBoxCategoriaCadastroContra" min="-2" pref="98" max="-2" attributes="0"/>
-                                                              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
-                                                              <Component id="jLabel42" min="-2" max="-2" attributes="0"/>
-                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                                                              <Component id="jComboBoxDuracaoCadatroContra" min="-2" max="-2" attributes="0"/>
-                                                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                                                              <Component id="jLabel43" min="-2" max="-2" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
-                                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
-                                                      <Component id="jScrollPane4" min="-2" pref="287" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jLabel44" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                                      <Component id="jTextFieldValorContra" min="-2" pref="74" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="jLabel41" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace max="-2" attributes="0"/>
+                                                      <Component id="jComboBoxCategoriaCadastroContra" min="-2" pref="98" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                                                      <Component id="jLabel42" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                      <Component id="jComboBoxDuracaoCadatroContra" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="jLabel43" min="-2" max="-2" attributes="0"/>
                                                   </Group>
                                               </Group>
+                                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                              <Component id="jScrollPane4" min="-2" pref="287" max="-2" attributes="0"/>
                                           </Group>
                                       </Group>
                                       <EmptySpace pref="72" max="32767" attributes="0"/>
@@ -1826,13 +2896,11 @@
                                       </Group>
                                       <EmptySpace pref="59" max="32767" attributes="0"/>
                                       <Group type="103" groupAlignment="3" attributes="0">
-                                          <Component id="jTextField17" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextFieldNumContratoCadastroContra" alignment="3" min="-2" max="-2" attributes="0"/>
                                           <Component id="jLabel40" alignment="3" min="-2" max="-2" attributes="0"/>
                                           <Component id="jButtonGerarContrato" alignment="3" min="-2" max="-2" attributes="0"/>
                                       </Group>
-                                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
-                                      <Component id="jButton17" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                             </DimensionLayout>
@@ -1877,7 +2945,7 @@
                                 </Property>
                               </Properties>
                             </Component>
-                            <Component class="javax.swing.JTextField" name="jTextField17">
+                            <Component class="javax.swing.JTextField" name="jTextFieldNumContratoCadastroContra">
                               <Properties>
                                 <Property name="enabled" type="boolean" value="false"/>
                               </Properties>
@@ -1897,6 +2965,9 @@
                                 <Property name="text" type="java.lang.String" value="Gerar Contrato"/>
                                 <Property name="enabled" type="boolean" value="false"/>
                               </Properties>
+                              <Events>
+                                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButtonGerarContratoActionPerformed"/>
+                              </Events>
                             </Component>
                             <Component class="javax.swing.JLabel" name="jLabel41">
                               <Properties>
@@ -1980,11 +3051,6 @@
                             <Component class="javax.swing.JTextField" name="jTextFieldValorContra">
                               <Properties>
                                 <Property name="enabled" type="boolean" value="false"/>
-                              </Properties>
-                            </Component>
-                            <Component class="javax.swing.JButton" name="jButton17">
-                              <Properties>
-                                <Property name="text" type="java.lang.String" value="Limpar"/>
                               </Properties>
                             </Component>
                           </SubComponents>
