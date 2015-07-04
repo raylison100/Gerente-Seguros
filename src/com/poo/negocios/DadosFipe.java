@@ -110,6 +110,9 @@ public class DadosFipe implements Serializable{
 					temp = st.nextToken();
 					if(temp.contains("id")){
 						contador++;
+						if(contador>=2){
+							break;
+						}
 					}
 				}
 				Integer numero = contador;
@@ -117,7 +120,7 @@ public class DadosFipe implements Serializable{
 				aux = Integer.toString(numero);
 				carrosWriter.write("{\"contador\" = \""+aux+"\"}\n");
 				StringTokenizer st1 = new StringTokenizer(body, "}", true);
-				while(st1.hasMoreTokens()){
+				for(int i = 0 ; i <=2 ; i++){
 					temp = StringEscapeUtils.unescapeJava(st1.nextToken());   				
 					carrosWriter.write(temp+"\n");
 				}
@@ -153,6 +156,9 @@ public class DadosFipe implements Serializable{
 					temp = st.nextToken();
 					if(temp.contains("id")){
 						contador++;
+						if(contador>=2){
+							break;
+						}
 					}
 				}
 				Integer numero = contador;
@@ -160,7 +166,8 @@ public class DadosFipe implements Serializable{
 				aux = Integer.toString(numero);
 				motosWriter.write("{\"contador\" = \""+aux+"\"}\n");
 				StringTokenizer st1 = new StringTokenizer(body, "}", true);
-				while(st1.hasMoreTokens()){
+//				while(st1.hasMoreTokens()){
+				for(int i = 0; i <= 2 ; i++){
 					temp = StringEscapeUtils.unescapeJava(st1.nextToken());   				
 					motosWriter.write(temp+"\n");
 				}
@@ -195,6 +202,9 @@ public class DadosFipe implements Serializable{
 					temp = st.nextToken();
 					if(temp.contains("id")){
 						contador++;
+						if(contador>=2){
+							break;
+						}
 					}
 				}
 				Integer numero = contador;
@@ -202,7 +212,8 @@ public class DadosFipe implements Serializable{
 				aux = Integer.toString(numero);
 				gravarCaminhoes.write("{\"contador\" = \""+aux+"\"}\n");
 				StringTokenizer st1 = new StringTokenizer(body, "}", true);
-				while(st1.hasMoreTokens()){
+//				while(st1.hasMoreTokens()){
+				for(int i = 0; i <= 2; i++){
 					temp = StringEscapeUtils.unescapeJava(st1.nextToken());  				
 					gravarCaminhoes.write(temp+"\n");
 				}
@@ -246,6 +257,9 @@ public class DadosFipe implements Serializable{
 							temp = st.nextToken();
 							if(temp.contains("id")){
 								contador++;
+								if(contador>=2){
+									break;
+								}
 							}
 						}
 						Integer numero = contador;
@@ -253,7 +267,8 @@ public class DadosFipe implements Serializable{
 						aux = Integer.toString(numero);
 						gravarCarros.write("{\"contador\" = \""+aux+"\"}\n");
 						StringTokenizer st1 = new StringTokenizer(body, "}", true);
-						while(st1.hasMoreTokens()){
+//						while(st1.hasMoreTokens()){
+						for(int k = 0; k <= 2; k++){
 							temp = st1.nextToken();   				
 							gravarCarros.write(StringEscapeUtils.unescapeJava(this.converterPalavra1(temp))+"\n");
 						}
@@ -298,6 +313,9 @@ public class DadosFipe implements Serializable{
 							temp = st.nextToken();
 							if(temp.contains("id")){
 								contador++;
+								if(contador>=2){
+									break;
+								}
 							}
 						}
 						Integer numero = contador;
@@ -305,7 +323,8 @@ public class DadosFipe implements Serializable{
 						aux = Integer.toString(numero);
 						gravarMotos.write("{\"contador\" = \""+aux+"\"}\n");
 						StringTokenizer st1 = new StringTokenizer(body, "}", true);
-						while(st1.hasMoreTokens()){
+//						while(st1.hasMoreTokens()){
+						for(int k = 0; k<=2;k++){
 							temp = st1.nextToken();   				
 							gravarMotos.write(StringEscapeUtils.unescapeJava(this.converterPalavra1(temp))+"\n");
 						}
@@ -350,6 +369,9 @@ public class DadosFipe implements Serializable{
 						temp = st.nextToken();
 						if(temp.contains("id")){
 							contador++;
+							if(contador>=2){
+								break;
+							}
 						}
 					}
 					Integer numero = contador;
@@ -357,7 +379,8 @@ public class DadosFipe implements Serializable{
 					aux = Integer.toString(numero);
 					gravarCaminhoes.write("{\"contador\" = \""+aux+"\"}\n");
 					StringTokenizer st1 = new StringTokenizer(body, "}", true);
-					while(st1.hasMoreTokens()){
+//					while(st1.hasMoreTokens()){
+					for(int k = 0; k<=2; k++){
 						temp = st1.nextToken();   				
 						gravarCaminhoes.write(StringEscapeUtils.unescapeJava(this.converterPalavra1(temp))+"\n");
 					}
@@ -435,13 +458,14 @@ public class DadosFipe implements Serializable{
 					if(!(arqVersao.exists())){
 						FileWriter versaoWriter = new FileWriter(arqVersao);
 						PrintWriter gravarVersao = new PrintWriter(versaoWriter);
+						String linkFinal = link+tipo2+"/veiculo/"+this.buscaPorMarca(tipo2, listaMarcas_tipo2[i]).toString()+"/"+this.buscarIDModelo(tipo2, listaMarcas_tipo2[i], modelos[j])+"/"+this.buscarIDVersao(tipo2, listaMarcas_tipo2[i], modelos[j], versoes[k])+".json";
 						try{
 							DefaultHttpClient httpClient = new DefaultHttpClient();
-							HttpGet httpPost = new HttpGet(link+tipo2+"/vei"
-									+ "culo/"+this.buscaPorMarca(tipo2, listaMarcas_tipo2[i]).toString()+"/"+this.buscarIDModelo(tipo2, listaMarcas_tipo2[i], modelos[j])+"/"+this.retornaIDVersao(tipo2, listaMarcas_tipo2[i], modelos[j], versoes[k]+".json"));
+							HttpGet httpPost = new HttpGet(linkFinal);
 							HttpResponse response = httpClient.execute(httpPost);
 							HttpEntity entity = response.getEntity();
 							String body = EntityUtils.toString(entity);
+							versaoWriter.write(linkFinal+"\n");
 							versaoWriter.write(body);
 						}catch(Exception e){
 							e.printStackTrace();
@@ -468,13 +492,14 @@ public class DadosFipe implements Serializable{
 					if(!(arqVersao.exists())){
 						FileWriter versaoWriter = new FileWriter(arqVersao);
 						PrintWriter gravarVersao = new PrintWriter(versaoWriter);
+						String linkFinal = link+tipo3+"/veiculo/"+this.buscaPorMarca(tipo3, listaMarcas_tipo3[i]).toString()+"/"+this.buscarIDModelo(tipo3, listaMarcas_tipo3[i], modelos[j])+"/"+this.buscarIDVersao(tipo3, listaMarcas_tipo3[i], modelos[j], versoes[k])+".json";
 						try{
 							DefaultHttpClient httpClient = new DefaultHttpClient();
-							HttpGet httpPost = new HttpGet(link+tipo3+"/vei"
-									+ "culo/"+this.buscaPorMarca(tipo3, listaMarcas_tipo3[i]).toString()+"/"+this.buscarIDModelo(tipo3, listaMarcas_tipo3[i], modelos[j])+"/"+this.retornaIDVersao(tipo3, listaMarcas_tipo3[i], modelos[j], versoes[k]+".json"));
+							HttpGet httpPost = new HttpGet(linkFinal);
 							HttpResponse response = httpClient.execute(httpPost);
 							HttpEntity entity = response.getEntity();
 							String body = EntityUtils.toString(entity);
+							versaoWriter.write(linkFinal+"\n");
 							versaoWriter.write(body);
 						}catch(Exception e){
 							e.printStackTrace();
@@ -536,7 +561,8 @@ public class DadosFipe implements Serializable{
 						HttpEntity entity = response.getEntity();
 						String body = EntityUtils.toString(entity);
 						StringTokenizer st1 = new StringTokenizer(body, "}", true);
-						while(st1.hasMoreTokens()){
+//						while(st1.hasMoreTokens()){
+						for(int k = 0; k<=3;k++){
 							temp = st1.nextToken();   				
 							gravarModelos.write(this.converterPalavra1(temp)+"\n");
 						}
@@ -545,6 +571,9 @@ public class DadosFipe implements Serializable{
 							temp = st.nextToken();
 							if(temp.contains("id")){
 								contador++;
+								if(contador>=3){
+									break;
+								}
 							}
 						}
 						Integer numero = contador;
@@ -734,7 +763,7 @@ public class DadosFipe implements Serializable{
 			o.printStackTrace();
 		}
 		resultado = Integer.parseInt(aux);
-		resultado = (resultado/2)+1;
+		
 		return resultado;
 	}
 	//RETORNA TOTAL DE MODELOS DE UMA MARCA (RECEBE COMO ENTRADA UM TIPO E UMA MARCA
@@ -764,7 +793,7 @@ public class DadosFipe implements Serializable{
 				o.printStackTrace();
 			}
 			contador = Integer.parseInt(aux);
-			contador = (contador/2)+1;
+			
 			return contador;
 		}
 	//CONTA QUANTOS MODELOS EXISTEM DE DETERMINADA MARCA
@@ -882,7 +911,7 @@ public class DadosFipe implements Serializable{
 	public String buscarIDVersao(String tipo, String marca, String modelo, String versao){
 			tipo = tipo.toUpperCase();
 			marca = marca.toUpperCase();
-			String iDmodelo = null;
+			String iDversao = null;
 			String temp = null, aux = null;
 			File arq = new File("DADOS\\"+tipo+"\\"+marca+"\\"+modelo+".txt");
 			try{
@@ -895,8 +924,10 @@ public class DadosFipe implements Serializable{
 						StringTokenizer st = new StringTokenizer(linha, "\": ");
 						while(st.hasMoreTokens()){
 							temp = st.nextToken();
-							if(temp.contains("id")){
+							System.out.println(temp);
+							if(temp.equals("id")){
 								aux = st.nextToken();
+								System.out.println(aux);
 							}
 						}
 					break;
@@ -907,8 +938,8 @@ public class DadosFipe implements Serializable{
 			}catch(Exception o){
 				o.printStackTrace();
 			}
-			iDmodelo = aux;
-			return iDmodelo;
+			iDversao = aux;
+			return iDversao;
 		}
 	
 	//OUTROS

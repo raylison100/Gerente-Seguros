@@ -1869,7 +1869,8 @@ public class TelaSuporte2 extends javax.swing.JFrame {
             try {
                 marcas = a.listarMarcas("Carros");
                 
-                
+
+                jComboBoxMarcasCadastroAutomovel.removeAllItems();
                 for (int i = 0; i < marcas.length; i++) {
                     jComboBoxMarcasCadastroAutomovel.addItem(marcas[i]);
                 }
@@ -1890,7 +1891,8 @@ public class TelaSuporte2 extends javax.swing.JFrame {
             try {
                 marcas = a.listarMarcas("Motos");
                 
-                
+
+                jComboBoxMarcasCadastroAutomovel.removeAllItems();
                 for (int i = 0; i < marcas.length; i++) {
                     jComboBoxMarcasCadastroAutomovel.addItem(marcas[i]);
                 }
@@ -1912,7 +1914,7 @@ public class TelaSuporte2 extends javax.swing.JFrame {
             try {
                 marcas = a.listarMarcas("Caminhoes");
                 
-                
+                jComboBoxMarcasCadastroAutomovel.removeAllItems();
                 for (int i = 0; i < marcas.length; i++) {
                     jComboBoxMarcasCadastroAutomovel.addItem(marcas[i]);
                 }
@@ -1927,6 +1929,25 @@ public class TelaSuporte2 extends javax.swing.JFrame {
 
     private void jComboBoxMarcasCadastroAutomovelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBoxMarcasCadastroAutomovelActionPerformed
         
+    	DadosFipe a = new DadosFipe();
+    	String[] b = a.listarModelosPorMarcaETipo(jComboBoxTiposCadastroAutomoveis.getSelectedItem().toString(), this.jComboBoxMarcasCadastroAutomovel.getSelectedItem().toString());
+    	jComboBoxmodelosCadatroAutomovel.removeAllItems();
+    	for(int i = 0; i < b.length ;i++){
+    	jComboBoxmodelosCadatroAutomovel.addItem(b[i]);
+    	}
+    	jComboBoxmodelosCadatroAutomovel.setEnabled(true);
+    }//GEN-LAST:event_jComboBoxMarcasCadastroAutomovelActionPerformed
+
+    private void jComboBoxmodelosCadastroAutomovelActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBoxMarcasCadastroAutomovelActionPerformed
+
+    	DadosFipe a = new DadosFipe();
+    	String[] b = a.listarVersoes(jComboBoxTiposCadastroAutomoveis.getSelectedItem().toString(), this.jComboBoxMarcasCadastroAutomovel.getSelectedItem().toString(), this.jComboBoxmodelosCadatroAutomovel.getSelectedItem().toString());
+    	jComboBoxVessoesCadatroAutomovel.removeAllItems();
+    	for(int i = 0; i < b.length ;i++){
+    		jComboBoxVessoesCadatroAutomovel.addItem(b[i]);
+    	}
+    	jComboBoxVessoesCadatroAutomovel.setEnabled(true);
+
     }//GEN-LAST:event_jComboBoxMarcasCadastroAutomovelActionPerformed
 
     private void jButtonAlterarCadastroClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAlterarCadastroClienteActionPerformed
